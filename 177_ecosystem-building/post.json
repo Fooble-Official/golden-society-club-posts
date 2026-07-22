@@ -1,0 +1,90 @@
+{
+  "order": 177,
+  "day": 177,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "177",
+  "title": "Ecosystem Building",
+  "slug": "ecosystem-building",
+  "category": "Advanced Systems",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Build a world, not a product.",
+    "question": "What ecosystem is your product part of, and are you building that, or just your product?",
+    "equation": "Moat = Ecosystem Depth",
+    "mental_model": "Garden > plant.",
+    "business_lens": "Products that support each other.",
+    "life_lens": "Life systems that support each other.",
+    "sop": [
+      "List every product, service, or touchpoint you currently offer.",
+      "Map which ones reinforce each other versus which stand completely alone.",
+      "Identify one adjacent piece (content, community, tool, partnership) that would make your core product harder to leave.",
+      "Count your current ecosystem depth, how many interlocking pieces exist today (see calculation, page 6).",
+      "Build one new integration point this quarter between two existing offerings."
+    ],
+    "explainer": "",
+    "questions": [
+      "What ecosystem is your product part of, and are you building that, or just your product?",
+      "If a competitor copied your main product tomorrow, what else would they still have to rebuild to actually compete with you?",
+      "Which two things you offer would be more valuable used together than either is alone, and do your customers even know that?"
+    ],
+    "definitions": [
+      {
+        "term": "Moat",
+        "def": "A durable competitive advantage that protects your business from competition over time. Like a castle moat, keeps rivals out."
+      }
+    ],
+    "equation_example": "Ecosystem Depth equals number of interlocking products, services, or community touchpoints that reinforce each other (count). 5 connected pieces (product, content, community, marketplace, support network) gives a Moat score of 5. Higher/rising means a competitor has to rebuild your whole system to compete, not just copy one product; lower/falling means you're one easily-cloned offer.",
+    "closing_statement": "Make competitors rebuild a world, not one product."
+  },
+  "caption": "Principle Nº 177: Ecosystem Building\n\nBuild a world, not a product.\n\nAsk yourself: What ecosystem is your product part of, and are you building that, or just your product?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 173,
+  "day": 173,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "173",
+  "title": "Brand as Asset",
+  "slug": "brand-as-asset",
+  "category": "Advanced Systems",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Brand compounds trust; trust compounds sales.",
+    "question": "What part of your brand are you compromising for short-term gain?",
+    "equation": "Equity = Recognition × Trust × Consistency",
+    "mental_model": "Reputation is capital.",
+    "business_lens": "Consistent brand = premium pricing.",
+    "life_lens": "Personal brand = opportunity magnet.",
+    "sop": [
+      "Write down the one thing you want to be instantly recognized for.",
+      "Audit your last 10 public touchpoints (posts, emails, calls) for consistency with that one thing.",
+      "Rate your Recognition, Trust, and Consistency each 1-10 (see calculation, page 6) based on honest customer feedback, not your own opinion.",
+      "Fix the lowest-scoring variable first, it's dragging your brand equity down the most.",
+      "Protect brand consistency even when a shortcut would be more profitable this month."
+    ],
+    "explainer": "",
+    "questions": [
+      "What part of your brand are you compromising for short-term gain?",
+      "Could a stranger describe what you stand for in one sentence, or does it change depending on who's asking?",
+      "What's one inconsistency between what you promise publicly and what you actually deliver?"
+    ],
+    "definitions": [
+      {
+        "term": "Brand equity",
+        "def": "The premium value your reputation adds to your product, letting you charge more or convert faster than an identical unbranded competitor."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Recognition, Trust, Consistency. Recognition 7 times Trust 8 times Consistency 6 equals 336. Higher means your brand quietly sells for you and supports premium pricing; lower means you're competing on price alone.",
+    "closing_statement": "Trust compounds slower than it breaks, guard it."
+  },
+  "caption": "Principle Nº 173: Brand as Asset\n\nBrand compounds trust; trust compounds sales.\n\nAsk yourself: What part of your brand are you compromising for short-term gain?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

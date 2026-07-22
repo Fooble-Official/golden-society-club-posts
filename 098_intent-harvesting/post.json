@@ -1,0 +1,80 @@
+{
+  "order": 98,
+  "day": 98,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "98",
+  "title": "Intent Harvesting",
+  "slug": "intent-harvesting",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The best conversions happen when intent is already forming.",
+    "question": "What early intent signals, searches, behaviors, life events, predict a customer is about to want your business?",
+    "equation": "IH = Signal Accuracy × Response Speed × Offer Relevance",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the top 3-5 behaviors or life events that typically precede someone becoming a customer.",
+      "Set up a simple way to detect at least one of those signals in real time, such as a form field, tag, or alert.",
+      "Rate your current Signal Accuracy, Response Speed, and Offer Relevance each 1-10 (see calculation, page 5).",
+      "Cut your response time to any detected signal to under 24 hours, ideally under 1.",
+      "Build one offer specifically for people showing that early signal, instead of your standard pitch."
+    ],
+    "explainer": "Catching intent while it's forming is 10x cheaper than selling once it's explicit and contested.",
+    "questions": [
+      "What early intent signals, searches, behaviors, life events, predict a customer is about to want your business?",
+      "When someone shows early interest, how many hours or days pass before they hear from you?",
+      "What's the earliest moment you could realistically detect someone's about to need what you sell, and are you watching for it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Signal Accuracy (how reliably the signal predicts intent) 7, Response Speed (how fast you act on it) 9, Offer Relevance (how tailored your response is) 8. Score = 7 times 9 times 8 = 504. Higher means you're catching and converting intent while it's still forming and cheap; lower means you're only competing for intent once it's already explicit and expensive.",
+    "closing_statement": "Whoever notices the signal first gets the sale."
+  },
+  "caption": "Principle Nº 98: Intent Harvesting\n\nThe best conversions happen when intent is already forming. Catching intent while it's forming is 10x cheaper than selling once it's explicit and contested.\n\nAsk yourself: What early intent signals, searches, behaviors, life events, predict a customer is about to want your business?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

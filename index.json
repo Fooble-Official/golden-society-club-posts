@@ -1,0 +1,2626 @@
+[
+  {
+    "order": 1,
+    "folder": "001_counterposition-durability",
+    "title": "Counterposition Durability",
+    "slides": 7,
+    "cover": "green",
+    "cta": "follow_only"
+  },
+  {
+    "order": 2,
+    "folder": "002_demand-shaping-architecture",
+    "title": "Demand-Shaping Architecture",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "follow_only"
+  },
+  {
+    "order": 3,
+    "folder": "003_narrative-moat",
+    "title": "Narrative Moat",
+    "slides": 7,
+    "cover": "green",
+    "cta": "follow_only"
+  },
+  {
+    "order": 4,
+    "folder": "004_category-language-capture",
+    "title": "Category Language Capture",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "follow_only"
+  },
+  {
+    "order": 5,
+    "folder": "005_memetic-portability",
+    "title": "Memetic Portability",
+    "slides": 6,
+    "cover": "green",
+    "cta": "follow_only"
+  },
+  {
+    "order": 6,
+    "folder": "006_offer-legibility",
+    "title": "Offer Legibility",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "follow_only"
+  },
+  {
+    "order": 7,
+    "folder": "007_trust-compression",
+    "title": "Trust Compression",
+    "slides": 6,
+    "cover": "green",
+    "cta": "follow_only"
+  },
+  {
+    "order": 8,
+    "folder": "008_belief-sequencing",
+    "title": "Belief Sequencing",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 9,
+    "folder": "009_perceived-inevitability",
+    "title": "Perceived Inevitability",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 10,
+    "folder": "010_proof-stacking",
+    "title": "Proof Stacking",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 11,
+    "folder": "011_institutionalization-lag",
+    "title": "Institutionalization Lag",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 12,
+    "folder": "012_founder-bottleneck",
+    "title": "Founder Bottleneck",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 13,
+    "folder": "013_decision-rights",
+    "title": "Decision Rights",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 14,
+    "folder": "014_escalation-economics",
+    "title": "Escalation Economics",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 15,
+    "folder": "015_operating-cadence",
+    "title": "Operating Cadence",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 16,
+    "folder": "016_management-debt",
+    "title": "Management Debt",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 17,
+    "folder": "017_exception-handling",
+    "title": "Exception Handling",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 18,
+    "folder": "018_cross-functional-friction",
+    "title": "Cross-Functional Friction",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 19,
+    "folder": "019_meeting-economics",
+    "title": "Meeting Economics",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 20,
+    "folder": "020_organizational-memory",
+    "title": "Organizational Memory",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 21,
+    "folder": "021_interface-economics",
+    "title": "Interface Economics",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 22,
+    "folder": "022_incentive-gradient-design",
+    "title": "Incentive Gradient Design",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 23,
+    "folder": "023_shadow-org-analysis",
+    "title": "Shadow Org Analysis",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 24,
+    "folder": "024_coordination-tax",
+    "title": "Coordination Tax",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 25,
+    "folder": "025_execution-entropy",
+    "title": "Execution Entropy",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 26,
+    "folder": "026_operational-temperature",
+    "title": "Operational Temperature",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 27,
+    "folder": "027_signal-contamination",
+    "title": "Signal Contamination",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 28,
+    "folder": "028_internal-market-making",
+    "title": "Internal Market Making",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 29,
+    "folder": "029_slack-architecture",
+    "title": "Slack Architecture",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 30,
+    "folder": "030_failure-containment-design",
+    "title": "Failure Containment Design",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 31,
+    "folder": "031_power-law-hunting",
+    "title": "Power-Law Hunting",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 32,
+    "folder": "032_variance-strategy",
+    "title": "Variance Strategy",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 33,
+    "folder": "033_asymmetric-bet-design",
+    "title": "Asymmetric Bet Design",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 34,
+    "folder": "034_return-on-attention",
+    "title": "Return-on-Attention",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 35,
+    "folder": "035_irreversibility-mapping",
+    "title": "Irreversibility Mapping",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 36,
+    "folder": "036_strategic-optionality-inventory",
+    "title": "Strategic Optionality Inventory",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 37,
+    "folder": "037_second-order-effects-planning",
+    "title": "Second-Order Effects Planning",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 38,
+    "folder": "038_constraint-arbitrage",
+    "title": "Constraint Arbitrage",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 39,
+    "folder": "039_timing-alpha",
+    "title": "Timing Alpha",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 40,
+    "folder": "040_strategic-patience-windows",
+    "title": "Strategic Patience Windows",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 41,
+    "folder": "041_moat-decay-analysis",
+    "title": "Moat Decay Analysis",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 42,
+    "folder": "042_fragility-mapping",
+    "title": "Fragility Mapping",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 43,
+    "folder": "043_single-point-of-failure-inventory",
+    "title": "Single-Point-of-Failure Inventory",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 44,
+    "folder": "044_tail-risk-operating-plans",
+    "title": "Tail-Risk Operating Plans",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 45,
+    "folder": "045_adversarial-resilience",
+    "title": "Adversarial Resilience",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 46,
+    "folder": "046_platform-dependency-risk",
+    "title": "Platform Dependency Risk",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 47,
+    "folder": "047_reputation-attack-surfaces",
+    "title": "Reputation Attack Surfaces",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 48,
+    "folder": "048_counterparty-concentration-risk",
+    "title": "Counterparty Concentration Risk",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 49,
+    "folder": "049_compliance-shock-readiness",
+    "title": "Compliance Shock Readiness",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 50,
+    "folder": "050_liquidity-stress-design",
+    "title": "Liquidity Stress Design",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 51,
+    "folder": "051_unit-economics-decomposition",
+    "title": "Unit-Economics Decomposition",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 52,
+    "folder": "052_contribution-margin-by-segment",
+    "title": "Contribution Margin by Segment",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 53,
+    "folder": "053_payback-period-architecture",
+    "title": "Payback-Period Architecture",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 54,
+    "folder": "054_margin-stack-visibility",
+    "title": "Margin Stack Visibility",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 55,
+    "folder": "055_cash-conversion-cycle-strategy",
+    "title": "Cash Conversion Cycle Strategy",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 56,
+    "folder": "056_working-capital-asymmetry",
+    "title": "Working-Capital Asymmetry",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 57,
+    "folder": "057_revenue-quality-analysis",
+    "title": "Revenue Quality Analysis",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 58,
+    "folder": "058_cohort-profitability-drift",
+    "title": "Cohort Profitability Drift",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 59,
+    "folder": "059_cost-elasticity-mapping",
+    "title": "Cost Elasticity Mapping",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 60,
+    "folder": "060_economic-kill-switches",
+    "title": "Economic Kill-Switches",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 61,
+    "folder": "061_behavioral-pricing-architecture",
+    "title": "Behavioral Pricing Architecture",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 62,
+    "folder": "062_anchor-price-sequencing",
+    "title": "Anchor-Price Sequencing",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 63,
+    "folder": "063_price-fairness-psychology",
+    "title": "Price-Fairness Psychology",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 64,
+    "folder": "064_willingness-to-pay-segmentation",
+    "title": "Willingness-to-Pay Segmentation",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 65,
+    "folder": "065_menu-engineering",
+    "title": "Menu Engineering",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 66,
+    "folder": "066_anti-churn-pricing-design",
+    "title": "Anti-Churn Pricing Design",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 67,
+    "folder": "067_expansion-revenue-logic",
+    "title": "Expansion-Revenue Logic",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 68,
+    "folder": "068_overage-psychology",
+    "title": "Overage Psychology",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 69,
+    "folder": "069_refund-risk-architecture",
+    "title": "Refund-Risk Architecture",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 70,
+    "folder": "070_reference-value-control",
+    "title": "Reference-Value Control",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 71,
+    "folder": "071_demand-side-liquidity",
+    "title": "Demand-Side Liquidity",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 72,
+    "folder": "072_network-ignition-sequencing",
+    "title": "Network Ignition Sequencing",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 73,
+    "folder": "073_cold-start-geometry",
+    "title": "Cold-Start Geometry",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 74,
+    "folder": "074_density-before-scale",
+    "title": "Density Before Scale",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 75,
+    "folder": "075_multi-player-coordination-incentives",
+    "title": "Multi-Player Coordination Incentives",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 76,
+    "folder": "076_chicken-and-egg-bypass-design",
+    "title": "Chicken-and-Egg Bypass Design",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 77,
+    "folder": "077_local-network-compounding",
+    "title": "Local Network Compounding",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 78,
+    "folder": "078_marketplace-trust-asymmetry",
+    "title": "Marketplace Trust Asymmetry",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 79,
+    "folder": "079_cross-side-negative-externalities",
+    "title": "Cross-Side Negative Externalities",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 80,
+    "folder": "080_disintermediation-defense",
+    "title": "Disintermediation Defense",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 81,
+    "folder": "081_user-activation-physics",
+    "title": "User Activation Physics",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 82,
+    "folder": "082_habit-loop-engineering",
+    "title": "Habit-Loop Engineering",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 83,
+    "folder": "083_state-transition-design",
+    "title": "State Transition Design",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 84,
+    "folder": "084_behavioral-dead-zones",
+    "title": "Behavioral Dead Zones",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 85,
+    "folder": "085_negative-onboarding-debt",
+    "title": "Negative Onboarding Debt",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 86,
+    "folder": "086_activation-quality-tradeoff",
+    "title": "Activation-Quality Tradeoff",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 87,
+    "folder": "087_retention-by-use-case",
+    "title": "Retention by Use-Case",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 88,
+    "folder": "088_recovery-loop-design",
+    "title": "Recovery-Loop Design",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 89,
+    "folder": "089_trust-repair-mechanics",
+    "title": "Trust-Repair Mechanics",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 90,
+    "folder": "090_delight-to-utility-ratio",
+    "title": "Delight-to-Utility Ratio",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 91,
+    "folder": "091_acquisition-channel-decay",
+    "title": "Acquisition Channel Decay",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 92,
+    "folder": "092_creative-fatigue-half-life",
+    "title": "Creative Fatigue Half-Life",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 93,
+    "folder": "093_message-market-mismatch-diagnostics",
+    "title": "Message-Market Mismatch Diagnostics",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 94,
+    "folder": "094_audience-contamination",
+    "title": "Audience Contamination",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 95,
+    "folder": "095_conversion-friction-cartography",
+    "title": "Conversion-Friction Cartography",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 96,
+    "folder": "096_attribution-epistemology",
+    "title": "Attribution Epistemology",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 97,
+    "folder": "097_dark-funnel-capture",
+    "title": "Dark-Funnel Capture",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 98,
+    "folder": "098_intent-harvesting",
+    "title": "Intent Harvesting",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 99,
+    "folder": "099_trust-transfer-mechanics",
+    "title": "Trust Transfer Mechanics",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 100,
+    "folder": "100_scaling-identity-coherence",
+    "title": "Scaling Identity Coherence",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 101,
+    "folder": "101_systems-awareness",
+    "title": "Systems Awareness",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 102,
+    "folder": "102_inputs-define-outputs",
+    "title": "Inputs Define Outputs",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 103,
+    "folder": "103_structure-beats-willpower",
+    "title": "Structure Beats Willpower",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 104,
+    "folder": "104_feedback-is-everything",
+    "title": "Feedback Is Everything",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 105,
+    "folder": "105_constraints-determine-output",
+    "title": "Constraints Determine Output",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 106,
+    "folder": "106_flow-over-force",
+    "title": "Flow Over Force",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 107,
+    "folder": "107_compounding-wins",
+    "title": "Compounding Wins",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 108,
+    "folder": "108_systems-not-goals",
+    "title": "Systems Not Goals",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 109,
+    "folder": "109_leverage-points",
+    "title": "Leverage Points",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 110,
+    "folder": "110_first-principles-thinking",
+    "title": "First-Principles Thinking",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 111,
+    "folder": "111_second-order-thinking",
+    "title": "Second-Order Thinking",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 112,
+    "folder": "112_non-linear-returns",
+    "title": "Non-Linear Returns",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 113,
+    "folder": "113_identify-the-real-problem",
+    "title": "Identify the Real Problem",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 114,
+    "folder": "114_leverage-defaults",
+    "title": "Leverage Defaults",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 115,
+    "folder": "115_simplicity-scales",
+    "title": "Simplicity Scales",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 116,
+    "folder": "116_delay-time-lag",
+    "title": "Delay (Time Lag)",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 117,
+    "folder": "117_stock-vs-flow",
+    "title": "Stock vs Flow",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 118,
+    "folder": "118_bottlenecks",
+    "title": "Bottlenecks",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 119,
+    "folder": "119_throughput",
+    "title": "Throughput",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 120,
+    "folder": "120_feedback-loops",
+    "title": "Feedback Loops",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 121,
+    "folder": "121_reinforcing-loops",
+    "title": "Reinforcing Loops",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 122,
+    "folder": "122_balancing-loops",
+    "title": "Balancing Loops",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 123,
+    "folder": "123_emergence",
+    "title": "Emergence",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 124,
+    "folder": "124_system-boundaries",
+    "title": "System Boundaries",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 125,
+    "folder": "125_interdependence",
+    "title": "Interdependence",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 126,
+    "folder": "126_redundancy",
+    "title": "Redundancy",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 127,
+    "folder": "127_modularity",
+    "title": "Modularity",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 128,
+    "folder": "128_adaptation",
+    "title": "Adaptation",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 129,
+    "folder": "129_system-drift",
+    "title": "System Drift",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 130,
+    "folder": "130_system-load",
+    "title": "System Load",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 131,
+    "folder": "131_energy-systems",
+    "title": "Energy Systems",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 132,
+    "folder": "132_friction-design",
+    "title": "Friction Design",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 133,
+    "folder": "133_default-systems",
+    "title": "Default Systems",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 134,
+    "folder": "134_decision-fatigue",
+    "title": "Decision Fatigue",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 135,
+    "folder": "135_environmental-design",
+    "title": "Environmental Design",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 136,
+    "folder": "136_identity-systems",
+    "title": "Identity Systems",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 137,
+    "folder": "137_habit-stacking",
+    "title": "Habit Stacking",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 138,
+    "folder": "138_batching",
+    "title": "Batching",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 139,
+    "folder": "139_recovery-systems",
+    "title": "Recovery Systems",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 140,
+    "folder": "140_constraint-expansion",
+    "title": "Constraint Expansion",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 141,
+    "folder": "141_system-synchronization",
+    "title": "System Synchronization",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 142,
+    "folder": "142_input-quality",
+    "title": "Input Quality",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 143,
+    "folder": "143_system-simplification",
+    "title": "System Simplification",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 144,
+    "folder": "144_automation-systems",
+    "title": "Automation Systems",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 145,
+    "folder": "145_feedback-speed",
+    "title": "Feedback Speed",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 146,
+    "folder": "146_system-visibility",
+    "title": "System Visibility",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 147,
+    "folder": "147_system-redundancy",
+    "title": "System Redundancy",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 148,
+    "folder": "148_drift-correction",
+    "title": "Drift Correction",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 149,
+    "folder": "149_system-integration",
+    "title": "System Integration",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 150,
+    "folder": "150_wealth-flow-systems",
+    "title": "Wealth Flow Systems",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 151,
+    "folder": "151_financial-leak-detection",
+    "title": "Financial Leak Detection",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 152,
+    "folder": "152_compounding-systems",
+    "title": "Compounding Systems",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 153,
+    "folder": "153_opportunity-cost-awareness",
+    "title": "Opportunity Cost Awareness",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 154,
+    "folder": "154_time-allocation",
+    "title": "Time Allocation",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 155,
+    "folder": "155_priority-stack",
+    "title": "Priority Stack",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 156,
+    "folder": "156_minimum-effective-dose",
+    "title": "Minimum Effective Dose",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 157,
+    "folder": "157_system-stacking",
+    "title": "System Stacking",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 158,
+    "folder": "158_momentum-systems",
+    "title": "Momentum Systems",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 159,
+    "folder": "159_activation-energy",
+    "title": "Activation Energy",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 160,
+    "folder": "160_drift-prevention",
+    "title": "Drift Prevention",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 161,
+    "folder": "161_identity-reinforcement",
+    "title": "Identity Reinforcement",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 162,
+    "folder": "162_future-self-alignment",
+    "title": "Future Self Alignment",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 163,
+    "folder": "163_decision-filters",
+    "title": "Decision Filters",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 164,
+    "folder": "164_stress-load-balancing",
+    "title": "Stress Load Balancing",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 165,
+    "folder": "165_feedback-frequency",
+    "title": "Feedback Frequency",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 166,
+    "folder": "166_behavioral-anchors",
+    "title": "Behavioral Anchors",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 167,
+    "folder": "167_system-constraints-awareness",
+    "title": "System Constraints Awareness",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 168,
+    "folder": "168_scaling-systems",
+    "title": "Scaling Systems",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 169,
+    "folder": "169_life-system-harmony",
+    "title": "Life System Harmony",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 170,
+    "folder": "170_recurring-revenue-design",
+    "title": "Recurring Revenue Design",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 171,
+    "folder": "171_leverage-multipliers",
+    "title": "Leverage Multipliers",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 172,
+    "folder": "172_equity-vs-cash",
+    "title": "Equity vs Cash",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 173,
+    "folder": "173_brand-as-asset",
+    "title": "Brand as Asset",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 174,
+    "folder": "174_network-effects",
+    "title": "Network Effects",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 175,
+    "folder": "175_systemic-trust",
+    "title": "Systemic Trust",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 176,
+    "folder": "176_quality-compounding",
+    "title": "Quality Compounding",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 177,
+    "folder": "177_ecosystem-building",
+    "title": "Ecosystem Building",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 178,
+    "folder": "178_optionality",
+    "title": "Optionality",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 179,
+    "folder": "179_structural-freedom",
+    "title": "Structural Freedom",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 180,
+    "folder": "180_legacy-systems",
+    "title": "Legacy Systems",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 181,
+    "folder": "181_generational-wealth",
+    "title": "Generational Wealth",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 182,
+    "folder": "182_time-leverage",
+    "title": "Time Leverage",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 183,
+    "folder": "183_decision-leverage",
+    "title": "Decision Leverage",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 184,
+    "folder": "184_life-portfolio-design",
+    "title": "Life Portfolio Design",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 185,
+    "folder": "185_anti-fragility",
+    "title": "Anti-Fragility",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 186,
+    "folder": "186_identity-expansion",
+    "title": "Identity Expansion",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 187,
+    "folder": "187_system-ownership",
+    "title": "System Ownership",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 188,
+    "folder": "188_life-orchestration",
+    "title": "Life Orchestration",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 189,
+    "folder": "189_self-sustaining-life-system",
+    "title": "Self-Sustaining Life System",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 190,
+    "folder": "190_goal-state-feedback",
+    "title": "Goal-State Feedback",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 191,
+    "folder": "191_information-flow-loops",
+    "title": "Information Flow Loops",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 192,
+    "folder": "192_recursive-viability",
+    "title": "Recursive Viability",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 193,
+    "folder": "193_leverage-points",
+    "title": "Leverage Points",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 194,
+    "folder": "194_stock-and-flow",
+    "title": "Stock and Flow",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 195,
+    "folder": "195_default-environment-design",
+    "title": "Default Environment Design",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 196,
+    "folder": "196_habit-loop-architecture",
+    "title": "Habit Loop Architecture",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 197,
+    "folder": "197_incremental-improvement-kaizen",
+    "title": "Incremental Improvement (Kaizen)",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 198,
+    "folder": "198_delegation-and-automation",
+    "title": "Delegation & Automation",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 199,
+    "folder": "199_adaptive-planning",
+    "title": "Adaptive Planning",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 200,
+    "folder": "200_goal-coupling",
+    "title": "Goal Coupling",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 201,
+    "folder": "201_control-points",
+    "title": "Control Points",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 202,
+    "folder": "202_harmonization",
+    "title": "Harmonization",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 203,
+    "folder": "203_adaptive-scanning",
+    "title": "Adaptive Scanning",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 204,
+    "folder": "204_values-driven-governance",
+    "title": "Values-Driven Governance",
+    "slides": 6,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 205,
+    "folder": "205_habit-stacking-and-anchoring",
+    "title": "Habit Stacking & Anchoring",
+    "slides": 6,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 206,
+    "folder": "206_decision-compression",
+    "title": "Decision Compression",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 207,
+    "folder": "207_environmental-triggers",
+    "title": "Environmental Triggers",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 208,
+    "folder": "208_energy-budgeting",
+    "title": "Energy Budgeting",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 209,
+    "folder": "209_buffer-zones",
+    "title": "Buffer Zones",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 210,
+    "folder": "210_parallel-systems-redundancy",
+    "title": "Parallel Systems (Redundancy)",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 211,
+    "folder": "211_learning-loops",
+    "title": "Learning Loops",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 212,
+    "folder": "212_compounding-growth",
+    "title": "Compounding Growth",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 213,
+    "folder": "213_decision-filters",
+    "title": "Decision Filters",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 214,
+    "folder": "214_parallel-processing-batching",
+    "title": "Parallel Processing (Batching)",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 215,
+    "folder": "215_minimum-effective-dose",
+    "title": "Minimum Effective Dose",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 216,
+    "folder": "216_health-first-systems",
+    "title": "Health-First Systems",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 217,
+    "folder": "217_consistent-rest-and-recovery",
+    "title": "Consistent Rest & Recovery",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 218,
+    "folder": "218_personal-metrics-dashboard",
+    "title": "Personal Metrics Dashboard",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 219,
+    "folder": "219_decision-matrix",
+    "title": "Decision Matrix",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 220,
+    "folder": "220_stress-buffering",
+    "title": "Stress Buffering",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 221,
+    "folder": "221_bounded-rationality",
+    "title": "Bounded Rationality",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 222,
+    "folder": "222_priming-behavioral-nudges",
+    "title": "Priming (Behavioral Nudges)",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 223,
+    "folder": "223_parallel-recording",
+    "title": "Parallel Recording",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 224,
+    "folder": "224_zettelkasten-linkage",
+    "title": "Zettelkasten Linkage",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 225,
+    "folder": "225_evergreen-review",
+    "title": "Evergreen Review",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 226,
+    "folder": "226_information-diet",
+    "title": "Information Diet",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 227,
+    "folder": "227_default-systemization",
+    "title": "Default Systemization",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 228,
+    "folder": "228_energy-renewal-techniques",
+    "title": "Energy Renewal Techniques",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 229,
+    "folder": "229_systems-synergy",
+    "title": "Systems Synergy",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 230,
+    "folder": "230_boundaries-of-control",
+    "title": "Boundaries of Control",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 231,
+    "folder": "231_decomposed-tasks",
+    "title": "Decomposed Tasks",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 232,
+    "folder": "232_just-in-time-learning",
+    "title": "Just-In-Time Learning",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 233,
+    "folder": "233_proactive-audit",
+    "title": "Proactive Audit",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 234,
+    "folder": "234_version-control",
+    "title": "Version Control",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 235,
+    "folder": "235_parallel-goals",
+    "title": "Parallel Goals",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 236,
+    "folder": "236_sunk-cost-awareness",
+    "title": "Sunk Cost Awareness",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 237,
+    "folder": "237_cultivate-auto-pilot",
+    "title": "Cultivate Auto-Pilot",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 238,
+    "folder": "238_goal-decoupling",
+    "title": "Goal Decoupling",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 239,
+    "folder": "239_redundancy-in-learning",
+    "title": "Redundancy in Learning",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 240,
+    "folder": "240_most-valuable-thing",
+    "title": "Most Valuable Thing",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 241,
+    "folder": "241_simplify-everything",
+    "title": "Simplify Everything",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 242,
+    "folder": "242_forever-feature",
+    "title": "Forever Feature",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 243,
+    "folder": "243_eliminate-low-value",
+    "title": "Eliminate Low Value",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 244,
+    "folder": "244_the-1-1-1-framework",
+    "title": "The 1-1-1 Framework",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 245,
+    "folder": "245_traffic-systems-skills",
+    "title": "Traffic Systems Skills",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 246,
+    "folder": "246_the-plumbing-principle",
+    "title": "The Plumbing Principle",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 247,
+    "folder": "247_one-thing-promise",
+    "title": "One Thing Promise",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 248,
+    "folder": "248_growth-by-subtraction",
+    "title": "Growth By Subtraction",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 249,
+    "folder": "249_the-100m-frame",
+    "title": "The 100M Frame",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 250,
+    "folder": "250_simplicity-as-strategy",
+    "title": "Simplicity As Strategy",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 251,
+    "folder": "251_universal-front-door",
+    "title": "Universal Front Door",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 252,
+    "folder": "252_exit-optionality",
+    "title": "Exit Optionality",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 253,
+    "folder": "253_soft-shopping",
+    "title": "Soft Shopping",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 254,
+    "folder": "254_phantom-equity",
+    "title": "Phantom Equity",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 255,
+    "folder": "255_three-growth-paths",
+    "title": "Three Growth Paths",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 256,
+    "folder": "256_freeze-lifestyle",
+    "title": "Freeze Lifestyle",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 257,
+    "folder": "257_investment-filter",
+    "title": "Investment Filter",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 258,
+    "folder": "258_write-a-memo",
+    "title": "Write A Memo",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 259,
+    "folder": "259_second-order-thinking",
+    "title": "Second Order Thinking",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 260,
+    "folder": "260_decision-map",
+    "title": "Decision Map",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 261,
+    "folder": "261_attention-management",
+    "title": "Attention Management",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 262,
+    "folder": "262_assume-success",
+    "title": "Assume Success",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 263,
+    "folder": "263_belief-transfer",
+    "title": "Belief Transfer",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 264,
+    "folder": "264_hire-pain-growth",
+    "title": "Hire Pain Growth",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 265,
+    "folder": "265_ten-ten-forever",
+    "title": "Ten Ten Forever",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 266,
+    "folder": "266_skill-stacking",
+    "title": "Skill Stacking",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 267,
+    "folder": "267_proximity-principle",
+    "title": "Proximity Principle",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 268,
+    "folder": "268_ask-for-help",
+    "title": "Ask For Help",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 269,
+    "folder": "269_undeniable-proof",
+    "title": "Undeniable Proof",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 270,
+    "folder": "270_aquaman-rule",
+    "title": "Aquaman Rule",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 271,
+    "folder": "271_value-innovation",
+    "title": "Value Innovation",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 272,
+    "folder": "272_first-who-then-what",
+    "title": "First Who Then What",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 273,
+    "folder": "273_hedgehog-concept",
+    "title": "Hedgehog Concept",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 274,
+    "folder": "274_bhag",
+    "title": "BHAG",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 275,
+    "folder": "275_stockdale-paradox",
+    "title": "Stockdale Paradox",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 276,
+    "folder": "276_flywheel-effect",
+    "title": "Flywheel Effect",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 277,
+    "folder": "277_20-mile-march",
+    "title": "20-Mile March",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 278,
+    "folder": "278_level-5-leadership",
+    "title": "Level 5 Leadership",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 279,
+    "folder": "279_believability-weighted-decisions",
+    "title": "Believability-Weighted Decisions",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 280,
+    "folder": "280_disruptive-innovation-focus",
+    "title": "Disruptive Innovation Focus",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 281,
+    "folder": "281_autonomous-units-for-disruption",
+    "title": "Autonomous Units for Disruption",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 282,
+    "folder": "282_jobs-to-be-done",
+    "title": "Jobs to Be Done",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 283,
+    "folder": "283_core-competencies",
+    "title": "Core Competencies",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 284,
+    "folder": "284_okrs",
+    "title": "OKRs",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 285,
+    "folder": "285_porter-s-five-forces",
+    "title": "Porter’s Five Forces",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 286,
+    "folder": "286_pareto-principle",
+    "title": "Pareto Principle",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 287,
+    "folder": "287_minimum-viable-product",
+    "title": "Minimum Viable Product",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 288,
+    "folder": "288_build-measure-learn-loop",
+    "title": "Build-Measure-Learn Loop",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 289,
+    "folder": "289_validated-learning",
+    "title": "Validated Learning",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 290,
+    "folder": "290_innovation-accounting",
+    "title": "Innovation Accounting",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 291,
+    "folder": "291_pivot-or-persevere",
+    "title": "Pivot or Persevere",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 292,
+    "folder": "292_beachhead-strategy",
+    "title": "Beachhead Strategy",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 293,
+    "folder": "293_whole-product",
+    "title": "Whole Product",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 294,
+    "folder": "294_monopoly-10x-thinking",
+    "title": "Monopoly 10x Thinking",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 295,
+    "folder": "295_loss-aversion",
+    "title": "Loss Aversion",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 296,
+    "folder": "296_framing-effect",
+    "title": "Framing Effect",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 297,
+    "folder": "297_sunk-cost-trap",
+    "title": "Sunk Cost Trap",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 298,
+    "folder": "298_planning-fallacy",
+    "title": "Planning Fallacy",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 299,
+    "folder": "299_reciprocity",
+    "title": "Reciprocity",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 300,
+    "folder": "300_commitment-and-consistency",
+    "title": "Commitment and Consistency",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 301,
+    "folder": "301_social-proof",
+    "title": "Social Proof",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 302,
+    "folder": "302_liking",
+    "title": "Liking",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 303,
+    "folder": "303_authority",
+    "title": "Authority",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 304,
+    "folder": "304_scarcity",
+    "title": "Scarcity",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 305,
+    "folder": "305_knightian-uncertainty",
+    "title": "Knightian Uncertainty",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 306,
+    "folder": "306_adjacent-possible",
+    "title": "Adjacent Possible",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 307,
+    "folder": "307_inversion-thinking",
+    "title": "Inversion Thinking",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 308,
+    "folder": "308_founder-market-fit",
+    "title": "Founder-Market Fit",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 309,
+    "folder": "309_constraint-induced-innovation",
+    "title": "Constraint-Induced Innovation",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 310,
+    "folder": "310_assumption-testing",
+    "title": "Assumption Testing",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 311,
+    "folder": "311_orgology",
+    "title": "Orgology",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 312,
+    "folder": "312_information-asymmetry",
+    "title": "Information Asymmetry",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 313,
+    "folder": "313_principal-agent-problems",
+    "title": "Principal-Agent Problems",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 314,
+    "folder": "314_lollapalooza-effect",
+    "title": "Lollapalooza Effect",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 315,
+    "folder": "315_power-law-returns",
+    "title": "Power Law Returns",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 316,
+    "folder": "316_goodhart-s-law",
+    "title": "Goodhart’s Law",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 317,
+    "folder": "317_path-dependence",
+    "title": "Path Dependence",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 318,
+    "folder": "318_phase-transitions",
+    "title": "Phase Transitions",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 319,
+    "folder": "319_red-queen-effect",
+    "title": "Red Queen Effect",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 320,
+    "folder": "320_systems-thinking",
+    "title": "Systems Thinking",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 321,
+    "folder": "321_lindy-effect",
+    "title": "Lindy Effect",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 322,
+    "folder": "322_hiding-hand",
+    "title": "Hiding Hand",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 323,
+    "folder": "323_malevolent-hiding-hand",
+    "title": "Malevolent Hiding Hand",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 324,
+    "folder": "324_irreversibility",
+    "title": "Irreversibility",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 325,
+    "folder": "325_antifragility",
+    "title": "Antifragility",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 326,
+    "folder": "326_cynefin-framework",
+    "title": "Cynefin Framework",
+    "slides": 8,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 327,
+    "folder": "327_ergodicity",
+    "title": "Ergodicity",
+    "slides": 8,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 328,
+    "folder": "328_organizational-inertia",
+    "title": "Organizational Inertia",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  }
+]

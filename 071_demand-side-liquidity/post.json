@@ -1,0 +1,90 @@
+{
+  "order": 71,
+  "day": 71,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "71",
+  "title": "Demand-Side Liquidity",
+  "slug": "demand-side-liquidity",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A marketplace only works when demand can be satisfied quickly.",
+    "question": "When a member opens your app looking for what they need, how fast do they find it? Is it fast enough?",
+    "equation": "DSL = Active Demand Units ÷ Time-to-Satisfactory Match",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Track Active Demand Units, how many searches, requests, or browsing sessions happen in a given period (see calculation, page 6).",
+      "Track average Time-to-Satisfactory Match, how long until that search ends in something the customer actually wants (see calculation, page 6).",
+      "Divide Active Demand Units by Time-to-Satisfactory Match to get your liquidity score (see calculation, page 6).",
+      "Identify the searches or categories with the slowest match times and investigate why supply is thin there.",
+      "Add supply, filters, or recommendations specifically targeting your slowest-matching categories this month."
+    ],
+    "explainer": "Liquidity is speed of satisfaction. Until it's there, users leave before value lands.",
+    "questions": [
+      "When a member opens your app looking for what they need, how fast do they find it? Is it fast enough?",
+      "How many searches or requests end with the customer leaving empty-handed instead of finding a match?",
+      "What's the longest a customer will wait before giving up on finding what they came for on your platform?"
+    ],
+    "definitions": [
+      {
+        "term": "Liquidity",
+        "def": "In a marketplace, how fast a user gets what they came for."
+      }
+    ],
+    "equation_example": "Active Demand Units 200 searches per day, Time-to-Satisfactory Match 4 minutes average. 200 divided by 4 equals 50. Higher and rising means your marketplace resolves demand quickly, which keeps people coming back. Lower and falling means people are searching and leaving before they find what they want.",
+    "closing_statement": "Speed to a match is the real product experience."
+  },
+  "caption": "Principle Nº 71: Demand-Side Liquidity\n\nA marketplace only works when demand can be satisfied quickly. Liquidity is speed of satisfaction.\n\nAsk yourself: When a member opens your app looking for what they need, how fast do they find it? Is it fast enough?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

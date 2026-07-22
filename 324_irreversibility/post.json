@@ -1,0 +1,85 @@
+{
+  "order": 324,
+  "day": 324,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "324",
+  "title": "Irreversibility",
+  "slug": "irreversibility",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Decisions vary in how easily they can be reversed; treat them differently.",
+    "question": "Is this decision a one-way or two-way door, and am I treating it accordingly?",
+    "equation": "Decision Speed = (1 ÷ Irreversibility) × Information Quality",
+    "mental_model": "Door, some swing back, some lock behind you.",
+    "business_lens": "Categorize decisions as reversible (move fast) vs irreversible (gather data, deliberate). Avoid mixing the two.",
+    "life_lens": "Distinguish which choices in your life can be undone and which cannot; allocate care accordingly.",
+    "sop": [
+      "Categorize the decision as reversible or irreversible",
+      "For reversible: act fast, learn quickly",
+      "For irreversible: gather more data, take more time",
+      "Watch for false irreversibility (often less binding than feared)",
+      "Avoid treating reversible decisions as if they were irreversible, it slows the company"
+    ],
+    "explainer": "Bezos argued most decisions in business are reversible (two-way doors) and should be made fast. Treating them as irreversible slows the company. Conversely, true one-way doors (acquisitions, public commitments, key hires) deserve slowness and rigor.",
+    "questions": [
+      "Is this decision a one-way or two-way door, and am I treating it accordingly?",
+      "What decision have you spent weeks deliberating on that you could actually reverse in a day if it went wrong?",
+      "What decision did you make quickly last month that you actually can't take back, a hire, a public statement, a contract? Would you have moved that fast if you'd paused to categorize it first?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Irreversibility 1-10 (10 equals totally permanent): 3, mostly reversible, so 1 divided by 3, approximately 0.33. Information Quality rated 8 out of 10. Score = 0.33 times 8, approximately 2.7. Higher scores mean move fast, the decision is reversible and you have good information; lower scores, high irreversibility paired with weak information, mean slow down and gather more before committing.",
+    "closing_statement": "Reversible calls deserve speed; permanent ones deserve patience."
+  },
+  "caption": "Principle Nº 324: Irreversibility\n\nDecisions vary in how easily they can be reversed; treat them differently. Bezos argued most decisions in business are reversible (two-way doors) and should be made fast.\n\nAsk yourself: Is this decision a one-way or two-way door, and am I treating it accordingly?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

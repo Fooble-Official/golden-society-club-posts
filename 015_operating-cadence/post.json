@@ -1,0 +1,80 @@
+{
+  "order": 15,
+  "day": 15,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "15",
+  "title": "Operating Cadence",
+  "slug": "operating-cadence",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Rhythm drives execution.",
+    "question": "What's your business's weekly/monthly rhythm for reviewing goals and adjusting? Is it actually happening?",
+    "equation": "OCD = (Frequency × Data Freshness × Follow-through) ÷ Waste",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Set one fixed weekly or biweekly time to review your key numbers, same day, same time, no exceptions.",
+      "Define the 3-5 metrics you'll look at every time, and make sure they're current within the last 7 days.",
+      "End every review with at least one decision or adjustment, not just a status update.",
+      "Rate Frequency, Data Freshness, and Follow-through 1-10, and rate Waste 1-10 based on how much review time is spent restating old info (see calculation, page 5)",
+      "Track whether the adjustments from your reviews are actually getting implemented within a week."
+    ],
+    "explainer": "The frequency of the loop determines the speed of learning. No cadence = no compounding.",
+    "questions": [
+      "What's your business's weekly/monthly rhythm for reviewing goals and adjusting? Is it actually happening?",
+      "What was the last decision your team made using data that was more than a month old?",
+      "Of your last 4 scheduled reviews, how many actually changed a decision versus just confirming what you already believed?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Frequency, Data Freshness, and Follow-through 1-10 each, then rate Waste 1-10. Frequency 8, Data Freshness 7, Follow-through 6, Waste 3 → OCD = (8×7×6)/3 = 112. Higher OCD means your review rhythm is fast, current, and actually changes decisions; lower means you're meeting often but not learning faster.",
+    "closing_statement": "Cadence you skip doesn't compound."
+  },
+  "caption": "Principle Nº 15: Operating Cadence\n\nRhythm drives execution. The frequency of the loop determines the speed of learning.\n\nAsk yourself: What's your business's weekly/monthly rhythm for reviewing goals and adjusting? Is it actually happening?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

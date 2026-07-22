@@ -1,0 +1,85 @@
+{
+  "order": 265,
+  "day": 265,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "265",
+  "title": "Ten Ten Forever",
+  "slug": "ten-ten-forever",
+  "category": "Relationships & Wealth",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Wealth creation is often a who strategy, so invest deeply in a small group of people over a long period of time.",
+    "question": "Who are the 10 people you should invest in for the next 10 years?",
+    "equation": "Relationship Wealth = Trust × Time × Mutual Value",
+    "mental_model": "Orchard, relationships planted early can produce fruit for decades.",
+    "business_lens": "Identify key people worth supporting, staying close to, and building with over years.",
+    "life_lens": "Choose relationships that expand your character, opportunities, and sense of possibility.",
+    "sop": [
+      "Identify 10 high-integrity, high-potential people",
+      "Invest in them consistently",
+      "Look for ways to create value before asking for anything",
+      "Stay connected over years",
+      "Build mutual upside where appropriate"
+    ],
+    "explainer": "The 10-10 Forever Rule says wealth is not only created through tactics. It is created through people. The point is not transactional networking. The point is long-term mutual investment.",
+    "questions": [
+      "Who are the 10 people you should invest in for the next 10 years?",
+      "Which relationship on your list is currently one-directional, and what would make it mutual?",
+      "Who have you stopped nurturing simply because there was no immediate ask on the table?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Trust 8, Time 6, Mutual Value 7. Score = 8 times 6 times 7 = 336 out of a possible 1,000. Higher means the relationship compounds, referrals, opportunities, and honest advice show up without asking. Lower means it's still transactional and could fade the moment the ask stops.",
+    "closing_statement": "Invest in people before you need them."
+  },
+  "caption": "Principle Nº 265: Ten Ten Forever\n\nWealth creation is often a who strategy, so invest deeply in a small group of people over a long period of time. The 10-10 Forever Rule says wealth is not only created through tactics.\n\nAsk yourself: Who are the 10 people you should invest in for the next 10 years?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

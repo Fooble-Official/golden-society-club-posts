@@ -1,0 +1,95 @@
+{
+  "order": 252,
+  "day": 252,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "252",
+  "title": "Exit Optionality",
+  "slug": "exit-optionality",
+  "category": "Exit & Financial Strategy",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Build the company to be sellable even if you never plan to sell.",
+    "question": "What would make this business valuable without you personally holding it together?",
+    "equation": "Business Value = Profit × Transferability × Founder Independence",
+    "mental_model": "House with clean wiring, valuable whether you live in it or sell it.",
+    "business_lens": "Document systems, reduce founder dependency, strengthen recurring revenue, and make the company understandable to buyers.",
+    "life_lens": "Build your work so it gives you choices instead of trapping you inside your own creation.",
+    "sop": [
+      "Ask what would make the company attractive to a buyer",
+      "Document key processes",
+      "Reduce founder-only responsibilities",
+      "Strengthen revenue quality",
+      "Review sellability annually"
+    ],
+    "explainer": "Exit Optionality means you are not building only for income. You are building an asset. Even if you never sell, the discipline of building a sellable company creates cleaner systems, stronger leadership, and more freedom.",
+    "questions": [
+      "What would make this business valuable without you personally holding it together?",
+      "If you disappeared for 90 days, would the business grow, stall, or collapse?",
+      "What's the one piece of institutional knowledge that only exists in your head right now?"
+    ],
+    "definitions": [
+      {
+        "term": "Optionality",
+        "def": "The value of having future choices."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Profit 7, Transferability 4, Founder Independence 3. Score = 7 times 4 times 3 = 84 out of a possible 1,000. Higher means a buyer could step in and the business would keep running. Lower means the business is really just a job wearing a company's clothes.",
+    "closing_statement": "Build an asset, not just an income."
+  },
+  "caption": "Principle Nº 252: Exit Optionality\n\nBuild the company to be sellable even if you never plan to sell. Exit Optionality means you are not building only for income.\n\nAsk yourself: What would make this business valuable without you personally holding it together?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

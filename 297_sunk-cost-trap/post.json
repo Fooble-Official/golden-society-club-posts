@@ -1,0 +1,95 @@
+{
+  "order": 297,
+  "day": 297,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "297",
+  "title": "Sunk Cost Trap",
+  "slug": "sunk-cost-trap",
+  "category": "Behavioral Economics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Past investment should not drive future decisions; only future expected value should.",
+    "question": "If you had not yet invested in this, would you start it today knowing what you know now?",
+    "equation": "Continue If: Expected Future Value > Future Cost (ignoring sunk cost)",
+    "mental_model": "Weight you keep dragging because you already paid for it.",
+    "business_lens": "In project reviews, ask \"if we had not invested anything yet, would we start this today?\"",
+    "life_lens": "Stop justifying staying in something because of how much you already gave; decide based on what is ahead.",
+    "sop": [
+      "Define the future cost to continue",
+      "Estimate the future expected value",
+      "Compare without referencing what was spent",
+      "If expected value is less than cost, kill or pivot",
+      "Reallocate freed resources to higher-value work"
+    ],
+    "explainer": "Companies pour money into failing projects because executives feel responsible for prior decisions. The fix is structural: pre-commit to kill criteria; conduct sunk-cost-blind reviews; reward people for stopping bad projects.",
+    "questions": [
+      "If you had not yet invested in this, would you start it today knowing what you know now?",
+      "Which current project have you defended using the phrase 'we've already put so much into this'? That phrase is the tell.",
+      "If a completely new operator took over your business tomorrow with zero attachment to past decisions, what's the first thing they'd cut?"
+    ],
+    "definitions": [
+      {
+        "term": "Sunk cost",
+        "def": "Money or time already spent that can't be recovered."
+      }
+    ],
+    "equation_example": "Future cost to continue: $20,000. Expected future value: $35,000, ignoring the $80,000 already spent. $35,000 is greater than $20,000, so continuing is justified on its own merits regardless of the $80,000 sunk. If future cost had exceeded future value, the correct call is to stop, no matter how much was already spent.",
+    "closing_statement": "What you already spent has no vote in this."
+  },
+  "caption": "Principle Nº 297: Sunk Cost Trap\n\nPast investment should not drive future decisions; only future expected value should. Companies pour money into failing projects because executives feel responsible for prior decisions.\n\nAsk yourself: If you had not yet invested in this, would you start it today knowing what you know now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

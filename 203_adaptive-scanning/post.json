@@ -1,0 +1,80 @@
+{
+  "order": 203,
+  "day": 203,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "203",
+  "title": "Adaptive Scanning",
+  "slug": "adaptive-scanning",
+  "category": "Viable Systems",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Monitor outside trends.",
+    "question": "What external signal are you missing that could affect your next 12 months?",
+    "equation": "Adaptability = Awareness × Responsiveness",
+    "mental_model": "Radar on horizon.",
+    "business_lens": "Industry news, competitor research.",
+    "life_lens": "Stay informed on health, tech.",
+    "sop": [
+      "Set a fixed weekly time to scan industry news, competitor moves, and adjacent trends.",
+      "Extract one specific insight per scan, not just 'stayed informed,' an actual takeaway.",
+      "Rate your Awareness and Responsiveness, 1-10 each (see calculation, page 5), how much you actually see, and how fast you act on what you see.",
+      "Test one small tweak based on that insight within the week, not next quarter.",
+      "Log what you scanned and what changed as a result, so scanning doesn't become passive reading."
+    ],
+    "explainer": "",
+    "questions": [
+      "What external signal are you missing that could affect your next 12 months?",
+      "When did you last change a decision because of something happening outside your business, not inside it?",
+      "If a competitor or shift in your industry blindsided you this month, would it actually be a surprise, or something you'd been ignoring?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Awareness (how much of the relevant external landscape you actually track), Responsiveness (how fast you act on what you find). Awareness 7 times Responsiveness 5 equals 35. Higher means you catch shifts early and adjust quickly; lower means you're either not watching, or watching and not acting.",
+    "closing_statement": "Watching without acting is just information collection."
+  },
+  "caption": "Principle Nº 203: Adaptive Scanning\n\nMonitor outside trends.\n\nAsk yourself: What external signal are you missing that could affect your next 12 months?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

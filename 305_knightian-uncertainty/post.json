@@ -1,0 +1,95 @@
+{
+  "order": 305,
+  "day": 305,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "305",
+  "title": "Knightian Uncertainty",
+  "slug": "knightian-uncertainty",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "In radical uncertainty, true probabilities cannot be known, embrace experimentation over prediction.",
+    "question": "What am I trying to predict that I should be testing instead?",
+    "equation": "Survival = Affordable Loss × Optionality × Learning Rate",
+    "mental_model": "Fog instead of a chessboard, you cannot calculate, only test and adapt.",
+    "business_lens": "Replace prediction-heavy plans with parallel small bets; cap downside; preserve optionality.",
+    "life_lens": "Stop demanding certainty before acting; act in ways where the worst outcome is acceptable.",
+    "sop": [
+      "Identify what you cannot know",
+      "Define affordable loss for each bet",
+      "Run multiple small experiments in parallel",
+      "Update beliefs based on real evidence",
+      "Concentrate behind early winners"
+    ],
+    "explainer": "Forecasting precision implies knowable probabilities. In a true startup environment, you face Knightian uncertainty, your job is not to forecast better but to design for survival under unknown distributions. Affordable loss and optionality are the antidotes to false-precision planning.",
+    "questions": [
+      "What am I trying to predict that I should be testing instead?",
+      "Which number in your business plan are you treating as a forecast when it's actually a guess with no real base rate behind it?",
+      "If your biggest bet went completely wrong tomorrow, is that a loss you could survive, or one that ends the company?"
+    ],
+    "definitions": [
+      {
+        "term": "Optionality",
+        "def": "The value of having future choices."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Affordable Loss 8 (how survivable your worst-case bet is), Optionality 6 (how many future choices you've preserved), Learning Rate 7 (how fast you convert bets into real evidence). Score = (8 plus 6 plus 7) divided by 3 = 7.0. Higher means you're built to survive being wrong repeatedly while still learning; lower means one bad bet could end things before you learn anything.",
+    "closing_statement": "You can't forecast uncertainty, only survive it."
+  },
+  "caption": "Principle Nº 305: Knightian Uncertainty\n\nIn radical uncertainty, true probabilities cannot be known, embrace experimentation over prediction. Forecasting precision implies knowable probabilities.\n\nAsk yourself: What am I trying to predict that I should be testing instead?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

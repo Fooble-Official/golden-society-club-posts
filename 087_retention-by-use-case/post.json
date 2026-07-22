@@ -1,0 +1,90 @@
+{
+  "order": 87,
+  "day": 87,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "87",
+  "title": "Retention by Use-Case",
+  "slug": "retention-by-use-case",
+  "category": "User Behavior & Retention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Users stay for specific repeated jobs, not vague value.",
+    "question": "What's the specific repeat job your business does for a member, in their words?",
+    "equation": "RUC = Σ(Frequency × Importance × Satisfaction)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Interview or survey your 5 most loyal customers and ask exactly what task they use your product or service for, in their own words.",
+      "List every recurring job your offer performs for someone.",
+      "Rate each job's Frequency (times per month), Importance (1-10), and Satisfaction (1-10) (see calculation, page 6).",
+      "Identify the single job with the highest combined score, that's your retention anchor.",
+      "Redesign onboarding to get new users to that anchor job within their first session, and de-prioritize features tied to low-scoring jobs."
+    ],
+    "explainer": "Vague value = vague retention. Specific repeat jobs = sticky retention.",
+    "questions": [
+      "What's the specific repeat job your business does for a member, in their words?",
+      "If a customer stopped using you tomorrow, what specific recurring task would they suddenly have to do by hand again?",
+      "Which of your features get used once and forgotten, and which get used every single week?"
+    ],
+    "definitions": [
+      {
+        "term": "Retention",
+        "def": "The percentage of customers who keep paying or using a product over time."
+      }
+    ],
+    "equation_example": "Job A: Frequency 12 uses per month times Importance 9 times Satisfaction 8 equals 864. Job B: Frequency 1 times Importance 6 times Satisfaction 9 equals 54. Higher totals mean that job is what's actually driving retention, protect and build around it. Low scores mean the job is nice-to-have, not sticky, and won't save you if you cut it.",
+    "closing_statement": "Ask what job you're actually being hired for."
+  },
+  "caption": "Principle Nº 87: Retention by Use-Case\n\nUsers stay for specific repeated jobs, not vague value. Vague value = vague retention.\n\nAsk yourself: What's the specific repeat job your business does for a member, in their words?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 80,
+  "day": 80,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "80",
+  "title": "Disintermediation Defense",
+  "slug": "disintermediation-defense",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "If users can bypass you, they eventually will.",
+    "question": "What stops two sides of your marketplace from just bypassing your app after meeting once?",
+    "equation": "DD = (Platform Value + Lock-In + Enforcement + Switching Cost) ÷ Bypass Incentive",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Identify exactly where in your process two parties could exchange contact info and go direct.",
+      "Rate your Platform Value 1-10, what you provide beyond the initial connection (payments, trust, tools, discovery) (see calculation, page 6).",
+      "Rate your Lock-In and Enforcement 1-10, how much structural or policy friction exists against going around you (see calculation, page 6).",
+      "Rate your Switching Cost 1-10, how much a party loses by leaving your platform (see calculation, page 6).",
+      "Rate the Bypass Incentive 1-10, how much money or hassle a party saves by going direct (see calculation, page 6), then add one ongoing service that only makes sense while staying on-platform."
+    ],
+    "explainer": "Connection alone isn't defensible. Ongoing value is. Build reasons to stay in the app.",
+    "questions": [
+      "What stops two sides of your marketplace from just bypassing your app after meeting once?",
+      "If your two sides met through you once, is there any reason for them to come back through you a second time?",
+      "What do you provide after the introduction that a direct, off-platform relationship couldn't replicate?"
+    ],
+    "definitions": [
+      {
+        "term": "Disintermediation",
+        "def": "When two parties on a platform connect once, then transact directly off-platform forever after."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Platform Value 7, Lock-In 5, Enforcement 4, Switching Cost 6. 7 plus 5 plus 4 plus 6 equals 22, divided by Bypass Incentive 6 equals 3.7. Higher means parties have real reasons to keep transacting through you. Lower means the moment they meet, they have every incentive to cut you out.",
+    "closing_statement": "Ongoing value is what keeps people from cutting you out."
+  },
+  "caption": "Principle Nº 80: Disintermediation Defense\n\nIf users can bypass you, they eventually will. Connection alone isn't defensible.\n\nAsk yourself: What stops two sides of your marketplace from just bypassing your app after meeting once?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

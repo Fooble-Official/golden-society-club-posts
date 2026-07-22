@@ -1,0 +1,80 @@
+{
+  "order": 184,
+  "day": 184,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "184",
+  "title": "Life Portfolio Design",
+  "slug": "life-portfolio-design",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Your life should be diversified.",
+    "question": "Which life area are you neglecting that will catch up with you in 3 years?",
+    "equation": "Stability = Diversification × Balance",
+    "mental_model": "Don't rely on one thing.",
+    "business_lens": "Multiple revenue streams.",
+    "life_lens": "Health, relationships, creativity, finances.",
+    "sop": [
+      "List your core life areas: health, relationships, finances, creativity, career, personal growth.",
+      "Rate each area's Diversification (how many different areas you're actually invested in) and Balance (how evenly spread that investment is), 1-10 each (see calculation, page 5).",
+      "Identify the lowest-scoring area, that's your concentration risk.",
+      "Schedule one recurring weekly action for that area, treated with the same non-negotiable priority as work.",
+      "Rebalance quarterly, a portfolio only stays diversified if you keep checking it."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which life area are you neglecting that will catch up with you in 3 years?",
+      "If your business disappeared tomorrow, what else in your life would still be standing?",
+      "Are you as diversified in health, relationships, and identity as you are in income?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Diversification (spread across life areas), Balance (no single area dominating). Diversification 6 times Balance 7 equals 42. Higher means your life can absorb a hit to one area without collapsing; lower means everything depends on one area holding up.",
+    "closing_statement": "Don't let one life area carry all the weight."
+  },
+  "caption": "Principle Nº 184: Life Portfolio Design\n\nYour life should be diversified.\n\nAsk yourself: Which life area are you neglecting that will catch up with you in 3 years?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

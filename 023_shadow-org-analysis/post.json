@@ -1,0 +1,80 @@
+{
+  "order": 23,
+  "day": 23,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "23",
+  "title": "Shadow Org Analysis",
+  "slug": "shadow-org-analysis",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The real org chart is the one power follows.",
+    "question": "Who at your business has more influence than their title suggests? Who has less? Where's the gap?",
+    "equation": "SOA = Informal Influence Concentration ÷ Formal Authority Alignment",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your team by formal title, then separately rank them by actual influence over decisions and morale.",
+      "Circle the names where the two rankings diverge most, that's your shadow org.",
+      "For high-influence, low-title people, give them real input on decisions in their area, formally, not just informally.",
+      "Rate Informal Influence Concentration and Formal Authority Alignment 1-10 (see calculation, page 5)",
+      "Revisit the map every 6 months, influence shifts as people prove themselves or check out."
+    ],
+    "explainer": "Every company has a shadow org. Knowing it is how you get things done when the formal chart says no.",
+    "questions": [
+      "Who at your business has more influence than their title suggests? Who has less? Where's the gap?",
+      "Whose informal approval do people quietly seek before acting, even when it's not their call?",
+      "If you routed a major decision around your actual influencers instead of the org chart, would it move faster?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Informal Influence Concentration 1-10 (how concentrated real influence is in a few people) and Formal Authority Alignment 1-10 (how well titles match that influence). Informal Influence Concentration 8, Formal Authority Alignment 4 → SOA = 8 ÷ 4 = 2. Higher SOA means real power is badly misaligned with the org chart; an SOA near 1 means influence and title roughly match.",
+    "closing_statement": "Know who actually moves decisions, not just titles."
+  },
+  "caption": "Principle Nº 23: Shadow Org Analysis\n\nThe real org chart is the one power follows. Every company has a shadow org.\n\nAsk yourself: Who at your business has more influence than their title suggests? Who has less? Where's the gap?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

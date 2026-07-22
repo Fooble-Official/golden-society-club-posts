@@ -1,0 +1,95 @@
+{
+  "order": 273,
+  "day": 273,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "273",
+  "title": "Hedgehog Concept",
+  "slug": "hedgehog-concept",
+  "category": "Strategy: Focus",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Focus where passion, capability, and economic engine intersect.",
+    "question": "What sits inside all three circles for you right now, passion, world-class capability, and economic engine?",
+    "equation": "Score equals the minimum of Passion, Best-at-it, and Economic Engine, rate each 1-10, and your real score is the lowest of the three, since the overlap can never be stronger than its weakest circle.",
+    "mental_model": "Three overlapping circles, operate only where all three meet.",
+    "business_lens": "Audit every initiative against the three circles; cut the ones that fall outside.",
+    "life_lens": "Build your work life inside the overlap of what you love, what you are great at, and what pays.",
+    "sop": [
+      "Define the three circles for your company honestly",
+      "Identify the overlap",
+      "Stop or shrink projects that fall outside it",
+      "Invest aggressively inside the overlap",
+      "Re-test the circles annually as the company grows"
+    ],
+    "explainer": "Hedgehogs know one big thing and live it. The discipline is saying no to opportunities that are exciting but fall outside the three circles. Companies that mastered this, Walgreens, Wells Fargo, Kimberly-Clark in their Good-to-Great periods, outperformed by stripping away non-hedgehog work.",
+    "questions": [
+      "What sits inside all three circles for you right now, passion, world-class capability, and economic engine?",
+      "Which of your current projects is strong in two circles but clearly missing the third?",
+      "If you dropped everything outside the overlap, what would you have to stop doing this quarter?"
+    ],
+    "definitions": [
+      {
+        "term": "Hedgehog Concept",
+        "def": "A framework for sustainable strategy: it sits at the overlap of what you're deeply passionate about, what you can be the best in the world at, and what drives your economic engine."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Passion 8, Best-at-it 5, Economic Engine 9. Because this is an overlap, not a product, your score is bounded by the lowest score, 5, since the intersection can only be as strong as its weakest circle. A high shared score across all three means real focus. A low score in any one circle means you're forcing a fit that isn't there.",
+    "closing_statement": "The overlap is the only sustainable place to work."
+  },
+  "caption": "Principle Nº 273: Hedgehog Concept\n\nFocus where passion, capability, and economic engine intersect. Hedgehogs know one big thing and live it.\n\nAsk yourself: What sits inside all three circles for you right now, passion, world-class capability, and economic engine?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 96,
+  "day": 96,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "96",
+  "title": "Attribution Epistemology",
+  "slug": "attribution-epistemology",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You never fully know what caused the conversion.",
+    "question": "Are you overconfident about why your business's best customers signed up? What's the counterfactual you haven't tested?",
+    "equation": "AE = Measured Confidence ÷ True Causal Confidence",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your top 3 'known' growth drivers, the channels or tactics you're most confident are working.",
+      "For each one, ask whether that belief is based on a controlled test, or just correlation in a dashboard.",
+      "Rate your Measured Confidence and your actual True Causal Confidence for each driver, 1-10 (see calculation, page 6).",
+      "Run one real test this quarter, pause or halve a channel you 'know' works and watch what actually happens to revenue.",
+      "Downgrade any belief that scores high on Measured Confidence but low on True Causal Confidence before you scale spend on it."
+    ],
+    "explainer": "Dashboards lie about causation. Don't scale what you can't prove caused the result.",
+    "questions": [
+      "Are you overconfident about why your business's best customers signed up? What's the counterfactual you haven't tested?",
+      "If you turned off your 'best' channel for two weeks, would total sales actually drop, or just shift to another channel in your data?",
+      "Which metric are you the most confident about that you've never actually tested with a controlled experiment?"
+    ],
+    "definitions": [
+      {
+        "term": "Epistemology",
+        "def": "The study of how we know what we claim to know, here, how confident you should be in what your data says caused a result."
+      }
+    ],
+    "equation_example": "Rate Measured Confidence and True Causal Confidence each 1-10. Measured Confidence 9 divided by True Causal Confidence 4 equals 2.25. A ratio above 1 means you're more confident in your attribution than the evidence actually supports, a warning sign before you scale spend. A ratio at or near 1 means your confidence is roughly earned.",
+    "closing_statement": "Dashboards show correlation, not always the real cause."
+  },
+  "caption": "Principle Nº 96: Attribution Epistemology\n\nYou never fully know what caused the conversion. Dashboards lie about causation.\n\nAsk yourself: Are you overconfident about why your business's best customers signed up? What's the counterfactual you haven't tested?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

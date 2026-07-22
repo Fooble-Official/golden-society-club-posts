@@ -1,0 +1,80 @@
+{
+  "order": 69,
+  "day": 69,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "69",
+  "title": "Refund-Risk Architecture",
+  "slug": "refund-risk-architecture",
+  "category": "Behavioral Pricing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Certain offers structurally attract refunds.",
+    "question": "What's your business's expected refund rate, and which of your offers is structurally most refund-prone?",
+    "equation": "RRA = Expectation Gap × Impulse × Time to Value × Friction",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your offers ranked by current or estimated refund rate.",
+      "Rate your highest-refund offer 1-10 on Expectation Gap, how far the marketing promise sits from the actual first experience (see calculation, page 5).",
+      "Rate it 1-10 on Impulse, how quickly people buy without deliberation (see calculation, page 5).",
+      "Rate it 1-10 on Time to Value, how long before the customer feels the benefit (see calculation, page 5).",
+      "Rate it 1-10 on Friction to get support or clarity after purchase (see calculation, page 5), then fix whichever factor scores highest before your next launch."
+    ],
+    "explainer": "Refunds aren't random. They're a function of offer structure. Design them out before launch.",
+    "questions": [
+      "What's your business's expected refund rate, and which of your offers is structurally most refund-prone?",
+      "Which of your offers gets bought fastest and returned most, and have you ever connected those two facts?",
+      "If a customer waited two weeks to get real value from your product, would that gap be enough to trigger a refund request?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Expectation Gap 7, Impulse 8, Time to Value 6, Friction 5. 7 times 8 times 6 times 5 equals 1,680. Higher scores mark offers structurally built for refund spikes, fix the marketing promise or speed up time to value. Lower scores mean the offer sets expectations customers actually experience.",
+    "closing_statement": "Refund rates are designed in, not random accidents."
+  },
+  "caption": "Principle Nº 69: Refund-Risk Architecture\n\nCertain offers structurally attract refunds. Refunds aren't random.\n\nAsk yourself: What's your business's expected refund rate, and which of your offers is structurally most refund-prone?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

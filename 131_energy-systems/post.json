@@ -1,0 +1,80 @@
+{
+  "order": 131,
+  "day": 131,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "131",
+  "title": "Energy Systems",
+  "slug": "energy-systems",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You don't manage time, you manage energy states.",
+    "question": "Are you assigning high-energy hours to high-leverage work, or wasting them on admin?",
+    "equation": "Output Quality = Energy × Time Used",
+    "mental_model": "Ferrari with no fuel.",
+    "business_lens": "Creative work = high energy; admin = low.",
+    "life_lens": "Workouts, cooking, looking good, all need energy.",
+    "sop": [
+      "Track your energy levels hourly for 3 days (high/medium/low) alongside what you were doing.",
+      "Identify your top 2 daily energy peaks.",
+      "Rate your Energy 1-10 and the hours of high-leverage Time Used during peaks (see calculation, page 5)",
+      "Move your highest-leverage work into those peak windows; push admin into low-energy windows.",
+      "Protect your peaks, guard sleep, food, and environment that produce them."
+    ],
+    "explainer": "",
+    "questions": [
+      "Are you assigning high-energy hours to high-leverage work, or wasting them on admin?",
+      "What time of day is your energy highest, and what are you actually doing during it?",
+      "What's draining your energy before you even get to the work that matters most?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Energy 1-10 and Time Used 1-10 (share of the day's high-leverage hours actually protected for real work). Energy 8, Time Used 7. Output Quality equals 56 out of 100. Higher means strong energy is being matched with real focused time on what matters. Lower means either your energy or your time is being wasted elsewhere.",
+    "closing_statement": "Time without energy behind it doesn't produce anything."
+  },
+  "caption": "Principle Nº 131: Energy Systems\n\nYou don't manage time, you manage energy states.\n\nAsk yourself: Are you assigning high-energy hours to high-leverage work, or wasting them on admin?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

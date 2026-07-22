@@ -1,0 +1,80 @@
+{
+  "order": 91,
+  "day": 91,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "91",
+  "title": "Acquisition Channel Decay",
+  "slug": "acquisition-channel-decay",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "All channels get worse over time.",
+    "question": "Which of your business's acquisition channels is already decaying? What's your next channel bet?",
+    "equation": "ACD = (Initial - Current Efficiency) ÷ Time",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Track cost-per-customer (or cost-per-lead) monthly for each acquisition channel, not just spend and revenue totals.",
+      "Calculate the percentage change in efficiency for each channel over the last 6 months (see calculation, page 5).",
+      "Flag any channel down more than 20% in efficiency as decaying and set a review date.",
+      "Test one new channel at roughly 10% of budget every quarter, regardless of how well your current channel is performing.",
+      "Never let one channel exceed 60% of total acquisition, build the backup before you need it."
+    ],
+    "explainer": "Every channel you love today will decay. Always be testing the next one.",
+    "questions": [
+      "Which of your business's acquisition channels is already decaying? What's your next channel bet?",
+      "If your best channel died tomorrow, how many days of revenue could you survive before the next one kicked in?",
+      "What's the earliest warning sign your top channel is decaying, rising cost per lead, or you just haven't checked in months?"
+    ],
+    "definitions": [],
+    "equation_example": "Initial Efficiency 10 customers per $1,000 spent, Current Efficiency 6 customers per $1,000 spent, Time 4 months. (10 minus 6) divided by 4 equals 1.0 point of efficiency lost per month. Higher or rising means the channel is decaying fast and needs replacing soon. Lower or near-zero means the channel is still healthy.",
+    "closing_statement": "Treat every channel as temporary, not core infrastructure."
+  },
+  "caption": "Principle Nº 91: Acquisition Channel Decay\n\nAll channels get worse over time. Every channel you love today will decay.\n\nAsk yourself: Which of your business's acquisition channels is already decaying? What's your next channel bet?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

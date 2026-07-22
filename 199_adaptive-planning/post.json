@@ -1,0 +1,80 @@
+{
+  "order": 199,
+  "day": 199,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "199",
+  "title": "Adaptive Planning",
+  "slug": "adaptive-planning",
+  "category": "Behavioral Design",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Plan dynamically.",
+    "question": "Are you following a rigid plan past its usefulness?",
+    "equation": "Plan(t+Δt) = Plan(t) + f(Feedback)",
+    "mental_model": "Sail tacking.",
+    "business_lens": "Rolling quarterly forecasts.",
+    "life_lens": "Weekly plans revise annual.",
+    "sop": [
+      "Set long-term objectives (annual) that state the destination, not the exact route.",
+      "Break execution into short cycles, monthly or quarterly, that can be revised without abandoning the destination.",
+      "Review actual results against the plan at the end of each cycle.",
+      "Update the next cycle's plan based on that feedback, not the original assumptions (see calculation, page 5).",
+      "Keep the long-term objective fixed unless the feedback says the destination itself was wrong."
+    ],
+    "explainer": "",
+    "questions": [
+      "Are you following a rigid plan past its usefulness?",
+      "When did you last actually change a plan because of new information, versus just pushing through because you'd already committed to it?",
+      "What would you do differently this quarter if you were planning it today instead of when you originally wrote it?"
+    ],
+    "definitions": [],
+    "equation_example": "This quarter's target plus a Feedback Adjustment (based on actual results vs. expectations, positive or negative) equals next quarter's target. Plan 100 plus Feedback Adjustment negative 10 equals Plan 90. A plan that keeps adjusting toward reality is working; a plan that never changes despite missed targets means feedback isn't being used.",
+    "closing_statement": "Hold the destination loosely enough to adjust the route."
+  },
+  "caption": "Principle Nº 199: Adaptive Planning\n\nPlan dynamically.\n\nAsk yourself: Are you following a rigid plan past its usefulness?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

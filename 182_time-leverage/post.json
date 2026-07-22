@@ -1,0 +1,80 @@
+{
+  "order": 182,
+  "day": 182,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "182",
+  "title": "Time Leverage",
+  "slug": "time-leverage",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Your time must multiply.",
+    "question": "Where are you trading time 1:1 when you should be designing leverage?",
+    "equation": "Leverage = Output ÷ Time",
+    "mental_model": "1 hour → many outputs.",
+    "business_lens": "Content reused; systems run without you.",
+    "life_lens": "Routines, batching, automation.",
+    "sop": [
+      "Track your hours for one week and tag each as 1:1 (output stops when you stop) or leveraged (output continues without you).",
+      "Eliminate or delegate the lowest-value 1:1 tasks first.",
+      "Turn one recurring 1:1 task into something scalable, a recorded video, a template, a documented process.",
+      "Estimate your Output (dollars or units produced) against Time spent (hours) on this week's biggest deliverable (see calculation, page 5), and target the worst ratio first.",
+      "Reuse existing work (content, systems, training) instead of creating from scratch each time."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where are you trading time 1:1 when you should be designing leverage?",
+      "What did you do this week that, if recorded once, could be reused a hundred times?",
+      "How many hours this week produced output only while you were actively working, and stopped the moment you stopped?"
+    ],
+    "definitions": [],
+    "equation_example": "Output (units or dollars produced, count) divided by Time (hours spent, count) equals Leverage. Output $8,000 divided by Time 20 hours equals 400. Higher/rising means your time produces more without you adding more hours; lower/falling means output only grows if your hours do too.",
+    "closing_statement": "Make your hours produce after you've stopped working."
+  },
+  "caption": "Principle Nº 182: Time Leverage\n\nYour time must multiply.\n\nAsk yourself: Where are you trading time 1:1 when you should be designing leverage?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

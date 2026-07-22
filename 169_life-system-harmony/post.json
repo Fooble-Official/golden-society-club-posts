@@ -1,0 +1,80 @@
+{
+  "order": 169,
+  "day": 169,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "169",
+  "title": "Life System Harmony",
+  "slug": "life-system-harmony",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Everything must work together.",
+    "question": "Where is your life most out of harmony?",
+    "equation": "Harmony equals Aligned Domains divided by Total Domains.",
+    "mental_model": "Orchestra.",
+    "business_lens": "Align business, health, home.",
+    "life_lens": "Remove conflicts.",
+    "sop": [
+      "List your major life domains: business, health, relationships, home, finances, personal growth.",
+      "For each pair, ask whether one is currently being sacrificed to fuel another.",
+      "Circle the domain most consistently sacrificed, that's your active conflict point.",
+      "Count how many domains currently feel aligned versus total domains (see calculation, page 5), then redesign one weekly routine so the conflicting domains share resources instead of competing.",
+      "Re-audit monthly, harmony is maintained, not achieved once."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where is your life most out of harmony?",
+      "Which two areas of your life are actively working against each other right now, work hours wrecking your health, spending eating your runway?",
+      "If someone audited your calendar for a week, would they see one clear direction, or several competing ones?"
+    ],
+    "definitions": [],
+    "equation_example": "Business, health, home, relationships, finances, personal growth, 6 domains total. If 4 feel in sync: 4 divided by 6 equals 67% out of 100%. Higher means most areas reinforce each other; lower means multiple areas are actively working against each other.",
+    "closing_statement": "Protect alignment as fiercely as you protect revenue."
+  },
+  "caption": "Principle Nº 169: Life System Harmony\n\nEverything must work together.\n\nAsk yourself: Where is your life most out of harmony?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

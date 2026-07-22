@@ -1,0 +1,95 @@
+{
+  "order": 211,
+  "day": 211,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "211",
+  "title": "Learning Loops",
+  "slug": "learning-loops",
+  "category": "Habits & Behavior",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Treat failures as data.",
+    "question": "What recent failure have you not actually learned from yet?",
+    "equation": "New Tactic = Old + (Error × Rate)",
+    "mental_model": "Adjust aim.",
+    "business_lens": "Post-mortems; churn as feedback.",
+    "life_lens": "Diet slip = trigger analysis.",
+    "sop": [
+      "Document the failure in writing within 24 hours, what happened, not how you felt about it",
+      "Extract the specific, actionable lesson (not 'try harder', a real change to the input)",
+      "Set a learning rate for how aggressively you adjust, small tweak or full pivot (see calculation, page 7)",
+      "Implement the change in the very next attempt, not 'someday'",
+      "Track whether the adjusted tactic actually performed better"
+    ],
+    "explainer": "The gap between people who improve fast and people who stay stuck usually isn't talent, it's whether the failure got turned into a specific, written adjustment before the feeling faded. Treat the error as a number you can plug back into your next attempt, not a verdict on your ability, and the loop closes instead of repeating.",
+    "questions": [
+      "What recent failure have you not actually learned from yet?",
+      "Where do you keep making the same mistake because you never wrote down what caused it the first time?",
+      "What's your actual process for turning a failure into a changed action, or does it just turn into a feeling?"
+    ],
+    "definitions": [
+      {
+        "term": "Learning rate",
+        "def": "How large a correction you make in response to a single piece of new information, too small and you barely improve, too large and you overcorrect."
+      }
+    ],
+    "equation_example": "Old Tactic score: 6 (current approach, rated 1-10). Error: -3 (how far off the result was, on a 1-10 scale). Rate: 0.5 (how aggressively you adjust, 0-1). New Tactic = 6 plus (-3 times 0.5) = 4.5 becomes your revised approach. Higher rate means you adjust fast off one failure; lower rate means you need repeated failures before you change course, too high and you overcorrect on noise, too low and you keep repeating the same mistake.",
+    "closing_statement": "A failure without a written lesson repeats itself."
+  },
+  "caption": "Principle Nº 211: Learning Loops\n\nTreat failures as data. The gap between people who improve fast and people who stay stuck usually isn't talent, it's whether the failure got turned into a specific, written adjustment before the feeling faded.\n\nAsk yourself: What recent failure have you not actually learned from yet?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

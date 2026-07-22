@@ -1,0 +1,80 @@
+{
+  "order": 32,
+  "day": 32,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "32",
+  "title": "Variance Strategy",
+  "slug": "variance-strategy",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You should not eliminate all variance; you should choose where to absorb and where to suppress it.",
+    "question": "Where in your business should you invite more variance (marketing tests)? Where should you kill it (payouts)?",
+    "equation": "VS = Desired Upside Variance - Undesired Downside Variance",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your core business functions (marketing, payroll, fulfillment, product, compliance) and label each wants-variance or wants-stability.",
+      "For wants-variance areas, set a testing budget and run more experiments than feels comfortable.",
+      "For wants-stability areas, standardize the process so outcomes are as predictable as possible.",
+      "Rate your Desired Upside Variance and Undesired Downside Variance 1-10 for a specific function (see calculation, page 5)",
+      "Review the list quarterly, what needed stability at launch might be ready for controlled risk later."
+    ],
+    "explainer": "The mistake is treating all variance as bad. Seek it in experiments; kill it in reliability.",
+    "questions": [
+      "Where in your business should you invite more variance (marketing tests)? Where should you kill it (payouts)?",
+      "Which part of your business absolutely cannot afford a surprise, no matter how small?",
+      "Where have you been playing it safe purely out of habit, in an area that could actually handle more risk?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Desired Upside Variance 1-10 (how much you want to experiment) and Undesired Downside Variance 1-10 (how much surprise risk you're exposed to) for a specific function. Desired Upside Variance 8, Undesired Downside Variance 3 → VS = 8 - 3 = 5. A higher, positive VS means you're courting the right kind of risk where it pays off; a negative VS means instability is creeping into places that need to be boring and reliable.",
+    "closing_statement": "Some places deserve chaos, others deserve boring."
+  },
+  "caption": "Principle Nº 32: Variance Strategy\n\nYou should not eliminate all variance; you should choose where to absorb and where to suppress it. The mistake is treating all variance as bad.\n\nAsk yourself: Where in your business should you invite more variance (marketing tests)? Where should you kill it (payouts)?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

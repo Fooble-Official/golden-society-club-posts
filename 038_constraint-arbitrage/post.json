@@ -1,0 +1,80 @@
+{
+  "order": 38,
+  "day": 38,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "38",
+  "title": "Constraint Arbitrage",
+  "slug": "constraint-arbitrage",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Constraints can be exploited strategically when others treat them only as limitations.",
+    "question": "What's a market-specific constraint (licensing, geography, culture) that competitors hate, but you can weaponize?",
+    "equation": "CA = (Competitor Handicap - Your Handicap) × Market Value of Difference",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every constraint specific to your market: local regulation, geography, licensing, culture, seasonality.",
+      "For each, note whether it's a pure cost (hurts everyone equally) or an asymmetric cost (hurts outsiders more than you).",
+      "Double down on the constraints that hurt competitors more, make them part of your pitch, not something you apologize for.",
+      "Rate your Competitor Handicap and Your Handicap 1-10 for the constraint, and rate the Market Value of the Difference 1-10 (see calculation, page 5)",
+      "Watch for new entrants, an asymmetric constraint today can erode if a competitor learns to navigate it too."
+    ],
+    "explainer": "Local, regulated, or niche constraints are moats in disguise. Others flee them; you lean in.",
+    "questions": [
+      "What's a market-specific constraint (licensing, geography, culture) that competitors hate, but you can weaponize?",
+      "What rule, regulation, or local quirk do most of your competitors try to avoid instead of build around?",
+      "If a national or online competitor tried to copy you here, what constraint would slow them down more than it slows you?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Competitor Handicap 1-10 (how much the constraint hurts them) and Your Handicap 1-10 (how much it hurts you), then rate the Market Value of the Difference 1-10. Competitor Handicap 8, Your Handicap 2, difference 6, Market Value of Difference 7 → CA = 6 × 7 = 42. Higher CA means the constraint is a real moat working in your favor; a CA near 0 means it's just a cost everyone shares equally.",
+    "closing_statement": "The constraint they run from is your edge."
+  },
+  "caption": "Principle Nº 38: Constraint Arbitrage\n\nConstraints can be exploited strategically when others treat them only as limitations. Local, regulated, or niche constraints are moats in disguise.\n\nAsk yourself: What's a market-specific constraint (licensing, geography, culture) that competitors hate, but you can weaponize?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

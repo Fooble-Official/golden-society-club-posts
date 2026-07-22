@@ -1,0 +1,80 @@
+{
+  "order": 65,
+  "day": 65,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "65",
+  "title": "Menu Engineering",
+  "slug": "menu-engineering",
+  "category": "Behavioral Pricing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The structure of choices matters as much as the prices themselves.",
+    "question": "Does your business's membership menu nudge toward the tier you want people to choose? Or the tier they default to?",
+    "equation": "MES = (Clarity × Differentiation × Upgrade Logic × Ease) ÷ Overload",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every option, tier, or package a customer sees when deciding what to buy.",
+      "Rate the menu 1-10 on Clarity and Differentiation, how easy it is to tell options apart and understand each one (see calculation, page 5).",
+      "Rate it 1-10 on Upgrade Logic, how naturally the layout pushes toward your preferred tier (see calculation, page 5).",
+      "Rate it 1-10 on Ease of choosing, and rate Overload 1-10 for how many options exist and how overwhelming they feel (see calculation, page 5).",
+      "If Overload outweighs the other factors, cut the weakest-performing option and re-test conversion to your target tier."
+    ],
+    "explainer": "Menu design is conversion design. The structure of options is a product decision.",
+    "questions": [
+      "Does your business's membership menu nudge toward the tier you want people to choose? Or the tier they default to?",
+      "If you removed your cheapest option entirely, would people upgrade, or would they just leave?",
+      "Can a first-time customer tell the difference between your tiers in under 10 seconds, or do they have to study it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Clarity 7, Differentiation 8, Upgrade Logic 6, Ease 7. 7 times 8 times 6 times 7 equals 2,352, divided by Overload 4 equals 588. Higher scores mean your menu naturally guides people to the tier you want them on. Lower scores mean people are either confused or defaulting to whatever's cheapest.",
+    "closing_statement": "How you arrange choices decides which one people pick."
+  },
+  "caption": "Principle Nº 65: Menu Engineering\n\nThe structure of choices matters as much as the prices themselves. Menu design is conversion design.\n\nAsk yourself: Does your business's membership menu nudge toward the tier you want people to choose? Or the tier they default to?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 60,
+  "day": 60,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "60",
+  "title": "Economic Kill-Switches",
+  "slug": "economic-kill-switches",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Every business needs predefined thresholds where persistence becomes irrational.",
+    "question": "For each channel or product in your business, what's the pre-agreed \"kill it\" number?",
+    "equation": "EKS = Current Contribution Margin - Minimum Viable Threshold",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every channel, product, or offer you currently run.",
+      "Set a Minimum Viable Threshold contribution margin percentage for each, the floor below which it's not worth running (see calculation, page 6).",
+      "Calculate the Current Contribution Margin percentage for each channel or product this month (see calculation, page 6).",
+      "Subtract the threshold from the current margin to get each one's kill-switch score (see calculation, page 6).",
+      "Write the kill decision down in advance and commit to acting on it the moment a score goes negative for two consecutive periods."
+    ],
+    "explainer": "Discipline isn't willpower. It's deciding the kill threshold BEFORE you're emotionally attached.",
+    "questions": [
+      "For each channel or product in your business, what's the pre-agreed \"kill it\" number?",
+      "Do you have a channel or product right now that you already suspect should be cut, but haven't because you haven't written the number down?",
+      "If a channel's contribution margin dropped below your threshold for two months straight, would you actually pull the plug, or find a reason to wait?"
+    ],
+    "definitions": [
+      {
+        "term": "Contribution margin",
+        "def": "Revenue from a product or channel minus its variable costs, expressed as a percentage of that revenue."
+      }
+    ],
+    "equation_example": "Current Contribution Margin 8%, Minimum Viable Threshold 15%. 8 minus 15 equals negative 7 percentage points. Negative means that channel or product is below the line you already agreed was the floor, it should be cut or fixed now. Positive means it's still earning its place.",
+    "closing_statement": "The best exits are decided before emotion enters the room."
+  },
+  "caption": "Principle Nº 60: Economic Kill-Switches\n\nEvery business needs predefined thresholds where persistence becomes irrational. Discipline isn't willpower.\n\nAsk yourself: For each channel or product in your business, what's the pre-agreed \"kill it\" number?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

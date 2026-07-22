@@ -1,0 +1,95 @@
+{
+  "order": 221,
+  "day": 221,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "221",
+  "title": "Bounded Rationality",
+  "slug": "bounded-rationality",
+  "category": "Advanced Systems",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Limit scope to make decisions tractable.",
+    "question": "What are you trying to solve at too broad a scope?",
+    "equation": "Quality = Scope ÷ Complexity",
+    "mental_model": "Limit ingredients.",
+    "business_lens": "Focus on one market.",
+    "life_lens": "Change one habit at a time.",
+    "sop": [
+      "Write down every unknown or variable you're currently trying to account for",
+      "Rate the complexity of the full problem vs. a deliberately narrowed version (see calculation, page 7)",
+      "Draw a hard boundary around what you'll actually consider, ignore the peripheral variables on purpose",
+      "Decide within those bounds using only the information available now",
+      "Revisit the boundary later if new information changes the picture, but don't wait for it first"
+    ],
+    "explainer": "Trying to account for every variable feels responsible, but it usually just produces paralysis, because complexity grows faster than your ability to reason about it. Bounded rationality isn't a shortcut for lazy thinking, it's the recognition that a decision made within a deliberately narrow, honest scope beats one that stalls out trying to be complete.",
+    "questions": [
+      "What are you trying to solve at too broad a scope?",
+      "What decision have you been stuck on for weeks because you're trying to account for every variable instead of the ones that actually matter?",
+      "If you had to decide with only the information you have right now, no more research allowed, what would you choose?"
+    ],
+    "definitions": [
+      {
+        "term": "Bounded rationality",
+        "def": "Making the best decision possible within a deliberately limited scope, instead of trying to account for every variable."
+      }
+    ],
+    "equation_example": "Scope: rate 1-10 how narrow and defined the problem is (10 = tightly bounded). Complexity: rate 1-10 how many variables are actually in play. Scope 8 divided by Complexity 4 gives Quality 2.0, a good, tractable decision. Scope 3 divided by Complexity 9 gives Quality 0.33, an overwhelmed, low-quality decision. Higher quality means a decision you can actually make well; lower means you're trying to solve too much at once.",
+    "closing_statement": "A narrower problem is usually a solvable one."
+  },
+  "caption": "Principle Nº 221: Bounded Rationality\n\nLimit scope to make decisions tractable. Trying to account for every variable feels responsible, but it usually just produces paralysis, because complexity grows faster than your ability to reason about it.\n\nAsk yourself: What are you trying to solve at too broad a scope?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

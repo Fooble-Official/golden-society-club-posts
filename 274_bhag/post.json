@@ -1,0 +1,95 @@
+{
+  "order": 274,
+  "day": 274,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "274",
+  "title": "BHAG",
+  "slug": "bhag",
+  "category": "Strategy: Vision",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Set a Big Hairy Audacious Goal that galvanizes the team for 10 to 30 years.",
+    "question": "What is the 10-year goal so audacious that pursuing it would change how you run the company?",
+    "equation": "Vision Pull = Audacity × Clarity × Belief",
+    "mental_model": "Summit visible from base camp, bold enough to organize all decisions toward it.",
+    "business_lens": "Define a 10-to-30-year goal that excites and frightens the team in equal measure; break it into annual milestones.",
+    "life_lens": "Pick a long-horizon goal that gives meaning to the small daily decisions.",
+    "sop": [
+      "Articulate a 10-to-30-year audacious goal",
+      "State why it matters",
+      "Break into 3-year and annual milestones",
+      "Communicate it widely and repeatedly",
+      "Use the goal as a filter for major decisions"
+    ],
+    "explainer": "NASA’s Apollo goal, land on the Moon by decade’s end, is the canonical BHAG. The goal organized thousands of sub-decisions and recruited talent that would not have shown up for incremental work. The risk is BHAGs without supporting discipline; pair with the 20-Mile March principle.",
+    "questions": [
+      "What is the 10-year goal so audacious that pursuing it would change how you run the company?",
+      "Would this goal actually scare you a little if you said it out loud to your team?",
+      "What would you have to stop doing today if you took this goal seriously?"
+    ],
+    "definitions": [
+      {
+        "term": "BHAG",
+        "def": "Big Hairy Audacious Goal, a bold, clear, long-range target (10 to 30 years) that focuses and energizes an organization."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Audacity 9, Clarity 6, Belief 7. Score = 9 times 6 times 7 = 378 out of a possible 1,000. Higher means the goal organizes decisions and recruits talent on its own. Lower means it's just a big number nobody actually believes or knows how to reach.",
+    "closing_statement": "A goal too safe won't organize anything."
+  },
+  "caption": "Principle Nº 274: BHAG\n\nSet a Big Hairy Audacious Goal that galvanizes the team for 10 to 30 years. NASA’s Apollo goal, land on the Moon by decade’s end, is the canonical BHAG.\n\nAsk yourself: What is the 10-year goal so audacious that pursuing it would change how you run the company?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

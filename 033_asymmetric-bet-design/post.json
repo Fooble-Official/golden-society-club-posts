@@ -1,0 +1,90 @@
+{
+  "order": 33,
+  "day": 33,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "33",
+  "title": "Asymmetric Bet Design",
+  "slug": "asymmetric-bet-design",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The best bets have limited downside and nonlinear upside.",
+    "question": "Of your next 3 business bets, which is most asymmetric? Are you overweighting the symmetric ones?",
+    "equation": "ABD = (Upside × Probability of Win) ÷ Max Downside Exposure",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your top 3 current or planned bets (a new product, hire, market, or campaign).",
+      "For each, estimate the max downside in dollars and the realistic upside if it works.",
+      "Rank them by upside-to-downside ratio, not by how exciting they feel.",
+      "Rate Upside and Probability of Win 1-10, and rate Max Downside Exposure 1-10 (see calculation, page 6)",
+      "Deprioritize any bet with high downside and capped upside, no matter how safe it feels."
+    ],
+    "explainer": "Capped downside + uncapped upside = the shape of wealth creation. Find these and double down.",
+    "questions": [
+      "Of your next 3 business bets, which is most asymmetric? Are you overweighting the symmetric ones?",
+      "What's the worst-case dollar loss on your biggest current bet, and could you survive it?",
+      "Which of your bets has a capped downside but no real ceiling on the upside?"
+    ],
+    "definitions": [
+      {
+        "term": "Asymmetric bet",
+        "def": "A bet where downside is small/capped and upside is large/uncapped."
+      }
+    ],
+    "equation_example": "Rate Upside 1-10 and Probability of Win 1-10, then rate Max Downside Exposure 1-10. Upside 9, Probability of Win 6, Max Downside Exposure 3 → ABD = (9×6)/3 = 18. Higher ABD means the bet has real upside without much risk of ruin; lower means you're risking a lot to win a little.",
+    "closing_statement": "The shape of the bet matters more than the size."
+  },
+  "caption": "Principle Nº 33: Asymmetric Bet Design\n\nThe best bets have limited downside and nonlinear upside. Capped downside + uncapped upside = the shape of wealth creation.\n\nAsk yourself: Of your next 3 business bets, which is most asymmetric? Are you overweighting the symmetric ones?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

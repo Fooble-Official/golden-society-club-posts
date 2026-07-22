@@ -1,0 +1,85 @@
+{
+  "order": 244,
+  "day": 244,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "244",
+  "title": "The 1-1-1 Framework",
+  "slug": "the-1-1-1-framework",
+  "category": "Business & Scaling Frameworks",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Fast growth comes from simplifying the business around one traffic source, one conversion method, and one delivery channel before adding complexity.",
+    "question": "What is the one traffic source, one conversion method, and one delivery channel you should commit to before adding anything else?",
+    "equation": "Growth Clarity = Focus × Repetition × Diagnosis Speed",
+    "mental_model": "Single-lane bridge, easier to inspect, repair, and scale than ten unfinished roads.",
+    "business_lens": "Pick one lead source, one sales process, and one fulfillment model until the business becomes predictable.",
+    "life_lens": "Focus your energy on one main path long enough to see whether it actually works.",
+    "sop": [
+      "Choose one primary traffic source",
+      "Choose one conversion method",
+      "Choose one delivery channel",
+      "Track results weekly",
+      "Add complexity only after the simple system works"
+    ],
+    "explainer": "The 1-1-1 Framework protects you from trying to grow ten things before one thing works. A traffic source is where attention comes from. A conversion method is how someone becomes a buyer, such as a sales call, landing page, webinar, or DM. A delivery channel is how the result gets fulfilled, such as coaching, done-for-you service, software, or a course. When each part is singular, you can see the leak quickly. If leads are coming in but sales are low, conversion is the issue. If sales are strong but clients are unhappy, delivery is the issue.",
+    "questions": [
+      "What is the one traffic source, one conversion method, and one delivery channel you should commit to before adding anything else?",
+      "If you had to kill every traffic source but one starting today, which one would you actually be able to defend with data?",
+      "When something in your funnel breaks right now, can you tell within a day whether it's traffic, conversion, or delivery, or does it take weeks to figure out?"
+    ],
+    "definitions": [],
+    "equation_example": "Growth Clarity equals Focus times Repetition times Diagnosis Speed. Rate each 1-10. Focus 9 (one clear source, method, channel), Repetition 7 (how consistently you run the same play), Diagnosis Speed 8 (how fast you can pinpoint what broke). Growth Clarity = 9 times 7 times 8 = 504. Higher score means problems get isolated and fixed fast; running five channels at once tanks Focus and Diagnosis Speed even if total activity looks busy.",
+    "closing_statement": "One working channel beats five untested ones."
+  },
+  "caption": "Principle Nº 244: The 1-1-1 Framework\n\nFast growth comes from simplifying the business around one traffic source, one conversion method, and one delivery channel before adding complexity. The 1-1-1 Framework protects you from trying to grow ten things before one thing works.\n\nAsk yourself: What is the one traffic source, one conversion method, and one delivery channel you should commit to before adding anything else?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

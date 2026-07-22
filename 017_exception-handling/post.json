@@ -1,0 +1,80 @@
+{
+  "order": 17,
+  "day": 17,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "17",
+  "title": "Exception Handling",
+  "slug": "exception-handling",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Edge cases kill systems.",
+    "question": "What are the 3 most likely edge cases in your business's flow (refund, no-show, fraud), and do you have a written playbook for each?",
+    "equation": "EHA = (Speed × Accuracy × Containment) ÷ Chaos",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your 5 most common edge cases from the last 90 days (refunds, no-shows, disputes, fraud, complaints).",
+      "Write a one-page playbook for each: trigger, first response, who owns it, when to escalate.",
+      "Put the playbooks somewhere your team can find them in under 30 seconds, not buried in your head.",
+      "Rate Speed, Accuracy, and Containment 1-10 for your last real edge case, and rate Chaos 1-10 based on how much it disrupted other work (see calculation, page 5)",
+      "After each new edge case, add it to the playbook so the list never stops growing."
+    ],
+    "explainer": "Average-case thinking is where amateurs live. Pros design for the 5% of cases that create 95% of the pain.",
+    "questions": [
+      "What are the 3 most likely edge cases in your business's flow (refund, no-show, fraud), and do you have a written playbook for each?",
+      "The last time an edge case hit, did your team know what to do, or did they wait for you?",
+      "Which 5% of situations are eating 95% of your team's troubleshooting time?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Speed, Accuracy, and Containment 1-10 each, then rate Chaos 1-10. Speed 8, Accuracy 7, Containment 6, Chaos 3 → EHA = (8×7×6)/3 = 112. Higher EHA means edge cases get handled fast and cleanly without disrupting everything else; lower means one bad case turns into a fire drill.",
+    "closing_statement": "Design for the exceptions, not the average day."
+  },
+  "caption": "Principle Nº 17: Exception Handling\n\nEdge cases kill systems. Average-case thinking is where amateurs live.\n\nAsk yourself: What are the 3 most likely edge cases in your business's flow (refund, no-show, fraud), and do you have a written playbook for each?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

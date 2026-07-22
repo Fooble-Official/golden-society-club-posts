@@ -1,0 +1,85 @@
+{
+  "order": 270,
+  "day": 270,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "270",
+  "title": "Aquaman Rule",
+  "slug": "aquaman-rule",
+  "category": "Persistence & Resilience",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Real persistence means staying in the game even when you do not currently believe you are going to win.",
+    "question": "Where do you need to keep going even though you do not currently feel certain you will win?",
+    "equation": "Long-Term Success = Persistence × Adaptation × Recovery",
+    "mental_model": "Swimming through dark water, the heroism is continuing before land is visible.",
+    "business_lens": "Keep improving the offer, systems, skills, and relationships instead of quitting during the invisible middle.",
+    "life_lens": "Do not treat temporary doubt as final evidence that the dream is impossible.",
+    "sop": [
+      "Identify the goal worth staying in",
+      "Separate doubt from data",
+      "Adjust the strategy without abandoning the mission",
+      "Create recovery rhythms",
+      "Keep taking the next useful action"
+    ],
+    "explainer": "The Aquaman Rule says not giving up can be the most heroic thing you do. Persistence is not blind stubbornness. It means staying in the game while continuing to learn, adjust, and recover.",
+    "questions": [
+      "Where do you need to keep going even though you do not currently feel certain you will win?",
+      "What would you do differently this month if you separated your doubt from actual evidence?",
+      "When was the last time you adjusted your strategy without quitting the mission entirely?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Persistence 8, Adaptation 6, Recovery 4. Score = 8 times 6 times 4 = 192 out of a possible 1,000. Higher means you're staying in the game and getting sharper at the same time. Lower, especially a weak Recovery score, means you'll burn out before the odds turn in your favor.",
+    "closing_statement": "Doubt is a feeling, not a verdict."
+  },
+  "caption": "Principle Nº 270: Aquaman Rule\n\nReal persistence means staying in the game even when you do not currently believe you are going to win. The Aquaman Rule says not giving up can be the most heroic thing you do.\n\nAsk yourself: Where do you need to keep going even though you do not currently feel certain you will win?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 104,
+  "day": 104,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "104",
+  "title": "Feedback Is Everything",
+  "slug": "feedback-is-everything",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems that don't measure can't improve.",
+    "question": "What are you trying to improve without measuring?",
+    "equation": "Improvement = Feedback Speed × Willingness to Adjust",
+    "mental_model": "A thermostat self-corrects because it measures.",
+    "business_lens": "Analytics → adjustments. No data = steering blind.",
+    "life_lens": "Mirror, scale, mood log = personal feedback.",
+    "sop": [
+      "Pick the one number that best reflects whether a specific system is actually working.",
+      "Set up a simple way to track it weekly, even a plain spreadsheet is fine.",
+      "Rate your current Feedback Speed and Willingness to Adjust each 1-10 (see calculation, page 6).",
+      "Put a recurring 15-minute review on your calendar to actually look at the number.",
+      "Change one thing based on what the number says, even if it contradicts your gut."
+    ],
+    "explainer": "",
+    "questions": [
+      "What are you trying to improve without measuring?",
+      "Which number would immediately tell you a system is failing, and are you actually looking at it on a schedule?",
+      "The last time feedback told you something uncomfortable, did you adjust, or did you explain it away?"
+    ],
+    "definitions": [
+      {
+        "term": "Feedback loop",
+        "def": "When a system's output is fed back as input, allowing self-correction or self-amplification."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Feedback Speed (how fast you get real signal) 7, Willingness to Adjust (how fast you actually change based on it) 4. Score = 7 times 4 = 28 out of 100. Higher means fast, honest signal is actually being acted on; a high Feedback Speed paired with a low Willingness to Adjust means you're measuring everything and changing nothing.",
+    "closing_statement": "What you don't measure keeps happening unchanged."
+  },
+  "caption": "Principle Nº 104: Feedback Is Everything\n\nSystems that don't measure can't improve.\n\nAsk yourself: What are you trying to improve without measuring?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,95 @@
+{
+  "order": 276,
+  "day": 276,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "276",
+  "title": "Flywheel Effect",
+  "slug": "flywheel-effect",
+  "category": "Compounding",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Build momentum through small, consistent pushes that compound over time.",
+    "question": "What is the flywheel of your business and which step needs the most consistent push right now?",
+    "equation": "Momentum = Σ(Consistent Pushes) × Time",
+    "mental_model": "Heavy flywheel, each push adds to all previous pushes.",
+    "business_lens": "Identify your core flywheel (e.g., low prices → traffic → sellers → selection → traffic) and protect every component.",
+    "life_lens": "Trust small consistent action over heroic sporadic effort.",
+    "sop": [
+      "Map the loop where each step makes the next easier",
+      "Identify the activity that adds energy to the loop",
+      "Repeat it consistently regardless of short-term feedback",
+      "Track cumulative effects, not single events",
+      "Reinforce the loop; do not chase shiny alternatives"
+    ],
+    "explainer": "Amazon’s flywheel, lower prices → more customers → more sellers → larger selection → better experience → more customers, was drawn on a napkin and ran for two decades. The discipline is consistency in the face of slow visible progress.",
+    "questions": [
+      "What is the flywheel of your business and which step needs the most consistent push right now?",
+      "Which step in your loop, if it sped up even slightly, would speed up every other step too?",
+      "What have you already stopped doing because it didn't show results in the first month?"
+    ],
+    "definitions": [
+      {
+        "term": "Flywheel effect",
+        "def": "A self-reinforcing loop where each small win makes the next one easier, so momentum compounds instead of resetting."
+      }
+    ],
+    "equation_example": "Consistent Pushes counted as actions per month (e.g., 12 disciplined pushes), times Time in months of compounding (e.g., 24 months). Score = 12 times 24 = 288. A higher, rising score means the loop is now feeding itself. A lower, falling score means you're still pushing dead weight instead of a spinning wheel.",
+    "closing_statement": "Momentum comes from repetition, not intensity."
+  },
+  "caption": "Principle Nº 276: Flywheel Effect\n\nBuild momentum through small, consistent pushes that compound over time. Amazon’s flywheel, lower prices → more customers → more sellers → larger selection → better experience → more customers, was drawn on a napkin and ran for two decades.\n\nAsk yourself: What is the flywheel of your business and which step needs the most consistent push right now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 176,
+  "day": 176,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "176",
+  "title": "Quality Compounding",
+  "slug": "quality-compounding",
+  "category": "Advanced Systems",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Better output attracts better opportunities.",
+    "question": "What are you letting be 'good enough' that should be excellent?",
+    "equation": "Opportunity = Quality × Visibility",
+    "mental_model": "Standards magnet.",
+    "business_lens": "High-quality work → premium clients.",
+    "life_lens": "High-quality habits → better life.",
+    "sop": [
+      "List the last 5 things you shipped or delivered.",
+      "Rate the quality of each honestly, 1-10 (see calculation, page 5), not against competitors but against your own ceiling.",
+      "For anything under an 8, identify exactly what corner was cut, time, budget, attention.",
+      "Rate how visible your best work actually is, 1-10 (see calculation, page 5), great work nobody sees doesn't attract opportunity.",
+      "Pick one recurring deliverable and raise its floor this month, then make the improvement visible."
+    ],
+    "explainer": "",
+    "questions": [
+      "What are you letting be 'good enough' that should be excellent?",
+      "What's the last piece of work you shipped that you'd be embarrassed to have a dream client see?",
+      "Are your best opportunities finding you because of your standards, or are you still chasing all of them?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Quality, Visibility. Quality 9 times Visibility 4 equals 36. Higher means excellent work is reaching people who could act on it; lower means either the work isn't excellent yet, or it's excellent and invisible, both cap your opportunity.",
+    "closing_statement": "Opportunity finds the standard, not the hustle."
+  },
+  "caption": "Principle Nº 176: Quality Compounding\n\nBetter output attracts better opportunities.\n\nAsk yourself: What are you letting be 'good enough' that should be excellent?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

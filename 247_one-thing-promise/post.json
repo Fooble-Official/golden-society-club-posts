@@ -1,0 +1,85 @@
+{
+  "order": 247,
+  "day": 247,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "247",
+  "title": "One Thing Promise",
+  "slug": "one-thing-promise",
+  "category": "Value Proposition",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The strongest businesses organize around the single most valuable outcome customers truly care about.",
+    "question": "What is the one result your customers value most from you?",
+    "equation": "Market Pull = Customer Pain × Promise Clarity × Delivery Consistency",
+    "mental_model": "Lighthouse, one clear beam that tells everyone where to go.",
+    "business_lens": "Identify the one promise that matters most and make the business excellent at delivering it.",
+    "life_lens": "Stop trying to be valued for everything and focus on the contribution that creates the most meaningful impact.",
+    "sop": [
+      "List all reasons customers buy from you",
+      "Identify the one reason they would miss most if it disappeared",
+      "Turn that into a clear promise",
+      "Align marketing, operations, and delivery around that promise",
+      "Remove distractions that do not support it"
+    ],
+    "explainer": "The One Thing Promise forces you to find the core reason people actually care. Many businesses confuse features with value. A feature is what you do. Value is the meaningful result the customer gets. If a real estate company helps agents save one day a week, the business should not describe itself with ten vague benefits. It should build everything around time savings. The clearer the promise, the easier it becomes to train the team, sell the offer, and measure success.",
+    "questions": [
+      "What is the one result your customers value most from you?",
+      "If you could only advertise one outcome for the next year, which one actually drives repeat business?",
+      "What do customers complain about losing when they stop working with you?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Customer Pain 9, Promise Clarity 5, Delivery Consistency 7. Score = 9 times 5 times 7 = 315 out of a possible 1,000. Higher means your promise pulls people toward you without extra persuading. Lower means people forget why they should choose you over anyone else.",
+    "closing_statement": "Clarity beats being everything to everyone."
+  },
+  "caption": "Principle Nº 247: One Thing Promise\n\nThe strongest businesses organize around the single most valuable outcome customers truly care about. The One Thing Promise forces you to find the core reason people actually care.\n\nAsk yourself: What is the one result your customers value most from you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

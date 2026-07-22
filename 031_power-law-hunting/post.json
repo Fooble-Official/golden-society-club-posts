@@ -1,0 +1,90 @@
+{
+  "order": 31,
+  "day": 31,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "31",
+  "title": "Power-Law Hunting",
+  "slug": "power-law-hunting",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "In many domains, a few outcomes drive most of the returns.",
+    "question": "Where in your business are you managing for averages when you should be hunting for the one 100x outcome?",
+    "equation": "PLH = (Top-Decile Upside × Discovery Rate) ÷ Total Search Effort",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Rank your customers, channels, products, or hires by actual return, not average performance.",
+      "Identify the top 10-20% that's driving the majority of your results.",
+      "Redirect budget, time, or attention away from average performers and toward the outliers showing early power-law signs.",
+      "Rate Top-Decile Upside and Discovery Rate 1-10, and rate your Total Search Effort 1-10 (see calculation, page 6)",
+      "Re-rank quarterly, this week's average performer could be next quarter's outlier if you keep testing."
+    ],
+    "explainer": "Managing everything like a normal distribution causes you to miss the fat tail where real value lives.",
+    "questions": [
+      "Where in your business are you managing for averages when you should be hunting for the one 100x outcome?",
+      "Which of your current customers, channels, or hires is quietly outperforming everything else by 10x or more?",
+      "Are you spending equal time on all your bets, or doubling down where the outlier is emerging?"
+    ],
+    "definitions": [
+      {
+        "term": "Power law",
+        "def": "A distribution where a few outcomes drive most of the returns."
+      }
+    ],
+    "equation_example": "Rate Top-Decile Upside 1-10 (how big your best outcome could be) and Discovery Rate 1-10 (how fast you're finding new bets), then rate Total Search Effort 1-10 (how much time or budget you're spending searching). Top-Decile Upside 9, Discovery Rate 6, Total Search Effort 5 → PLH = (9×6)/5 = 10.8. Higher PLH means your search process is efficiently finding outsized winners; lower means you're spending effort without surfacing the outliers.",
+    "closing_statement": "A few bets will carry the whole business."
+  },
+  "caption": "Principle Nº 31: Power-Law Hunting\n\nIn many domains, a few outcomes drive most of the returns. Managing everything like a normal distribution causes you to miss the fat tail where real value lives.\n\nAsk yourself: Where in your business are you managing for averages when you should be hunting for the one 100x outcome?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

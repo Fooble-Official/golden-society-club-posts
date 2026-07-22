@@ -1,0 +1,80 @@
+{
+  "order": 197,
+  "day": 197,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "197",
+  "title": "Incremental Improvement (Kaizen)",
+  "slug": "incremental-improvement-kaizen",
+  "category": "Behavioral Design",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Small frequent changes compound.",
+    "question": "What 1% improvement could you make this week that compounds all year?",
+    "equation": "New ≈ Current × (1 + ε)",
+    "mental_model": "One brushstroke.",
+    "business_lens": "Daily A/B tests.",
+    "life_lens": "1% weekly improvements.",
+    "sop": [
+      "Pick one specific element of a recurring process, not the whole process.",
+      "Make one small, testable change to it, not a redesign.",
+      "Measure the result against the same metric you'd use before and after.",
+      "Measure the improvement as a percent change (see calculation, page 5), if positive, keep it; if not, revert without guilt.",
+      "Repeat weekly on a different element, the compounding comes from frequency, not size."
+    ],
+    "explainer": "",
+    "questions": [
+      "What 1% improvement could you make this week that compounds all year?",
+      "What's one process you haven't touched in 6 months simply because it 'works fine'?",
+      "If you made the same small improvement every week for a year, what would that process look like by week 52 that it doesn't look like today?"
+    ],
+    "definitions": [],
+    "equation_example": "Current (this week's baseline performance, in your chosen unit) times (1 plus improvement percent). Current 100 times (1 plus 0.01) equals New 101. Repeated weekly, small consistent improvements compound into a much larger value by year end; a percent at or below 0% means the change isn't actually helping and should be reverted.",
+    "closing_statement": "Small and frequent beats big and rare."
+  },
+  "caption": "Principle Nº 197: Incremental Improvement (Kaizen)\n\nSmall frequent changes compound.\n\nAsk yourself: What 1% improvement could you make this week that compounds all year?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

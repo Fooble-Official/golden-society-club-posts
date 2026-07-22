@@ -1,0 +1,80 @@
+{
+  "order": 93,
+  "day": 93,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "93",
+  "title": "Message-Market Mismatch Diagnostics",
+  "slug": "message-market-mismatch-diagnostics",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Low conversion often means misalignment, not lack of demand.",
+    "question": "If your business's traffic is high but conversion is low, is the message wrong, the offer wrong, or the audience wrong?",
+    "equation": "Diagnostic Score = (Confusion Score plus Objection Score) divided by 2, each rated 1-10 from customer exit interviews, then compare that score against your conversion rate separately. The published formula mixed a raw traffic count with two small 1-10 ratings and divided by 3, which produces a number dominated by traffic and isn't usable as a diagnostic.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Pull your funnel numbers: traffic, click-through, and final conversion rate for the last 30-90 days.",
+      "Talk to 5 people who visited but didn't buy, ask what confused them and what almost stopped them.",
+      "Rate Confusion and Objection level each 1-10 based on that feedback (see calculation, page 5).",
+      "If confusion is high, the message is the problem, clarify the headline and first line before anything else.",
+      "If objection is high but confusion is low, the offer or price is the problem, fix that before touching messaging."
+    ],
+    "explainer": "Before giving up, diagnose: message, market, or offer. Usually only one of the three is broken.",
+    "questions": [
+      "If your business's traffic is high but conversion is low, is the message wrong, the offer wrong, or the audience wrong?",
+      "What's the number one objection people voice right before they leave without buying, and have you ever actually asked them?",
+      "Could a total stranger explain what you sell, and why it matters to them, in one sentence after reading your landing page?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10 from customer exit interviews: Confusion 7, Objection 8. Score = (7 plus 8) divided by 2 = 7.5 out of 10. Compare this against your conversion rate separately: a high score paired with low conversion confirms a messaging or offer mismatch, not a demand problem. A low score with low conversion means the issue is elsewhere, traffic quality, pricing, or trust.",
+    "closing_statement": "Confusion kills sales faster than a bad price does."
+  },
+  "caption": "Principle Nº 93: Message-Market Mismatch Diagnostics\n\nLow conversion often means misalignment, not lack of demand. Before giving up, diagnose: message, market, or offer.\n\nAsk yourself: If your business's traffic is high but conversion is low, is the message wrong, the offer wrong, or the audience wrong?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

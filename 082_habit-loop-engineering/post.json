@@ -1,0 +1,90 @@
+{
+  "order": 82,
+  "day": 82,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "82",
+  "title": "Habit-Loop Engineering",
+  "slug": "habit-loop-engineering",
+  "category": "User Behavior & Retention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Repeated behavior becomes automatic when properly structured.",
+    "question": "What's your business's trigger, action, reward loop? Is it automatic, or does the user have to remember you?",
+    "equation": "HLE = Trigger × Action Simplicity × Reward × Frequency",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Identify the Trigger that could bring a customer back, a notification, a habit, a recurring need.",
+      "Rate Action Simplicity 1-10, how easy the next step is once triggered (see calculation, page 6).",
+      "Rate the Reward 1-10, how satisfying the outcome feels immediately after the action (see calculation, page 6).",
+      "Rate Frequency 1-10, how often this loop could realistically repeat (see calculation, page 6).",
+      "Multiply all four scores together (see calculation, page 6), and if the score is low, fix the weakest link, usually Trigger or Reward, before adding more features."
+    ],
+    "explainer": "Products without loops require marketing forever. Products with loops retain without effort.",
+    "questions": [
+      "What's your business's trigger, action, reward loop? Is it automatic, or does the user have to remember you?",
+      "What reminds a customer to come back to you, an external notification, or their own memory, which fades?",
+      "Does using your product actually feel rewarding in the moment, or just useful in a way people forget to appreciate?"
+    ],
+    "definitions": [
+      {
+        "term": "Habit loop",
+        "def": "Trigger, action, reward."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Trigger 7, Action Simplicity 8, Reward 6, Frequency 5. 7 times 8 times 6 times 5 equals 1,680. Higher means the loop runs on its own, without you having to remind people. Lower means every return visit requires active marketing to make happen.",
+    "closing_statement": "Habits retain users long after marketing stops working."
+  },
+  "caption": "Principle Nº 82: Habit-Loop Engineering\n\nRepeated behavior becomes automatic when properly structured. Products without loops require marketing forever.\n\nAsk yourself: What's your business's trigger, action, reward loop? Is it automatic, or does the user have to remember you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

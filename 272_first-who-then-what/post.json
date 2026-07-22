@@ -1,0 +1,85 @@
+{
+  "order": 272,
+  "day": 272,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "272",
+  "title": "First Who Then What",
+  "slug": "first-who-then-what",
+  "category": "Team & Hiring",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Get the right people on the bus before you decide where to drive it.",
+    "question": "Are the people on your bus the ones you would want with you through any pivot?",
+    "equation": "Team Quality = Character × Capability × Culture Fit",
+    "mental_model": "Crew before course, pick the people who can sail any waters first.",
+    "business_lens": "Recruit A-players against your values and standards even before the strategy is locked in.",
+    "life_lens": "Surround yourself with the right people first; they will help you figure out the right work.",
+    "sop": [
+      "Define core values and required strengths",
+      "Recruit top talent that fits the culture",
+      "Assign roles based on each person's strengths, not legacy job descriptions",
+      "Confront wrong-fit people early",
+      "Only then commit to a long-term strategy together"
+    ],
+    "explainer": "Good-to-Great companies consistently hired for character and adaptability before strategy. They got the wrong people off the bus quickly. The discipline is to hire slow, fire fast on values mismatches, and trust the team to co-create direction once the right people are aboard.",
+    "questions": [
+      "Are the people on your bus the ones you would want with you through any pivot?",
+      "Who on your team would you enthusiastically rehire today, no hesitation?",
+      "Which seat did you fill out of urgency rather than genuine fit?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Character 9, Capability 7, Culture Fit 6. Score = 9 times 7 times 6 = 378 out of a possible 1,000. Higher means this person can survive a strategy change with you. Lower means you hired for a task, not for the journey.",
+    "closing_statement": "Hire people who could survive any pivot."
+  },
+  "caption": "Principle Nº 272: First Who Then What\n\nGet the right people on the bus before you decide where to drive it. Good-to-Great companies consistently hired for character and adaptability before strategy.\n\nAsk yourself: Are the people on your bus the ones you would want with you through any pivot?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

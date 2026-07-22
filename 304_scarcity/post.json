@@ -1,0 +1,85 @@
+{
+  "order": 304,
+  "day": 304,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "304",
+  "title": "Scarcity",
+  "slug": "scarcity",
+  "category": "Persuasion (Cialdini)",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Items become more attractive when they appear rare or limited.",
+    "question": "Am I using genuine scarcity my customers can verify, or manufactured urgency that will erode trust?",
+    "equation": "Scarcity Pull = Genuine Limit × Visibility × Time Pressure",
+    "mental_model": "Last seat at the table, desire spikes near depletion.",
+    "business_lens": "Use real scarcity (cohort sizes, deadlines, limited inventory) transparently; avoid manufactured fake scarcity.",
+    "life_lens": "Recognize when scarcity is being used on you; ask whether it is real or staged.",
+    "sop": [
+      "Identify real constraints (capacity, deadline, inventory)",
+      "Communicate them clearly",
+      "Make the deadline visible",
+      "Honor the deadline strictly",
+      "Never invent fake scarcity, it costs more than it gains"
+    ],
+    "explainer": "Cialdini shows scarcity is a powerful motivator but only when authentic. Webinars with \"8 spots left\" that are actually unlimited get caught and damage brand. Honest cohort caps, real deadlines, and limited founding-member spots work; fake countdowns do not.",
+    "questions": [
+      "Am I using genuine scarcity my customers can verify, or manufactured urgency that will erode trust?",
+      "The last deadline or 'limited spots' message you sent, could a customer have checked it and found it true?",
+      "What real constraint, capacity, inventory, your own time, could you be honest about instead of inventing a fake one?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Genuine Limit 9 (how real the constraint is), Visibility 6, Time Pressure 5. Score = (9 plus 6 plus 5) divided by 3 = 6.7. Higher means urgency drives action without damaging trust because it's real; lower means the scarcity is either invisible or not credible enough to move anyone.",
+    "closing_statement": "Urgency only works as long as it's true."
+  },
+  "caption": "Principle Nº 304: Scarcity\n\nItems become more attractive when they appear rare or limited. Cialdini shows scarcity is a powerful motivator but only when authentic.\n\nAsk yourself: Am I using genuine scarcity my customers can verify, or manufactured urgency that will erode trust?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #Persuasion",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#Persuasion"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

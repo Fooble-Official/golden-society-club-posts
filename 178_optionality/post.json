@@ -1,0 +1,90 @@
+{
+  "order": 178,
+  "day": 178,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "178",
+  "title": "Optionality",
+  "slug": "optionality",
+  "category": "Advanced Systems",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Preserve and create future choices.",
+    "question": "What option are you about to close that you should preserve?",
+    "equation": "Optionality = Live Options × Value",
+    "mental_model": "Option > obligation.",
+    "business_lens": "Multiple paths open.",
+    "life_lens": "Flexibility in life, work, place.",
+    "sop": [
+      "List major decisions coming up in the next quarter.",
+      "Mark each as reversible or irreversible, irreversible ones deserve far more scrutiny.",
+      "For each open option (a possible path not yet chosen), rate its potential value if things change, 1-10 (see calculation, page 6).",
+      "Before closing any high-value option, ask what you'd lose if your current plan turns out wrong.",
+      "Deliberately create one new option this month, a second buyer, a second income stream, a second skill."
+    ],
+    "explainer": "",
+    "questions": [
+      "What option are you about to close that you should preserve?",
+      "What decision in the next 30 days is actually irreversible, and are you treating it with that weight?",
+      "Which current commitment is quietly narrowing your future choices without paying you back for it?"
+    ],
+    "definitions": [
+      {
+        "term": "Optionality",
+        "def": "The value of having future choices."
+      }
+    ],
+    "equation_example": "Live Options (count of real, currently-open paths) times Value (rate each option's worth if needed, 1-10) equals Optionality score. 3 live options times average value 7 equals 21. Higher means you have real alternatives if your main plan fails; lower means you're one bad outcome away from having no moves left.",
+    "closing_statement": "Keep more doors open than you close."
+  },
+  "caption": "Principle Nº 178: Optionality\n\nPreserve and create future choices.\n\nAsk yourself: What option are you about to close that you should preserve?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

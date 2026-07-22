@@ -1,0 +1,90 @@
+{
+  "order": 150,
+  "day": 150,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "150",
+  "title": "Wealth Flow Systems",
+  "slug": "wealth-flow-systems",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Wealth is built from flows you control, not income.",
+    "question": "Are you still trying to build wealth from income alone instead of flows?",
+    "equation": "Wealth = (Income - Expense) × Time",
+    "mental_model": "River > bucket.",
+    "business_lens": "Recurring revenue, equity.",
+    "life_lens": "Predictable inflow = stability.",
+    "sop": [
+      "Track your actual Income and Expense flows for one full month, not estimates.",
+      "Calculate your net (Income minus Expense) and multiply by Time to see accumulated Wealth over a year (see calculation, page 6)",
+      "Identify what share of your income is recurring revenue versus one-off.",
+      "Reduce one recurring Expense leak and redirect it into a wealth-building flow (savings, investment, equity).",
+      "Re-check the net flow monthly, wealth is the trend, not any single month's number."
+    ],
+    "explainer": "",
+    "questions": [
+      "Are you still trying to build wealth from income alone instead of flows?",
+      "If your income stopped for 3 months, what wealth-building flow would keep moving without you?",
+      "How much of your net flow this month came from something that doesn't require your continued labor?"
+    ],
+    "definitions": [
+      {
+        "term": "MRR",
+        "def": "Monthly Recurring Revenue."
+      }
+    ],
+    "equation_example": "Income equals $8,000/month, Expense equals $5,000/month, Time equals 12 months. Wealth equals $3,000 times 12 equals $36,000 built this year. Higher means your net flow, sustained over time, is compounding into real wealth. Lower or negative means expenses are eating your income faster than time can build anything.",
+    "closing_statement": "Income that stops flowing was never wealth."
+  },
+  "caption": "Principle Nº 150: Wealth Flow Systems\n\nWealth is built from flows you control, not income.\n\nAsk yourself: Are you still trying to build wealth from income alone instead of flows?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 92,
+  "day": 92,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "92",
+  "title": "Creative Fatigue Half-Life",
+  "slug": "creative-fatigue-half-life",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Content performance decays predictably.",
+    "question": "How often do you refresh your business's creative? Are you riding dead ads because they were good once?",
+    "equation": "CFH = Time until performance drops to 50% of peak",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Log the launch date and peak performance metric (CTR, engagement, or conversion) for your last 10 pieces of creative.",
+      "Mark the date each one's performance dropped to half its peak, that's its half-life (see calculation, page 6).",
+      "Calculate your average half-life across those 10 pieces.",
+      "Build new creative on a cycle shorter than that average half-life, not after performance has already tanked.",
+      "Retire or refresh anything currently running past its measured half-life, even if it 'still works.'"
+    ],
+    "explainer": "Creative has a half-life. Plan the refresh cycle before performance tells you it's time.",
+    "questions": [
+      "How often do you refresh your business's creative? Are you riding dead ads because they were good once?",
+      "What's the actual date your best-performing post or ad peaked, and how long ago was that?",
+      "If you had to guess your creative's half-life in weeks, would you actually know, or are you flying blind?"
+    ],
+    "definitions": [
+      {
+        "term": "Half-life",
+        "def": "Here, the amount of time it takes a piece of content's performance to fall to half of its peak."
+      }
+    ],
+    "equation_example": "Peak performance in Week 1 (100% of peak). Performance drops to 50% of peak by Week 6, so half-life equals 6 weeks. A short half-life (2-3 weeks) means you need a constant creative pipeline. A long half-life (8+ weeks) means you can run winners longer before refreshing.",
+    "closing_statement": "Every ad has an expiration date, even the good ones."
+  },
+  "caption": "Principle Nº 92: Creative Fatigue Half-Life\n\nContent performance decays predictably. Creative has a half-life.\n\nAsk yourself: How often do you refresh your business's creative? Are you riding dead ads because they were good once?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

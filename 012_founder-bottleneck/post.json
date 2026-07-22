@@ -1,0 +1,90 @@
+{
+  "order": 12,
+  "day": 12,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "12",
+  "title": "Founder Bottleneck",
+  "slug": "founder-bottleneck",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Speed = decision decentralization.",
+    "question": "Which 3 decisions does your team still route through you that they could own? What's the framework you need to hand them?",
+    "equation": "FBT = (Founder Decisions ÷ Total Decisions) × Delay",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Track every decision routed to you for one week, note what it was and how long the requester waited.",
+      "Sort them into must-be-me versus could-be-a-documented-rule-or-someone-else's-call.",
+      "For each could-be-someone-else, write the decision criteria as a simple rule (if X, do Y) and hand it off.",
+      "Rate what share of decisions are Founder Decisions out of Total Decisions, and rate average Delay 1-10 (see calculation, page 6)",
+      "Re-track after 30 days and confirm the ratio and delay have both dropped."
+    ],
+    "explainer": "You are the slowest node. Every decision that waits on you is a throughput tax on the whole company.",
+    "questions": [
+      "Which 3 decisions does your team still route through you that they could own? What's the framework you need to hand them?",
+      "How many hours did people wait on you to decide something this week?",
+      "What decision-making rule, if you wrote it down once, would remove you from this loop permanently?"
+    ],
+    "definitions": [
+      {
+        "term": "Bottleneck",
+        "def": "The slowest or most constrained step in a system."
+      }
+    ],
+    "equation_example": "Calculate Founder Decisions ÷ Total Decisions as a percentage (e.g., 40 of 100 weekly decisions route through you = 40%), then rate average Delay 1-10 (hours a decision waits for you, scaled). 40% × Delay 6 → FBT = 24. Higher FBT means you're the bottleneck slowing the whole company down; lower means decisions move without waiting on you.",
+    "closing_statement": "Speed comes from decisions that don't wait on you."
+  },
+  "caption": "Principle Nº 12: Founder Bottleneck\n\nSpeed = decision decentralization. You are the slowest node.\n\nAsk yourself: Which 3 decisions does your team still route through you that they could own? What's the framework you need to hand them?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

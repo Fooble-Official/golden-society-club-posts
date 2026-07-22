@@ -1,0 +1,99 @@
+{
+  "order": 256,
+  "day": 256,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "256",
+  "title": "Freeze Lifestyle",
+  "slug": "freeze-lifestyle",
+  "category": "Wealth & Optionality",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Keeping personal expenses flat as income rises creates the financial freedom to take bigger strategic risks.",
+    "question": "What personal expenses should stay flat so your future options can expand?",
+    "equation": "Optionality = Rising Income - Lifestyle Inflation",
+    "mental_model": "Widening gap, income rises while lifestyle stays steady, creating room to move.",
+    "business_lens": "Reinvest extra profit into talent, systems, growth, reserves, or assets instead of immediately increasing personal spending.",
+    "life_lens": "Let success expand your choices before it expands your obligations.",
+    "sop": [
+      "Define your current lifestyle baseline",
+      "Decide which expenses will stay flat as income grows",
+      "Create a reinvestment plan for surplus cash",
+      "Build reserves",
+      "Review lifestyle upgrades intentionally, not emotionally"
+    ],
+    "explainer": "Freeze Lifestyle means resisting lifestyle inflation. Lifestyle inflation happens when your spending rises automatically as your income rises. The goal is not deprivation. The goal is to buy optionality before buying status.",
+    "questions": [
+      "What personal expenses should stay flat so your future options can expand?",
+      "If your income doubled this year, which three expenses would you deliberately not increase?",
+      "What's the lifestyle upgrade you're most tempted to make right now, and what would it cost you in optionality?"
+    ],
+    "definitions": [
+      {
+        "term": "Optionality",
+        "def": "The value of having future choices."
+      },
+      {
+        "term": "Lifestyle inflation",
+        "def": "The tendency for personal spending to rise automatically as income rises, quietly absorbing money that could have created financial freedom instead."
+      }
+    ],
+    "equation_example": "Rising Income $60,000 (dollar increase this year) minus Lifestyle Inflation $15,000 (dollar increase in personal spending) equals $45,000 of real Optionality. Higher means more surplus cash to reinvest or hold in reserve. Lower or negative means your raises are being absorbed by new spending before they create any freedom.",
+    "closing_statement": "Choose optionality over upgrade every time."
+  },
+  "caption": "Principle Nº 256: Freeze Lifestyle\n\nKeeping personal expenses flat as income rises creates the financial freedom to take bigger strategic risks. Freeze Lifestyle means resisting lifestyle inflation.\n\nAsk yourself: What personal expenses should stay flat so your future options can expand?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

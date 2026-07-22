@@ -1,0 +1,80 @@
+{
+  "order": 188,
+  "day": 188,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "188",
+  "title": "Life Orchestration",
+  "slug": "life-orchestration",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Everything must work together seamlessly.",
+    "question": "If your life were an orchestra, who's out of tune right now?",
+    "equation": "Quality = System Alignment × Flow",
+    "mental_model": "Orchestra, not chaos.",
+    "business_lens": "Systems aligned; team aligned.",
+    "life_lens": "Business, home, health, beauty, creativity, marriage, all aligned.",
+    "sop": [
+      "List every major system running your life: business, home, health, relationships, finances.",
+      "Rate System Alignment (how well they support each other) and Flow (how smoothly things move day to day), 1-10 each (see calculation, page 5).",
+      "Identify the one system creating friction for the others, usually the loudest, not the weakest.",
+      "Remove one specific friction point this week (a conflicting schedule, a broken handoff, a missing process).",
+      "Review the whole system monthly, not just the part that's currently on fire."
+    ],
+    "explainer": "",
+    "questions": [
+      "If your life were an orchestra, who's out of tune right now?",
+      "Which system in your life is currently working against another one instead of with it?",
+      "When was the last time you actually stepped back and looked at how all your systems interact, instead of just fixing whichever one is loudest?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: System Alignment, Flow. Alignment 7 times Flow 6 equals 42. Higher means your systems reinforce each other and life feels coordinated; lower means you're constantly firefighting friction between parts that should be working together.",
+    "closing_statement": "Tune the whole system, not just the loudest part."
+  },
+  "caption": "Principle Nº 188: Life Orchestration\n\nEverything must work together seamlessly.\n\nAsk yourself: If your life were an orchestra, who's out of tune right now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

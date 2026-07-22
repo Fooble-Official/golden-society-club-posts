@@ -1,0 +1,85 @@
+{
+  "order": 230,
+  "day": 230,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "230",
+  "title": "Boundaries of Control",
+  "slug": "boundaries-of-control",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Focus on what you can control.",
+    "question": "What are you worrying about that you can't actually control?",
+    "equation": "Efficiency = Control × Effort",
+    "mental_model": "Plant seeds, water them.",
+    "business_lens": "Improve product, not fret about competitor.",
+    "life_lens": "Worry less about market.",
+    "sop": [
+      "List every factor currently on your mind, a decision, a worry, a project",
+      "Sort each into Control, Influence, or No Control",
+      "Rate how much effort you're currently spending on each category (see calculation, page 6)",
+      "Redirect effort away from No Control items entirely, plan only within Control and Influence",
+      "Re-evaluate weekly, since some No Control items quietly become Influence over time"
+    ],
+    "explainer": "Effort isn't automatically productive just because it's effort, the same energy spent on something you can't control produces nothing, no matter how hard you push, while the same energy spent on something you can control compounds. The discipline isn't caring less; it's redirecting the caring toward the part of the situation that's actually yours to move.",
+    "questions": [
+      "What are you worrying about that you can't actually control?",
+      "How much of your energy this week went toward something you have zero actual influence over?",
+      "What's one thing you've been treating as within your control that's actually someone else's decision?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Control 8 (how much this is actually yours to change), Effort 7 (how much energy you're putting in). Efficiency = 8 times 7 = 56. Now flip it: Control 2, Effort 7 gives Efficiency = 14. Same effort, wildly different payoff. Higher efficiency means your effort is landing where it can actually change the outcome; a high-effort, low-control combination means you're working hard for nothing.",
+    "closing_statement": "Effort only compounds when it's spent on what you control."
+  },
+  "caption": "Principle Nº 230: Boundaries of Control\n\nFocus on what you can control. Effort isn't automatically productive just because it's effort, the same energy spent on something you can't control produces nothing, no matter how hard you push, while the same energy spent on something you can control compounds.\n\nAsk yourself: What are you worrying about that you can't actually control?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

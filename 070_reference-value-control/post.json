@@ -1,0 +1,90 @@
+{
+  "order": 70,
+  "day": 70,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "70",
+  "title": "Reference-Value Control",
+  "slug": "reference-value-control",
+  "category": "Behavioral Pricing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Value is judged against a reference, not in isolation.",
+    "question": "When a customer sees your price, what are they mentally comparing it to, and can you actually change that reference point?",
+    "equation": "RVC = (Benchmark Adoption × Context Control × Contrast) ÷ Unwanted Exposure",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Identify what customers naturally compare your price to right now (a competitor, a DIY alternative, a past experience, nothing at all).",
+      "Rate your Benchmark Adoption 1-10, how successfully you've gotten customers to compare you to a benchmark that favors you (see calculation, page 6).",
+      "Rate your Context Control 1-10, how much you control what a customer sees right before your price (see calculation, page 6).",
+      "Rate the Contrast 1-10 between that reference and your actual price (see calculation, page 6).",
+      "Rate Unwanted Exposure 1-10, how often customers stumble onto a comparison that hurts you (see calculation, page 6), then build one piece of content or presentation that puts your preferred comparison in front of them first."
+    ],
+    "explainer": "You don't compete on price. You compete on what people compare your price to.",
+    "questions": [
+      "When a customer sees your price, what are they mentally comparing it to, and can you actually change that reference point?",
+      "Do you control what your price gets compared against, or does the customer bring their own comparison in with them?",
+      "If you could put your price next to one specific competitor or alternative, which one would make you look like the obvious choice?"
+    ],
+    "definitions": [
+      {
+        "term": "Anchoring",
+        "def": "The first number a person sees shapes how they evaluate later numbers."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Benchmark Adoption 7, Context Control 6, Contrast 8. 7 times 6 times 8 equals 336, divided by Unwanted Exposure 4 equals 84. Higher scores mean you control the comparison and your price looks favorable. Lower scores mean customers are bringing in comparisons that make you look expensive.",
+    "closing_statement": "You control value by controlling what people compare it to."
+  },
+  "caption": "Principle Nº 70: Reference-Value Control\n\nValue is judged against a reference, not in isolation. You don't compete on price.\n\nAsk yourself: When a customer sees your price, what are they mentally comparing it to, and can you actually change that reference point?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

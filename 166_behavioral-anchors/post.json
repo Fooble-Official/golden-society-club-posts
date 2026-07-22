@@ -1,0 +1,80 @@
+{
+  "order": 166,
+  "day": 166,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "166",
+  "title": "Behavioral Anchors",
+  "slug": "behavioral-anchors",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Anchor behaviors to triggers.",
+    "question": "What existing trigger are you not using as an anchor for a new habit?",
+    "equation": "Consistency = Trigger × Repetition",
+    "mental_model": "Cue → action.",
+    "business_lens": "Triggers in workflows.",
+    "life_lens": "Define triggers.",
+    "sop": [
+      "List the 3 habits you keep failing to stick to.",
+      "For each one, name an existing daily action that already happens like clockwork, pouring coffee, sitting at your desk, closing your laptop.",
+      "Attach the new behavior directly after that trigger, same time, same place, every time.",
+      "Rate how reliable each trigger is, 1-10 (see calculation, page 5), and track completion for 14 days, if compliance is under 70%, the trigger's too weak.",
+      "Once the habit runs without thinking, stack the next one onto it."
+    ],
+    "explainer": "",
+    "questions": [
+      "What existing trigger are you not using as an anchor for a new habit?",
+      "Which habit have you tried and abandoned three times, did it ever have a fixed trigger, or just motivation?",
+      "What time of day already runs on autopilot that a new behavior could ride on?"
+    ],
+    "definitions": [],
+    "equation_example": "Trigger reliability (rate 1-10) times Repetition (times performed this week, count 0-7+) equals Consistency score. Trigger 8 times Repetition 6 equals 48. Higher means the habit is becoming automatic; lower means the anchor is unreliable or you're skipping too often.",
+    "closing_statement": "Automatic beats motivated, every single time."
+  },
+  "caption": "Principle Nº 166: Behavioral Anchors\n\nAnchor behaviors to triggers.\n\nAsk yourself: What existing trigger are you not using as an anchor for a new habit?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

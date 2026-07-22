@@ -1,0 +1,90 @@
+{
+  "order": 185,
+  "day": 185,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "185",
+  "title": "Anti-Fragility",
+  "slug": "anti-fragility",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Some systems get stronger under stress.",
+    "question": "What challenge are you avoiding that would actually make you stronger?",
+    "equation": "Strength = Stress × Adaptation",
+    "mental_model": "Muscle → stress → growth.",
+    "business_lens": "Learning from failure. Adapting fast.",
+    "life_lens": "Resilience. Growth mindset.",
+    "sop": [
+      "List the last 3 setbacks or failures you experienced.",
+      "For each, note whether you changed the underlying system afterward, or just recovered and moved on unchanged.",
+      "Rate your Stress exposure and Adaptation response each 1-10 (see calculation, page 6), how much real challenge you faced, and how much you actually adjusted because of it.",
+      "Choose one controlled stress to introduce deliberately (a hard conversation, a stretch goal, a new skill under pressure).",
+      "After it happens, document what you'd change in the system, not just what you personally learned."
+    ],
+    "explainer": "",
+    "questions": [
+      "What challenge are you avoiding that would actually make you stronger?",
+      "Think of the last real setback you had, did you emerge with a better system, or the same one that failed the first time?",
+      "What's one stress you could deliberately introduce this month, on your terms, before life introduces it on its own?"
+    ],
+    "definitions": [
+      {
+        "term": "Antifragile",
+        "def": "A system that gets stronger under stress."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Stress (how much real challenge you faced), Adaptation (how much you actually changed your approach because of it). Stress 7 times Adaptation 8 equals 56. Higher means the setback made the system stronger; lower means you absorbed the hit but nothing actually improved.",
+    "closing_statement": "Let stress upgrade the system, not just pass through."
+  },
+  "caption": "Principle Nº 185: Anti-Fragility\n\nSome systems get stronger under stress.\n\nAsk yourself: What challenge are you avoiding that would actually make you stronger?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

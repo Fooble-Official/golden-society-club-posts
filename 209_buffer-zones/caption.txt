@@ -1,0 +1,11 @@
+Principle Nº 209: Buffer Zones
+
+Plan slack to handle uncertainty. A system sized exactly to average demand looks efficient right up until demand isn't average, which is most of the time, since averages hide the spikes.
+
+Ask yourself: Where are you running too tight to absorb a normal shock?
+
+The Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.
+
+Follow @TheGoldenSocietyClub for a new principle every day.
+
+#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples

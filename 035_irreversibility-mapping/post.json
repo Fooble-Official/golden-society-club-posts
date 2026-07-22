@@ -1,0 +1,80 @@
+{
+  "order": 35,
+  "day": 35,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "35",
+  "title": "Irreversibility Mapping",
+  "slug": "irreversibility-mapping",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Some decisions can be undone cheaply; others permanently narrow the future.",
+    "question": "For your next big business decision, is it a one-way door or a two-way door? Are you treating it accordingly?",
+    "equation": "IM = (Reversal Cost + Option Loss + Time to Undo + Damage Risk) ÷ Decision Value",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Before your next major decision, ask: if this goes wrong, can I undo it, and what would that cost?",
+      "Sort your pending decisions into one-way doors (hard or costly to reverse) and two-way doors (cheap to reverse).",
+      "Move fast on two-way doors, don't let them sit on your desk waiting for more analysis.",
+      "Rate Reversal Cost, Option Loss, Time to Undo, and Damage Risk 1-10, then rate Decision Value 1-10 (see calculation, page 5)",
+      "For true one-way doors, add one extra step, a trusted second opinion or a 48-hour cooling period, before committing."
+    ],
+    "explainer": "Speed on reversible decisions, slowness on irreversible ones. Founders usually get this exactly backwards.",
+    "questions": [
+      "For your next big business decision, is it a one-way door or a two-way door? Are you treating it accordingly?",
+      "Which decision are you agonizing over that you could actually reverse cheaply if it went wrong?",
+      "Which decision are you about to make fast that you can't actually take back?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Reversal Cost, Option Loss, Time to Undo, and Damage Risk 1-10 each, then rate Decision Value 1-10. Reversal Cost 7, Option Loss 6, Time to Undo 5, Damage Risk 8, sum 26, Decision Value 8 → IM = 26 ÷ 8 = 3.25. Higher IM means the decision is genuinely hard to walk back, so it deserves more analysis time; lower means it's cheap to reverse, so speed matters more than certainty.",
+    "closing_statement": "Move fast on two-way doors, slow on one-way."
+  },
+  "caption": "Principle Nº 35: Irreversibility Mapping\n\nSome decisions can be undone cheaply; others permanently narrow the future. Speed on reversible decisions, slowness on irreversible ones.\n\nAsk yourself: For your next big business decision, is it a one-way door or a two-way door? Are you treating it accordingly?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

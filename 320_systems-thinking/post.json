@@ -1,0 +1,99 @@
+{
+  "order": 320,
+  "day": 320,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "320",
+  "title": "Systems Thinking",
+  "slug": "systems-thinking",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Complex problems require seeing the whole system of interactions, not just isolated symptoms.",
+    "question": "What recurring problem in my business is being produced by the structure rather than by individual choices?",
+    "equation": "Diagnosis Quality = Loop Mapping × Delay Awareness × Leverage Identification",
+    "mental_model": "Web, pull one thread and others move.",
+    "business_lens": "Use causal-loop diagrams for chronic problems; intervene at high-leverage points, not at symptoms.",
+    "life_lens": "When a problem keeps recurring, the structure is producing it, not the people.",
+    "sop": [
+      "Define the recurring problem",
+      "Map the system: stocks, flows, feedback loops",
+      "Identify leverage points (where small changes produce big effects)",
+      "Intervene there",
+      "Watch for unintended consequences in adjacent loops"
+    ],
+    "explainer": "Donella Meadows showed that the highest-leverage interventions are usually at paradigm or rule levels, not at parameter levels. Most management attention goes to the lowest-leverage interventions because they are easiest to see.",
+    "questions": [
+      "What recurring problem in my business is being produced by the structure rather than by individual choices?",
+      "Name a problem you've 'solved' more than twice. What does it tell you that the same issue keeps reappearing with different people involved?",
+      "If you mapped the actual loop, what a customer does, how your team reacts, what that changes next, where would you find the delay that's hiding the real cause?"
+    ],
+    "definitions": [
+      {
+        "term": "Feedback loop",
+        "def": "When a system's output is fed back as input, allowing self-correction or self-amplification."
+      },
+      {
+        "term": "Leverage point",
+        "def": "A small intervention that produces an outsized effect."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Loop Mapping 5 (how clearly you've traced the feedback loops), Delay Awareness 4 (how well you account for time lags between cause and effect), Leverage Identification 7 (how precisely you've found the highest-impact intervention point). Score = (5 plus 4 plus 7) divided by 3 = 5.3. Higher means your fix is likely to actually resolve the recurring problem; lower means you're probably about to treat a symptom again.",
+    "closing_statement": "Recurring problems come from structure, not from people."
+  },
+  "caption": "Principle Nº 320: Systems Thinking\n\nComplex problems require seeing the whole system of interactions, not just isolated symptoms. Donella Meadows showed that the highest-leverage interventions are usually at paradigm or rule levels, not at parameter levels.\n\nAsk yourself: What recurring problem in my business is being produced by the structure rather than by individual choices?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

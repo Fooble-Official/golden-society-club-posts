@@ -1,0 +1,90 @@
+{
+  "order": 191,
+  "day": 191,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "191",
+  "title": "Information Flow Loops",
+  "slug": "information-flow-loops",
+  "category": "Cybernetics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Effective systems rely on feedback.",
+    "question": "Which system are you running without any feedback mechanism?",
+    "equation": "Next State = Current + f(Feedback)",
+    "mental_model": "Coach watches tape.",
+    "business_lens": "Analytics → review → adjust.",
+    "life_lens": "Journal to reflect and redirect.",
+    "sop": [
+      "List the systems or routines you run regularly: marketing, operations, health, finances.",
+      "For each, identify what output you could actually measure, not just feel.",
+      "Set a fixed review point (weekly, monthly) to look at that measurement, not an occasional glance.",
+      "Adjust one specific input based on what the last review showed you.",
+      "Close the loop, write down what changed and why, so the next review has something to compare against."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which system are you running without any feedback mechanism?",
+      "What decision are you still making the same way you made it a year ago, with no new data since?",
+      "If your last 10 decisions in one area were reviewed together, would you see a pattern of improvement, or the same mistake repeating?"
+    ],
+    "definitions": [
+      {
+        "term": "Feedback loop",
+        "def": "When a system's output is fed back as input, allowing self-correction or self-amplification."
+      }
+    ],
+    "equation_example": "Current (a performance score you're tracking) plus Feedback Adjustment (the change you make based on reviewing results, positive or negative) equals Next State. Current 60 plus Feedback Adjustment plus 15 equals Next State 75. A rising Next State means the loop is actually improving the system; a flat or falling one means feedback isn't being used, just collected.",
+    "closing_statement": "A system without feedback just repeats its mistakes."
+  },
+  "caption": "Principle Nº 191: Information Flow Loops\n\nEffective systems rely on feedback.\n\nAsk yourself: Which system are you running without any feedback mechanism?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

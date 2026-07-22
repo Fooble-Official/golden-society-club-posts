@@ -1,0 +1,95 @@
+{
+  "order": 262,
+  "day": 262,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "262",
+  "title": "Assume Success",
+  "slug": "assume-success",
+  "category": "Bottlenecks & Scale",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "To find the real bottleneck, assume the business doubles tomorrow and ask where it breaks first.",
+    "question": "If the business doubled tomorrow, what would break first?",
+    "equation": "Scale Capacity = Demand Growth ÷ Bottleneck Severity",
+    "mental_model": "Stress test, success reveals weak points before reality does.",
+    "business_lens": "Pressure-test sales, onboarding, fulfillment, hiring, leadership, cash flow, and founder capacity.",
+    "life_lens": "Ask what part of your life would break if your dreams started working.",
+    "sop": [
+      "Imagine demand doubles tomorrow",
+      "Map what would happen in sales, operations, delivery, team, and cash",
+      "Identify the first breaking point",
+      "Fix that constraint",
+      "Repeat after each growth stage"
+    ],
+    "explainer": "Assume Success is a powerful bottleneck test. Instead of only asking what is going wrong now, you ask what would fail if things went right. Often the answer is the founder. The founder may be the only person who sells, approves, creates, manages, or fixes everything. That is not scalable.",
+    "questions": [
+      "If the business doubled tomorrow, what would break first?",
+      "Are you the bottleneck, and if so, which specific task would you have to hand off first?",
+      "What system have you never actually stress-tested because it's never had to handle real volume?"
+    ],
+    "definitions": [
+      {
+        "term": "Bottleneck",
+        "def": "The slowest or most constrained step in a system."
+      }
+    ],
+    "equation_example": "Demand Growth rated 1-10, Bottleneck Severity rated 1-10. Demand Growth 8 divided by Bottleneck Severity 6 equals 1.3. A ratio above 1 means growth is outpacing your constraint and the business can absorb the surge. A ratio below 1 means the bottleneck would break before growth ever converted to revenue.",
+    "closing_statement": "Find your ceiling before growth finds it for you."
+  },
+  "caption": "Principle Nº 262: Assume Success\n\nTo find the real bottleneck, assume the business doubles tomorrow and ask where it breaks first. Assume Success is a powerful bottleneck test.\n\nAsk yourself: If the business doubled tomorrow, what would break first?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

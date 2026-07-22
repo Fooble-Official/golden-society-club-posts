@@ -1,0 +1,85 @@
+{
+  "order": 286,
+  "day": 286,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "286",
+  "title": "Pareto Principle",
+  "slug": "pareto-principle",
+  "category": "Prioritization",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "About 80 percent of results come from about 20 percent of causes.",
+    "question": "Which 20% of your work produces 80% of your results, and are you protecting time for it?",
+    "equation": "Output ≈ 0.8 × Top 20% of Inputs",
+    "mental_model": "Long thin tail, most of the value is at the front.",
+    "business_lens": "Identify the 20% of customers, products, or activities driving 80% of value; over-invest there.",
+    "life_lens": "Look for the few activities producing most of your results; cut or shrink the rest.",
+    "sop": [
+      "Sort outcomes by category (customer, product, activity)",
+      "Identify the top contributors",
+      "Confirm the 80/20 pattern (or 90/10, 99/1)",
+      "Concentrate resources on the top tier",
+      "Trim or simplify the long tail"
+    ],
+    "explainer": "Pareto noticed 80% of Italy’s land was owned by 20% of people. The pattern recurs in customer revenue, software bug sources, and time spent. The discipline is acting on the asymmetry, most people know it intellectually but allocate as if everything matters equally.",
+    "questions": [
+      "Which 20% of your work produces 80% of your results, and are you protecting time for it?",
+      "If you fired the bottom half of your product line or customer list tomorrow, would revenue actually drop, or would it barely move?",
+      "What's on your calendar this week that eats more than 20% of your hours but shows up in less than 20% of your output?"
+    ],
+    "definitions": [],
+    "equation_example": "Sort your customers by revenue. Top 20% (4 of 20 customers) generate $80,000 of $100,000 total revenue equals 80% of output. A ratio more skewed than this, like 90/10, means results depend on an even smaller base, more leverage but more risk if you lose them. A flatter ratio, closer to 50/50, means results are spread evenly, more resilient but with no obvious lever to pull.",
+    "closing_statement": "Not all effort earns the same return."
+  },
+  "caption": "Principle Nº 286: Pareto Principle\n\nAbout 80 percent of results come from about 20 percent of causes. Pareto noticed 80% of Italy’s land was owned by 20% of people.\n\nAsk yourself: Which 20% of your work produces 80% of your results, and are you protecting time for it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

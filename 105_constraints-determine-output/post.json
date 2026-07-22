@@ -1,0 +1,90 @@
+{
+  "order": 105,
+  "day": 105,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "105",
+  "title": "Constraints Determine Output",
+  "slug": "constraints-determine-output",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The weakest link caps the system.",
+    "question": "What's the one constraint you've been optimizing around instead of actually fixing?",
+    "equation": "Max Output = Capacity of the Weakest Constraint, rated 1-10, that single number caps your system's output regardless of how strong everything else is. The original 'Max Output = f(Weakest Constraint)' is function notation, not a literal calculation.",
+    "mental_model": "A chain breaks at its weakest link.",
+    "business_lens": "Fix the bottleneck, not the strongest part.",
+    "life_lens": "Energy, time, or clarity, whichever is lowest sets your day.",
+    "sop": [
+      "Map your process end to end and note the capacity, speed, volume, or quality output, of each stage.",
+      "Rate the capacity of each stage 1-10 to find the lowest score, that's your real constraint (see calculation, page 6).",
+      "Ignore every other stage until the constraint is measurably widened.",
+      "Add capacity, remove a step, or delegate at that single point.",
+      "Re-map the chain afterward, the constraint has likely moved somewhere else. Repeat."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's the one constraint you've been optimizing around instead of actually fixing?",
+      "If you doubled the capacity of your weakest link tomorrow, what would break next, and have you already met that constraint?",
+      "Which part of your process gets the least attention precisely because everyone knows it's the problem?"
+    ],
+    "definitions": [
+      {
+        "term": "Theory of Constraints",
+        "def": "Every system has a single constraint that caps output."
+      }
+    ],
+    "equation_example": "Rate the capacity of each part of your system 1-10: Marketing 9, Sales 8, Fulfillment 3, Support 7. Max Output equals the lowest score, 3, not the average. Higher means your bottleneck itself is strong and the whole system can run near capacity; lower means one weak link is capping everything else, no matter how good the rest is.",
+    "closing_statement": "Fix the weakest link, not the strongest one."
+  },
+  "caption": "Principle Nº 105: Constraints Determine Output\n\nThe weakest link caps the system.\n\nAsk yourself: What's the one constraint you've been optimizing around instead of actually fixing?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 194,
+  "day": 194,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "194",
+  "title": "Stock and Flow",
+  "slug": "stock-and-flow",
+  "category": "Cybernetics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Life assets are stocks fed by flows.",
+    "question": "Are you managing the stock or the flow, and which matters more?",
+    "equation": "Stock(t) = Stock(t-1) + Inflow - Outflow",
+    "mental_model": "Bathtub.",
+    "business_lens": "Customers = stock; ads = inflow; churn = outflow.",
+    "life_lens": "Weight, sleep, savings.",
+    "sop": [
+      "Identify your key stocks: savings, customers, health, trust, inventory, things you accumulate.",
+      "For each stock, name its Inflow (what adds to it) and Outflow (what drains it).",
+      "Track both flows in real numbers for 30 days (see calculation, page 6), not just the stock level itself.",
+      "Fix whichever flow is weaker, increase inflow if it's too slow, or reduce outflow if it's too fast.",
+      "Re-check the stock level monthly; a stock can look fine right up until a flow imbalance catches up with it."
+    ],
+    "explainer": "",
+    "questions": [
+      "Are you managing the stock or the flow, and which matters more?",
+      "What's one stock in your life (savings, health, trust, energy) that's been quietly draining because you've only been watching the inflow?",
+      "If your biggest outflow doubled tomorrow, would your stock survive six months?"
+    ],
+    "definitions": [
+      {
+        "term": "Stock and flow",
+        "def": "A 'stock' is what you have; a 'flow' is what changes it."
+      }
+    ],
+    "equation_example": "Previous stock plus Inflow minus Outflow equals New stock, in real units (customers, dollars, pounds). Savings: previous month $5,000 plus Inflow $800 minus Outflow $500 equals $5,300 this month. Rising stock means inflow is outpacing outflow; falling stock means outflow is winning even if the stock still looks healthy today.",
+    "closing_statement": "Watch the flows, not just the number today."
+  },
+  "caption": "Principle Nº 194: Stock and Flow\n\nLife assets are stocks fed by flows.\n\nAsk yourself: Are you managing the stock or the flow, and which matters more?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

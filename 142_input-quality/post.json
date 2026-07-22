@@ -1,0 +1,90 @@
+{
+  "order": 142,
+  "day": 142,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "142",
+  "title": "Input Quality",
+  "slug": "input-quality",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Outputs depend on inputs.",
+    "question": "What's one low-quality input you tolerate that should be cut this week?",
+    "equation": "Output = Input × Process",
+    "mental_model": "GIGO.",
+    "business_lens": "Content quality, audience quality.",
+    "life_lens": "Food, info, people.",
+    "sop": [
+      "List your top 3 recurring inputs (leads, information sources, people, raw materials).",
+      "Rate the Input quality 1-10 and your Process quality 1-10 for each (see calculation, page 6)",
+      "Cut or upgrade the lowest-rated input first, a better process can't fully rescue a bad input.",
+      "Set a minimum standard/filter so low-quality inputs can't get in going forward.",
+      "Re-check output quality after 2 weeks to confirm the input change actually moved the result."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's one low-quality input you tolerate that should be cut this week?",
+      "Whose advice, content, or feedback have you been absorbing that's actually lowering your standards?",
+      "What raw material, leads, information, ingredients, are you accepting as 'good enough' without checking?"
+    ],
+    "definitions": [
+      {
+        "term": "GIGO",
+        "def": "Garbage In, Garbage Out, the principle that flawed or low-quality inputs will always produce flawed outputs, no matter how good the process handling them is."
+      }
+    ],
+    "equation_example": "Rate Input quality 1-10 and Process quality 1-10. Input 4 times Process 9 equals 36 out of 100. Higher means good material and good execution are compounding together. Lower means even a great process can't fully rescue poor inputs (or vice versa).",
+    "closing_statement": "No process fixes what a bad input already broke."
+  },
+  "caption": "Principle Nº 142: Input Quality\n\nOutputs depend on inputs.\n\nAsk yourself: What's one low-quality input you tolerate that should be cut this week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

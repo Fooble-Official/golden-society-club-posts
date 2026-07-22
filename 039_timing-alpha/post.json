@@ -1,0 +1,90 @@
+{
+  "order": 39,
+  "day": 39,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "39",
+  "title": "Timing Alpha",
+  "slug": "timing-alpha",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The same move can be brilliant or stupid depending on when you do it.",
+    "question": "Is right now early, late, or exactly on time for your model in this market? What proof do you have, not gut feel?",
+    "equation": "TA = Actual Return from Timing - Expected Return from Average Timing",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the market signals that would indicate too-early (no demand, no awareness) versus right-on-time (rising demand, competitors entering).",
+      "Check which signals you're actually seeing right now versus which you're assuming.",
+      "If evidence points to early, find a smaller, cheaper way to stay in the game until the timing signals flip.",
+      "Rate your Actual Return from Timing and your Expected Return from Average Timing 1-10 (see calculation, page 6)",
+      "Reassess timing every quarter, being early isn't permanent, but staying there too long is a choice."
+    ],
+    "explainer": "Early is often indistinguishable from wrong. Late is usually fatal. Timing is a skill, not luck.",
+    "questions": [
+      "Is right now early, late, or exactly on time for your model in this market? What proof do you have, not gut feel?",
+      "What would have to be true for too-early to actually mean ahead-of-everyone-else?",
+      "What signal, if it appeared tomorrow, would tell you it's time to move faster, not slower?"
+    ],
+    "definitions": [
+      {
+        "term": "Alpha",
+        "def": "Extra return you get beyond what you'd expect from an average, unremarkable execution of the same idea."
+      }
+    ],
+    "equation_example": "Rate your Actual Return from acting at this specific time 1-10, and your Expected Return from acting at an average or typical time 1-10. Actual Return 8, Expected Return from Average Timing 5 → TA = 8 - 5 = 3. A positive TA means your timing is adding real advantage; a negative TA means the timing itself is working against you, regardless of how good the idea is.",
+    "closing_statement": "Prove your timing with evidence, not conviction."
+  },
+  "caption": "Principle Nº 39: Timing Alpha\n\nThe same move can be brilliant or stupid depending on when you do it. Early is often indistinguishable from wrong.\n\nAsk yourself: Is right now early, late, or exactly on time for your model in this market? What proof do you have, not gut feel?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

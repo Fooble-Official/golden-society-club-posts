@@ -1,0 +1,90 @@
+{
+  "order": 145,
+  "day": 145,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "145",
+  "title": "Feedback Speed",
+  "slug": "feedback-speed",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Faster feedback = faster improvement.",
+    "question": "Where are you getting feedback too slowly to act on it?",
+    "equation": "Improvement = Speed × Adjustment",
+    "mental_model": "Short loop.",
+    "business_lens": "Analytics, testing.",
+    "life_lens": "Tracking weight, habits.",
+    "sop": [
+      "List your key Feedback loops, where you measure results and where you don't (see calculation, page 6)",
+      "Rate the Speed 1-10 of each loop, how quickly you actually see the result of an action (see calculation, page 6)",
+      "Shorten the slowest loop, check it weekly or daily instead of monthly.",
+      "Rate your Adjustment 1-10, how much you actually change behavior based on what you see (see calculation, page 6)",
+      "If Adjustment is low despite fast Speed, fix that first, fast feedback you ignore is wasted."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where are you getting feedback too slowly to act on it?",
+      "What decision are you still making on data that's a month old?",
+      "If you got results on today's actions by tomorrow morning instead of next quarter, what would you do differently right now?"
+    ],
+    "definitions": [
+      {
+        "term": "Feedback loop",
+        "def": "When a system's output is fed back as input, allowing self-correction or self-amplification."
+      }
+    ],
+    "equation_example": "Rate Speed 1-10 (how fast you get feedback) and Adjustment 1-10 (how well you act on it). Speed 8 times Adjustment 5 equals 40 out of 100. Higher means fast feedback is actually translating into real course-correction. Lower means either feedback is slow, or you're not adjusting even when it's fast.",
+    "closing_statement": "Fast feedback you ignore is the same as no feedback."
+  },
+  "caption": "Principle Nº 145: Feedback Speed\n\nFaster feedback = faster improvement.\n\nAsk yourself: Where are you getting feedback too slowly to act on it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

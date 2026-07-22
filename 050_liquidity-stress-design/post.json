@@ -1,0 +1,80 @@
+{
+  "order": 50,
+  "day": 50,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "50",
+  "title": "Liquidity Stress Design",
+  "slug": "liquidity-stress-design",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Insolvency often happens through timing, not lack of theoretical profitability.",
+    "question": "If your business revenue dropped 40% for 3 months, how many weeks could you operate before cutting?",
+    "equation": "LSD = (Cash Buffer + Credit + Conversion Speed + Variable Cost Flex) ÷ Fixed Burn",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Calculate your current Cash Buffer in months of Fixed Burn covered (see calculation, page 5).",
+      "List available Credit (lines of credit, factoring, owner capital) as additional months of runway (see calculation, page 5).",
+      "Rate your Conversion Speed and Variable Cost Flex 1-10, how fast you collect cash and how much of your spend you could cut on short notice (see calculation, page 5).",
+      "Run a written 40% revenue drop for 3 months scenario and calculate how many weeks you'd survive.",
+      "If the answer is under 8 weeks, build a specific cash reserve or credit-line target this quarter."
+    ],
+    "explainer": "Profitable companies die from cash timing mismatches. Model the stress before it arrives.",
+    "questions": [
+      "If your business revenue dropped 40% for 3 months, how many weeks could you operate before cutting?",
+      "How much of your monthly costs are truly fixed versus costs you could cut within two weeks if revenue fell?",
+      "Do you have a pre-arranged credit line or backup cash source, or would a bad quarter mean scrambling for a loan?"
+    ],
+    "definitions": [],
+    "equation_example": "Cash Buffer 2 months, Credit 1 month, Conversion Speed rated 7 out of 10, Variable Cost Flex rated 6 out of 10, divided by Fixed Burn rated 8 out of 10. (2 plus 1 plus 7 plus 6) divided by 8 equals 2.0. Higher scores mean you can absorb a revenue shock for longer before cutting; lower scores mean a bad quarter could force emergency decisions fast.",
+    "closing_statement": "Cash timing kills faster than bad unit economics."
+  },
+  "caption": "Principle Nº 50: Liquidity Stress Design\n\nInsolvency often happens through timing, not lack of theoretical profitability. Profitable companies die from cash timing mismatches.\n\nAsk yourself: If your business revenue dropped 40% for 3 months, how many weeks could you operate before cutting?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

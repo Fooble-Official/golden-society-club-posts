@@ -1,0 +1,80 @@
+{
+  "order": 200,
+  "day": 200,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "200",
+  "title": "Goal Coupling",
+  "slug": "goal-coupling",
+  "category": "Viable Systems",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Sub-goals align under higher purpose.",
+    "question": "What are you doing that doesn't actually serve your core mission?",
+    "equation": "Alignment = Σ(Relevance to Main Goal)",
+    "mental_model": "Every mission levels same hero.",
+    "business_lens": "Every project serves vision.",
+    "life_lens": "Every habit serves identity.",
+    "sop": [
+      "Write your core mission in one clear sentence.",
+      "List every current project, habit, or commitment you're actively spending time on.",
+      "Rate each one's Relevance to the main goal, 1-10 (see calculation, page 5).",
+      "Sum the relevance scores to see how coupled your actual activity is to your stated mission.",
+      "Drop or renegotiate anything scoring below a 4, it's consuming resources without advancing the mission."
+    ],
+    "explainer": "",
+    "questions": [
+      "What are you doing that doesn't actually serve your core mission?",
+      "If you wrote your actual mission down and checked your calendar against it, how much of this week would survive?",
+      "Which project are you keeping alive out of momentum rather than because it still fits where you're going?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each active project's Relevance to your main goal, 1-10, then sum them. Project A 8 plus Project B 3 plus Project C 6 equals Alignment score 17 out of a possible 30 (3 projects times 10). Higher means most of your effort is actually pointed at your stated goal; lower means you're busy in directions that don't add up to it.",
+    "closing_statement": "Every commitment should trace back to one destination."
+  },
+  "caption": "Principle Nº 200: Goal Coupling\n\nSub-goals align under higher purpose.\n\nAsk yourself: What are you doing that doesn't actually serve your core mission?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

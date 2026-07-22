@@ -1,0 +1,80 @@
+{
+  "order": 138,
+  "day": 138,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "138",
+  "title": "Batching",
+  "slug": "batching",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Switching tasks kills efficiency.",
+    "question": "What are you doing scattered that you could batch once a week?",
+    "equation": "Efficiency = Output ÷ Switching",
+    "mental_model": "Factory.",
+    "business_lens": "Film multiple videos one shoot.",
+    "life_lens": "Sunday meal prep.",
+    "sop": [
+      "List everything you did yesterday and tag each task by type (creative, admin, communication, etc.).",
+      "Count how many times you switched task type, that's your Switching count (see calculation, page 5)",
+      "Group similar tasks from the coming week into one or two dedicated blocks.",
+      "Protect each block from interruption, no email, no messages, no other task types.",
+      "Track Output completed per block to confirm batching is actually working (see calculation, page 5)"
+    ],
+    "explainer": "",
+    "questions": [
+      "What are you doing scattered that you could batch once a week?",
+      "How many times today did you switch between fundamentally different types of task?",
+      "What would change if you only checked messages twice a day instead of continuously?"
+    ],
+    "definitions": [],
+    "equation_example": "Output equals 12 (tasks completed), Switching equals 4 (number of times you changed task type). Efficiency equals 3 outputs per switch. Higher means you're completing more before context-switching drains you. Lower means you're bleeding time re-orienting between tasks instead of doing them.",
+    "closing_statement": "Every switch costs more than the task itself."
+  },
+  "caption": "Principle Nº 138: Batching\n\nSwitching tasks kills efficiency.\n\nAsk yourself: What are you doing scattered that you could batch once a week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

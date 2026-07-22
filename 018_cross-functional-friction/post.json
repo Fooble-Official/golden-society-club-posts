@@ -1,0 +1,80 @@
+{
+  "order": 18,
+  "day": 18,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "18",
+  "title": "Cross-Functional Friction",
+  "slug": "cross-functional-friction",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Most problems are between teams.",
+    "question": "Where do tasks stall inside your business? Between which two people or functions does work die the longest?",
+    "equation": "CFF = Σ(Handoff Delay + Rework + Misalignment)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Map your core workflow as a chain of handoffs (e.g., sales to fulfillment, design to production).",
+      "For your last 3 projects, note where each one stalled longest and for how long.",
+      "Rate Handoff Delay, Rework, and Misalignment 1-10 for your weakest handoff, then sum them (see calculation, page 5)",
+      "Assign one clear owner on each side of that handoff and define what done-and-ready-to-pass actually means.",
+      "Re-check the same handoff in 30 days and see if the delay shrank."
+    ],
+    "explainer": "Teams don't fail at their own work, they fail at the seams between their work and someone else's.",
+    "questions": [
+      "Where do tasks stall inside your business? Between which two people or functions does work die the longest?",
+      "Which handoff in your workflow requires the most back-and-forth before anyone's satisfied with the result?",
+      "If you mapped your last big project's timeline, which gap between two people ate the most days?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Handoff Delay, Rework, and Misalignment 1-10 each for your weakest handoff, then add them. Handoff Delay 7, Rework 6, Misalignment 5 → CFF = 7+6+5 = 18 out of a possible 30. Higher CFF means more value is leaking at the seams between teams; lower means handoffs are clean and fast.",
+    "closing_statement": "The seams cost more than the work itself."
+  },
+  "caption": "Principle Nº 18: Cross-Functional Friction\n\nMost problems are between teams. Teams don't fail at their own work, they fail at the seams between their work and someone else's.\n\nAsk yourself: Where do tasks stall inside your business? Between which two people or functions does work die the longest?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

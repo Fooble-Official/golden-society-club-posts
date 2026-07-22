@@ -1,0 +1,11 @@
+Principle Nº 43: Single-Point-of-Failure Inventory
+
+What cannot fail safely is a hidden existential risk. SPoFs are the risks you pretend aren't there.
+
+Ask yourself: Name your business's top 3 single points of failure. What's your mitigation for each?
+
+The Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.
+
+Follow @TheGoldenSocietyClub for a new principle every day.
+
+#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples

@@ -1,0 +1,90 @@
+{
+  "order": 77,
+  "day": 77,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "77",
+  "title": "Local Network Compounding",
+  "slug": "local-network-compounding",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Repetition within a network creates exponential value.",
+    "question": "What mechanic in your business makes each use more valuable than the last, for the same user?",
+    "equation": "LNC = Repeat Usage × Referral × Partner Retention × Frequency",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Identify one specific mechanic (data, community, saved preferences, referral rewards) that could make repeat use more valuable than first use.",
+      "Rate Repeat Usage 1-10, how often the same customer comes back (see calculation, page 6).",
+      "Rate Referral 1-10, how often customers bring in others (see calculation, page 6).",
+      "Rate Partner Retention 1-10, how long your supply-side or partners stay active (see calculation, page 6).",
+      "Rate Frequency 1-10, how often interactions happen overall (see calculation, page 6), then invest specifically in whichever factor scores lowest."
+    ],
+    "explainer": "Network effects live in repeat interaction. One-shot products don't compound; habitual ones do.",
+    "questions": [
+      "What mechanic in your business makes each use more valuable than the last, for the same user?",
+      "Does using your product once make someone more likely to use it again, or does every visit start from zero?",
+      "If a customer referred a friend, would that friend's presence actually make the original customer's experience better?"
+    ],
+    "definitions": [
+      {
+        "term": "Network effect",
+        "def": "When a product becomes more valuable as more people use it."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Repeat Usage 7, Referral 6, Partner Retention 8, Frequency 7. 7 times 6 times 8 times 7 equals 2,352. Higher and rising means your product gets more valuable the more it's used, real compounding. Lower means every use is basically a one-off, and you're stuck re-earning each customer from scratch.",
+    "closing_statement": "Real network effects live inside repeat use, not signups."
+  },
+  "caption": "Principle Nº 77: Local Network Compounding\n\nRepetition within a network creates exponential value. Network effects live in repeat interaction.\n\nAsk yourself: What mechanic in your business makes each use more valuable than the last, for the same user?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 113,
+  "day": 113,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "113",
+  "title": "Identify the Real Problem",
+  "slug": "identify-the-real-problem",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Most failures come from solving the wrong problem.",
+    "question": "What are you solving that might be a symptom of a deeper issue?",
+    "equation": "Clarity = Real Problem ÷ Symptom Confusion",
+    "mental_model": "X-ray symptom for source.",
+    "business_lens": "Low sales ≠ marketing problem. Could be positioning.",
+    "life_lens": "Low energy ≠ need coffee. Could be sleep.",
+    "sop": [
+      "State the problem as you currently see it.",
+      "Ask 'why is this happening' and answer honestly, then ask why again, five times total.",
+      "Rate your confidence in the Real Problem versus the Symptom Confusion, each 1-10 (see calculation, page 5).",
+      "Solve for the answer at level 4-5 of that chain, not level 1.",
+      "Check back in a month, if the original symptom returns, you stopped too early."
+    ],
+    "explainer": "",
+    "questions": [
+      "What are you solving that might be a symptom of a deeper issue?",
+      "If your fix actually worked, would the original complaint disappear for good, or just go quiet for a few weeks?",
+      "What problem have you 'solved' more than once, and what does that repetition actually tell you?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: how clearly you've identified the Real Problem 3, how much Symptom Confusion is clouding it 8. Score = 3 divided by 8 = 0.4. A ratio well below 1 means you're likely treating a symptom, not the cause, stop and dig further. A ratio near or above 1 means you've actually found the root.",
+    "closing_statement": "Treat the symptom as a clue, not the cause."
+  },
+  "caption": "Principle Nº 113: Identify the Real Problem\n\nMost failures come from solving the wrong problem.\n\nAsk yourself: What are you solving that might be a symptom of a deeper issue?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 189,
+  "day": 189,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "189",
+  "title": "Self-Sustaining Life System",
+  "slug": "self-sustaining-life-system",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The ultimate system runs without constant effort.",
+    "question": "What one system, if made self-sustaining in 90 days, would change your whole life?",
+    "equation": "Freedom = Automation × Alignment × Consistency",
+    "mental_model": "Machine that feeds itself.",
+    "business_lens": "Automated revenue; team-operated systems.",
+    "life_lens": "Routines automatic; home clean without stress.",
+    "sop": [
+      "List the systems currently held together by your memory and willpower alone.",
+      "Rate Automation, Alignment, and Consistency each 1-10 for your top system (see calculation, page 5).",
+      "Automate the piece that's currently 100% manual, bill pay, scheduling, restocking, reporting.",
+      "Remove one decision point that depends on willpower by making the default the right choice.",
+      "Refine monthly, a self-sustaining system still needs occasional maintenance, just not daily attention."
+    ],
+    "explainer": "",
+    "questions": [
+      "What one system, if made self-sustaining in 90 days, would change your whole life?",
+      "What currently runs only because you personally remember to do it, and what happens the week you forget?",
+      "If you got sick for two weeks, which parts of your life would keep functioning without you?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Automation, Alignment, Consistency. Automation 7 times Alignment 8 times Consistency 6 equals 336. Higher means the system runs correctly even on weeks you're not paying attention; lower means it quietly stops the moment your attention shifts elsewhere.",
+    "closing_statement": "Build systems that survive the weeks you forget them."
+  },
+  "caption": "Principle Nº 189: Self-Sustaining Life System\n\nThe ultimate system runs without constant effort.\n\nAsk yourself: What one system, if made self-sustaining in 90 days, would change your whole life?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

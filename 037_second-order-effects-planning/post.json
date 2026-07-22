@@ -1,0 +1,90 @@
+{
+  "order": 37,
+  "day": 37,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "37",
+  "title": "Second-Order Effects Planning",
+  "slug": "second-order-effects-planning",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The consequence after the consequence often matters more than the first-order win.",
+    "question": "If your business hits its launch numbers perfectly, what does that create that you haven't planned for?",
+    "equation": "SOEP = First-Order Gain (rate 1-10) + Positive Second-Order Effects (list each one, rate 1-10, sum them) - Negative Second-Order Effects (list each one, rate 1-10, sum them)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Take your current top initiative and write down the first-order goal, what success literally looks like.",
+      "List every second-order consequence you can think of, both good (new opportunities) and bad (new costs, new competitors, new complexity).",
+      "Rate your First-Order Gain 1-10, then rate each Positive and Negative Second-Order Effect 1-10 and sum them separately (see calculation, page 6)",
+      "For every negative second-order effect you identified, decide now what you'll do if it materializes, don't wait until it happens.",
+      "Revisit this list 60 days after the initiative launches and check which second-order effects actually showed up."
+    ],
+    "explainer": "Winning the first-order battle can lose the second-order war. Always ask \"and then what?\"",
+    "questions": [
+      "If your business hits its launch numbers perfectly, what does that create that you haven't planned for?",
+      "What's a second-order effect of your last big win that you're only now dealing with?",
+      "If your current growth plan works exactly as intended, what new problem does success itself create?"
+    ],
+    "definitions": [
+      {
+        "term": "Second-order thinking",
+        "def": "Asking \"and then what?\" after a decision."
+      }
+    ],
+    "equation_example": "Rate First-Order Gain 1-10, then list your anticipated second-order effects and rate each 1-10. First-Order Gain 8; Positive Second-Order Effects: new referrals 7 + press interest 5 = 12; Negative Second-Order Effects: support overload 6 = 6. SOEP = 8 + 12 - 6 = 14. Higher SOEP means the ripple effects of this win work in your favor; lower or negative SOEP means the second-order costs could outweigh the first-order gain.",
+    "closing_statement": "Winning the first move can lose the next one."
+  },
+  "caption": "Principle Nº 37: Second-Order Effects Planning\n\nThe consequence after the consequence often matters more than the first-order win. Winning the first-order battle can lose the second-order war.\n\nAsk yourself: If your business hits its launch numbers perfectly, what does that create that you haven't planned for?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

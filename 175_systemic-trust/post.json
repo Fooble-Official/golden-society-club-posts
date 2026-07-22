@@ -1,0 +1,80 @@
+{
+  "order": 175,
+  "day": 175,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "175",
+  "title": "Systemic Trust",
+  "slug": "systemic-trust",
+  "category": "Advanced Systems",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Long-term trust beats short-term extraction.",
+    "question": "Where are you tempted to extract short-term value at long-term trust's cost?",
+    "equation": "Trust = Consistency × Time × Integrity",
+    "mental_model": "Reputation loop.",
+    "business_lens": "Every customer = referral or warning.",
+    "life_lens": "Every action = reputation brick.",
+    "sop": [
+      "Write down every explicit and implicit promise your business makes to customers.",
+      "Audit the last 90 days for any moment you cut a corner on one of those promises.",
+      "Rate your Consistency and Integrity honestly, 1-10 each (see calculation, page 5), based on how often you kept the promise even when it cost you.",
+      "Document your standards in writing so trust doesn't depend on memory or mood.",
+      "Refuse the short-term extraction option once this month, even when it's the easier or more profitable choice."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where are you tempted to extract short-term value at long-term trust's cost?",
+      "What's one promise your business makes that you've quietly stopped fully keeping?",
+      "If every customer from the last 90 days compared notes, would your story hold up the same way to all of them?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate 1-10: Consistency, Integrity. Time equals years in relationship with the customer/market (count). Consistency 8 times Time 3 times Integrity 9 equals 216. Higher and rising means trust compounds into referrals and repeat business; lower means every transaction has to be re-earned from zero.",
+    "closing_statement": "Every shortcut taken today is remembered tomorrow."
+  },
+  "caption": "Principle Nº 175: Systemic Trust\n\nLong-term trust beats short-term extraction.\n\nAsk yourself: Where are you tempted to extract short-term value at long-term trust's cost?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

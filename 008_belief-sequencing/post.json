@@ -1,0 +1,80 @@
+{
+  "order": 8,
+  "day": 8,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "8",
+  "title": "Belief Sequencing",
+  "slug": "belief-sequencing",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Conversion = ordered belief acquisition.",
+    "question": "What is the exact sequence of beliefs, first, second, third, a customer must adopt before they're ready to pay you?",
+    "equation": "BS = (Σ Belief Confidence × Order Fit) ÷ Breaks",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the 3-5 beliefs a stranger must hold, in order, before they'll buy.",
+      "Map your homepage, pitch deck, or sales call against that order and mark every place it skips a step.",
+      "Rate Belief Confidence and Order Fit for each belief 1-10, and count your Breaks, the places prospects object or drop off (see calculation, page 5)",
+      "Reorder any section that introduces a later belief before an earlier one is settled.",
+      "Re-test the sequence with 3 new prospects and see if the same break point still shows up."
+    ],
+    "explainer": "You can't sell the solution before the problem. Map the belief ladder and walk them up, one rung at a time.",
+    "questions": [
+      "What is the exact sequence of beliefs, first, second, third, a customer must adopt before they're ready to pay you?",
+      "Which belief are you asking people to accept before they've accepted the one before it?",
+      "Where in your pitch or page does a prospect's logic actually break, not just lose interest?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Belief Confidence 1-10 and Order Fit 1-10 for each belief in your sequence, sum the products, then divide by Breaks (the count of places prospects stall or object). Three beliefs score 8×9=72, 7×8=56, and 6×7=42 (sum 170), divided by 2 breaks → BS = 85. Higher BS means beliefs are landing in the right order with few stalls; lower means you're asking for the sale before the logic is built.",
+    "closing_statement": "Sell the belief before you sell the solution."
+  },
+  "caption": "Principle Nº 8: Belief Sequencing\n\nConversion = ordered belief acquisition. You can't sell the solution before the problem.\n\nAsk yourself: What is the exact sequence of beliefs, first, second, third, a customer must adopt before they're ready to pay you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

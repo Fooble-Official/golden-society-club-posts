@@ -1,0 +1,80 @@
+{
+  "order": 22,
+  "day": 22,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "22",
+  "title": "Incentive Gradient Design",
+  "slug": "incentive-gradient-design",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "People move in the direction of the reward gradient, not the mission statement.",
+    "question": "What behaviors are your business's current incentives actually rewarding, and are those the ones you want?",
+    "equation": "IGD = (Desired Reward × Visibility × Frequency × Immediacy) ÷ Misaligned Incentive",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List how each role on your team is actually measured, paid, or praised, not what the job description says.",
+      "For each, ask: if someone maximized this number alone, what bad behavior would result?",
+      "Rewrite any incentive that rewards volume, speed, or vanity metrics over the outcome you actually want.",
+      "Rate Desired Reward, Visibility, Frequency, and Immediacy 1-10, and rate Misaligned Incentive 1-10 (see calculation, page 5)",
+      "Re-check incentives every time you change a comp plan, bonus structure, or measured target."
+    ],
+    "explainer": "If your mission says one thing and your bonus structure rewards another, people follow the bonus. Every time.",
+    "questions": [
+      "What behaviors are your business's current incentives actually rewarding, and are those the ones you want?",
+      "If someone on your team optimized purely for how they're measured or paid, what would they stop doing?",
+      "Where does your bonus, commission, or recognition structure quietly reward the opposite of what your mission says?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Desired Reward, Visibility, Frequency, and Immediacy 1-10 each, then rate Misaligned Incentive 1-10. Desired Reward 8, Visibility 7, Frequency 6, Immediacy 5, Misaligned Incentive 4 → IGD = (8×7×6×5)/4 = 420. Higher IGD means people are pulled toward the behavior you actually want; lower means your incentives are quietly working against your mission.",
+    "closing_statement": "Audit what you pay for, not what you preach."
+  },
+  "caption": "Principle Nº 22: Incentive Gradient Design\n\nPeople move in the direction of the reward gradient, not the mission statement. If your mission says one thing and your bonus structure rewards another, people follow the bonus.\n\nAsk yourself: What behaviors are your business's current incentives actually rewarding, and are those the ones you want?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

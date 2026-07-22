@@ -1,0 +1,80 @@
+{
+  "order": 99,
+  "day": 99,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "99",
+  "title": "Trust Transfer Mechanics",
+  "slug": "trust-transfer-mechanics",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Borrowed credibility accelerates growth.",
+    "question": "Who already has the trust of your customers that you can partner with, and what does that partnership look like?",
+    "equation": "TTM = Credibility × Audience Overlap × Consistency × Proof Relevance",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List 5-10 people, brands, or institutions your ideal customer already trusts.",
+      "Check which of those actually share your specific audience, not just a broad overlap in topic.",
+      "Rate each potential partner's Credibility, Audience Overlap, Consistency, and Proof Relevance to your offer, 1-10 (see calculation, page 5).",
+      "Reach out to your top-scoring match with a specific, low-lift ask, such as a quote, a joint post, or a referral.",
+      "Feature that borrowed credibility prominently in your next launch or campaign, not buried on an About page."
+    ],
+    "explainer": "Borrow trust before you build it. Who someone trusts is who you should be co-signed by.",
+    "questions": [
+      "Who already has the trust of your customers that you can partner with, and what does that partnership look like?",
+      "Whose endorsement would move a skeptical customer to buy today, and have you ever actually asked them?",
+      "If you lost every testimonial and partnership you currently lean on, what would you have to prove about yourself from scratch?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Credibility 9, Audience Overlap 7, Consistency 8, Proof Relevance 6. Score = 9 times 7 times 8 times 6 = 3,024. Higher means the partnership will meaningfully transfer trust to you; lower, especially a weak Audience Overlap, means it'll look good but move few actual buyers.",
+    "closing_statement": "Someone else's trust can be the fastest way in."
+  },
+  "caption": "Principle Nº 99: Trust Transfer Mechanics\n\nBorrowed credibility accelerates growth. Borrow trust before you build it.\n\nAsk yourself: Who already has the trust of your customers that you can partner with, and what does that partnership look like?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

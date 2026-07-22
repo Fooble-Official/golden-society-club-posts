@@ -1,0 +1,80 @@
+{
+  "order": 186,
+  "day": 186,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "186",
+  "title": "Identity Expansion",
+  "slug": "identity-expansion",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You must grow into the person who can hold your goals.",
+    "question": "What identity do you need to grow into to hold the life you're designing?",
+    "equation": "Capacity = Identity Expansion × Action",
+    "mental_model": "New life requires new identity.",
+    "business_lens": "CEO mindset, leader mindset.",
+    "life_lens": "Confident, disciplined, wealthy woman.",
+    "sop": [
+      "Write a specific description of who you need to become to hold your next goal, not vague ('successful'), specific ('the person who closes six-figure deals calmly').",
+      "Rate your current Identity Expansion, 1-10 (see calculation, page 5), how much you've actually grown into that description versus just hoping to.",
+      "List 3 actions that version of you would take this week that current-you is avoiding.",
+      "Take one of those actions today, even if it feels premature.",
+      "Review monthly, identity expands through repeated action, not through deciding once."
+    ],
+    "explainer": "",
+    "questions": [
+      "What identity do you need to grow into to hold the life you're designing?",
+      "Would the person you are today make the decisions the person you're trying to become would make?",
+      "What's one action this week that only the 'next-level' version of you would take?"
+    ],
+    "definitions": [],
+    "equation_example": "Identity Expansion (rate 1-10: how much you've grown into the next-level version of yourself) times Action (rate 1-10: how consistently you act as that version) equals Capacity. Identity Expansion 6 times Action 7 equals 42. Higher means you can actually hold bigger goals without reverting to old patterns; lower means your goals are outgrowing who you currently are.",
+    "closing_statement": "Grow into the person before the goal requires it."
+  },
+  "caption": "Principle Nº 186: Identity Expansion\n\nYou must grow into the person who can hold your goals.\n\nAsk yourself: What identity do you need to grow into to hold the life you're designing?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 58,
+  "day": 58,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "58",
+  "title": "Cohort Profitability Drift",
+  "slug": "cohort-profitability-drift",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "New growth is not always as good as past growth.",
+    "question": "Are you tracking each business cohort separately, or are you hiding bad cohorts in good aggregates?",
+    "equation": "CPD = Current Cohort Profitability - Prior Cohort Profitability",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Group customers into cohorts by the month or quarter they joined.",
+      "Calculate profitability per customer for your most recent cohort (see calculation, page 6).",
+      "Calculate profitability per customer for a prior cohort from 6-12 months ago (see calculation, page 6).",
+      "Subtract prior cohort profitability from current cohort profitability to see the drift (see calculation, page 6).",
+      "If drift is negative, investigate acquisition channel, pricing, or service quality changes between the two periods before scaling further."
+    ],
+    "explainer": "Growth can rot at the edges while aggregates look healthy. Cohorts are how you detect it.",
+    "questions": [
+      "Are you tracking each business cohort separately, or are you hiding bad cohorts in good aggregates?",
+      "Is the customer you signed last month more or less profitable than the one you signed a year ago, and do you actually know?",
+      "If your newest cohort is underperforming, is it because the market shifted or because your acquisition got sloppier?"
+    ],
+    "definitions": [
+      {
+        "term": "Cohort",
+        "def": "A group of customers who started in the same period."
+      }
+    ],
+    "equation_example": "Current Cohort Profitability $120 per customer, Prior Cohort Profitability $150 per customer. $120 minus $150 equals negative $30. Negative or falling means newer customers are less valuable than older ones, a warning sign hidden inside your growth. Positive or rising means your newest customers are actually your best ones.",
+    "closing_statement": "Healthy aggregates can hide cohorts already going bad."
+  },
+  "caption": "Principle Nº 58: Cohort Profitability Drift\n\nNew growth is not always as good as past growth. Growth can rot at the edges while aggregates look healthy.\n\nAsk yourself: Are you tracking each business cohort separately, or are you hiding bad cohorts in good aggregates?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

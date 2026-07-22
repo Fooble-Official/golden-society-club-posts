@@ -1,0 +1,80 @@
+{
+  "order": 205,
+  "day": 205,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "205",
+  "title": "Habit Stacking & Anchoring",
+  "slug": "habit-stacking-and-anchoring",
+  "category": "Habits & Behavior",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Piggyback new behaviors on established ones.",
+    "question": "Which anchor habit in your day is underused for stacking?",
+    "equation": "Stack Strength = Anchor Freq × Ease",
+    "mental_model": "Train at stations.",
+    "business_lens": "After every call, update CRM.",
+    "life_lens": "After brushing teeth, floss.",
+    "sop": [
+      "List your daily non-negotiables, things you already do every single day without fail (coffee, shower, commute, closing your laptop).",
+      "Rate each one's Anchor Frequency (how many times a day/week it happens, count) and Ease (how automatic and low-friction it is, 1-10) (see calculation, page 5).",
+      "Pick the anchor with the highest frequency and ease, and attach exactly one new small behavior right after it.",
+      "Keep the new behavior tiny until it runs without thinking, don't stack a second one too early.",
+      "Once automatic, use that same anchor as the base for the next habit in the chain."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which anchor habit in your day is underused for stacking?",
+      "What's one habit you've been trying to start fresh that would work better piggybacked onto something you already do without fail?",
+      "How many of your existing daily non-negotiables have zero habits stacked onto them yet?"
+    ],
+    "definitions": [],
+    "equation_example": "Anchor Frequency (how many times per week the anchor habit happens, count) times Ease (rate 1-10: how automatic and low-friction the anchor is) equals Stack Strength. Anchor Frequency 7 times Ease 9 equals 63. Higher means the new habit has a strong, reliable base to attach to; lower means the anchor itself is too inconsistent to build on.",
+    "closing_statement": "Attach new habits to what already runs on autopilot."
+  },
+  "caption": "Principle Nº 205: Habit Stacking & Anchoring\n\nPiggyback new behaviors on established ones.\n\nAsk yourself: Which anchor habit in your day is underused for stacking?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

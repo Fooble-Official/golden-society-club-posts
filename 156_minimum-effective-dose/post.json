@@ -1,0 +1,90 @@
+{
+  "order": 156,
+  "day": 156,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "156",
+  "title": "Minimum Effective Dose",
+  "slug": "minimum-effective-dose",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Do the least needed for results.",
+    "question": "Where are you over-engineering something that would work at half the effort?",
+    "equation": "Efficiency = Result ÷ Effort",
+    "mental_model": "Why 100 when 10 works?",
+    "business_lens": "Not 100 posts, 10 great ones.",
+    "life_lens": "Efficient workouts.",
+    "sop": [
+      "Pick one recurring effort (content volume, workout length, offer complexity) you suspect is overbuilt.",
+      "Rate the current Result 1-10 and the current Effort 1-10 it's costing you (see calculation, page 6)",
+      "Cut the effort by roughly half for 2 weeks while holding the goal constant.",
+      "Re-rate the Result after the cut, did it actually drop, or stay the same (see calculation, page 6)",
+      "Keep the lower-effort version permanently if the result held; only add back what proves necessary."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where are you over-engineering something that would work at half the effort?",
+      "What's the smallest version of your current project that would still produce 80% of the result?",
+      "What have you kept adding effort to past the point it was actually improving the outcome?"
+    ],
+    "definitions": [
+      {
+        "term": "Minimum effective dose",
+        "def": "The smallest input that produces the desired result, anything beyond it is wasted effort."
+      }
+    ],
+    "equation_example": "Rate Result 1-10 (outcome achieved) and Effort 1-10 (resources or time spent). Result 8, Effort 4. Efficiency equals 2.0. Higher means you're getting more result per unit of effort, you've found the minimum effective dose. Lower (below 1.0) means you're overspending effort for the result you're actually getting.",
+    "closing_statement": "Effort past the dose that works is just waste."
+  },
+  "caption": "Principle Nº 156: Minimum Effective Dose\n\nDo the least needed for results.\n\nAsk yourself: Where are you over-engineering something that would work at half the effort?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

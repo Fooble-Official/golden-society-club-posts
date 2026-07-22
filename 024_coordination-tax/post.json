@@ -1,0 +1,80 @@
+{
+  "order": 24,
+  "day": 24,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "24",
+  "title": "Coordination Tax",
+  "slug": "coordination-tax",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "As complexity rises, more value gets consumed by coordination itself.",
+    "question": "What % of your work week goes to alignment instead of output? Is that ratio getting worse as you grow?",
+    "equation": "CT = Dependencies × Coord Time × Misalignment Prob × Frequency",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Track your hours for one week and label each block as coordination (aligning, syncing, explaining) or output (work actually produced).",
+      "Calculate the ratio and compare it to how it felt a quarter or a year ago.",
+      "Identify your highest-dependency workflow, the one that touches the most people, and see if you can cut the number of people it requires.",
+      "Rate Dependencies, Coord Time, Misalignment Probability, and Frequency 1-10 (see calculation, page 5)",
+      "Re-track quarterly, if the coordination ratio keeps climbing faster than output, your structure needs to change, not just your hustle."
+    ],
+    "explainer": "This is why adding people can slow you down. Growth taxes itself through coordination overhead.",
+    "questions": [
+      "What % of your work week goes to alignment instead of output? Is that ratio getting worse as you grow?",
+      "Which recurring dependency between two people or teams creates the most back-and-forth before anything ships?",
+      "If you added one more person to your busiest workflow tomorrow, would it speed things up or just add another meeting?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Dependencies, Coord Time, Misalignment Probability, and Frequency 1-10 each. Dependencies 6, Coord Time 7, Misalignment Probability 4, Frequency 5 → CT = 6×7×4×5 = 840 out of a possible 10,000. Higher CT means growth is being eaten by coordination overhead; lower means you're adding people without adding drag.",
+    "closing_statement": "Adding people can slow you down, plan for it."
+  },
+  "caption": "Principle Nº 24: Coordination Tax\n\nAs complexity rises, more value gets consumed by coordination itself. This is why adding people can slow you down.\n\nAsk yourself: What % of your work week goes to alignment instead of output? Is that ratio getting worse as you grow?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

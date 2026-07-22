@@ -1,0 +1,80 @@
+{
+  "order": 6,
+  "day": 6,
+  "cta_type": "follow_only",
+  "cover_type": "photo",
+  "principle_number": "6",
+  "title": "Offer Legibility",
+  "slug": "offer-legibility",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Confusion kills conversion.",
+    "question": "If a customer lands on your business's homepage for 5 seconds, do they know the problem, outcome, and mechanism?",
+    "equation": "OL = ((Problem Clarity + Outcome Clarity + Mechanism Clarity)/3) × Comprehension",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Write one sentence each for the problem you solve, the outcome you deliver, and the mechanism you use, no jargon allowed.",
+      "Show your homepage or pitch to 5 people outside your industry and time how long it takes them to explain it back correctly.",
+      "Rate Problem Clarity, Outcome Clarity, and Mechanism Clarity 1-10 based on that test (see calculation, page 5)",
+      "Cut every sentence that doesn't serve problem, outcome, or mechanism, aim for one clear line per section.",
+      "Re-test with 5 new people next week and track whether comprehension time drops."
+    ],
+    "explainer": "People don't buy what they don't understand. Clarity is conversion.",
+    "questions": [
+      "If a customer lands on your business's homepage for 5 seconds, do they know the problem, outcome, and mechanism?",
+      "Could a stranger explain your offer back to you correctly after reading it once?",
+      "Which of the three, problem, outcome, or mechanism, is the one your homepage explains worst right now?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Problem Clarity, Outcome Clarity, and Mechanism Clarity 1-10, then rate Comprehension 1-10 (how well testers explained your offer back). Problem Clarity 8, Outcome Clarity 7, Mechanism Clarity 6, average 7; Comprehension 6 → OL = 7 × 6 = 42 out of a possible 100. Higher OL means strangers get your offer in seconds; lower means confusion is costing you conversions before anyone even considers buying.",
+    "closing_statement": "If they have to think, you've already lost them."
+  },
+  "caption": "Principle Nº 6: Offer Legibility\n\nConfusion kills conversion. People don't buy what they don't understand.\n\nAsk yourself: If a customer lands on your business's homepage for 5 seconds, do they know the problem, outcome, and mechanism?\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

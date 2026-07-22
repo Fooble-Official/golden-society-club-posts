@@ -1,0 +1,80 @@
+{
+  "order": 116,
+  "day": 116,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "116",
+  "title": "Delay (Time Lag)",
+  "slug": "delay-time-lag",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Cause and effect are often separated in time.",
+    "question": "What system are you about to quit too early because you don't trust the delay?",
+    "equation": "Perceived Effect = Actual Effect ÷ Time Delay",
+    "mental_model": "Plant today, harvest later, don't dig up the seed.",
+    "business_lens": "Content converts in 30, 90 days.",
+    "life_lens": "Weight loss, skin, marriage, delayed feedback.",
+    "sop": [
+      "Pick one system where results take time to show up, such as content, relationships, health, or referrals.",
+      "Estimate the realistic Time Delay for that system in weeks (see calculation, page 5).",
+      "Track your input consistency, whether you did the work, instead of watching for outcome movement.",
+      "Set a review date at the expected delay point, not before.",
+      "Don't quit a system before its expected delay has actually passed."
+    ],
+    "explainer": "",
+    "questions": [
+      "What system are you about to quit too early because you don't trust the delay?",
+      "Which effort have you already abandoned that was probably about to pay off, if you'd just waited?",
+      "What's the realistic time lag between doing this consistently and actually seeing it show up?"
+    ],
+    "definitions": [],
+    "equation_example": "Actual Effect rated 8 out of 10, Time Delay 12 weeks. Perceived Effect = 8 divided by 12 = 0.67. A low number means the real effect is being diluted by a long delay, it'll feel like nothing's working even though it is. A high number, a short delay, means effects are felt almost immediately, which also means people underestimate how much of their success came from a system versus luck.",
+    "closing_statement": "Judge systems by their trajectory, not this week's result."
+  },
+  "caption": "Principle Nº 116: Delay (Time Lag)\n\nCause and effect are often separated in time.\n\nAsk yourself: What system are you about to quit too early because you don't trust the delay?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

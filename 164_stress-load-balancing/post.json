@@ -1,0 +1,80 @@
+{
+  "order": 164,
+  "day": 164,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "164",
+  "title": "Stress Load Balancing",
+  "slug": "stress-load-balancing",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Too much stress breaks system.",
+    "question": "Is your stress-to-recovery ratio sustainable?",
+    "equation": "Balance = Stress ÷ Recovery",
+    "mental_model": "Balance.",
+    "business_lens": "Monitor team stress.",
+    "life_lens": "Monitor personal stress.",
+    "sop": [
+      "Rate your current Stress 1-10 across work, health, and personal life combined (see calculation, page 5)",
+      "Rate your current Recovery 1-10, sleep, rest, downtime you're actually getting (see calculation, page 5)",
+      "Calculate your Balance, Stress divided by Recovery (see calculation, page 5)",
+      "If above 1.0, cut one stressor or add one recovery input this week, not both at once.",
+      "Re-check weekly, stress load shifts fast and the ratio needs regular re-balancing."
+    ],
+    "explainer": "",
+    "questions": [
+      "Is your stress-to-recovery ratio sustainable?",
+      "What physical or behavioral sign has been telling you you're over your stress limit that you've been ignoring?",
+      "If your stress level stayed exactly where it is today for another 3 months, what would break first?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Stress 1-10 and Recovery 1-10. Stress 8 divided by Recovery 3 equals 2.67. Above 1.0 means stress is outpacing your recovery, you're heading toward burnout. Below 1.0 (e.g. Stress 4 divided by Recovery 8 equals 0.5) means recovery is keeping pace and the load is sustainable.",
+    "closing_statement": "A sustainable load depends on the ratio, not the total."
+  },
+  "caption": "Principle Nº 164: Stress Load Balancing\n\nToo much stress breaks system.\n\nAsk yourself: Is your stress-to-recovery ratio sustainable?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

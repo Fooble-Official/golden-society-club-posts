@@ -1,0 +1,80 @@
+{
+  "order": 34,
+  "day": 34,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "34",
+  "title": "Return-on-Attention",
+  "slug": "return-on-attention",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Executive attention is one of the scarcest forms of capital.",
+    "question": "What did you spend the most hours on last week, and what was the strategic return? Ruthless answer only.",
+    "equation": "RoA = Strategic Value Created ÷ Executive Attention Hours",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Track your hours for one week in 30-minute blocks, no rounding, no flattering yourself.",
+      "Label each block by strategic value created: high, medium, low, or none.",
+      "Identify your top 3 time sinks that created little to no strategic value and delegate, delete, or automate them.",
+      "Rate Strategic Value Created 1-10 and count your Executive Attention Hours (see calculation, page 5)",
+      "Re-track monthly and protect at least one uninterrupted block per week for your highest-value work only."
+    ],
+    "explainer": "You can be busy and still unproductive. Attention is the real budget. Audit it weekly.",
+    "questions": [
+      "What did you spend the most hours on last week, and what was the strategic return? Ruthless answer only.",
+      "What did you spend 5+ hours on this month that created zero strategic value?",
+      "If you only had 10 hours of focused attention this week, what would you spend them on instead of what you actually did?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Strategic Value Created 1-10 for a week's work, then divide by Executive Attention Hours spent, a plain hour count. Strategic Value Created 8, Executive Attention Hours 20 → RoA = 8 ÷ 20 = 0.4. Higher RoA means your hours are producing outsized strategic value; lower means you're spending scarce attention on low-leverage work.",
+    "closing_statement": "Track your hours like you track your cash."
+  },
+  "caption": "Principle Nº 34: Return-on-Attention\n\nExecutive attention is one of the scarcest forms of capital. You can be busy and still unproductive.\n\nAsk yourself: What did you spend the most hours on last week, and what was the strategic return? Ruthless answer only.\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

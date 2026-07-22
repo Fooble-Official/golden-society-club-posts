@@ -1,0 +1,80 @@
+{
+  "order": 26,
+  "day": 26,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "26",
+  "title": "Operational Temperature",
+  "slug": "operational-temperature",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Every organization runs at a certain heat level, and too much heat destroys judgment.",
+    "question": "What's your business's operational temperature this week? Too hot, too cold, or productive?",
+    "equation": "OT = (Urgency + Firefighting + Stress + Volatility + Context Switching) ÷ 5",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Track how many fires (unplanned urgent interruptions) hit your team this week and what caused each one.",
+      "Trace each fire back to its root cause, most are preventable with better planning, not faster reacting.",
+      "Rate Urgency, Firefighting, Stress, Volatility, and Context Switching 1-10 for the week (see calculation, page 5)",
+      "If temperature is running high, cancel or delay one non-urgent commitment to create breathing room.",
+      "Re-check weekly, a team that's always hot is a team that's always making worse decisions."
+    ],
+    "explainer": "Some heat focuses the team. Too much destroys it. You're the thermostat, know when to cool things down.",
+    "questions": [
+      "What's your business's operational temperature this week? Too hot, too cold, or productive?",
+      "How many times did your team switch from planned work to putting out a fire this week?",
+      "Is the urgency your team feels coming from real deadlines, or from a lack of planning upstream?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Urgency, Firefighting, Stress, Volatility, and Context Switching 1-10 each. Urgency 8, Firefighting 7, Stress 6, Volatility 5, Context Switching 7 → OT = (8+7+6+5+7)/5 = 6.6 out of 10. Higher OT means the team is running hot and judgment is degrading; lower means there's room to think clearly, though too low can mean a lack of urgency.",
+    "closing_statement": "Heat focuses you until it starts to blind you."
+  },
+  "caption": "Principle Nº 26: Operational Temperature\n\nEvery organization runs at a certain heat level, and too much heat destroys judgment. Some heat focuses the team.\n\nAsk yourself: What's your business's operational temperature this week? Too hot, too cold, or productive?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

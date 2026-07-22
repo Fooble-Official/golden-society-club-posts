@@ -1,0 +1,90 @@
+{
+  "order": 121,
+  "day": 121,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "121",
+  "title": "Reinforcing Loops",
+  "slug": "reinforcing-loops",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "What grows, grows faster.",
+    "question": "What's your strongest compounding loop, and are you feeding or neglecting it?",
+    "equation": "Growth = Base × (1 + Rate)^Time",
+    "mental_model": "Interest on interest.",
+    "business_lens": "Viral content. Brand. Referrals.",
+    "life_lens": "Habits. Confidence. Health.",
+    "sop": [
+      "Identify your strongest current reinforcing loop, such as referrals, reviews, content, or repeat buyers.",
+      "Set the Base and Rate you're currently feeding that loop with (see calculation, page 6).",
+      "Remove one interruption that's currently breaking the loop's momentum.",
+      "Invest disproportionately in feeding that loop over starting a new one.",
+      "Track its growth monthly to confirm it's actually compounding, not just staying flat."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's your strongest compounding loop, and are you feeding or neglecting it?",
+      "Which of your current loops, referrals, reviews, repeat buyers, is actually accelerating versus just staying flat?",
+      "What's interrupting your best loop right now that you could remove this week?"
+    ],
+    "definitions": [
+      {
+        "term": "Reinforcing loop",
+        "def": "A feedback loop where success creates more success."
+      }
+    ],
+    "equation_example": "Base 10 referral-driven customers, Rate 20% month-over-month growth in that loop, Time 6 months. Growth equals 10 times 1.20 to the 6th power, approximately 30. A higher rate or longer time means the loop is reinforcing strongly, small early feeding produces large later gains; a low or zero rate means the loop has stalled and isn't compounding on its own anymore.",
+    "closing_statement": "Feed what's already compounding before starting something new."
+  },
+  "caption": "Principle Nº 121: Reinforcing Loops\n\nWhat grows, grows faster.\n\nAsk yourself: What's your strongest compounding loop, and are you feeding or neglecting it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

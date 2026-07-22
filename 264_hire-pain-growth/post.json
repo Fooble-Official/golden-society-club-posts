@@ -1,0 +1,85 @@
+{
+  "order": 264,
+  "day": 264,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "264",
+  "title": "Hire Pain Growth",
+  "slug": "hire-pain-growth",
+  "category": "Hiring & Team",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Hire only to solve the pain of today or capture the growth of tomorrow.",
+    "question": "Are you hiring to relieve a real pain, capture a real opportunity, or avoid a responsibility you have not clarified?",
+    "equation": "Hiring ROI = Pain Removed + Growth Captured",
+    "mental_model": "Two doors, one removes pressure, the other opens opportunity.",
+    "business_lens": "Build roles around specific operational pain or clear growth opportunities, not vague busyness.",
+    "life_lens": "Ask for support where it either reduces real stress or expands real possibility.",
+    "sop": [
+      "List current pains",
+      "List future growth opportunities",
+      "Decide which pain or opportunity is most valuable",
+      "Turn that need into a role",
+      "Write the job description around the exact problem or aspiration"
+    ],
+    "explainer": "Hire Pain Growth keeps hiring disciplined. A pain hire solves a current problem, such as too much admin, poor delivery capacity, or slow response time. A growth hire helps capture an opportunity, such as sales, partnerships, content, operations, or product expansion.",
+    "questions": [
+      "Are you hiring to relieve a real pain, capture a real opportunity, or avoid a responsibility you have not clarified?",
+      "What task, if unfilled for another quarter, would visibly damage revenue or morale?",
+      "Could you write this job description around a specific number moving, or is it still vague busywork?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Pain Removed 7, Growth Captured 4. Score = 7 plus 4 = 11 out of a possible 20. Higher means the hire pays for itself quickly in relief or revenue. Lower means you're hiring out of anxiety rather than a real constraint.",
+    "closing_statement": "Hire against a problem, not a feeling."
+  },
+  "caption": "Principle Nº 264: Hire Pain Growth\n\nHire only to solve the pain of today or capture the growth of tomorrow. Hire Pain Growth keeps hiring disciplined.\n\nAsk yourself: Are you hiring to relieve a real pain, capture a real opportunity, or avoid a responsibility you have not clarified?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

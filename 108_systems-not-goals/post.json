@@ -1,0 +1,80 @@
+{
+  "order": 108,
+  "day": 108,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "108",
+  "title": "Systems Not Goals",
+  "slug": "systems-not-goals",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Goals define direction; systems deliver them.",
+    "question": "Which goal are you obsessing over while ignoring the system that would deliver it?",
+    "equation": "Progress = System Quality × Consistency",
+    "mental_model": "A goal is a wish; a system is a machine.",
+    "business_lens": "Revenue targets fail without sales processes.",
+    "life_lens": "\"Lose weight\" fails without daily routines.",
+    "sop": [
+      "Take one goal you're currently chasing and write the daily system that would actually produce it.",
+      "Rate your System Quality and Consistency each 1-10 (see calculation, page 5).",
+      "Remove the goal from your daily view, track only whether you ran the system today.",
+      "Review outcome metrics monthly, not daily, to avoid overreacting to noise.",
+      "If the outcome isn't moving after 90 days of a well-run system, redesign the system rather than just pushing harder."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which goal are you obsessing over while ignoring the system that would deliver it?",
+      "If you couldn't check your outcome metric for 90 days, would you still know whether you're on track?",
+      "What's the daily system behind your biggest goal right now, and when did you last actually run it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: System Quality 6, Consistency 9. Score = 6 times 9 = 54 out of 100. Higher means a decent system run consistently is out-producing a perfect system run sporadically; a high System Quality score paired with low Consistency means you built something great and then abandoned it.",
+    "closing_statement": "Build the system before you chase the goal."
+  },
+  "caption": "Principle Nº 108: Systems Not Goals\n\nGoals define direction; systems deliver them.\n\nAsk yourself: Which goal are you obsessing over while ignoring the system that would deliver it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

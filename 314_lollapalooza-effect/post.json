@@ -1,0 +1,95 @@
+{
+  "order": 314,
+  "day": 314,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "314",
+  "title": "Lollapalooza Effect",
+  "slug": "lollapalooza-effect",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "When several psychological forces stack, outcomes become disproportionate to any single cause.",
+    "question": "What multiple forces could stack to produce a result much larger than any single tactic?",
+    "equation": "Outcome Magnitude = ∏(Forces Stacking)",
+    "mental_model": "Perfect storm, many currents combining at once.",
+    "business_lens": "Design campaigns and product loops that combine multiple forces (scarcity + social proof + reciprocity + authority).",
+    "life_lens": "Recognize when several factors are aligning for or against you; the multiplicative effect is what matters.",
+    "sop": [
+      "Map the psychological forces relevant to a decision or campaign",
+      "Identify which can be ethically stacked",
+      "Combine them in one coordinated push",
+      "Measure the combined effect, not single levers",
+      "Reverse-engineer competitor success the same way"
+    ],
+    "explainer": "Munger’s example: Coca-Cola’s success combined operant conditioning, social proof, authority, scarcity, and ritualistic behavior. Each tactic alone is mild; combined they are extraordinary. Lollapalooza explains both viral hits and catastrophic failures.",
+    "questions": [
+      "What multiple forces could stack to produce a result much larger than any single tactic?",
+      "Look at your best-performing campaign or launch. How many separate forces, urgency, proof, authority, were actually stacked, versus you assuming one thing worked?",
+      "Where are several small pressures building on your business right now that, if they all land at once, would produce a much bigger effect than any one alone, good or bad?"
+    ],
+    "definitions": [
+      {
+        "term": "Lollapalooza effect",
+        "def": "When multiple psychological or economic forces combine and reinforce each other, producing an effect far larger than any single one alone."
+      }
+    ],
+    "equation_example": "Rate each active force 1-10: Scarcity 6, Social Proof 8, Authority 5. Because the effect is multiplicative (6 times 8 times 5 equals 240), one weak force drags the whole result down disproportionately, unlike simple addition (6 plus 8 plus 5 equals 19). A higher combined score means the forces are compounding into an outsized result; a low score on even one force can flatten the entire stack.",
+    "closing_statement": "A stack of small forces can outweigh one big one."
+  },
+  "caption": "Principle Nº 314: Lollapalooza Effect\n\nWhen several psychological forces stack, outcomes become disproportionate to any single cause. Munger’s example: Coca-Cola’s success combined operant conditioning, social proof, authority, scarcity, and ritualistic behavior.\n\nAsk yourself: What multiple forces could stack to produce a result much larger than any single tactic?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

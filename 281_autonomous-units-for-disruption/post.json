@@ -1,0 +1,85 @@
+{
+  "order": 281,
+  "day": 281,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "281",
+  "title": "Autonomous Units for Disruption",
+  "slug": "autonomous-units-for-disruption",
+  "category": "Innovation",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Protect disruptive projects by isolating them from incumbent processes.",
+    "question": "Is the disruptive project you care about being judged by metrics it cannot win on?",
+    "equation": "New-Unit Survival = Resource Independence × Metric Independence × Cultural Distance",
+    "mental_model": "Skunkworks tent outside the main camp.",
+    "business_lens": "Run disruptive projects as separate units with separate goals, metrics, and decision rights.",
+    "life_lens": "Protect new ventures from the standards and pressures of established work.",
+    "sop": [
+      "Identify the disruptive project",
+      "Spin it out as a separate unit with seed funding",
+      "Define its own success metrics distinct from the core business",
+      "Give it decision-making independence",
+      "Decide later whether to integrate"
+    ],
+    "explainer": "IBM’s PC group succeeded because IBM let it operate outside corporate process. When IBM later forced PC into the standard system, growth stalled. Same pattern repeats, the parent company’s strength becomes the new unit’s prison unless it is isolated.",
+    "questions": [
+      "Is the disruptive project you care about being judged by metrics it cannot win on?",
+      "Who outside the new unit currently has the power to cut its funding or override its calls?",
+      "If this project reported straight to the core business's usual metrics, would it already be dead?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Resource Independence 7, Metric Independence 8, Cultural Distance 6. Score = 7 times 8 times 6 = 336 out of a possible 1,000. Higher means the new unit can grow on its own terms long enough to prove itself. Lower means the parent company will strangle it with its own standards before it has a chance.",
+    "closing_statement": "Protect what's new from what already works."
+  },
+  "caption": "Principle Nº 281: Autonomous Units for Disruption\n\nProtect disruptive projects by isolating them from incumbent processes. IBM’s PC group succeeded because IBM let it operate outside corporate process.\n\nAsk yourself: Is the disruptive project you care about being judged by metrics it cannot win on?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

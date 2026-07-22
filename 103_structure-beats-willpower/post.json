@@ -1,0 +1,80 @@
+{
+  "order": 103,
+  "day": 103,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "103",
+  "title": "Structure Beats Willpower",
+  "slug": "structure-beats-willpower",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The right structure makes discipline unnecessary.",
+    "question": "Where are you relying on willpower that structure should be doing for you?",
+    "equation": "Behavior = Structure ÷ Friction",
+    "mental_model": "Water flows down the easiest path.",
+    "business_lens": "Good processes outperform hero-effort.",
+    "life_lens": "A clean kitchen eats healthy by default.",
+    "sop": [
+      "Pick one behavior you're currently forcing through willpower alone.",
+      "Redesign the environment so the desired behavior is the path of least resistance, a default option, a visible cue, a removed obstacle.",
+      "Rate your current Structure and Friction levels each 1-10 for that behavior (see calculation, page 5).",
+      "Remove or automate one manual decision point involved in that behavior.",
+      "Test for 2 weeks without relying on motivation, if it still doesn't happen, the structure isn't strong enough yet."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where are you relying on willpower that structure should be doing for you?",
+      "What's one decision you make every single day that a default setting could make for you instead?",
+      "If you removed your motivation entirely for a week, which of your current habits would survive on structure alone?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Structure (how well-designed your environment or systems are) 8, Friction (how much resistance is in the way) 3. Behavior score = 8 divided by 3 = 2.7. Higher means your environment is doing more of the work than your willpower has to; lower, friction outweighing structure, means you're relying on discipline to fight a poorly-designed setup.",
+    "closing_statement": "Build the environment; let it do the discipline's job."
+  },
+  "caption": "Principle Nº 103: Structure Beats Willpower\n\nThe right structure makes discipline unnecessary.\n\nAsk yourself: Where are you relying on willpower that structure should be doing for you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,85 @@
+{
+  "order": 250,
+  "day": 250,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "250",
+  "title": "Simplicity As Strategy",
+  "slug": "simplicity-as-strategy",
+  "category": "Strategy & Simplicity",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The simplest scalable path often beats the cleverest complex plan.",
+    "question": "Are you making this business complex because it needs to be, or because you are capable of handling complexity?",
+    "equation": "Strategic Power = Simplicity × Repeatability × Profitability",
+    "mental_model": "Straight road, less impressive on paper, faster in real life.",
+    "business_lens": "Avoid building complicated offers, operations, or funnels just because you are capable of managing them.",
+    "life_lens": "Do not make your goals harder than they need to be just to prove you are talented.",
+    "sop": [
+      "Identify the simplest version of the business model",
+      "Remove unnecessary steps, offers, and dependencies",
+      "Choose repeatable actions over clever custom work",
+      "Test whether the simple version can make money",
+      "Add complexity only when it clearly increases profit or quality"
+    ],
+    "explainer": "Simplicity as Strategy protects smart entrepreneurs from the Curse of Capability. The Curse of Capability happens when you build something complicated simply because you can. You may be able to handle custom offers, multiple audiences, many platforms, and messy operations, but that does not mean the business should depend on that.",
+    "questions": [
+      "Are you making this business complex because it needs to be, or because you are capable of handling complexity?",
+      "What part of your business would a total beginner be unable to run without you?",
+      "Which 'clever' system in your business exists to prove something rather than to make more money?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Simplicity 8, Repeatability 7, Profitability 6. Score = 8 times 7 times 6 = 336 out of a possible 1,000. Higher means the model can run without heroics. Lower means the business depends on your personal ability to manage complexity to survive.",
+    "closing_statement": "Protect simplicity like it's a moat."
+  },
+  "caption": "Principle Nº 250: Simplicity As Strategy\n\nThe simplest scalable path often beats the cleverest complex plan. Simplicity as Strategy protects smart entrepreneurs from the Curse of Capability.\n\nAsk yourself: Are you making this business complex because it needs to be, or because you are capable of handling complexity?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

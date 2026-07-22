@@ -1,0 +1,95 @@
+{
+  "order": 285,
+  "day": 285,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "285",
+  "title": "Porter’s Five Forces",
+  "slug": "porter-s-five-forces",
+  "category": "Strategy: Industry",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Industry profitability is shaped by rivalry, new entrants, buyer power, supplier power, and substitutes.",
+    "question": "Which of the five forces is currently compressing your margins most, and what move would weaken it?",
+    "equation": "Industry Profit Pool = 50 minus (Rivalry plus Entrants plus Buyer Power plus Supplier Power plus Substitutes), scoring each force 1-10 for how much it compresses your margins, so a lower combined force score leaves more profit pool available to capture.",
+    "mental_model": "Pentagon, five forces shaping how much profit any company can keep.",
+    "business_lens": "Assess each force; design strategy to weaken adverse forces (e.g., switching costs to reduce buyer power).",
+    "life_lens": "In any market you enter (career, business), map the forces before betting on a position.",
+    "sop": [
+      "Score each of the five forces high/medium/low (see calculation, page 7)",
+      "Identify which forces compress profit most",
+      "Design moves that weaken them",
+      "Re-score annually",
+      "Avoid industries where most forces are unfavorable"
+    ],
+    "explainer": "Telecom carriers face high rivalry and substitutes; they win by raising switching costs (contracts, bundled services). Retail faces high buyer power; private label and loyalty programs are responses. The framework is durable because the forces themselves are durable.",
+    "questions": [
+      "Which of the five forces is currently compressing your margins most, and what move would weaken it?",
+      "If a new competitor entered tomorrow with venture funding, which force would hurt you first?",
+      "What's stopping your customers from switching to a competitor today besides your own goodwill?"
+    ],
+    "definitions": [
+      {
+        "term": "Porter's Five Forces",
+        "def": "A framework for analyzing the five competitive pressures, rivalry, new entrants, buyer power, supplier power, and substitutes, that determine how much profit an industry can retain."
+      }
+    ],
+    "equation_example": "Score each force 1-10 for how much it compresses your margins: Rivalry 7, New Entrants 4, Buyer Power 8, Supplier Power 3, Substitutes 5. Total pressure = 27 out of a possible 50. A higher total means less of the industry's profit pool is actually available to you. A lower total means the industry structure itself is working in your favor.",
+    "closing_statement": "Structure decides how much profit you get to keep."
+  },
+  "caption": "Principle Nº 285: Porter’s Five Forces\n\nIndustry profitability is shaped by rivalry, new entrants, buyer power, supplier power, and substitutes. Telecom carriers face high rivalry and substitutes; they win by raising switching costs (contracts, bundled services).\n\nAsk yourself: Which of the five forces is currently compressing your margins most, and what move would weaken it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

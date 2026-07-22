@@ -1,0 +1,90 @@
+{
+  "order": 117,
+  "day": 117,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "117",
+  "title": "Stock vs Flow",
+  "slug": "stock-vs-flow",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Everything is what you have (stock) or what changes it (flow).",
+    "question": "Are you optimizing the stock or the flow? Which actually matters?",
+    "equation": "Stock(t) = Stock(t-1) + Inflow - Outflow",
+    "mental_model": "Bathtub.",
+    "business_lens": "Followers = stock. Content = inflow. Unfollows = outflow.",
+    "life_lens": "Weight = stock. Calories in/out = flow.",
+    "sop": [
+      "Name your key stock: followers, cash, inventory, or client roster.",
+      "Identify the Inflow and Outflow that change it.",
+      "Track Inflow and Outflow weekly, not just the stock total (see calculation, page 6).",
+      "Focus your effort on improving the flow rate, not obsessing over the current stock number.",
+      "Recalculate the stock monthly to confirm the flows are actually moving it in the right direction."
+    ],
+    "explainer": "",
+    "questions": [
+      "Are you optimizing the stock or the flow? Which actually matters?",
+      "What's your current stock number, and could you actually name the inflow and outflow that are changing it right now?",
+      "If your stock stayed flat this month, would you know whether that's because nothing moved, or because inflow and outflow just cancelled out?"
+    ],
+    "definitions": [
+      {
+        "term": "Stock and flow",
+        "def": "A \"stock\" is what you have; a \"flow\" is what changes it."
+      }
+    ],
+    "equation_example": "You had 4,200 followers last month. This month you gained 350 new followers, Inflow, and lost 90, Outflow. New stock equals 4,200 plus 350 minus 90 = 4,460 followers. A rising stock means inflow is outpacing outflow, the underlying flows are healthy even if the stock number moves slowly. A flat or falling stock means outflow is quietly cancelling out your gains, even while you're technically 'growing.'",
+    "closing_statement": "Watch the flows; the stock takes care of itself."
+  },
+  "caption": "Principle Nº 117: Stock vs Flow\n\nEverything is what you have (stock) or what changes it (flow).\n\nAsk yourself: Are you optimizing the stock or the flow? Which actually matters?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

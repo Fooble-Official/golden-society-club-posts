@@ -1,0 +1,85 @@
+{
+  "order": 295,
+  "day": 295,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "295",
+  "title": "Loss Aversion",
+  "slug": "loss-aversion",
+  "category": "Behavioral Economics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "People weigh losses roughly twice as much as equivalent gains.",
+    "question": "Am I framing my offer as preventing a loss customers feel, not just adding a gain?",
+    "equation": "Decision Pull = (Loss Weight ≈ 2 × Gain Weight)",
+    "mental_model": "Scale tilted toward loss, equal weights, unequal pull.",
+    "business_lens": "In sales, frame status-quo cost in loss terms; in retention, emphasize what would be lost by leaving.",
+    "life_lens": "Notice when fear of loss is overweighting a decision against you; ask what the rational gain side actually is.",
+    "sop": [
+      "Identify the desired action",
+      "Frame status quo as ongoing loss",
+      "Frame your offer as loss prevention",
+      "Test loss-framed vs gain-framed messaging",
+      "Use ethically, never manufacture false losses"
+    ],
+    "explainer": "Kahneman’s prospect theory showed people refuse a coin-flip for \"lose 100 or win 110\" even though the expected value is positive. Loss aversion explains why retention beats acquisition in marketing and why change management is hard.",
+    "questions": [
+      "Am I framing my offer as preventing a loss customers feel, not just adding a gain?",
+      "Think of your last price increase or feature removal. Did you warn customers about what they'd lose, or just announce what changed?",
+      "Where in your funnel are you asking people to imagine gaining something, when framing it as avoiding a loss would hit twice as hard?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate a customer's felt pain of losing $100 as 8 out of 10. Rate their felt pleasure of gaining an equivalent $100 as 4 out of 10. 8 divided by 4 equals a 2x ratio, matching the theory's roughly 2x multiplier. A ratio well above 2x means your audience is unusually loss-averse, so frame everything as loss-prevention; a ratio near 1x means they respond more like textbook rational actors, and framing matters less.",
+    "closing_statement": "People remember what they almost lost."
+  },
+  "caption": "Principle Nº 295: Loss Aversion\n\nPeople weigh losses roughly twice as much as equivalent gains. Kahneman’s prospect theory showed people refuse a coin-flip for \"lose 100 or win 110\" even though the expected value is positive.\n\nAsk yourself: Am I framing my offer as preventing a loss customers feel, not just adding a gain?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

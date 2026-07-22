@@ -1,0 +1,85 @@
+{
+  "order": 255,
+  "day": 255,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "255",
+  "title": "Three Growth Paths",
+  "slug": "three-growth-paths",
+  "category": "Financial Strategy",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Growth can be funded through profits, outside capital, or employee ownership structures, and each path changes control, risk, and upside.",
+    "question": "Which growth path best protects your control, speed, and long-term upside?",
+    "equation": "Growth Capacity = Available Capital × Control Preference × Risk Tolerance",
+    "mental_model": "Three doors, each opens to a different version of the future company.",
+    "business_lens": "Choose whether to self-fund, raise equity, borrow, or involve employees based on the kind of company you want to build.",
+    "life_lens": "Decide whether you want slower independence, faster shared ownership, or leveraged risk.",
+    "sop": [
+      "Estimate how much capital growth requires",
+      "Decide how much control you want to keep",
+      "Compare self-funding, outside capital, and employee ownership options",
+      "Evaluate risk and dilution",
+      "Choose the path that matches your long-term vision"
+    ],
+    "explainer": "There are usually three broad ways to fund growth. You can use your own profits, which protects ownership but may slow you down. You can take outside capital, which may accelerate growth but gives others a claim on the future. Or you can involve employees through ownership-like programs.",
+    "questions": [
+      "Which growth path best protects your control, speed, and long-term upside?",
+      "Would you rather grow three times slower and own 100%, or three times faster and own 60%?",
+      "What would you have to give up, equity, time, or debt risk, to fund the next stage of growth?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Available Capital 4, Control Preference 9, Risk Tolerance 3. Score = 4 times 9 times 3 = 108 out of a possible 1,000. Higher means you have real options for how you fund growth. Lower means one path, usually the slowest, is your only realistic choice.",
+    "closing_statement": "Every funding choice trades away something else."
+  },
+  "caption": "Principle Nº 255: Three Growth Paths\n\nGrowth can be funded through profits, outside capital, or employee ownership structures, and each path changes control, risk, and upside. There are usually three broad ways to fund growth.\n\nAsk yourself: Which growth path best protects your control, speed, and long-term upside?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

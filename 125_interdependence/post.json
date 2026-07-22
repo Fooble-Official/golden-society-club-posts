@@ -1,0 +1,80 @@
+{
+  "order": 125,
+  "day": 125,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "125",
+  "title": "Interdependence",
+  "slug": "interdependence",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Everything affects everything.",
+    "question": "Which isolated problem are you solving that's actually connected to 3 others?",
+    "equation": "Total Effect = Σ Interactions",
+    "mental_model": "Web.",
+    "business_lens": "Marketing affects product; product affects retention.",
+    "life_lens": "Sleep affects weight; stress affects skin.",
+    "sop": [
+      "Pick a problem you've been treating as isolated.",
+      "List 2-3 other areas it's connected to, and rate each connection's strength 1-10 (see calculation, page 5).",
+      "Trace which of those connected areas might actually be the root cause.",
+      "Fix the root connection first, not just the symptom you originally noticed.",
+      "Watch the other connected areas after the fix, a real root-cause fix should improve more than one thing."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which isolated problem are you solving that's actually connected to 3 others?",
+      "What's a fix that worked in one area but unexpectedly moved a number somewhere else entirely?",
+      "If you mapped every area your current problem touches, would you still call it a single, isolated issue?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate how strongly 3 different areas affect each other, 1-10: Sleep-to-Energy 8, Energy-to-Output 7, Stress-to-Health 6. Sum equals 8 plus 7 plus 6 = 21. Higher totals mean your system has a lot of cross-wired dependency, so fixing one area will ripple into the others; lower totals mean the areas are more isolated, so fixes stay contained.",
+    "closing_statement": "Nothing you fix stays isolated for long."
+  },
+  "caption": "Principle Nº 125: Interdependence\n\nEverything affects everything.\n\nAsk yourself: Which isolated problem are you solving that's actually connected to 3 others?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

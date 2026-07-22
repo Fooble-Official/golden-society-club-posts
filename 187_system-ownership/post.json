@@ -1,0 +1,80 @@
+{
+  "order": 187,
+  "day": 187,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "187",
+  "title": "System Ownership",
+  "slug": "system-ownership",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Control = ownership.",
+    "question": "What dependency in your life is quietly making you rentable, not free?",
+    "equation": "Control = Ownership ÷ Dependency",
+    "mental_model": "If you don't own it, you depend on it.",
+    "business_lens": "Own audience, brand, assets.",
+    "life_lens": "Control time, environment, finances.",
+    "sop": [
+      "List your top 5 dependencies: platforms, landlords, single clients, employers, suppliers.",
+      "Rate your Ownership and Dependency for each, 1-10 (see calculation, page 5), how much you control it versus how much it controls you.",
+      "Pick the dependency with the worst ratio and identify one owned alternative (your own list, your own space, a second client).",
+      "Build that owned alternative in parallel, don't wait until the dependency fails.",
+      "Reduce reliance on the weakest dependency by a measurable amount this quarter."
+    ],
+    "explainer": "",
+    "questions": [
+      "What dependency in your life is quietly making you rentable, not free?",
+      "If the platform, landlord, or client you depend on most changed the terms tomorrow, how much control would you actually lose?",
+      "What do you currently rent (attention, audience, space, income source) that you could instead own?"
+    ],
+    "definitions": [],
+    "equation_example": "Ownership (rate 1-10: how much you control it) divided by Dependency (rate 1-10: how much you rely on someone else for it) equals Control score. Ownership 8 divided by Dependency 6 equals 1.3. Above 1 means you have more control than exposure; below 1 means you're more exposed than you are in control.",
+    "closing_statement": "Own what you can't afford to lose access to."
+  },
+  "caption": "Principle Nº 187: System Ownership\n\nControl = ownership.\n\nAsk yourself: What dependency in your life is quietly making you rentable, not free?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

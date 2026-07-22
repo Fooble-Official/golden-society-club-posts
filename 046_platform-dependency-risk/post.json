@@ -1,0 +1,80 @@
+{
+  "order": 46,
+  "day": 46,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "46",
+  "title": "Platform Dependency Risk",
+  "slug": "platform-dependency-risk",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "If another company can change one rule and crush your economics, you do not fully own your business.",
+    "question": "Which of your revenue streams or customer-acquisition channels could a single platform policy change wipe out overnight?",
+    "equation": "PDR = Revenue Dependence × Policy Volatility × Switching Cost × Technical Dependence",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every platform your business depends on for revenue, traffic, or payments (ads, marketplaces, app stores, payment processors, APIs).",
+      "Rate each platform 1-10 on Revenue Dependence, how much of your income runs through it (see calculation, page 5).",
+      "Rate each platform 1-10 on Policy Volatility, Switching Cost, and Technical Dependence, how often it changes rules, how hard it'd be to leave, and how deep it's wired into your systems (see calculation, page 5).",
+      "Multiply the four scores for your riskiest platform to get its score, and flag anything above 3,000 as urgent.",
+      "Start building one owned channel (email list, direct booking, owned app) this month to reduce dependence on your highest-risk platform."
+    ],
+    "explainer": "You rent distribution from platforms. When their interests diverge from yours, they'll change the rules.",
+    "questions": [
+      "Which of your revenue streams or customer-acquisition channels could a single platform policy change wipe out overnight?",
+      "If Meta, Google, Apple, or your payment processor changed one rule tomorrow, which part of your business breaks first?",
+      "What would it cost you in time and money to rebuild your customer list on a channel you fully own?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Revenue Dependence 8, Policy Volatility 6, Switching Cost 7, Technical Dependence 5 = 1,680. Higher scores mean one platform decision could crush your economics; lower scores mean you'd survive a policy change intact.",
+    "closing_statement": "Rented distribution is borrowed time, not owned ground."
+  },
+  "caption": "Principle Nº 46: Platform Dependency Risk\n\nIf another company can change one rule and crush your economics, you do not fully own your business. You rent distribution from platforms.\n\nAsk yourself: Which of your revenue streams or customer-acquisition channels could a single platform policy change wipe out overnight?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

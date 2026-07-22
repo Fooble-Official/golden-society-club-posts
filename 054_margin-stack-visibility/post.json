@@ -1,0 +1,80 @@
+{
+  "order": 54,
+  "day": 54,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "54",
+  "title": "Margin Stack Visibility",
+  "slug": "margin-stack-visibility",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You cannot fix what you cannot see inside the margin stack.",
+    "question": "If you listed every leak between your business gross revenue and net profit, what are the top 3 you haven't quantified?",
+    "equation": "MSV = Identified Margin Leak Value ÷ Total Estimated Margin Leak",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every possible source of margin leak: discounts, refunds, chargebacks, processing fees, wasted labor, shrinkage, comps.",
+      "Estimate a Total Estimated Margin Leak in dollars for the period, even roughly (see calculation, page 5).",
+      "Go through your books and identify the actual dollar value of leaks you can specifically trace (see calculation, page 5).",
+      "Divide Identified Margin Leak Value by Total Estimated Margin Leak to see what percentage of your leak you can actually explain (see calculation, page 5).",
+      "Pick the largest unexplained gap and investigate it line by line until you can name it."
+    ],
+    "explainer": "You probably underestimate what's leaking. Until you can see it, you can't plug it.",
+    "questions": [
+      "If you listed every leak between your business gross revenue and net profit, what are the top 3 you haven't quantified?",
+      "Of the discounts, refunds, fees, and wasted labor eating your margin, which one have you never actually put a dollar figure on?",
+      "If your margin leak was 10 percentage points, could you point to exactly where those 10 points went?"
+    ],
+    "definitions": [],
+    "equation_example": "Identified Margin Leak Value $8,000, Total Estimated Margin Leak $20,000. $8,000 divided by $20,000 equals 40% out of 100%. Higher percentage means you can see and explain most of where your margin is going. Lower percentage means most of your leak is still invisible to you.",
+    "closing_statement": "What you can't see in your margin is still costing you."
+  },
+  "caption": "Principle Nº 54: Margin Stack Visibility\n\nYou cannot fix what you cannot see inside the margin stack. You probably underestimate what's leaking.\n\nAsk yourself: If you listed every leak between your business gross revenue and net profit, what are the top 3 you haven't quantified?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 159,
+  "day": 159,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "159",
+  "title": "Activation Energy",
+  "slug": "activation-energy",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Lower start resistance.",
+    "question": "What setup step can you eliminate that would make a habit near-automatic?",
+    "equation": "Start Probability = 1 ÷ Activation Energy",
+    "mental_model": "Getting out of bed.",
+    "business_lens": "Easy content start.",
+    "life_lens": "Clothes ready, food prepped.",
+    "sop": [
+      "Pick one habit you keep intending to do but consistently skip.",
+      "List every setup step required before the actual habit can start.",
+      "Rate the Activation Energy 1-10 of the current setup (see calculation, page 6)",
+      "Eliminate or pre-do the highest-friction setup step (lay out clothes, prep ingredients, open the doc).",
+      "Re-rate Activation Energy after the change and confirm Start Probability actually went up (see calculation, page 6)"
+    ],
+    "explainer": "",
+    "questions": [
+      "What setup step can you eliminate that would make a habit near-automatic?",
+      "What do you have to do before you can even begin the habit you keep skipping?",
+      "If the habit took zero setup, would you still be skipping it, or is setup the actual problem?"
+    ],
+    "definitions": [
+      {
+        "term": "Activation energy",
+        "def": "The minimum effort required to start a process, in habits, the friction standing between you and beginning."
+      }
+    ],
+    "equation_example": "Rate Activation Energy 1-10 (how much setup or friction exists before you can start). Activation Energy 8, Start Probability equals 1 divided by 8 equals 0.125 (12.5%). Activation Energy 2, Start Probability equals 1 divided by 2 equals 0.5 (50%). Higher activation energy means a lower chance you'll actually start. Lower activation energy means starting becomes nearly automatic.",
+    "closing_statement": "Most people lack a low-friction start, not motivation."
+  },
+  "caption": "Principle Nº 159: Activation Energy\n\nLower start resistance.\n\nAsk yourself: What setup step can you eliminate that would make a habit near-automatic?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

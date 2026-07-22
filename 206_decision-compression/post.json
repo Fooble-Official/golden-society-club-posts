@@ -1,0 +1,85 @@
+{
+  "order": 206,
+  "day": 206,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "206",
+  "title": "Decision Compression",
+  "slug": "decision-compression",
+  "category": "Habits & Behavior",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Limit choices to avoid overwhelm.",
+    "question": "What recurring decision is quietly draining you daily?",
+    "equation": "Quality = Energy ÷ Load",
+    "mental_model": "Short menu beats long.",
+    "business_lens": "Standardize processes.",
+    "life_lens": "Uniform outfits, meal rotation.",
+    "sop": [
+      "List every decision you make more than 3 times a week, what to wear, eat, reply to, or schedule",
+      "Turn the top 5 into fixed defaults: a uniform, a meal rotation, a reply template, a standing time slot",
+      "Rate your energy each morning and count how many open decisions you're carrying (see calculation, page 6)",
+      "Protect one 15-minute block for decisions that actually require judgment, nothing else touches it",
+      "Review monthly: kill any default that stopped fitting your life"
+    ],
+    "explainer": "Every open decision competes for the same limited pool of mental energy, so quality per decision falls as the count of decisions rises, even if you're not physically tired. Compression doesn't mean deciding less; it means deciding once, in advance, for anything that repeats, so the energy you have left goes toward the handful of choices that actually change your outcome.",
+    "questions": [
+      "What recurring decision is quietly draining you daily?",
+      "Which decision do you re-make every day that could become a standing default instead?",
+      "When your decision quality drops in the afternoon, is it the number of choices piling up, or how tired you already are?"
+    ],
+    "definitions": [],
+    "equation_example": "Energy: 7 out of 10 available today. Load: 14 open decisions on your plate. Quality = 7 divided by 14 = 0.5. Higher (closer to or above 1) means each decision still gets full attention; lower means you're rationing judgment across too many choices and quality slips.",
+    "closing_statement": "Default the repeatable, save judgment for what's not."
+  },
+  "caption": "Principle Nº 206: Decision Compression\n\nLimit choices to avoid overwhelm. Every open decision competes for the same limited pool of mental energy, so quality per decision falls as the count of decisions rises, even if you're not physically tired.\n\nAsk yourself: What recurring decision is quietly draining you daily?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

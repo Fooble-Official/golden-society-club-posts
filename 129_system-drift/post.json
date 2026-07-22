@@ -1,0 +1,80 @@
+{
+  "order": 129,
+  "day": 129,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "129",
+  "title": "System Drift",
+  "slug": "system-drift",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems degrade without maintenance.",
+    "question": "Which standard has quietly drifted that you haven't noticed?",
+    "equation": "Drift = Loss of Structure ÷ Time",
+    "mental_model": "Boat needs steering.",
+    "business_lens": "Content quality drops. Standards drop.",
+    "life_lens": "Routines break. Health declines slowly.",
+    "sop": [
+      "Write down your original standard or process for one key area (e.g. response time, content quality, follow-up).",
+      "Compare it honestly to what's actually happening today, rate the Loss of Structure as a percentage (see calculation, page 5)",
+      "Identify how many months since the last real audit (see calculation, page 5)",
+      "Reset the standard back to its original bar, or consciously decide to update it.",
+      "Put a recurring audit on the calendar, weekly for fast-moving areas, monthly for slower ones."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which standard has quietly drifted that you haven't noticed?",
+      "What would a stranger notice is wrong with your systems that you've stopped seeing?",
+      "How long has it been since you compared what you're actually doing to what your original standard said you'd do?"
+    ],
+    "definitions": [],
+    "equation_example": "Loss of Structure equals 20% (share of your original standard no longer being followed), Time equals 4 (months since it was last enforced). Drift equals 5% per month. Higher/rising means your standards are eroding faster than you're maintaining them. Lower/falling means your systems are holding steady.",
+    "closing_statement": "Unmaintained standards don't hold, they quietly erode."
+  },
+  "caption": "Principle Nº 129: System Drift\n\nSystems degrade without maintenance.\n\nAsk yourself: Which standard has quietly drifted that you haven't noticed?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

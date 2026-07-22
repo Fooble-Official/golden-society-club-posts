@@ -1,0 +1,90 @@
+{
+  "order": 153,
+  "day": 153,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "153",
+  "title": "Opportunity Cost Awareness",
+  "slug": "opportunity-cost-awareness",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Every \"yes\" is a hidden \"no\".",
+    "question": "What are you saying yes to that's costing you a better 'no'?",
+    "equation": "True Cost = Direct + Best Alternative Lost",
+    "mental_model": "Choose well.",
+    "business_lens": "Wrong client, wrong strategy.",
+    "life_lens": "Time scrolling, wrong priorities.",
+    "sop": [
+      "List your current top 3 time or resource commitments.",
+      "For each, name the single best alternative you're giving up by keeping it (see calculation, page 6)",
+      "Estimate the Direct cost and the value of the Best Alternative Lost in dollars or hours (see calculation, page 6)",
+      "Sum them to get the True Cost, compare it honestly to what the commitment is actually returning.",
+      "Drop or renegotiate the one commitment where True Cost clearly exceeds its return."
+    ],
+    "explainer": "",
+    "questions": [
+      "What are you saying yes to that's costing you a better 'no'?",
+      "What's the best opportunity you'd have to turn down if the thing you're currently doing showed up tomorrow instead?",
+      "Which recurring commitment on your calendar have you never actually compared against its next-best alternative?"
+    ],
+    "definitions": [
+      {
+        "term": "Opportunity cost",
+        "def": "The value of the next best alternative you give up when you make a choice."
+      }
+    ],
+    "equation_example": "Direct Cost equals $500 (what you paid), Best Alternative Lost equals $1,200 (value of what you gave up to do this instead). True Cost equals $1,700. Higher means the decision cost far more than the price tag showed. Lower means the price tag was close to the real cost.",
+    "closing_statement": "The price tag is never the whole cost."
+  },
+  "caption": "Principle Nº 153: Opportunity Cost Awareness\n\nEvery \"yes\" is a hidden \"no\".\n\nAsk yourself: What are you saying yes to that's costing you a better 'no'?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

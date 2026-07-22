@@ -1,0 +1,90 @@
+{
+  "order": 120,
+  "day": 120,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "120",
+  "title": "Feedback Loops",
+  "slug": "feedback-loops",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems run on feedback, not effort.",
+    "question": "Which part of your life or business are you running without a feedback loop?",
+    "equation": "Next Action = Current ± Feedback",
+    "mental_model": "Thermostat.",
+    "business_lens": "Analytics → content. Sales → offer.",
+    "life_lens": "Mirror → fitness. Budget → spending.",
+    "sop": [
+      "Pick one area currently running without any feedback signal.",
+      "Add one simple feedback source: a weekly number, a client check-in, a self-check metric.",
+      "Rate your Current state and score incoming Feedback each week (see calculation, page 6).",
+      "Adjust your next action based on that feedback, not on how you feel about it.",
+      "Review weekly on a fixed schedule, don't wait for a crisis to check in."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which part of your life or business are you running without a feedback loop?",
+      "The last piece of feedback you got that stung a little, did you actually change course, or just note it and move on?",
+      "What decision are you about to make with zero real signal to check it against?"
+    ],
+    "definitions": [
+      {
+        "term": "Feedback loop",
+        "def": "When a system's output is fed back as input, allowing self-correction or self-amplification."
+      }
+    ],
+    "equation_example": "Current state rated 6 out of 10, Feedback a good result rated plus 2. Next Action equals 6 plus 2 = 8, so you push further in that direction. With a bad result, Feedback negative 2, Next Action equals 6 minus 2 = 4, so you pull back. Consistently applying feedback keeps the number tracking reality; ignoring feedback means your plan drifts away from what's actually happening.",
+    "closing_statement": "No feedback means no way to actually correct course."
+  },
+  "caption": "Principle Nº 120: Feedback Loops\n\nSystems run on feedback, not effort.\n\nAsk yourself: Which part of your life or business are you running without a feedback loop?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

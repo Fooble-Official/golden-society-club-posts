@@ -1,0 +1,85 @@
+{
+  "order": 248,
+  "day": 248,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "248",
+  "title": "Growth By Subtraction",
+  "slug": "growth-by-subtraction",
+  "category": "Focus & Scale",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Scaling requires doing fewer things better, because complexity grows faster than revenue.",
+    "question": "What should you subtract so the business can grow faster?",
+    "equation": "Scalable Output = Focused Effort ÷ Operational Complexity",
+    "mental_model": "Pruning a tree, cutting branches helps the strongest fruit grow.",
+    "business_lens": "Cut offers, platforms, meetings, tools, and projects that dilute the company’s highest-value work.",
+    "life_lens": "Build a bigger life by removing the commitments that consume energy without creating meaningful return.",
+    "sop": [
+      "List all active projects, offers, and channels",
+      "Rank each by revenue, energy cost, strategic value, and complexity (see calculation, page 6)",
+      "Remove or pause the lowest-leverage items",
+      "Double down on the few highest-return activities",
+      "Review monthly"
+    ],
+    "explainer": "Growth by Subtraction is counterintuitive because ambitious people often assume more effort equals more success. But as a business grows, every extra thing creates hidden costs: more decisions, more communication, more mistakes, and more context switching. Subtraction does not mean shrinking your vision. It means protecting the work that matters most.",
+    "questions": [
+      "What should you subtract so the business can grow faster?",
+      "Which offer or project would you keep if you could only run three total?",
+      "What's costing you more in coordination than it earns in revenue?"
+    ],
+    "definitions": [],
+    "equation_example": "Focused Effort rated 1-10, Operational Complexity rated 1-10. Focused Effort 8 divided by Operational Complexity 4 equals 2.0. A ratio above 1 means you're getting more output per unit of complexity, which is scalable. A ratio below 1 means complexity is outpacing your focus and growth will just add more chaos.",
+    "closing_statement": "Addition doesn't scale. Subtraction does."
+  },
+  "caption": "Principle Nº 248: Growth By Subtraction\n\nScaling requires doing fewer things better, because complexity grows faster than revenue. Growth by Subtraction is counterintuitive because ambitious people often assume more effort equals more success.\n\nAsk yourself: What should you subtract so the business can grow faster?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

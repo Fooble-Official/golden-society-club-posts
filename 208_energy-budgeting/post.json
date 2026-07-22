@@ -1,0 +1,85 @@
+{
+  "order": 208,
+  "day": 208,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "208",
+  "title": "Energy Budgeting",
+  "slug": "energy-budgeting",
+  "category": "Habits & Behavior",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Schedule tasks by energy, not time.",
+    "question": "Are you protecting your peak-energy hours from low-value work?",
+    "equation": "Output = Energy × Efficiency",
+    "mental_model": "Spend when rich.",
+    "business_lens": "Creative in peak; email in low.",
+    "life_lens": "Workout when fresh.",
+    "sop": [
+      "Track your energy level hourly for 3-5 days (see calculation, page 6)",
+      "Sort your recurring tasks into high-focus (creative, strategic) and low-focus (admin, email) buckets",
+      "Assign high-focus tasks to your top 2 energy hours and low-focus tasks to your dip",
+      "Block the peak hours on your calendar as unmovable, labeled by task type, not just 'busy'",
+      "Review weekly and adjust the map as your schedule or season changes"
+    ],
+    "explainer": "Two hours of work aren't interchangeable just because they're both 'an hour.' The same task takes less effort and produces a better result when it's matched to a high-energy window, and more effort for a worse result in a low one. Scheduling by energy instead of by the clock is why the same to-do list can feel effortless on one day and impossible on another.",
+    "questions": [
+      "Are you protecting your peak-energy hours from low-value work?",
+      "What's the one task you keep scheduling for your peak hours that doesn't actually need your best energy?",
+      "If you mapped your energy by hour for a week, would your calendar match the map, or fight it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Energy 8, Efficiency 6. Output = 8 times 6 = 48. Higher score means you're doing high-leverage work while genuinely capable of it; lower means you're either burnt out or coasting through hours that could produce more.",
+    "closing_statement": "Match the task to the energy, not the clock."
+  },
+  "caption": "Principle Nº 208: Energy Budgeting\n\nSchedule tasks by energy, not time. Two hours of work aren't interchangeable just because they're both 'an hour.' The same task takes less effort and produces a better result when it's matched to a high-energy window, and more effort for a worse result in a low one.\n\nAsk yourself: Are you protecting your peak-energy hours from low-value work?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

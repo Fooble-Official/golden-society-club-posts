@@ -1,0 +1,80 @@
+{
+  "order": 67,
+  "day": 67,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "67",
+  "title": "Expansion-Revenue Logic",
+  "slug": "expansion-revenue-logic",
+  "category": "Behavioral Pricing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The first purchase should naturally lead to future revenue.",
+    "question": "What does a member's 6-month usage unlock that naturally invites them to spend more?",
+    "equation": "ERL = (Relevance × Timing × Margin × Adoption) ÷ Resistance",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Map the natural next need a customer has after 1, 3, and 6 months of using your product or service.",
+      "Rate a potential upsell or expansion offer 1-10 on Relevance and Timing, does it fit naturally at that stage (see calculation, page 5).",
+      "Rate it 1-10 on Margin, is the added revenue actually profitable (see calculation, page 5).",
+      "Rate it 1-10 on Adoption likelihood, and rate Resistance 1-10 for how much friction or pushback it creates (see calculation, page 5).",
+      "Build the highest-scoring expansion offer into your customer journey as an automatic trigger, not a manual ask."
+    ],
+    "explainer": "Expansion is the cheapest revenue. Build the ladder at the time of first purchase.",
+    "questions": [
+      "What does a member's 6-month usage unlock that naturally invites them to spend more?",
+      "Is there a natural \"next purchase\" built into your product, or does every additional sale require a fresh pitch?",
+      "At what point in a customer's journey with you have they earned enough trust to be offered something bigger?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Relevance 8, Timing 7, Margin 6, Adoption 7. 8 times 7 times 6 times 7 equals 2,352, divided by Resistance 4 equals 588. Higher scores mean the expansion offer feels like a natural next step and converts easily. Lower scores mean it feels like a hard sell that customers resist.",
+    "closing_statement": "The next purchase should be built into the first one."
+  },
+  "caption": "Principle Nº 67: Expansion-Revenue Logic\n\nThe first purchase should naturally lead to future revenue. Expansion is the cheapest revenue.\n\nAsk yourself: What does a member's 6-month usage unlock that naturally invites them to spend more?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

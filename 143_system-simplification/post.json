@@ -1,0 +1,80 @@
+{
+  "order": 143,
+  "day": 143,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "143",
+  "title": "System Simplification",
+  "slug": "system-simplification",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Complexity kills execution.",
+    "question": "What can you cut in half this quarter without losing core value?",
+    "equation": "Execution = Simplicity × Consistency",
+    "mental_model": "Simple wins.",
+    "business_lens": "Fewer offers, clear funnel.",
+    "life_lens": "Simple routines.",
+    "sop": [
+      "Map your current process or offer step by step, no matter how small each step is.",
+      "Rate the Simplicity 1-10 of the current version and your Consistency 1-10 in actually running it (see calculation, page 5)",
+      "Cut any step that doesn't directly serve the core outcome.",
+      "Keep only the essential steps and re-test that the core value still holds.",
+      "Re-audit each quarter, complexity creeps back in even after you simplify."
+    ],
+    "explainer": "",
+    "questions": [
+      "What can you cut in half this quarter without losing core value?",
+      "How many steps does your simplest offer actually take to deliver, and could half of them disappear?",
+      "What's still in your process because you built it once, not because it's still needed?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Simplicity 1-10 (how few steps or decisions the system requires) and Consistency 1-10 (how reliably you actually follow it). Simplicity 8 times Consistency 9 equals 72 out of 100. Higher means the system is both easy to run and actually gets run. Lower means either complexity or inconsistency is capping your execution.",
+    "closing_statement": "A system too complex to follow won't get followed."
+  },
+  "caption": "Principle Nº 143: System Simplification\n\nComplexity kills execution.\n\nAsk yourself: What can you cut in half this quarter without losing core value?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

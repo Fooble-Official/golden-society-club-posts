@@ -1,0 +1,90 @@
+{
+  "order": 16,
+  "day": 16,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "16",
+  "title": "Management Debt",
+  "slug": "management-debt",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Hiring faster than structure breaks companies.",
+    "question": "Before your next hire, have you documented what they'll own, who they report to, and what success looks like?",
+    "equation": "MD = Growth Rate × Span Stress × Process Weakness",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Before posting any new role, write a one-page doc: what they own, who they report to, and how success is measured.",
+      "Check each manager's span of control, count direct reports, and flag anyone managing more than 7-8 people without support.",
+      "Identify your weakest process, the one that breaks or gets improvised most often, and document it before you hire into it.",
+      "Rate Growth Rate, Span Stress, and Process Weakness 1-10 (see calculation, page 6)",
+      "Re-check management debt every time headcount grows by 20%, not just once a year."
+    ],
+    "explainer": "Hiring without structure creates a tax you'll pay for years. Build the org before you fill it.",
+    "questions": [
+      "Before your next hire, have you documented what they'll own, who they report to, and what success looks like?",
+      "How many of your current team members could describe their role's success metric without asking you?",
+      "Which manager on your team has more direct reports than they can actually develop well?"
+    ],
+    "definitions": [
+      {
+        "term": "Span of control",
+        "def": "How many direct reports a manager has."
+      }
+    ],
+    "equation_example": "Rate Growth Rate, Span Stress, and Process Weakness 1-10 each. Growth Rate 8, Span Stress 7, Process Weakness 6 → MD = 8 × 7 × 6 = 336 out of a possible 1,000. Higher MD means you're accumulating structural debt faster than you can pay it down; lower means your systems are keeping pace with headcount.",
+    "closing_statement": "Hire into structure, never into chaos."
+  },
+  "caption": "Principle Nº 16: Management Debt\n\nHiring faster than structure breaks companies. Hiring without structure creates a tax you'll pay for years.\n\nAsk yourself: Before your next hire, have you documented what they'll own, who they report to, and what success looks like?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

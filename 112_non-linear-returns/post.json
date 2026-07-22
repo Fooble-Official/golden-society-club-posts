@@ -1,0 +1,80 @@
+{
+  "order": 112,
+  "day": 112,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "112",
+  "title": "Non-Linear Returns",
+  "slug": "non-linear-returns",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Effort rarely produces proportional results.",
+    "question": "What's your 20% this month, and are you prioritizing it?",
+    "equation": "Track the percent of your time or budget spent on your highest-leverage 20% of activities, that percentage roughly predicts how much of your total result you're capturing. The original 'Result = f(Non-Linear Effort)' is function notation, not a literal calculation.",
+    "mental_model": "80/20.",
+    "business_lens": "20% of content → 80% reach.",
+    "life_lens": "20% of habits → 80% quality of life.",
+    "sop": [
+      "List everything you did last month that drove a result: sales, content, outreach.",
+      "Rank them by actual output produced, not effort spent.",
+      "Calculate what percentage of your time went to the top-ranked 20% (see calculation, page 5).",
+      "Reallocate time away from the bottom 50% toward the top 20% this week.",
+      "Re-rank monthly, your highest-leverage 20% will shift as conditions change."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's your 20% this month, and are you prioritizing it?",
+      "Which single activity produced most of your results last quarter, and how much of your actual time went to it?",
+      "What are you still doing out of habit that, if you're honest, has never been part of your best outcomes?"
+    ],
+    "definitions": [],
+    "equation_example": "You spend 15% of your time on your top 20% highest-leverage activities. Result equals 15% out of 100%. Higher, closer to what that top 20% could actually justify, means your effort is concentrated where it pays off; lower means most of your time is going to the low-leverage 80% that barely moves the needle.",
+    "closing_statement": "Most results come from a small slice of effort."
+  },
+  "caption": "Principle Nº 112: Non-Linear Returns\n\nEffort rarely produces proportional results.\n\nAsk yourself: What's your 20% this month, and are you prioritizing it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

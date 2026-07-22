@@ -1,0 +1,90 @@
+{
+  "order": 119,
+  "day": 119,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "119",
+  "title": "Throughput",
+  "slug": "throughput",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Speed of output matters more than effort.",
+    "question": "Where can you double throughput by removing one step, not trying harder?",
+    "equation": "Throughput = Output ÷ Time",
+    "mental_model": "Assembly line.",
+    "business_lens": "Content speed. Lead-to-sale time.",
+    "life_lens": "Cooking flow, morning routine.",
+    "sop": [
+      "Time how long one full cycle of output takes, start to finish.",
+      "Calculate current Throughput, Output divided by Time (see calculation, page 6).",
+      "Remove or combine steps that don't add value to the final output.",
+      "Batch similar tasks instead of switching between different types of work.",
+      "Re-time the cycle after changes to confirm throughput actually increased."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where can you double throughput by removing one step, not trying harder?",
+      "How long does one full cycle of your work actually take, start to finish, and have you ever timed it?",
+      "What step in your process exists mostly to switch between two different kinds of work?"
+    ],
+    "definitions": [
+      {
+        "term": "Throughput",
+        "def": "The rate of output per unit of time."
+      }
+    ],
+    "equation_example": "You complete 12 client projects, Output, in 30 days, Time. Throughput equals 12 divided by 30 = 0.4 projects per day. A higher number means you're producing faster without necessarily working longer; a falling number even with the same hours worked means something in the process is slowing you down.",
+    "closing_statement": "Removing a step beats trying to do it faster."
+  },
+  "caption": "Principle Nº 119: Throughput\n\nSpeed of output matters more than effort.\n\nAsk yourself: Where can you double throughput by removing one step, not trying harder?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

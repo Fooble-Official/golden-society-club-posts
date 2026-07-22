@@ -1,0 +1,80 @@
+{
+  "order": 132,
+  "day": 132,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "132",
+  "title": "Friction Design",
+  "slug": "friction-design",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Behavior is controlled by ease vs resistance.",
+    "question": "What one friction point could you remove today that would change a habit for a year?",
+    "equation": "Behavior = Motivation ÷ Friction",
+    "mental_model": "Water flows downhill.",
+    "business_lens": "Easy checkout → more sales.",
+    "life_lens": "Make junk inconvenient; clothes ready.",
+    "sop": [
+      "Pick one behavior you want more of and one you want less of.",
+      "Rate current Motivation 1-10 and current Friction 1-10 for each (see calculation, page 5)",
+      "For the wanted behavior, remove one physical or decision-based step standing between you and starting.",
+      "For the unwanted behavior, add one step of friction (move it, hide it, delay it).",
+      "Re-check after a week, did the behavior actually shift?"
+    ],
+    "explainer": "",
+    "questions": [
+      "What one friction point could you remove today that would change a habit for a year?",
+      "What good habit have you been relying on motivation for, that you could instead make the default?",
+      "What bad habit would disappear if you simply made it three steps harder to start?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Motivation 1-10 and Friction 1-10. Motivation 7 divided by Friction 2 equals 3.5. Higher means the behavior happens almost automatically. Below 1.0 (e.g. Motivation 3 divided by Friction 6 equals 0.5) means friction is overpowering motivation and the behavior won't happen no matter how much you want it to.",
+    "closing_statement": "Removing friction beats trying to add motivation."
+  },
+  "caption": "Principle Nº 132: Friction Design\n\nBehavior is controlled by ease vs resistance.\n\nAsk yourself: What one friction point could you remove today that would change a habit for a year?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

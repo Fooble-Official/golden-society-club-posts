@@ -1,0 +1,80 @@
+{
+  "order": 183,
+  "day": 183,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "183",
+  "title": "Decision Leverage",
+  "slug": "decision-leverage",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Few decisions create most outcomes.",
+    "question": "What's the highest-leverage decision in front of you, and are you giving it the right weight?",
+    "equation": "Impact = Weight × Outcome",
+    "mental_model": "10% of decisions = 90% results.",
+    "business_lens": "Pricing, positioning, partnerships.",
+    "life_lens": "Where you live, who you marry, your habits.",
+    "sop": [
+      "List every decision currently in front of you this month.",
+      "Rate each on potential Outcome impact, 1-10 (see calculation, page 5), how much it could change your trajectory if it goes well or badly.",
+      "Rank them by that score, not by urgency or how loud they are.",
+      "Give the top 10% real deliberation time, research, advice, sleep on it, before deciding.",
+      "Act decisively once decided; low-leverage decisions don't deserve the same hesitation."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's the highest-leverage decision in front of you, and are you giving it the right weight?",
+      "Which decision from the last year had the biggest downstream effect, and how much time did you actually spend on it before deciding?",
+      "Are you spending equal time on a $50 choice and a $50,000 one?"
+    ],
+    "definitions": [],
+    "equation_example": "Weight (how much this decision matters, rate 1-10) times Outcome (how much it could change your trajectory, rate 1-10) equals Impact score. Weight 9 times Outcome 8 equals 72. Higher means this decision deserves real deliberation time; lower means it's fine to decide fast and move on.",
+    "closing_statement": "Give your biggest decisions the time they deserve."
+  },
+  "caption": "Principle Nº 183: Decision Leverage\n\nFew decisions create most outcomes.\n\nAsk yourself: What's the highest-leverage decision in front of you, and are you giving it the right weight?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

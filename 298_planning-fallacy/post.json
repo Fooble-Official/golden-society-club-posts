@@ -1,0 +1,95 @@
+{
+  "order": 298,
+  "day": 298,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "298",
+  "title": "Planning Fallacy",
+  "slug": "planning-fallacy",
+  "category": "Behavioral Economics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "People consistently underestimate how long and costly tasks will be.",
+    "question": "What is the outside-view estimate from similar past projects, and how does it compare to my inside-view plan?",
+    "equation": "Realistic Estimate = Inside-View Estimate × Outside-View Multiplier",
+    "mental_model": "Weather forecaster who only predicts sunshine.",
+    "business_lens": "For estimates, average outside-view (analogous projects) and inside-view; add explicit buffers for unknowns.",
+    "life_lens": "Assume things will take 1.5–3x your initial estimate; design for slack.",
+    "sop": [
+      "Bottom-up estimate the task",
+      "Find 5+ analogous past projects",
+      "Compute the outside-view distribution",
+      "Use the higher of the two estimates",
+      "Add explicit buffer for unknown unknowns"
+    ],
+    "explainer": "Major infrastructure projects routinely come in late and over budget because planners use only inside-view estimates. Studies show software projects average ~150% of estimated time. The cure is reference-class forecasting.",
+    "questions": [
+      "What is the outside-view estimate from similar past projects, and how does it compare to my inside-view plan?",
+      "Look at your last three deadlines. What's the real multiplier between what you promised and what it took, and are you using that number for your next estimate?",
+      "If someone who'd run five projects just like yours gave an honest timeline, would it be longer or shorter than the one you just gave your investors?"
+    ],
+    "definitions": [
+      {
+        "term": "Outside view",
+        "def": "Estimating based on how similar past projects actually went, rather than reasoning only from the details of this specific project."
+      }
+    ],
+    "equation_example": "Inside-view estimate: 4 weeks. Outside-view multiplier from 5 similar past launches: 1.5x. 4 weeks times 1.5 equals a realistic estimate of 6 weeks. A higher multiplier means your past estimates have been consistently optimistic and need bigger buffers; a multiplier near 1.0 means your gut estimates are already reliable.",
+    "closing_statement": "Your gut estimate is a starting bid, not a promise."
+  },
+  "caption": "Principle Nº 298: Planning Fallacy\n\nPeople consistently underestimate how long and costly tasks will be. Major infrastructure projects routinely come in late and over budget because planners use only inside-view estimates.\n\nAsk yourself: What is the outside-view estimate from similar past projects, and how does it compare to my inside-view plan?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

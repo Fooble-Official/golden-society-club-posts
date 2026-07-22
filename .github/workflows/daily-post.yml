@@ -1,0 +1,34 @@
+name: Daily Instagram carousel post
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (log payload, do not publish or advance state)"
+        required: false
+        default: "false"
+  # Uncomment once IG_ACCESS_TOKEN / IG_BUSINESS_ACCOUNT_ID secrets are set:
+  # schedule:
+  #   - cron: '0 15 * * *'  # 15:00 UTC daily — adjust to your preferred posting time
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Publish next carousel
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: node publish/publish.js
+
+      - name: Commit updated state
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "golden-society-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          git diff --quiet --cached || git commit -m "chore: advance to next post [skip ci]"
+          git push

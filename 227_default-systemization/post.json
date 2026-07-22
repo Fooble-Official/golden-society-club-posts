@@ -1,0 +1,85 @@
+{
+  "order": 227,
+  "day": 227,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "227",
+  "title": "Default Systemization",
+  "slug": "default-systemization",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Automated daily schedule.",
+    "question": "Is your default day actually designed, or just whatever happens?",
+    "equation": "Consistency = Automation × Habit",
+    "mental_model": "Robot.",
+    "business_lens": "Calendar blocks.",
+    "life_lens": "Fixed wake/meal/bed.",
+    "sop": [
+      "Design your ideal default day on paper, wake time, work blocks, meals, wind-down",
+      "Identify 3 non-negotiables that anchor the whole structure",
+      "Automate what you can, recurring calendar blocks, standing orders, auto-reminders, so the default doesn't rely on willpower",
+      "Rate how automated (vs. willpower-dependent) and how habitual your day currently is (see calculation, page 6)",
+      "Review monthly and adjust the design, not just your discipline"
+    ],
+    "explainer": "A schedule that only works when you feel disciplined isn't actually a system, it's just willpower wearing a calendar. The point of a designed default is that it holds its shape automatically, on the exact days motivation is lowest, because the structure doesn't need you to decide anything in the moment.",
+    "questions": [
+      "Is your default day actually designed, or just whatever happens?",
+      "If you removed every calendar reminder and app nudge, would your day still run, or would it fall apart?",
+      "What's the one non-negotiable in your day that happens no matter how you feel, and what's still up for negotiation that shouldn't be?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Automation 7 (how much runs without a decision), Habit 6 (how ingrained the routine is). Consistency = 7 times 6 = 42. Higher score means your day holds its shape even on hard days; lower means the schedule only works when you're already feeling disciplined, which is exactly when you don't need it.",
+    "closing_statement": "A good default survives the days you're not motivated."
+  },
+  "caption": "Principle Nº 227: Default Systemization\n\nAutomated daily schedule. A schedule that only works when you feel disciplined isn't actually a system, it's just willpower wearing a calendar.\n\nAsk yourself: Is your default day actually designed, or just whatever happens?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

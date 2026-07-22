@@ -1,0 +1,80 @@
+{
+  "order": 190,
+  "day": 190,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "190",
+  "title": "Goal-State Feedback",
+  "slug": "goal-state-feedback",
+  "category": "Cybernetics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Self-correct by comparing current state to goal state.",
+    "question": "What current state are you not measuring against its target?",
+    "equation": "Error = Target - Current; Action ∝ Error",
+    "mental_model": "Thermostat.",
+    "business_lens": "Compare actual sales to target; pivot strategy.",
+    "life_lens": "Track steps vs goal; adjust.",
+    "sop": [
+      "Define one specific numeric target for the area you care about most (revenue, weight, savings, output).",
+      "Measure your current state against it honestly this week (see calculation, page 5).",
+      "Calculate the gap, Target minus Current, don't round it in your favor.",
+      "If the gap exists, take one specific corrective action proportional to its size.",
+      "Re-measure on a fixed schedule (weekly or monthly), not whenever you happen to think of it."
+    ],
+    "explainer": "",
+    "questions": [
+      "What current state are you not measuring against its target?",
+      "Where in your business or life are you 'trying hard' without knowing the actual gap between where you are and where you're aiming?",
+      "If you had to report your gap to target in one number today, could you, or would you have to guess?"
+    ],
+    "definitions": [],
+    "equation_example": "Target (10,000 steps) minus Current (6,500 steps) equals Error, a gap of 3,500 steps. The larger the gap, the stronger the corrective action needed that day; an Error near zero means you're on track and no correction is needed.",
+    "closing_statement": "Measure the gap before you try to close it."
+  },
+  "caption": "Principle Nº 190: Goal-State Feedback\n\nSelf-correct by comparing current state to goal state.\n\nAsk yourself: What current state are you not measuring against its target?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

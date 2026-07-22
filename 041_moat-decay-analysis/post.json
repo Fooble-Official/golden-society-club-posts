@@ -1,0 +1,90 @@
+{
+  "order": 41,
+  "day": 41,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "41",
+  "title": "Moat Decay Analysis",
+  "slug": "moat-decay-analysis",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "An advantage is not durable just because it is real today.",
+    "question": "Which of your business's current or planned moats will decay fastest, and what reinforces it?",
+    "equation": "MDA = (Current Moat Strength - Projected Strength at t) ÷ t",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your top 2-3 competitive advantages (price, relationships, technology, brand, exclusivity).",
+      "For each, estimate how long it would take a well-resourced competitor to copy or erode it.",
+      "Rank them from fastest-decaying to slowest, and treat the fastest-decaying one as your most urgent priority.",
+      "Rate your Current Moat Strength and Projected Strength at a future date, then divide the difference by the time period (see calculation, page 6)",
+      "Reinvest in the fastest-decaying moat now, brand and network effects compound if fed; price advantages erode if ignored."
+    ],
+    "explainer": "Treat every moat as a wasting asset. The question isn't \"do we have one\", it's \"how fast is it eroding.\"",
+    "questions": [
+      "Which of your business's current or planned moats will decay fastest, and what reinforces it?",
+      "If a competitor copied your best advantage today, how many months before it stopped mattering?",
+      "What are you doing right now to actively reinforce your moat, versus just assuming it holds?"
+    ],
+    "definitions": [
+      {
+        "term": "Moat",
+        "def": "A durable competitive advantage that protects your business from competition over time. Like a castle moat, it keeps rivals out."
+      }
+    ],
+    "equation_example": "Rate Current Moat Strength 1-10 and Projected Strength at a future point, e.g., 12 months, 1-10, then divide the difference by the time period in months. Current Moat Strength 8, Projected Strength at 12 months 5, difference 3, divided by 12 months → MDA = 0.25 per month. Higher MDA means your advantage is eroding fast and needs reinforcement now; lower means it's durable and compounding on its own.",
+    "closing_statement": "Reinforce your advantage before someone else copies it."
+  },
+  "caption": "Principle Nº 41: Moat Decay Analysis\n\nAn advantage is not durable just because it is real today. Treat every moat as a wasting asset.\n\nAsk yourself: Which of your business's current or planned moats will decay fastest, and what reinforces it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

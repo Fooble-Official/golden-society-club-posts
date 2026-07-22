@@ -1,0 +1,95 @@
+{
+  "order": 312,
+  "day": 312,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "312",
+  "title": "Information Asymmetry",
+  "slug": "information-asymmetry",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "In every transaction, one party has more information than the other.",
+    "question": "Where is information asymmetry causing my customers to hesitate, and what signal would close the gap?",
+    "equation": "Trust Closure = Signal Strength times Verification Ease times Transparency, rate how easy it is for the customer to verify your claim, not how costly.",
+    "mental_model": "Used-car deal, the seller knows what the buyer cannot easily see.",
+    "business_lens": "Where customers know less than you, invest in signals (reviews, guarantees, transparency) that close the gap.",
+    "life_lens": "Where you know less than the other side, demand verification rather than hoping.",
+    "sop": [
+      "Identify where you know more than your customer",
+      "Design signals that prove your claims",
+      "Where you know less, demand evidence",
+      "Add verification mechanisms (audits, demos, references)",
+      "Reward transparency in the team"
+    ],
+    "explainer": "Akerlof showed that without trust signals, low-quality products drive out high-quality ones because buyers cannot tell the difference and refuse to pay premium prices. Brands, warranties, and reviews exist to solve this. The discipline is to invest in signals proportional to the asymmetry you face.",
+    "questions": [
+      "Where is information asymmetry causing my customers to hesitate, and what signal would close the gap?",
+      "What do you know about your own product's weaknesses that a customer would want to know before buying, and have you told them?",
+      "If a competitor watched your business for 90 days, what advantage of yours would they erase just by observing?"
+    ],
+    "definitions": [
+      {
+        "term": "Signaling",
+        "def": "Taking a costly, hard-to-fake action specifically to prove a claim is true, like a warranty proving you believe in your own quality."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Signal Strength 7, Verification Ease 4, Transparency 8. Score = (7 plus 4 plus 8) divided by 3 = 6.3. Higher means customers can quickly confirm your claims and buy with confidence; lower means they're left guessing, and guessing favors your cheaper competitors.",
+    "closing_statement": "Trust closes the gap customers can't fully see."
+  },
+  "caption": "Principle Nº 312: Information Asymmetry\n\nIn every transaction, one party has more information than the other. Akerlof showed that without trust signals, low-quality products drive out high-quality ones because buyers cannot tell the difference and refuse to pay premium prices.\n\nAsk yourself: Where is information asymmetry causing my customers to hesitate, and what signal would close the gap?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

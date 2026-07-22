@@ -1,0 +1,90 @@
+{
+  "order": 134,
+  "day": 134,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "134",
+  "title": "Decision Fatigue",
+  "slug": "decision-fatigue",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Too many decisions = worse decisions.",
+    "question": "Which repeating decision drains you daily that you could systemize?",
+    "equation": "Quality = Energy ÷ Decisions",
+    "mental_model": "Brain = battery.",
+    "business_lens": "Simplify offers, workflows.",
+    "life_lens": "Remove decisions: what to eat, wear.",
+    "sop": [
+      "Track every decision you make for one full day, no matter how small.",
+      "Rate your Energy 1-10 and count total Decisions made that day (see calculation, page 6)",
+      "Identify the 3 decisions that repeat daily and add zero real value (what to wear, eat, etc.).",
+      "Turn each into a standing rule, template, or default so it's never re-decided.",
+      "Schedule your highest-stakes decisions for the first half of the day, before fatigue sets in."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which repeating decision drains you daily that you could systemize?",
+      "What was the quality of your decisions at 4pm today compared to 9am?",
+      "How many trivial decisions have you already made today before doing anything that actually matters?"
+    ],
+    "definitions": [
+      {
+        "term": "Decision fatigue",
+        "def": "The drop in decision quality after making many decisions."
+      }
+    ],
+    "equation_example": "Rate Energy 1-10 and count Decisions (number made that day). Energy 8 divided by Decisions 40 equals 0.2 quality score. Higher means your remaining decisions are still sharp. Lower means you've burned through your decision-making energy and every choice after this point is getting worse.",
+    "closing_statement": "Every trivial decision spends capacity you'll need later."
+  },
+  "caption": "Principle Nº 134: Decision Fatigue\n\nToo many decisions = worse decisions.\n\nAsk yourself: Which repeating decision drains you daily that you could systemize?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

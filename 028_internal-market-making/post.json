@@ -1,0 +1,90 @@
+{
+  "order": 28,
+  "day": 28,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "28",
+  "title": "Internal Market Making",
+  "slug": "internal-market-making",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Scarce internal resources should flow toward highest-value uses, not the loudest politics.",
+    "question": "When two priorities in your business compete for the same time, cash, or attention, what's the rule for who wins?",
+    "equation": "IMM = (Speed × Accuracy × Match Quality) ÷ Political Distortion",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the scarce resources people actually compete for in your business, time, budget, your personal attention, key equipment.",
+      "Write one explicit rule for how each gets allocated when there's a conflict (e.g., highest revenue impact wins, first-come-first-served, ROI threshold).",
+      "Share the rule with your team so allocation decisions stop being political and start being predictable.",
+      "Rate Speed, Accuracy, and Match Quality 1-10 for your last resource decision, and rate Political Distortion 1-10 (see calculation, page 6)",
+      "Revisit the rules quarterly, what made sense at 2 people won't hold at 10."
+    ],
+    "explainer": "Scarce resources need a pricing mechanism or they get allocated by whoever complains loudest.",
+    "questions": [
+      "When two priorities in your business compete for the same time, cash, or attention, what's the rule for who wins?",
+      "Was your last resource allocation decision made by a rule, or by whoever pushed hardest?",
+      "If two team leads both need the same budget or your time next month, who decides, and how?"
+    ],
+    "definitions": [
+      {
+        "term": "Market making",
+        "def": "Acting as the mechanism that matches supply and demand for a scarce resource, deciding who gets it when more than one party wants it."
+      }
+    ],
+    "equation_example": "Rate Speed, Accuracy, and Match Quality 1-10 each for your last resource decision, then rate Political Distortion 1-10. Speed 7, Accuracy 8, Match Quality 6, Political Distortion 3 → IMM = (7×8×6)/3 = 112. Higher IMM means resources flow to their best use fast and cleanly; lower means politics or noise is deciding who gets what.",
+    "closing_statement": "Let the rule decide, not the loudest voice."
+  },
+  "caption": "Principle Nº 28: Internal Market Making\n\nScarce internal resources should flow toward highest-value uses, not the loudest politics. Scarce resources need a pricing mechanism or they get allocated by whoever complains loudest.\n\nAsk yourself: When two priorities in your business compete for the same time, cash, or attention, what's the rule for who wins?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

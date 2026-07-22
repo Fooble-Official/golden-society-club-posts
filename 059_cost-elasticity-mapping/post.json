@@ -1,0 +1,80 @@
+{
+  "order": 59,
+  "day": 59,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "59",
+  "title": "Cost Elasticity Mapping",
+  "slug": "cost-elasticity-mapping",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Some costs scale smoothly; others explode in steps.",
+    "question": "Which of your business costs will jump in a step-function, not smoothly, when you hit 5x or 10x scale?",
+    "equation": "CEM = (% Change in Cost) ÷ (% Change in Output)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Pick a cost category (labor, hosting, materials, support) and a recent period where output changed meaningfully.",
+      "Calculate the percentage change in that cost over the period (see calculation, page 5).",
+      "Calculate the percentage change in output (units sold, customers served, orders) over the same period (see calculation, page 5).",
+      "Divide percent change in cost by percent change in output to get that cost's elasticity (see calculation, page 5).",
+      "Flag any cost with elasticity above 1.5 as a scaling risk and plan the next step before you hit it."
+    ],
+    "explainer": "Linear cost models lie. Reality has cliffs. Know where yours are.",
+    "questions": [
+      "Which of your business costs will jump in a step-function, not smoothly, when you hit 5x or 10x scale?",
+      "Which cost in your business hasn't moved in a year no matter how much revenue changed, and is that a hidden fixed cost you're not accounting for?",
+      "If your output doubled tomorrow, which single cost line would break first, staffing, equipment, or something you haven't thought about?"
+    ],
+    "definitions": [],
+    "equation_example": "Percent Change in Cost 25%, Percent Change in Output 10%. 25 divided by 10 equals 2.5. Above 1.0 means that cost is growing faster than your business is, a lumpy cost that could jump in steps. Below 1.0 means that cost scales more slowly than output, an economy of scale working in your favor.",
+    "closing_statement": "Not all costs grow the same way you do."
+  },
+  "caption": "Principle Nº 59: Cost Elasticity Mapping\n\nSome costs scale smoothly; others explode in steps. Linear cost models lie.\n\nAsk yourself: Which of your business costs will jump in a step-function, not smoothly, when you hit 5x or 10x scale?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

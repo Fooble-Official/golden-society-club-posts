@@ -1,0 +1,90 @@
+{
+  "order": 75,
+  "day": 75,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "75",
+  "title": "Multi-Player Coordination Incentives",
+  "slug": "multi-player-coordination-incentives",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems fail when participants are not aligned in timing or benefit.",
+    "question": "Do all the different parties in your business model, suppliers, customers, partners, win at the same moment, or does one side always have to wait?",
+    "equation": "MPCI = (Shared Benefit × Clarity × Timing) ÷ Friction",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every party involved in your business model (suppliers, customers, partners, affiliates) and what each one needs to win.",
+      "Rate the Shared Benefit 1-10, how clearly every party gains from participating at roughly the same time (see calculation, page 6).",
+      "Rate Clarity 1-10, how well each party understands what they get and when (see calculation, page 6).",
+      "Rate Timing 1-10, how close together the parties' benefits actually land (see calculation, page 6).",
+      "Rate Friction 1-10, what's slowing any party down from participating fully (see calculation, page 6), then fix the highest-friction relationship first."
+    ],
+    "explainer": "If any party has to wait, they'll leak. Align benefits temporally.",
+    "questions": [
+      "Do all the different parties in your business model, suppliers, customers, partners, win at the same moment, or does one side always have to wait?",
+      "Which party in your business ecosystem is currently being asked to give value before they get anything back?",
+      "If one side of your business relationship stopped participating tomorrow, would you know why within a day?"
+    ],
+    "definitions": [
+      {
+        "term": "Two-sided marketplace",
+        "def": "A platform with two distinct user groups."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Shared Benefit 7, Clarity 8, Timing 6. 7 times 8 times 6 equals 336, divided by Friction 4 equals 84. Higher means every party feels like they're winning together. Lower means at least one side is waiting, which is exactly where they quietly disengage.",
+    "closing_statement": "Every side of a deal should win at the same time."
+  },
+  "caption": "Principle Nº 75: Multi-Player Coordination Incentives\n\nSystems fail when participants are not aligned in timing or benefit. If any party has to wait, they'll leak.\n\nAsk yourself: Do all the different parties in your business model, suppliers, customers, partners, win at the same moment, or does one side always have to wait?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

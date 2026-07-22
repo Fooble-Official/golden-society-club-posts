@@ -1,0 +1,80 @@
+{
+  "order": 27,
+  "day": 27,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "27",
+  "title": "Signal Contamination",
+  "slug": "signal-contamination",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Once people optimize the metric, the metric stops cleanly representing reality.",
+    "question": "Which business metric are you about to start optimizing that could get gamed or distorted?",
+    "equation": "SC = (Gaming + Proxy + Bias + Lag + Omission) ÷ Total Metrics",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your top 5 tracked metrics and, for each, ask how someone could hit this number without actually helping the business.",
+      "Flag any metric where you already suspect gaming, sandbagging, or distortion.",
+      "Pair each vanity-prone metric with a context metric that would catch the gaming (e.g., pair leads with close rate).",
+      "Rate Gaming, Proxy, Bias, Lag, and Omission risk 1-10 for your top metric, sum them, and divide by your Total Metrics tracked (see calculation, page 5)",
+      "Rotate or re-define your top metrics every 6-12 months before they fully stop meaning what you think they mean."
+    ],
+    "explainer": "Every metric has a half-life before it starts lying to you. Rotate them or add context metrics.",
+    "questions": [
+      "Which business metric are you about to start optimizing that could get gamed or distorted?",
+      "Which of your dashboard numbers hasn't been double-checked against reality in the last quarter?",
+      "If your team optimized purely for your top-line metric, what corner would they cut first?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Gaming, Proxy, Bias, Lag, and Omission risk 1-10 each for your top metric, sum them, then divide by your Total Metrics tracked. Gaming 6, Proxy 5, Bias 4, Lag 3, Omission 2, sum 20, Total Metrics tracked 5 → SC = 20 ÷ 5 = 4. Higher SC means your metrics are more likely lying to you; lower means your numbers still reflect reality.",
+    "closing_statement": "Every metric has a shelf life. Watch for it."
+  },
+  "caption": "Principle Nº 27: Signal Contamination\n\nOnce people optimize the metric, the metric stops cleanly representing reality. Every metric has a half-life before it starts lying to you.\n\nAsk yourself: Which business metric are you about to start optimizing that could get gamed or distorted?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

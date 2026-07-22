@@ -1,0 +1,95 @@
+{
+  "order": 249,
+  "day": 249,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "249",
+  "title": "The 100M Frame",
+  "slug": "the-100m-frame",
+  "category": "Strategic Thinking",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Asking what a $10M or $100M version of the business would require reveals which current systems are unsustainable.",
+    "question": "What would the $10M or $100M version of this business refuse to keep doing?",
+    "equation": "Scale Readiness = Future Vision × System Durability × Founder Independence",
+    "mental_model": "Trying on a giant coat, you immediately see what does not fit.",
+    "business_lens": "Use a future-size version of the company to pressure-test today’s decisions.",
+    "life_lens": "Ask what your future self would need in place and stop building habits that cannot support that life.",
+    "sop": [
+      "Choose a future business size, such as $10M or $100M",
+      "Ask what systems, people, margins, and offers that version would need",
+      "Compare that to today's business",
+      "Identify what would break",
+      "Upgrade one bottleneck at a time (see calculation, page 7)"
+    ],
+    "explainer": "The 100M Frame helps you stop solving problems only from today’s perspective. A process may work when there are five clients but collapse at fifty. A founder may be able to manually approve everything now, but that becomes impossible at scale. This question makes invisible weaknesses visible.",
+    "questions": [
+      "What would the $10M or $100M version of this business refuse to keep doing?",
+      "Which process only works today because you personally hold it together?",
+      "If revenue 10x'd next year, what part of the business would you have to rebuild from scratch?"
+    ],
+    "definitions": [
+      {
+        "term": "Bottleneck",
+        "def": "The slowest or most constrained step in a system."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Future Vision 7, System Durability 3, Founder Independence 2. Score = 7 times 3 times 2 = 42 out of a possible 1,000. Higher means today's business could actually support tomorrow's size. Lower means the systems you have now would collapse under 10x growth.",
+    "closing_statement": "Build for the business you're becoming."
+  },
+  "caption": "Principle Nº 249: The 100M Frame\n\nAsking what a $10M or $100M version of the business would require reveals which current systems are unsustainable. The 100M Frame helps you stop solving problems only from today’s perspective.\n\nAsk yourself: What would the $10M or $100M version of this business refuse to keep doing?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

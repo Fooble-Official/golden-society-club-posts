@@ -1,0 +1,80 @@
+{
+  "order": 7,
+  "day": 7,
+  "cta_type": "follow_only",
+  "cover_type": "green",
+  "principle_number": "7",
+  "title": "Trust Compression",
+  "slug": "trust-compression",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Trust is the real bottleneck.",
+    "question": "What are the top 3 doubts your customer has before joining your business, and how do you resolve them in under 60 seconds?",
+    "equation": "TCD = (Proof Density × Credibility × Early Visibility) ÷ Friction",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the top 3 doubts customers have before buying, pull them from support tickets, sales calls, and DMs.",
+      "For each doubt, find or create one piece of proof, a review, data point, or credential, that kills it in under 10 seconds.",
+      "Move your strongest proof above the fold or before the first ask, not buried in an FAQ.",
+      "Rate Proof Density, Credibility, and Early Visibility 1-10 each, and rate Friction 1-10 (see calculation, page 5)",
+      "Remove or simplify one friction point (extra form field, unclear pricing, slow load) each week until trust stops improving."
+    ],
+    "explainer": "Every doubt is a friction point. Compress trust by front-loading proof before the ask.",
+    "questions": [
+      "What are the top 3 doubts your customer has before joining your business, and how do you resolve them in under 60 seconds?",
+      "Where in your funnel does proof show up too late to matter?",
+      "If you removed your weakest piece of friction this week, which doubt would resurface loudest?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Proof Density, Credibility, and Early Visibility 1-10 each, then rate Friction 1-10. Proof Density 7, Credibility 8, Early Visibility 6, Friction 4 → TCD = (7×8×6)/4 = 84. Higher TCD means doubt gets resolved almost instantly; lower means friction is smothering your proof before it can build trust.",
+    "closing_statement": "Doubt resolved early is trust earned instantly."
+  },
+  "caption": "Principle Nº 7: Trust Compression\n\nTrust is the real bottleneck. Every doubt is a friction point.\n\nAsk yourself: What are the top 3 doubts your customer has before joining your business, and how do you resolve them in under 60 seconds?\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

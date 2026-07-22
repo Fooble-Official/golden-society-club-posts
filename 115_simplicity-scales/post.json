@@ -1,0 +1,80 @@
+{
+  "order": 115,
+  "day": 115,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "115",
+  "title": "Simplicity Scales",
+  "slug": "simplicity-scales",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Complexity kills execution.",
+    "question": "What's one thing you overcomplicated that you can cut in half this week?",
+    "equation": "Execution = Simplicity × Consistency",
+    "mental_model": "Simple systems win.",
+    "business_lens": "Fewer offers, clearer funnel.",
+    "life_lens": "Simple routines, simple meals.",
+    "sop": [
+      "List every step in a process or offer that currently exists.",
+      "Rate Simplicity, fewer moving parts, and Consistency, how reliably you follow it, each 1-10 (see calculation, page 5).",
+      "Cut any step that doesn't directly serve the core outcome.",
+      "Rebuild the process with the fewest possible steps that still work.",
+      "Run it for 2 weeks before adding anything back, most cuts don't need replacing."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's one thing you overcomplicated that you can cut in half this week?",
+      "If you had to explain your offer or process to a new hire in one sentence, could you?",
+      "Which step in your business exists only because you added it once and never questioned it again?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Simplicity 9, Consistency 7. Score = 9 times 7 = 63 out of 100. Higher means the plan is simple enough to actually stick to; a complex plan, low Simplicity, will drag this number down even with high effort.",
+    "closing_statement": "The simplest version is usually the one that ships."
+  },
+  "caption": "Principle Nº 115: Simplicity Scales\n\nComplexity kills execution.\n\nAsk yourself: What's one thing you overcomplicated that you can cut in half this week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

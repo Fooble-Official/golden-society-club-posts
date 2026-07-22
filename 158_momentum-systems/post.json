@@ -1,0 +1,80 @@
+{
+  "order": 158,
+  "day": 158,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "158",
+  "title": "Momentum Systems",
+  "slug": "momentum-systems",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Starting is hardest, momentum carries you.",
+    "question": "Where is your momentum most fragile, and what's protecting it?",
+    "equation": "Momentum = Previous Action × Consistency",
+    "mental_model": "Rolling ball.",
+    "business_lens": "Content streak, revenue streak.",
+    "life_lens": "Workouts, cleaning.",
+    "sop": [
+      "Pick one habit or project you want to build lasting momentum on.",
+      "Rate your Previous Action 1-10, did you show up yesterday (see calculation, page 5)",
+      "Rate your Consistency 1-10, how unbroken the streak has been (see calculation, page 5)",
+      "Define a minimum 'streak-saving' version of the action for low-energy or busy days.",
+      "Protect the streak actively, plan around known disruptions (travel, deadlines) in advance."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where is your momentum most fragile, and what's protecting it?",
+      "How many consecutive days has your longest current streak survived, and what actually broke the last one?",
+      "What's the smallest version of the habit you could do today just to keep the streak alive?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Previous Action 1-10 (did you show up yesterday) and Consistency 1-10 (how unbroken the streak is). Previous Action 9 times Consistency 8 equals 72 out of 100. Higher means momentum is compounding and starting is getting easier each day. Lower means the streak is fragile and each restart costs you full activation energy again.",
+    "closing_statement": "Momentum is easier to protect than to rebuild."
+  },
+  "caption": "Principle Nº 158: Momentum Systems\n\nStarting is hardest, momentum carries you.\n\nAsk yourself: Where is your momentum most fragile, and what's protecting it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

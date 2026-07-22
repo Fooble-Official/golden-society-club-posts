@@ -1,0 +1,95 @@
+{
+  "order": 280,
+  "day": 280,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "280",
+  "title": "Disruptive Innovation Focus",
+  "slug": "disruptive-innovation-focus",
+  "category": "Innovation",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Build products for low-end or non-consumption markets that incumbents ignore.",
+    "question": "What underserved segment could you serve with a simpler, cheaper version while incumbents protect their margins?",
+    "equation": "Disruption Potential = Incumbent Blindness × Underserved Demand × Trajectory of Improvement",
+    "mental_model": "Side door, enter where the giants do not look.",
+    "business_lens": "Find a customer segment incumbents ignore; build a simpler/cheaper product for them; improve up-market over time.",
+    "life_lens": "Start where there is less competition; quality moves up faster than expected.",
+    "sop": [
+      "Identify low-end or non-consumption segments",
+      "Build a simpler, cheaper offering for them",
+      "Accept low margins early as the price of foothold",
+      "Improve faster than the incumbent updates its core",
+      "Move up-market as capability grows"
+    ],
+    "explainer": "Netflix’s DVD-by-mail looked terrible to Blockbuster (worse selection, longer wait). It served customers Blockbuster did not value, then improved trajectory until streaming made the incumbent obsolete. Christensen showed this pattern repeats across industries.",
+    "questions": [
+      "What underserved segment could you serve with a simpler, cheaper version while incumbents protect their margins?",
+      "Which of your competitors would actually lose money serving the customer segment you could serve profitably?",
+      "How fast is your simpler version improving compared to how fast the incumbent is protecting its margins?"
+    ],
+    "definitions": [
+      {
+        "term": "Disruptive innovation",
+        "def": "A strategy of entering a market by serving overlooked or underserved customers with a simpler, cheaper product, then improving quality over time until it displaces incumbents."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Incumbent Blindness 8, Underserved Demand 7, Trajectory of Improvement 6. Score = 8 times 7 times 6 = 336 out of a possible 1,000. Higher means the giants genuinely won't chase you until it's too late. Lower means you're entering a segment incumbents will notice and defend immediately.",
+    "closing_statement": "Start where the giants aren't looking."
+  },
+  "caption": "Principle Nº 280: Disruptive Innovation Focus\n\nBuild products for low-end or non-consumption markets that incumbents ignore. Netflix’s DVD-by-mail looked terrible to Blockbuster (worse selection, longer wait).\n\nAsk yourself: What underserved segment could you serve with a simpler, cheaper version while incumbents protect their margins?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

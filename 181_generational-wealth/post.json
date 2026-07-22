@@ -1,0 +1,80 @@
+{
+  "order": 181,
+  "day": 181,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "181",
+  "title": "Generational Wealth",
+  "slug": "generational-wealth",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Wealth must survive time, not just be created.",
+    "question": "Is your financial plan about income, or about multi-generational wealth?",
+    "equation": "Longevity = Growth - Loss",
+    "mental_model": "Money → systems → protection → growth.",
+    "business_lens": "Reinvest, own assets, diversify.",
+    "life_lens": "Investments, estate planning.",
+    "sop": [
+      "List your current assets: owned property, investments, business equity, retirement accounts.",
+      "List what could erode them: debt, poor estate planning, lack of diversification, no succession plan.",
+      "Estimate annual Growth % and annual Loss % honestly for your net worth (see calculation, page 5).",
+      "Reinvest one income stream into an owned, appreciating asset instead of spending it.",
+      "Put a basic protection plan in place this quarter, will, beneficiaries, diversification, even a simple one."
+    ],
+    "explainer": "",
+    "questions": [
+      "Is your financial plan about income, or about multi-generational wealth?",
+      "If you passed away tomorrow, would what you've built keep providing for the people after you, or would it stop with your paycheck?",
+      "What's one asset you own today that would still be producing value in 30 years without you managing it?"
+    ],
+    "definitions": [],
+    "equation_example": "Growth (% your net worth grows per year) minus Loss (% lost to debt, poor decisions, or depreciation per year) equals Longevity. Growth 8%/year minus Loss 3%/year equals 5%/year net. Rising net % means wealth compounds across time and generations; falling or negative % means it erodes faster than it's built, regardless of income.",
+    "closing_statement": "Build wealth that survives you, not just supports you."
+  },
+  "caption": "Principle Nº 181: Generational Wealth\n\nWealth must survive time, not just be created.\n\nAsk yourself: Is your financial plan about income, or about multi-generational wealth?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

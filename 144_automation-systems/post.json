@@ -1,0 +1,80 @@
+{
+  "order": 144,
+  "day": 144,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "144",
+  "title": "Automation Systems",
+  "slug": "automation-systems",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Remove yourself from repetitive tasks.",
+    "question": "What repetitive task are you doing manually that a tool could handle?",
+    "equation": "Freedom = Automated ÷ Total Tasks",
+    "mental_model": "Robot.",
+    "business_lens": "Scheduling, CRM, payments.",
+    "life_lens": "Meal prep, cleaning, reminders.",
+    "sop": [
+      "List every task you repeat weekly with no real decision-making involved.",
+      "Count how many of those are already Automated versus your Total Tasks (see calculation, page 5)",
+      "Pick the single highest-frequency manual task and find or build a tool to automate it.",
+      "Set it up, test it for a week, and fix any errors it introduces.",
+      "Repeat monthly, as one task gets automated, promote the next-most-repetitive one."
+    ],
+    "explainer": "",
+    "questions": [
+      "What repetitive task are you doing manually that a tool could handle?",
+      "If you got sick for a week, which repeated task would simply stop happening?",
+      "What's the last new tool you evaluated for something you still do by hand every day?"
+    ],
+    "definitions": [],
+    "equation_example": "Automated equals 6 tasks, Total Tasks equals 10. Freedom equals 60% out of 100%. Higher means more of your operation runs without you touching it. Lower means you're still the bottleneck in most of your own repetitive work.",
+    "closing_statement": "Every task still done by hand is still a leash."
+  },
+  "caption": "Principle Nº 144: Automation Systems\n\nRemove yourself from repetitive tasks.\n\nAsk yourself: What repetitive task are you doing manually that a tool could handle?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

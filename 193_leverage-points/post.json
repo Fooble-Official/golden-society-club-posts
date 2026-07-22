@@ -1,0 +1,90 @@
+{
+  "order": 193,
+  "day": 193,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "193",
+  "title": "Leverage Points",
+  "slug": "leverage-points",
+  "category": "Cybernetics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Small interventions → outsized results.",
+    "question": "Where are you spending effort on low-leverage work?",
+    "equation": "Impact = Effort × Leverage Factor",
+    "mental_model": "One domino.",
+    "business_lens": "Optimize pricing or UX first.",
+    "life_lens": "Cut one high-calorie item.",
+    "sop": [
+      "List your top 10 recurring tasks or projects.",
+      "Rate each on Effort required and Leverage Factor (how much downstream impact it has), 1-10 each (see calculation, page 6).",
+      "Rank by Impact score and identify the top 10%, that's where real change is available.",
+      "Drop or delegate anything in the bottom half that scores low on both.",
+      "Reinvest the freed time directly into the highest-leverage item you found."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where are you spending effort on low-leverage work?",
+      "What's the smallest change you could make this month that would ripple through everything downstream of it?",
+      "Are you working hardest on the 10% of tasks that actually move the outcome, or the 90% that just feel productive?"
+    ],
+    "definitions": [
+      {
+        "term": "Leverage point",
+        "def": "A small intervention that produces an outsized effect."
+      }
+    ],
+    "equation_example": "Effort (rate 1-10: how much work it takes) times Leverage Factor (rate 1-10: how much downstream impact it has) equals Impact. Effort 3 times Leverage Factor 9 equals 27, versus Effort 8 times Leverage Factor 2 equals 16. Higher Impact for lower Effort is the target; a high-Effort, low-Leverage task scores worse even though it feels more productive.",
+    "closing_statement": "Find the small change with the biggest ripple."
+  },
+  "caption": "Principle Nº 193: Leverage Points\n\nSmall interventions → outsized results.\n\nAsk yourself: Where are you spending effort on low-leverage work?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

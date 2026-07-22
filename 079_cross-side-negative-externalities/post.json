@@ -1,0 +1,90 @@
+{
+  "order": 79,
+  "day": 79,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "79",
+  "title": "Cross-Side Negative Externalities",
+  "slug": "cross-side-negative-externalities",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "One side of a platform can harm the other.",
+    "question": "Could too many members overwhelm your supply side? Could too much supply dilute the member experience?",
+    "equation": "CSNE = Σ(Benefit to One Side - Harm to Other)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Identify the two sides of your platform or business model that depend on each other (buyers or sellers, members or supply, users or creators).",
+      "List 2-3 scenarios where growth on one side could plausibly hurt the other.",
+      "Estimate the Benefit to the growing side and the Harm to the other side for each scenario (see calculation, page 6).",
+      "Subtract Harm from Benefit for each scenario and sum them to see your net effect (see calculation, page 6).",
+      "Set an early-warning metric (wait times, satisfaction scores, complaint rate) on the side most at risk and monitor it monthly."
+    ],
+    "explainer": "Every two-sided market has a tipping point where growth on one side hurts the other. Know yours.",
+    "questions": [
+      "Could too many members overwhelm your supply side? Could too much supply dilute the member experience?",
+      "Is there a growth metric you're currently celebrating that might actually be degrading the experience for the other side of your business?",
+      "If you 10x'd one side of your marketplace overnight, which specific complaint would you expect from the other side first?"
+    ],
+    "definitions": [
+      {
+        "term": "Cross-side network effect",
+        "def": "When more users on side A make the platform more valuable for side B."
+      }
+    ],
+    "equation_example": "Benefit to demand side from more supply rated 8 out of 10, Harm to supply side from more competition rated 6 out of 10. 8 minus 6 equals plus 2 net. Positive and rising means growth on one side is still net-helping the system. Negative means you've crossed the tipping point where growth on one side is actively hurting the other.",
+    "closing_statement": "Growth on one side can quietly cost you the other."
+  },
+  "caption": "Principle Nº 79: Cross-Side Negative Externalities\n\nOne side of a platform can harm the other. Every two-sided market has a tipping point where growth on one side hurts the other.\n\nAsk yourself: Could too many members overwhelm your supply side? Could too much supply dilute the member experience?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

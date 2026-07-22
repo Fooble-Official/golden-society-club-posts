@@ -1,0 +1,85 @@
+{
+  "order": 235,
+  "day": 235,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "235",
+  "title": "Parallel Goals",
+  "slug": "parallel-goals",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Pursue complementary objectives together.",
+    "question": "What two goals could share one action this week?",
+    "equation": "Total = Σ(Outputs per Action)",
+    "mental_model": "Two birds, one stone.",
+    "business_lens": "Content doubles as training.",
+    "life_lens": "Social walk = exercise + connect.",
+    "sop": [
+      "List your current active goals across domains, business, health, relationships, learning",
+      "Look for one action that could genuinely serve two goals at once, not just in theory",
+      "Rate how many outputs a given action currently produces (see calculation, page 6)",
+      "Schedule the double-duty action deliberately, naming both goals it serves",
+      "Check monthly that the combined action is still serving both goals, not secretly favoring one"
+    ],
+    "explainer": "Most goals don't actually need separate time, they need separate attention, which is a much smaller ask. An action that's designed to serve two goals at once isn't cutting corners on either one; it's recognizing that the goals were never actually competing for the same resource, just for the same slot on your calendar.",
+    "questions": [
+      "What two goals could share one action this week?",
+      "Which of your current goals are you pursuing in completely separate, non-overlapping actions that could actually be combined?",
+      "What's an action you're already committed to doing that's secretly capable of serving a second goal you haven't connected it to?"
+    ],
+    "definitions": [],
+    "equation_example": "Outputs per Action: a walk with a client equals 1 (relationship) plus 1 (exercise) equals 2 outputs from 1 action. A separate call and a separate workout equals 1 plus 1 equals 2 outputs from 2 actions. The combined version produces the same 2 outputs for half the action count. Higher outputs-per-action means more goals moving per unit of time spent; lower means your goals are quietly competing for the same hours.",
+    "closing_statement": "One well-designed action can quietly serve two goals."
+  },
+  "caption": "Principle Nº 235: Parallel Goals\n\nPursue complementary objectives together. Most goals don't actually need separate time, they need separate attention, which is a much smaller ask.\n\nAsk yourself: What two goals could share one action this week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

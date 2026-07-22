@@ -1,0 +1,80 @@
+{
+  "order": 163,
+  "day": 163,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "163",
+  "title": "Decision Filters",
+  "slug": "decision-filters",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Pre-decide what matters.",
+    "question": "What standing rule could you adopt that would eliminate 10 decisions a week?",
+    "equation": "Speed = Clarity ÷ Options",
+    "mental_model": "Pre-commit.",
+    "business_lens": "Pre-approved criteria.",
+    "life_lens": "Standing rules.",
+    "sop": [
+      "Identify one decision type that repeats often (which clients to take, what to say yes to, what to buy).",
+      "Write a clear standing rule or filter that answers it in advance.",
+      "Rate the Clarity 1-10 of that rule, could you apply it instantly without re-thinking (see calculation, page 5)",
+      "Count the Options you're typically weighing when the decision comes up (see calculation, page 5)",
+      "Apply the filter the next 5 times the decision appears, no exceptions, and track how much faster it went."
+    ],
+    "explainer": "",
+    "questions": [
+      "What standing rule could you adopt that would eliminate 10 decisions a week?",
+      "What decision do you re-litigate every time it comes up, that you could just answer once, permanently?",
+      "If you wrote down your actual decision criteria today, would your recent choices have passed them?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Clarity 1-10 (how clear your pre-set rule is) and count Options (number of choices you're typically weighing). Clarity 9 divided by Options 3 equals 3.0. Higher means a clear rule cuts through multiple options fast. Lower means either your rule is vague or you're facing too many live options to decide quickly, even with a rule in place.",
+    "closing_statement": "A decision made once beats the same decision daily."
+  },
+  "caption": "Principle Nº 163: Decision Filters\n\nPre-decide what matters.\n\nAsk yourself: What standing rule could you adopt that would eliminate 10 decisions a week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

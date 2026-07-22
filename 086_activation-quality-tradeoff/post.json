@@ -1,0 +1,94 @@
+{
+  "order": 86,
+  "day": 86,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "86",
+  "title": "Activation-Quality Tradeoff",
+  "slug": "activation-quality-tradeoff",
+  "category": "User Behavior & Retention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Easier onboarding can reduce user quality.",
+    "question": "If you removed all your business signup friction, would you get more real customers, or just more curious tourists?",
+    "equation": "AQT = Activation Gain - Retention Quality Loss",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every step in your current signup or onboarding flow, from first click to first real use.",
+      "For each step, note whether it filters for real intent (a form, a question, a small payment) or just adds delay.",
+      "Rate your current Activation Gain and Retention Quality Loss each 1-10 based on your last two cohorts (see calculation, page 6).",
+      "Remove one step that only adds delay; keep or strengthen one step that filters for real intent.",
+      "Track 30-day retention for the next cohort against the prior one to see if quality actually moved."
+    ],
+    "explainer": "Friction can filter. Sometimes you want the bar high so the users who clear it are the ones worth keeping.",
+    "questions": [
+      "If you removed all your business signup friction, would you get more real customers, or just more curious tourists?",
+      "What's one piece of friction in your signup that quietly filters out people who wouldn't have paid anyway?",
+      "If your onboarding got 50% easier tomorrow, which of the new users would you actually be excited to keep?"
+    ],
+    "definitions": [
+      {
+        "term": "Activation",
+        "def": "The moment a new user reaches their first meaningful win in a product."
+      },
+      {
+        "term": "Retention",
+        "def": "The percentage of customers who keep paying or using a product over time."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Activation Gain (how much easier signup got) 8, Retention Quality Loss (how much 30-day retention dropped since) 3. Score = 8 minus 3 = plus 5. Higher, more positive, means the easier funnel is a net win, you're gaining more real users than you're losing in quality. Lower or negative means the friction you removed was doing useful filtering, and you should tighten it back up.",
+    "closing_statement": "The easiest yes is rarely the most valuable one."
+  },
+  "caption": "Principle Nº 86: Activation-Quality Tradeoff\n\nEasier onboarding can reduce user quality. Friction can filter.\n\nAsk yourself: If you removed all your business signup friction, would you get more real customers, or just more curious tourists?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

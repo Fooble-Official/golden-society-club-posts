@@ -1,0 +1,80 @@
+{
+  "order": 192,
+  "day": 192,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "192",
+  "title": "Recursive Viability",
+  "slug": "recursive-viability",
+  "category": "Cybernetics",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Organize life into nested autonomous units.",
+    "question": "Is each area of your life viable on its own, or does everything need you?",
+    "equation": "Viability = Σ(Autonomy × Coordination)",
+    "mental_model": "Federation.",
+    "business_lens": "Teams self-manage, weekly sync.",
+    "life_lens": "Family roles semi-autonomous.",
+    "sop": [
+      "List the sub-systems in your business or life: departments, family roles, personal routines.",
+      "For each, rate Autonomy (can it run decisions without you?) and Coordination (does it sync with the rest?), 1-10 each (see calculation, page 5).",
+      "Delegate one full routine to the person or system already closest to it, with real decision authority, not just tasks.",
+      "Set a lightweight coordination point (weekly sync, shared dashboard) instead of requiring you as the connector.",
+      "Test it by stepping back for a week and observing what breaks."
+    ],
+    "explainer": "",
+    "questions": [
+      "Is each area of your life viable on its own, or does everything need you?",
+      "If you had to leave for a month, which part of your team, family, or business would keep making good decisions without checking with you first?",
+      "What's one area where you're the single point of coordination for something that could run on its own rules?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each sub-system 1-10: Autonomy, Coordination. Sub-system 1: Autonomy 7 times Coordination 6 equals 42. Sub-system 2: Autonomy 5 times Coordination 8 equals 40. Sum them for total Viability equals 82. Higher means your systems can each function and still stay in sync without you as the hub; lower means either nothing can run without you, or everything runs but disconnected.",
+    "closing_statement": "Build parts that work alone and still work together."
+  },
+  "caption": "Principle Nº 192: Recursive Viability\n\nOrganize life into nested autonomous units.\n\nAsk yourself: Is each area of your life viable on its own, or does everything need you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

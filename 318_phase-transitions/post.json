@@ -1,0 +1,85 @@
+{
+  "order": 318,
+  "day": 318,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "318",
+  "title": "Phase Transitions",
+  "slug": "phase-transitions",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems undergo abrupt, system-wide changes when parameters cross thresholds.",
+    "question": "What threshold is my market or company approaching where small changes could trigger a step shift?",
+    "equation": "Transition Risk = Closeness to Threshold times System Sensitivity, rate how near you are to the tipping point, not how far.",
+    "mental_model": "Water turning to ice, gradual cooling, sudden state change.",
+    "business_lens": "Watch for early signals of customer behavior shifts; invest in multiple horizons so you are not caught flat in a transition.",
+    "life_lens": "Recognize when you are near a threshold (relationships, careers, health) where small changes flip the state.",
+    "sop": [
+      "Identify variables that could trigger phase change",
+      "Watch leading indicators",
+      "Invest in optionality across horizons",
+      "Pre-commit to action if thresholds are crossed",
+      "Avoid relying on past linear trends near transitions"
+    ],
+    "explainer": "Blockbuster’s collapse, Nokia’s smartphone miss, and the rise of mobile commerce were all phase transitions. By the time the metrics show the new state, the transition is finished. The McKinsey Three Horizons Model exists to manage this risk.",
+    "questions": [
+      "What threshold is my market or company approaching where small changes could trigger a step shift?",
+      "What early, easy-to-dismiss signal have you noticed in customer behavior that you haven't acted on because the numbers 'still look fine'?",
+      "If your industry shifted state overnight the way video rental did with streaming, what would the early warning have looked like six months before it was obvious?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Closeness to Threshold 8 (how near you are to the tipping point), System Sensitivity 7 (how much a small push moves the whole system). Score = (8 plus 7) divided by 2 = 7.5. Higher means you're close to a threshold in a highly reactive system, expect abrupt change, not gradual; lower means you have more runway before a step-change risk materializes.",
+    "closing_statement": "By the time the data confirms it, the shift already happened."
+  },
+  "caption": "Principle Nº 318: Phase Transitions\n\nSystems undergo abrupt, system-wide changes when parameters cross thresholds. Blockbuster’s collapse, Nokia’s smartphone miss, and the rise of mobile commerce were all phase transitions.\n\nAsk yourself: What threshold is my market or company approaching where small changes could trigger a step shift?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

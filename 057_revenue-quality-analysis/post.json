@@ -1,0 +1,90 @@
+{
+  "order": 57,
+  "day": 57,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "57",
+  "title": "Revenue Quality Analysis",
+  "slug": "revenue-quality-analysis",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A dollar of revenue is not equal to every other dollar of revenue.",
+    "question": "What percentage of your business's projected revenue is recurring, high-margin, diversified, and cash-reliable?",
+    "equation": "RQA = Recurring × Margin × Retention × Diversification × Cash Reliability",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Calculate what percentage of revenue is Recurring, repeat or subscription-based rather than one-off (see calculation, page 6).",
+      "Calculate your average Margin percentage across that revenue (see calculation, page 6).",
+      "Calculate Retention, the percentage of that revenue base still with you a year later (see calculation, page 6).",
+      "Calculate Diversification and Cash Reliability as percentages, how spread out your revenue sources are and how predictably cash actually lands (see calculation, page 6).",
+      "Multiply all five percentages together to see your true Revenue Quality score, and set one target to raise your weakest input next quarter."
+    ],
+    "explainer": "Chasing any revenue is beginner; chasing high-quality revenue is operator.",
+    "questions": [
+      "What percentage of your business's projected revenue is recurring, high-margin, diversified, and cash-reliable?",
+      "If you had to lose one customer segment or product line tomorrow, would your revenue mix get more fragile or more resilient?",
+      "Is your best month of revenue this year the kind you could count on repeating, or a one-time spike you're already treating as normal?"
+    ],
+    "definitions": [
+      {
+        "term": "Retention",
+        "def": "The percentage of customers who keep paying or using a product over time."
+      }
+    ],
+    "equation_example": "Recurring 70%, Margin 60%, Retention 90%, Diversification 50%, Cash Reliability 80%. 0.70 times 0.60 times 0.90 times 0.50 times 0.80 equals 15.1% out of 100%. Higher percentage means your revenue is durable, diversified, and hard to disrupt. Lower percentage means it looks big on paper but is fragile in more than one way at once.",
+    "closing_statement": "Revenue quality matters more than revenue size."
+  },
+  "caption": "Principle Nº 57: Revenue Quality Analysis\n\nA dollar of revenue is not equal to every other dollar of revenue. Chasing any revenue is beginner; chasing high-quality revenue is operator.\n\nAsk yourself: What percentage of your business's projected revenue is recurring, high-margin, diversified, and cash-reliable?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

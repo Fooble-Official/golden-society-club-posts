@@ -1,0 +1,95 @@
+{
+  "order": 284,
+  "day": 284,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "284",
+  "title": "OKRs",
+  "slug": "okrs",
+  "category": "Execution",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Align the organization around a few ambitious objectives, each with measurable key results.",
+    "question": "What 3 objectives, with measurable key results, should you commit to publicly this quarter?",
+    "equation": "Aligned Output = Objective Clarity × KR Measurability × Public Commitment",
+    "mental_model": "North star with a checklist, direction plus measurable progress.",
+    "business_lens": "Each cycle, define 3–5 objectives with 3–4 measurable key results; review weekly; treat 0.7 score as healthy.",
+    "life_lens": "Pick a few audacious goals each quarter and define how you will measure if you got there.",
+    "sop": [
+      "Define 3-5 ambitious Objectives",
+      "For each, 3-4 quantifiable Key Results",
+      "Make them visible org-wide",
+      "Score weekly with red/yellow/green",
+      "Reset each cycle and learn from misses"
+    ],
+    "explainer": "Google’s OKRs powered its early growth: bold objectives like \"improve search quality\" with hard KRs like \"increase query-success rate.\" OKRs are not bonus systems, tying KRs to compensation kills stretch. The point is alignment and learning.",
+    "questions": [
+      "What 3 objectives, with measurable key results, should you commit to publicly this quarter?",
+      "Which of your current goals has no actual number attached to know if you hit it?",
+      "Would your team be embarrassed or motivated if your scores were posted publicly right now?"
+    ],
+    "definitions": [
+      {
+        "term": "OKR",
+        "def": "Objectives and Key Results."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Objective Clarity 8, Key Result Measurability 7, Public Commitment 6. Score = 8 times 7 times 6 = 336 out of a possible 1,000. Higher means the whole team can explain what winning looks like without asking you. Lower means the objectives exist on a slide but not in anyone's actual weekly work.",
+    "closing_statement": "A goal without a number is just a wish."
+  },
+  "caption": "Principle Nº 284: OKRs\n\nAlign the organization around a few ambitious objectives, each with measurable key results. Google’s OKRs powered its early growth: bold objectives like \"improve search quality\" with hard KRs like \"increase query-success rate.\" OKRs are not bonus systems, tying KRs to compensation kills stretch.\n\nAsk yourself: What 3 objectives, with measurable key results, should you commit to publicly this quarter?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

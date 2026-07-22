@@ -1,0 +1,85 @@
+{
+  "order": 269,
+  "day": 269,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "269",
+  "title": "Undeniable Proof",
+  "slug": "undeniable-proof",
+  "category": "Proof & Credibility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The strongest persuasion removes the imagination gap by showing results people cannot ignore.",
+    "question": "What proof would make your value obvious without needing a long explanation?",
+    "equation": "Persuasion Strength = Result Evidence × Specificity × Relevance",
+    "mental_model": "Receipts on the table, proof makes belief easier.",
+    "business_lens": "Use case studies, numbers, demonstrations, testimonials, before-and-after examples, and visible outcomes.",
+    "life_lens": "Let your actions and results explain what words cannot.",
+    "sop": [
+      "Identify the claim you want people to believe",
+      "Gather evidence that proves it",
+      "Make the evidence specific",
+      "Show the before and after",
+      "Use proof consistently in sales, content, and leadership"
+    ],
+    "explainer": "Undeniable Proof closes the gap between what you know is true and what others can believe. The imagination gap is the distance between your promise and someone else’s ability to picture it working. Proof narrows that gap.",
+    "questions": [
+      "What proof would make your value obvious without needing a long explanation?",
+      "If a skeptical stranger looked at your proof today, would it survive one follow-up question?",
+      "What result do you have evidence for but have never actually shown anyone?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Result Evidence 8, Specificity 9, Relevance 6. Score = 8 times 9 times 6 = 432 out of a possible 1,000. Higher means people believe you faster because the proof matches exactly what they're worried about. Lower means your proof is real but too vague or unrelated to close the gap.",
+    "closing_statement": "Show the result instead of explaining it."
+  },
+  "caption": "Principle Nº 269: Undeniable Proof\n\nThe strongest persuasion removes the imagination gap by showing results people cannot ignore. Undeniable Proof closes the gap between what you know is true and what others can believe.\n\nAsk yourself: What proof would make your value obvious without needing a long explanation?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

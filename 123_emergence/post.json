@@ -1,0 +1,90 @@
+{
+  "order": 123,
+  "day": 123,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "123",
+  "title": "Emergence",
+  "slug": "emergence",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The system creates outcomes you didn't directly design.",
+    "question": "What emergent result are you pretending is someone else's problem?",
+    "equation": "Outcome = Sum(Interactions), not Sum(Parts)",
+    "mental_model": "Ant colony, no leader, perfect system.",
+    "business_lens": "Culture emerges. Brand emerges.",
+    "life_lens": "Lifestyle emerges from habits.",
+    "sop": [
+      "Identify 2-3 key relationships or interactions in your business, such as team-to-customer or product-to-marketing.",
+      "Rate the strength of each interaction 1-10 (see calculation, page 6).",
+      "Observe what emergent pattern, culture, reputation, or momentum, those interactions are currently producing.",
+      "Adjust the environment or interaction rules, not the individual parts, to change the emergent outcome.",
+      "Give changes time, emergent patterns shift slower than any single part does."
+    ],
+    "explainer": "",
+    "questions": [
+      "What emergent result are you pretending is someone else's problem?",
+      "What's something about your culture or reputation that no single decision produced, yet everyone can feel?",
+      "If you changed how two parts of your business interact, without touching either part itself, what would shift?"
+    ],
+    "definitions": [
+      {
+        "term": "Emergence",
+        "def": "Outcomes a system creates that you didn't directly design."
+      }
+    ],
+    "equation_example": "Rate the strength of 3 key interactions between parts of your business, 1-10: Team-to-Customers 7, Product-to-Marketing 8, Culture-to-Process 6. Sum equals 21, that combined number, not any single department's score, is what determines the emergent outcome, such as culture or momentum. Higher means your parts are interacting well and producing something bigger than any one of them; lower means the parts might each be strong alone but aren't combining into anything more.",
+    "closing_statement": "The whole behaves differently than any of its parts alone."
+  },
+  "caption": "Principle Nº 123: Emergence\n\nThe system creates outcomes you didn't directly design.\n\nAsk yourself: What emergent result are you pretending is someone else's problem?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

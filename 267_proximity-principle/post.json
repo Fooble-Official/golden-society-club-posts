@@ -1,0 +1,85 @@
+{
+  "order": 267,
+  "day": 267,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "267",
+  "title": "Proximity Principle",
+  "slug": "proximity-principle",
+  "category": "Environment & Growth",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Your environment shapes what you believe is possible, so place yourself around people and rooms that expand your standards.",
+    "question": "What room or relationship would expand what you believe is possible?",
+    "equation": "Personal Expansion = Environment Quality × Repeated Exposure × Belief Shift",
+    "mental_model": "Thermostat, the room changes your default temperature.",
+    "business_lens": "Spend time with founders, operators, investors, creators, and experts who normalize the next level.",
+    "life_lens": "Choose rooms that make your future feel realistic, not ridiculous.",
+    "sop": [
+      "Identify the level you want to grow into",
+      "Find people and rooms where that level is normal",
+      "Spend consistent time there",
+      "Notice how your beliefs shift",
+      "Bring the new standards into your daily actions"
+    ],
+    "explainer": "The Proximity Principle means your surroundings train your expectations. If everyone around you thinks small, small starts to feel safe and reasonable. If you spend time with people building bigger things, your nervous system slowly updates what feels possible.",
+    "questions": [
+      "What room or relationship would expand what you believe is possible?",
+      "Who in your current circle would be shocked by the goal you're actually chasing?",
+      "What's a room you could get into this quarter that would make your current plan look small?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Environment Quality 8, Repeated Exposure 5, Belief Shift 6. Score = 8 times 5 times 6 = 240 out of a possible 1,000. Higher means your environment is actively raising your ceiling. Lower means your surroundings are quietly confirming your current limits.",
+    "closing_statement": "Your environment sets your default ceiling."
+  },
+  "caption": "Principle Nº 267: Proximity Principle\n\nYour environment shapes what you believe is possible, so place yourself around people and rooms that expand your standards. The Proximity Principle means your surroundings train your expectations.\n\nAsk yourself: What room or relationship would expand what you believe is possible?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

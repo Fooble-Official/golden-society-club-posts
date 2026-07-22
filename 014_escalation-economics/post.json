@@ -1,0 +1,80 @@
+{
+  "order": 14,
+  "day": 14,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "14",
+  "title": "Escalation Economics",
+  "slug": "escalation-economics",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Not all problems deserve senior attention.",
+    "question": "What's your threshold, in dollars or impact, below which someone should just decide without asking you?",
+    "equation": "EE = Value Preserved - (Delay + Escalation Cost)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Track every decision escalated to you for two weeks and note the dollar or impact size of each.",
+      "Find the natural cutoff, the point below which your input rarely changed the outcome.",
+      "Set that number as your official threshold and tell your team in writing: below X, decide without me.",
+      "Rate Value Preserved, Delay, and Escalation Cost for a recent escalation (see calculation, page 5)",
+      "Review escalations quarterly and raise the threshold as your team proves it can be trusted with bigger calls."
+    ],
+    "explainer": "Every escalation costs time. Set a dollar threshold under which people must decide without you.",
+    "questions": [
+      "What's your threshold, in dollars or impact, below which someone should just decide without asking you?",
+      "What was the last decision someone escalated to you that cost more in delay than it saved in accuracy?",
+      "If you set a dollar threshold today, what would you actually lose by letting your team decide under it alone?"
+    ],
+    "definitions": [],
+    "equation_example": "Estimate Value Preserved in dollars, then Delay and Escalation Cost in dollars. Value Preserved $500, Delay cost $50, Escalation Cost $100 → EE = 500 - (50+100) = $350. Higher EE means the escalation was worth it; a low or negative EE means it should have been decided without you.",
+    "closing_statement": "Your attention has a price. Guard it."
+  },
+  "caption": "Principle Nº 14: Escalation Economics\n\nNot all problems deserve senior attention. Every escalation costs time.\n\nAsk yourself: What's your threshold, in dollars or impact, below which someone should just decide without asking you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

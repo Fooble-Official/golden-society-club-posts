@@ -1,0 +1,90 @@
+{
+  "order": 133,
+  "day": 133,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "133",
+  "title": "Default Systems",
+  "slug": "default-systems",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "What happens by default dominates your life.",
+    "question": "What's one default you could engineer that would save 10 decisions a day?",
+    "equation": "Outcome = Default × Time",
+    "mental_model": "Autopilot > willpower.",
+    "business_lens": "Default pricing = revenue.",
+    "life_lens": "Default meals = your life.",
+    "sop": [
+      "Define what your ideal day or ideal outcome actually looks like in specifics.",
+      "Rate your current Default 1-10, how well the automatic behavior matches that ideal (see calculation, page 6)",
+      "Build one piece of automation or a standing rule that removes a repeated decision entirely.",
+      "Remove the manual decision point completely, don't just add willpower on top of it.",
+      "Review defaults quarterly; anything you're still deciding manually is a candidate to automate next."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's one default you could engineer that would save 10 decisions a day?",
+      "If you did absolutely nothing different this year, what would your default trajectory actually produce?",
+      "Which decision do you re-make every single day that you could pre-decide once and never touch again?"
+    ],
+    "definitions": [
+      {
+        "term": "Default",
+        "def": "The behavior that happens when no decision is made."
+      }
+    ],
+    "equation_example": "Rate your Default 1-10 (how well the automatic behavior serves you). Default 8 times Time 12 (months it's been running) equals 96 outcome-points accumulated. Higher means a strong default is compounding a good result without requiring willpower. Lower means a weak default is quietly compounding damage the same way.",
+    "closing_statement": "What you default to is what you actually value."
+  },
+  "caption": "Principle Nº 133: Default Systems\n\nWhat happens by default dominates your life.\n\nAsk yourself: What's one default you could engineer that would save 10 decisions a day?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

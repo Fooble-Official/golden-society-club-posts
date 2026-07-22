@@ -1,0 +1,85 @@
+{
+  "order": 260,
+  "day": 260,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "260",
+  "title": "Decision Map",
+  "slug": "decision-map",
+  "category": "Decision Making",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Better decisions come from understanding the facts, isolating the issue, accepting the risks, and mapping the next steps.",
+    "question": "Which of these four, facts, issue, risk, or next step, are you most likely to skip when you're under pressure?",
+    "equation": "Decision Quality = Context × Issue Clarity × Risk Acceptance × Action Plan",
+    "mental_model": "Clean map, first you find where you are, then you choose where to go.",
+    "business_lens": "Use this framework before major commitments, pivots, hires, purchases, launches, or negotiations.",
+    "life_lens": "Slow down enough to separate the facts from the fear before choosing what to do.",
+    "sop": [
+      "Gather the context and facts",
+      "Isolate the specific issue",
+      "Name the risks",
+      "Decide which risks you accept",
+      "Map the next steps"
+    ],
+    "explainer": "The Decision Map gives structure to moments that feel messy. Context means the actual facts, not the story you are telling yourself. Risk acceptance means acknowledging what could go wrong instead of pretending the perfect option exists. This framework keeps you from making vague decisions under pressure.",
+    "questions": [
+      "Which of these four, facts, issue, risk, or next step, are you most likely to skip when you're under pressure?",
+      "What story are you telling yourself about this situation that isn't actually a fact?",
+      "Which risk in this decision have you not actually said out loud yet?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Context 8, Issue Clarity 5, Risk Acceptance 7, Action Plan 6. Score = 8 times 5 times 7 times 6 = 1,680 out of a possible 10,000. Higher means you're deciding from clarity instead of pressure. Lower, especially a weak Issue Clarity score, means you're about to solve the wrong problem well.",
+    "closing_statement": "Name the real issue before you act on it."
+  },
+  "caption": "Principle Nº 260: Decision Map\n\nBetter decisions come from understanding the facts, isolating the issue, accepting the risks, and mapping the next steps. The Decision Map gives structure to moments that feel messy.\n\nAsk yourself: Which of these four, facts, issue, risk, or next step, are you most likely to skip when you're under pressure?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

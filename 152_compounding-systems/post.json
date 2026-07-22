@@ -1,0 +1,90 @@
+{
+  "order": 152,
+  "day": 152,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "152",
+  "title": "Compounding Systems",
+  "slug": "compounding-systems",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Small actions repeated → massive outcomes.",
+    "question": "Which compounding action are you breaking too often to see returns?",
+    "equation": "Result = Base × (1+Rate)^Time",
+    "mental_model": "Interest stacking.",
+    "business_lens": "Content library, brand, audience.",
+    "life_lens": "Fitness, skincare, habits.",
+    "sop": [
+      "Pick one compounding action (content, savings, skill practice) you want to build a streak on.",
+      "Rate your current Rate 1-10, how much this action is realistically improving per period (see calculation, page 6)",
+      "Commit to the minimum viable version daily so the streak survives busy days.",
+      "Track your streak length (Time) visibly so a broken chain is obvious immediately (see calculation, page 6)",
+      "Review growth quarterly, compounding is invisible week to week and obvious only in hindsight."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which compounding action are you breaking too often to see returns?",
+      "What's one small action you've done consistently for over 90 days without missing?",
+      "If you 10x'd the time horizon on your current effort but kept the daily input the same, would the result still feel small?"
+    ],
+    "definitions": [
+      {
+        "term": "Reinforcing loop",
+        "def": "A feedback loop where success creates more success."
+      }
+    ],
+    "equation_example": "Base equals 100 (starting units, content pieces, dollars, reps), Rate equals 5% growth per period, Time equals 12 periods. Result equals 100 times 1.05 to the 12th power, approximately 180. Higher/rising means small consistent gains are stacking into a far bigger number than the raw daily effort suggests. Lower/falling means a broken streak is resetting the compounding before it can take off.",
+    "closing_statement": "A broken streak resets more than it looks like."
+  },
+  "caption": "Principle Nº 152: Compounding Systems\n\nSmall actions repeated → massive outcomes.\n\nAsk yourself: Which compounding action are you breaking too often to see returns?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

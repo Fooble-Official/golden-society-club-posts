@@ -1,0 +1,90 @@
+{
+  "order": 72,
+  "day": 72,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "72",
+  "title": "Network Ignition Sequencing",
+  "slug": "network-ignition-sequencing",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Order of building the network determines success.",
+    "question": "Are you activating supply or demand first in your market, and can you explain why that order, specifically?",
+    "equation": "NIS = (Initial Density × Cross-Side Activation × Repeat) ÷ Time to Critical Mass",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Decide explicitly which side of your marketplace you'll activate first and write down why.",
+      "Rate your Initial Density 1-10, how concentrated your first side is in one location, niche, or network (see calculation, page 6).",
+      "Rate your Cross-Side Activation 1-10, how quickly the first side's presence pulls in the second side (see calculation, page 6).",
+      "Rate Repeat 1-10, how often early users come back rather than trying you once (see calculation, page 6).",
+      "Track your actual Time to Critical Mass in weeks (see calculation, page 6) and compare it against your target before expanding to a new market."
+    ],
+    "explainer": "Which side first is not arbitrary. One side usually needs to be seeded before the other will show up.",
+    "questions": [
+      "Are you activating supply or demand first in your market, and can you explain why that order, specifically?",
+      "If you signed up 100 people on your \"first\" side tomorrow, would the other side actually show up, or would they sit idle?",
+      "Which side of your marketplace is harder to attract, and are you spending your early effort there or on the easier side?"
+    ],
+    "definitions": [
+      {
+        "term": "Cross-side network effect",
+        "def": "When more users on side A make the platform more valuable for side B."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Initial Density 7, Cross-Side Activation 6, Repeat 8. 7 times 6 times 8 equals 336, divided by Time to Critical Mass 6 weeks equals 56. Higher means your market is igniting fast relative to how long it's taking. Lower means you're burning time without the network taking hold.",
+    "closing_statement": "The side you activate first shapes everything that follows."
+  },
+  "caption": "Principle Nº 72: Network Ignition Sequencing\n\nOrder of building the network determines success. Which side first is not arbitrary.\n\nAsk yourself: Are you activating supply or demand first in your market, and can you explain why that order, specifically?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

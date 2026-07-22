@@ -1,0 +1,80 @@
+{
+  "order": 204,
+  "day": 204,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "204",
+  "title": "Values-Driven Governance",
+  "slug": "values-driven-governance",
+  "category": "Viable Systems",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Root decisions in core values.",
+    "question": "Is your next big decision aligned with your written values?",
+    "equation": "Decision Consistency ∝ Value Strength",
+    "mental_model": "Compass.",
+    "business_lens": "Culture drives tough calls.",
+    "life_lens": "Identity drives consistent choices.",
+    "sop": [
+      "Write 3-5 core values in specific, decision-usable language, not generic words like 'integrity' alone.",
+      "Before your next major decision, check it explicitly against that list.",
+      "Rate your Value Strength, 1-10 (see calculation, page 5), how clearly defined and genuinely held each value is, not just written down.",
+      "Share the values with your team or household so they're a shared standard, not a private note.",
+      "Revisit after any decision that felt hard, did the values actually guide it, or get skipped under pressure?"
+    ],
+    "explainer": "",
+    "questions": [
+      "Is your next big decision aligned with your written values?",
+      "Can you actually name your 3-5 core values right now, or would you have to think about it for the first time under pressure?",
+      "What's the last hard call you made that contradicted a value you claim to hold?"
+    ],
+    "definitions": [],
+    "equation_example": "Value Strength (rate 1-10: how clearly defined and consistently held your values actually are, not just written down) predicts Decision Consistency (rate 1-10: how often your choices actually match them). Value Strength 8 tends to produce Decision Consistency around 7-8; Value Strength 3 tends to produce Decision Consistency around 2-3. Higher Value Strength makes hard calls faster and more consistent; lower means every decision gets re-litigated from scratch.",
+    "closing_statement": "Written values make hard calls faster."
+  },
+  "caption": "Principle Nº 204: Values-Driven Governance\n\nRoot decisions in core values.\n\nAsk yourself: Is your next big decision aligned with your written values?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

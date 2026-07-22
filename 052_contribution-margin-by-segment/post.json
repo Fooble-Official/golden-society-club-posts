@@ -1,0 +1,80 @@
+{
+  "order": 52,
+  "day": 52,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "52",
+  "title": "Contribution Margin by Segment",
+  "slug": "contribution-margin-by-segment",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Not all revenue contributes equally.",
+    "question": "Which customer segment has the best margin in your business, and which has the worst? Are you actively acquiring more of the right one?",
+    "equation": "CMS = (Segment Revenue - Segment Variable Costs) ÷ Segment Revenue",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Break your customer base into 3-5 real segments (by product line, channel, geography, or customer type).",
+      "Calculate Segment Revenue and Segment Variable Costs for each one this month (see calculation, page 5).",
+      "Divide segment revenue minus segment variable costs by segment revenue to get each segment's contribution margin percentage (see calculation, page 5).",
+      "Rank segments from highest to lowest margin and flag any segment below your minimum viable threshold.",
+      "Redirect one marketing or sales resource this quarter from your lowest-margin segment toward your highest."
+    ],
+    "explainer": "Averages mask segment reality. Some customers are profitable; others are subsidies you don't know you're paying.",
+    "questions": [
+      "Which customer segment has the best margin in your business, and which has the worst? Are you actively acquiring more of the right one?",
+      "If you had to cut one customer segment tomorrow to protect margin, which one would it be, and do you know that, or just guess?",
+      "Is your \"best\" segment by revenue also your best segment by contribution margin, or are you chasing the wrong number?"
+    ],
+    "definitions": [],
+    "equation_example": "Segment Revenue $10,000, Segment Variable Costs $6,000. ($10,000 minus $6,000) divided by $10,000 equals 40% out of 100%. Higher percentage means that segment keeps more of every dollar as real profit. Lower percentage means you're effectively subsidizing that segment with money made elsewhere.",
+    "closing_statement": "Not every dollar of revenue deserves the same trust."
+  },
+  "caption": "Principle Nº 52: Contribution Margin by Segment\n\nNot all revenue contributes equally. Averages mask segment reality.\n\nAsk yourself: Which customer segment has the best margin in your business, and which has the worst? Are you actively acquiring more of the right one?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

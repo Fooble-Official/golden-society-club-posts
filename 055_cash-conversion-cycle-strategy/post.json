@@ -1,0 +1,94 @@
+{
+  "order": 55,
+  "day": 55,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "55",
+  "title": "Cash Conversion Cycle Strategy",
+  "slug": "cash-conversion-cycle-strategy",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Speed of cash matters as much as margin.",
+    "question": "How long between your business earning revenue and having it in the bank? Can you shorten it?",
+    "equation": "CCC = DSO + DIO - DPO",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Calculate your average days to collect payment after a sale (see calculation, page 6).",
+      "Calculate your average days inventory sits before it sells, if applicable (see calculation, page 6).",
+      "Calculate your average days you take to pay your own suppliers (see calculation, page 6).",
+      "Add days to collect and days inventory sits, then subtract days to pay suppliers to get your Cash Conversion Cycle in days (see calculation, page 6).",
+      "Target one lever, faster collections, leaner inventory, or longer supplier terms, to cut at least 5 days from the cycle this quarter."
+    ],
+    "explainer": "A short cash cycle is a superpower. You grow using your customers' money, not investors'.",
+    "questions": [
+      "How long between your business earning revenue and having it in the bank? Can you shorten it?",
+      "Are you paying your suppliers faster than your customers are paying you, and if so, why?",
+      "If you stretched your payment terms with suppliers by just 15 days, how much cash would that free up this year?"
+    ],
+    "definitions": [
+      {
+        "term": "DSO",
+        "def": "Days Sales Outstanding, the average number of days it takes to collect payment after a sale."
+      },
+      {
+        "term": "DPO",
+        "def": "Days Payable Outstanding, the average number of days you take to pay your own suppliers."
+      }
+    ],
+    "equation_example": "Days to Collect 35, Days Inventory Sits 20, Days to Pay Suppliers 40. 35 plus 20 minus 40 equals 15 days. Lower, even negative, means cash comes back to you fast, sometimes before you even pay your own bills. Higher means your cash is tied up longer, forcing you to finance the gap yourself.",
+    "closing_statement": "Speed of cash is its own form of profit."
+  },
+  "caption": "Principle Nº 55: Cash Conversion Cycle Strategy\n\nSpeed of cash matters as much as margin. A short cash cycle is a superpower.\n\nAsk yourself: How long between your business earning revenue and having it in the bank? Can you shorten it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

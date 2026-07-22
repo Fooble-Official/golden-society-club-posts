@@ -1,0 +1,89 @@
+{
+  "order": 3,
+  "day": 3,
+  "cta_type": "follow_only",
+  "cover_type": "green",
+  "principle_number": "3",
+  "title": "Narrative Moat",
+  "slug": "narrative-moat",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Stories scale trust faster than features.",
+    "question": "What's the one-sentence story about your business that a customer would retell to a friend, unprompted?",
+    "equation": "NM = (Recall × Share Rate × Trust Lift) ÷ Copyability",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Write your business's origin or turning-point moment in 3 sentences",
+      "Cut it down until a stranger could retell it after hearing it once",
+      "Test it in one conversation or post and see if it gets repeated back to you",
+      "Replace any feature-talk in your marketing with this story"
+    ],
+    "explainer": "Features get copied; stories don't. The narrative is the moat because it lives in the customer's memory and social graph.",
+    "questions": [
+      "What's the one-sentence story about your business that a customer would retell to a friend, unprompted?",
+      "If you removed every feature list from your marketing, what story would still make someone want to buy?",
+      "What's the last thing a happy customer said about you, in their own words, not yours?"
+    ],
+    "equation_example": "Recall 70%, Share Rate 15%, Trust Lift +20 points, divided by Copyability 2, on a 1-5 scale where 5 is easiest to copy = 105. A rising number means your story is spreading on its own. A falling number means it's not sticking.",
+    "definitions": [
+      {
+        "term": "Moat",
+        "def": "A durable competitive advantage that protects your business from competition over time."
+      }
+    ],
+    "closing_statement": "What survives is what gets retold."
+  },
+  "caption": "Principle Nº 3: Narrative Moat\n\nStories scale trust faster than features. Features get copied; stories don't.\n\nAsk yourself: What's the one-sentence story about your business that a customer would retell to a friend, unprompted?\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

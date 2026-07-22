@@ -1,0 +1,79 @@
+{
+  "order": 4,
+  "day": 4,
+  "cta_type": "follow_only",
+  "cover_type": "photo",
+  "principle_number": "4",
+  "title": "Category Language Capture",
+  "slug": "category-language-capture",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Whoever defines the language defines the market.",
+    "question": "What's the phrase you want your customers to use to describe what you do, instead of a generic label a competitor could also claim?",
+    "equation": "CLC = (Search Share + Verbatim Match + Sales Adoption) ÷ 3",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Write the generic category label people currently use for what you do",
+      "Write your own specific phrase for it instead",
+      "Use your phrase everywhere, on your site, in captions, in conversation, until it feels natural",
+      "Check quarterly whether customers are starting to use your phrase unprompted"
+    ],
+    "explainer": "If you own the vocabulary of the problem, every conversation in the market reinforces your category leadership.",
+    "questions": [
+      "What's the phrase you want your customers to use to describe what you do, instead of a generic label a competitor could also claim?",
+      "When a customer describes you to a friend, do they use your words or a generic category label?",
+      "What word or phrase, if you owned it, would make every competitor's marketing sound like a copy of yours?"
+    ],
+    "equation_example": "Search Share 30%, Verbatim Match 45%, Sales Adoption 20%, averaged = 31.7% out of 100%. Higher means your phrase has taken over the category conversation. Lower means the generic label is still winning.",
+    "definitions": [],
+    "closing_statement": "Own the words, own the category."
+  },
+  "caption": "Principle Nº 4: Category Language Capture\n\nWhoever defines the language defines the market. If you own the vocabulary of the problem, every conversation in the market reinforces your category leadership.\n\nAsk yourself: What's the phrase you want your customers to use to describe what you do, instead of a generic label a competitor could also claim?\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

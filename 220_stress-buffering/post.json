@@ -1,0 +1,85 @@
+{
+  "order": 220,
+  "day": 220,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "220",
+  "title": "Stress Buffering",
+  "slug": "stress-buffering",
+  "category": "Performance & Rest",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Train autonomic system to switch states.",
+    "question": "Are you stuck in one nervous system state most of the time?",
+    "equation": "Resilience = State Diversity × Flex",
+    "mental_model": "Flex states.",
+    "business_lens": "Breaks after pressure.",
+    "life_lens": "Breath, power pose.",
+    "sop": [
+      "Learn one quick cue for each state you need, activation (cold water, movement), calm (breath, slow exhale), focus (short reset ritual)",
+      "Rate how many distinct states you can access on command, and how easily (see calculation, page 6)",
+      "Use the right cue intentionally before you need it, not only after you're already overwhelmed",
+      "Practice switching states daily, even in low-stakes moments, so it's automatic under real pressure",
+      "Track which cues actually work for you and drop the ones that don't"
+    ],
+    "explainer": "Resilience isn't the same as calmness, a person who's calm but can't access urgency when a real deadline hits isn't actually flexible, just stuck in one gear. What builds resilience is having deliberate access to multiple nervous system states and being able to move between them on purpose, not just riding out whichever one shows up.",
+    "questions": [
+      "Are you stuck in one nervous system state most of the time?",
+      "How long does it take you to come down from a stress spike, minutes, or does it linger for the rest of the day?",
+      "What's the last time you deliberately practiced switching states, instead of just waiting for the stressful moment to pass on its own?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. State Diversity 6 (number of states you can access on command), Flex 7 (how easily you switch). Resilience = 6 times 7 = 42. Higher score means you can meet a stressful moment with the right state instead of being stuck reacting from whatever state you're already in; a low score means one bad moment tends to color your whole day.",
+    "closing_statement": "Resilience is how many states you can reach on command."
+  },
+  "caption": "Principle Nº 220: Stress Buffering\n\nTrain autonomic system to switch states. Resilience isn't the same as calmness, a person who's calm but can't access urgency when a real deadline hits isn't actually flexible, just stuck in one gear.\n\nAsk yourself: Are you stuck in one nervous system state most of the time?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

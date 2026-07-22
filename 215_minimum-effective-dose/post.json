@@ -1,0 +1,85 @@
+{
+  "order": 215,
+  "day": 215,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "215",
+  "title": "Minimum Effective Dose",
+  "slug": "minimum-effective-dose",
+  "category": "Performance & Rest",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Do just enough.",
+    "question": "Where are you doing too much to hit a result you could get with less?",
+    "equation": "Result/Effort — maximize",
+    "mental_model": "Why 100 weights if 3 work?",
+    "business_lens": "One great post > 7 mediocre.",
+    "life_lens": "Short workouts.",
+    "sop": [
+      "Define what 'good enough' actually looks like for this specific result before you start",
+      "Start with the simplest version that could plausibly hit that bar",
+      "Rate the result against the target and the effort it took to get there (see calculation, page 6)",
+      "Stop the moment the result clears the bar, resist the urge to keep polishing",
+      "Note what the minimum actually was, so next time you don't over-invest from scratch"
+    ],
+    "explainer": "Effort and result don't rise together forever, past a certain point, extra effort buys smaller and smaller improvements while the cost stays constant or climbs. Minimum effective dose isn't about laziness; it's about noticing exactly where that curve bends and stopping there instead of on autopilot toward 'more.'",
+    "questions": [
+      "Where are you doing too much to hit a result you could get with less?",
+      "What's something you kept polishing well past the point anyone could tell the difference?",
+      "If you had to cut your effort on your current top priority by half, what would you cut first, and would the result actually suffer?"
+    ],
+    "definitions": [],
+    "equation_example": "Result: 8 out of 10 (how close to the goal). Effort: 4 out of 10 (time or energy spent). Result divided by Effort = 8 divided by 4 = 2.0, maximize this ratio. A higher ratio means you got a strong result cheaply; a ratio near or below 1 means you're spending as much or more effort than the result is worth.",
+    "closing_statement": "The last 20% of polish rarely earns its cost."
+  },
+  "caption": "Principle Nº 215: Minimum Effective Dose\n\nDo just enough. Effort and result don't rise together forever, past a certain point, extra effort buys smaller and smaller improvements while the cost stays constant or climbs.\n\nAsk yourself: Where are you doing too much to hit a result you could get with less?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

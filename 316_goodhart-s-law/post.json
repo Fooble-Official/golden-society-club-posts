@@ -1,0 +1,95 @@
+{
+  "order": 316,
+  "day": 316,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "316",
+  "title": "Goodhart’s Law",
+  "slug": "goodhart-s-law",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "When a measure becomes a target, it ceases to be a good measure.",
+    "question": "Which of my metrics has become a target, and what is the team doing now that misses the underlying goal?",
+    "equation": "Measure Validity = 1 ÷ Pressure to Hit It",
+    "mental_model": "Speedometer wired to the gas pedal, it stops describing speed.",
+    "business_lens": "Use balanced scorecards; pair every quantitative metric with a qualitative or counterbalancing measure.",
+    "life_lens": "Notice when a number you chase has stopped meaning what it used to mean.",
+    "sop": [
+      "List the metrics you target",
+      "For each, identify how it could be gamed",
+      "Add a counterbalancing measure",
+      "Watch behavior for distortion",
+      "Adjust or replace gamed metrics"
+    ],
+    "explainer": "Customer service teams measured on \"tickets closed per hour\" close tickets without solving problems. Sales teams measured on \"leads contacted\" leave voicemails on bad numbers. Goodhart’s Law explains why pure quantification frequently backfires; pair every target with a balancing signal.",
+    "questions": [
+      "Which of my metrics has become a target, and what is the team doing now that misses the underlying goal?",
+      "Pick your top KPI. If someone wanted to hit it without actually helping the business, how would they do it, and is anyone already doing that?",
+      "When a number goes up, do you check whether the thing it was supposed to represent went up too, or do you just take the number's word for it?"
+    ],
+    "definitions": [
+      {
+        "term": "Goodhart's Law",
+        "def": "When a measure becomes a target, it ceases to be a good measure."
+      }
+    ],
+    "equation_example": "Pressure to hit the metric, rated 9 out of 10 (heavily incentivized, bonus-tied). Measure Validity = 1 divided by 9, approximately 0.11 out of a possible 1.0. Higher pressure drives validity toward zero, the more a number is targeted, the less it can be trusted as a true signal; lower pressure (rated 1-2) keeps the measure closer to 1.0, meaning it still reflects reality instead of being gamed.",
+    "closing_statement": "The moment you reward a number, people optimize the number."
+  },
+  "caption": "Principle Nº 316: Goodhart’s Law\n\nWhen a measure becomes a target, it ceases to be a good measure. Customer service teams measured on \"tickets closed per hour\" close tickets without solving problems.\n\nAsk yourself: Which of my metrics has become a target, and what is the team doing now that misses the underlying goal?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 168,
+  "day": 168,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "168",
+  "title": "Scaling Systems",
+  "slug": "scaling-systems",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems must scale or break.",
+    "question": "What process will break at 10x, and what do you design now to prevent it?",
+    "equation": "Scalability = Output ÷ Effort",
+    "mental_model": "Built for growth.",
+    "business_lens": "Remove manual work.",
+    "life_lens": "Build repeatable routines.",
+    "sop": [
+      "List your five core operating processes: fulfillment, onboarding, support, hiring, invoicing.",
+      "For each, ask whether effort rises 1:1 with volume, or stays flat as volume grows.",
+      "Flag any process where your personal time is the constraint, that's a system, not a scale-ready process.",
+      "Rebuild the flagged process as a template, tool, or delegated workflow before volume forces it.",
+      "Test on paper at 2x current volume, note exactly where it strains."
+    ],
+    "explainer": "",
+    "questions": [
+      "What process will break at 10x, and what do you design now to prevent it?",
+      "Which process today requires you personally to touch every unit, and what happens to it at 10x volume?",
+      "If your customer count doubled overnight, which system would visibly snap first?"
+    ],
+    "definitions": [],
+    "equation_example": "Output (customers served, count) divided by Effort (your hours spent, count) equals Scalability ratio. Output 100 customers divided by Effort 40 hours equals 2.5. Higher/rising means each hour of your effort supports more output as you grow; lower/falling means growth demands proportionally more of your time, not less.",
+    "closing_statement": "Build so growth outpaces your own effort."
+  },
+  "caption": "Principle Nº 168: Scaling Systems\n\nSystems must scale or break.\n\nAsk yourself: What process will break at 10x, and what do you design now to prevent it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

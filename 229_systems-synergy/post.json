@@ -1,0 +1,85 @@
+{
+  "order": 229,
+  "day": 229,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "229",
+  "title": "Systems Synergy",
+  "slug": "systems-synergy",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Integrate subsystems for compound effect.",
+    "question": "Where can you stack systems so one action serves multiple goals?",
+    "equation": "Total ≥ Sum of Outputs (when aligned)",
+    "mental_model": "Gears mesh.",
+    "business_lens": "Reuse content across channels.",
+    "life_lens": "Exercise + family bike rides.",
+    "sop": [
+      "Map your active domains, health, business, relationships, learning, and their core actions",
+      "Look for overlapping actions where one move could serve two domains at once",
+      "Rate how aligned your current systems are, or whether they're fighting each other (see calculation, page 6)",
+      "Redesign one routine to be integrated (a walk that's also a call, content that's also training)",
+      "Track whether the combined output actually beats doing them separately, don't assume synergy, verify it"
+    ],
+    "explainer": "Running multiple systems side by side doesn't automatically create synergy, two well-designed but unrelated routines just add up to their sum, nothing more. Real synergy only shows up when the systems are deliberately aligned so one action serves both, which is why it has to be designed on purpose rather than assumed to happen from having a lot of systems running.",
+    "questions": [
+      "Where can you stack systems so one action serves multiple goals?",
+      "Which two systems in your life or business are currently working against each other instead of together?",
+      "What's one action you already do daily that could be redesigned to serve a second goal at the same time?"
+    ],
+    "definitions": [],
+    "equation_example": "Individual outputs summed separately: System A produces 5, System B produces 5, sum equals 10. When aligned and integrated, Total = 13, the combination produces more than the parts running independently. When misaligned, Total can fall below the sum (they interfere), say, 7. Higher-than-sum totals confirm real synergy; a total at or below the sum means the systems are just coexisting, not compounding.",
+    "closing_statement": "Two aligned systems can outproduce three separate ones."
+  },
+  "caption": "Principle Nº 229: Systems Synergy\n\nIntegrate subsystems for compound effect. Running multiple systems side by side doesn't automatically create synergy, two well-designed but unrelated routines just add up to their sum, nothing more.\n\nAsk yourself: Where can you stack systems so one action serves multiple goals?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

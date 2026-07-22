@@ -1,0 +1,95 @@
+{
+  "order": 313,
+  "day": 313,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "313",
+  "title": "Principal-Agent Problems",
+  "slug": "principal-agent-problems",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Agents (employees, executives) may pursue their own interests when those diverge from principals (owners).",
+    "question": "Where are my team's actual incentives pulling them away from what the company needs?",
+    "equation": "Incentive Alignment = Goal Overlap × Measurability × Skin in the Game",
+    "mental_model": "Renter and a landlord, different incentives, same building.",
+    "business_lens": "Design compensation, equity, and decision rights so agent incentives match principal goals; expect drift without it.",
+    "life_lens": "When trusting someone with your interests, ask what their incentive actually rewards.",
+    "sop": [
+      "Identify principal goals clearly",
+      "Map agent incentives",
+      "Find divergences",
+      "Redesign compensation, ownership, or process to align",
+      "Audit alignment annually as the company grows"
+    ],
+    "explainer": "Bonuses tied to top-line revenue produce sales reps who close bad-fit deals. CEO comp tied to short-term EPS produces buybacks instead of R&D. The principal-agent problem is structural; cultural exhortation rarely fixes what bad incentives create.",
+    "questions": [
+      "Where are my team's actual incentives pulling them away from what the company needs?",
+      "Pick one person whose decisions affect your bottom line, a contractor, a partner, a manager. What does their compensation actually reward them for doing?",
+      "When has someone technically hit their target while quietly hurting the business, and did the incentive get fixed, or did you just talk to them about it?"
+    ],
+    "definitions": [
+      {
+        "term": "Principal-agent problem",
+        "def": "When the person acting on your behalf (the agent) has incentives that diverge from your own (the principal), causing them to act in their own interest instead of yours."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Goal Overlap 6, Measurability 7, Skin in the Game 4. Score = (6 plus 7 plus 4) divided by 3 = 5.7. Higher means the people acting for you are structurally rewarded for doing what's actually good for the company; lower means you're relying on trust to cover for a misaligned incentive.",
+    "closing_statement": "Incentives predict behavior better than trust does."
+  },
+  "caption": "Principle Nº 313: Principal-Agent Problems\n\nAgents (employees, executives) may pursue their own interests when those diverge from principals (owners). Bonuses tied to top-line revenue produce sales reps who close bad-fit deals.\n\nAsk yourself: Where are my team's actual incentives pulling them away from what the company needs?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

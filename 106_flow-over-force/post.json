@@ -1,0 +1,80 @@
+{
+  "order": 106,
+  "day": 106,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "106",
+  "title": "Flow Over Force",
+  "slug": "flow-over-force",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems perform best when they flow, not when forced.",
+    "question": "Where are you forcing something that would work better if you flowed with it?",
+    "equation": "Sustainable Output = Alignment ÷ Friction",
+    "mental_model": "Rivers cut canyons by flowing consistently, not violently.",
+    "business_lens": "Aligned marketing/sales/ops = growth without burnout.",
+    "life_lens": "Aligned day = effortless momentum; forced day = exhaustion.",
+    "sop": [
+      "Name one area right now where you're pushing hard against resistance.",
+      "Rate the Alignment and Friction in that area each 1-10 (see calculation, page 5).",
+      "Identify what's actually causing the friction: wrong timing, wrong audience, wrong format, or wrong person.",
+      "Adjust the approach to work with the existing energy or demand instead of against it.",
+      "Track output before and after, a genuinely aligned system should feel easier, not harder, once adjusted."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where are you forcing something that would work better if you flowed with it?",
+      "What's one initiative you keep pushing that gets easier every time you stop fighting the timing?",
+      "If your top-performing effort barely feels like work, and your struggling one feels exhausting, what does that tell you about alignment versus force?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Alignment (how much you're working with your natural strengths or existing demand) 8, Friction (how much you're forcing against them) 5. Score = 8 divided by 5 = 1.6. Higher means you can keep this pace without burning out; a ratio below 1, friction outweighing alignment, is a preview of burnout even if short-term output looks fine.",
+    "closing_statement": "Working with the current beats fighting it."
+  },
+  "caption": "Principle Nº 106: Flow Over Force\n\nSystems perform best when they flow, not when forced.\n\nAsk yourself: Where are you forcing something that would work better if you flowed with it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

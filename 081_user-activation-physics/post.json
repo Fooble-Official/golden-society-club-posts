@@ -1,0 +1,94 @@
+{
+  "order": 81,
+  "day": 81,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "81",
+  "title": "User Activation Physics",
+  "slug": "user-activation-physics",
+  "category": "User Behavior & Retention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Users don't stay because they signed up, they stay because they felt value fast.",
+    "question": "What's your business's \"aha moment,\" and how fast does a new user hit it? Can you make it faster?",
+    "equation": "UAP = Activation Rate × (1 ÷ Time-to-Aha) × First-Session Value",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Define your specific aha moment, the exact instant a new user first gets real value from you.",
+      "Calculate your Activation Rate, the percentage of new users who actually reach that moment (see calculation, page 6).",
+      "Calculate your average Time-to-Aha, how long, in minutes or days, it takes them to get there (see calculation, page 6).",
+      "Rate First-Session Value 1-10, how strong that first experience feels once they arrive (see calculation, page 6).",
+      "Remove one unnecessary step between signup and the aha moment this month, and re-measure Time-to-Aha."
+    ],
+    "explainer": "Every day a new user goes without their \"aha\" moment raises the probability they churn.",
+    "questions": [
+      "What's your business's \"aha moment,\" and how fast does a new user hit it? Can you make it faster?",
+      "What percentage of new customers actually reach your product's core value, versus signing up and quietly drifting away?",
+      "If you cut the time it takes a new user to feel your product's value in half, what would you have to remove or simplify?"
+    ],
+    "definitions": [
+      {
+        "term": "Activation",
+        "def": "The moment a new user reaches their first meaningful win in a product."
+      },
+      {
+        "term": "Aha moment",
+        "def": "The first time a user gets real value from a product and \"gets it.\""
+      }
+    ],
+    "equation_example": "Activation Rate 40%, Time-to-Aha 3 days, First-Session Value rated 7 out of 10. 0.40 times (1 divided by 3) times 7 equals 0.93. Higher means more users are reaching real value, fast, and it's a strong first experience. Lower means users are signing up but drifting away before they ever feel why you're worth staying for.",
+    "closing_statement": "Time to first value predicts whether someone stays."
+  },
+  "caption": "Principle Nº 81: User Activation Physics\n\nUsers don't stay because they signed up, they stay because they felt value fast. Every day a new user goes without their \"aha\" moment raises the probability they churn.\n\nAsk yourself: What's your business's \"aha moment,\" and how fast does a new user hit it? Can you make it faster?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

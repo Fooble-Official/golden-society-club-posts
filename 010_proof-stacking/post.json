@@ -1,0 +1,80 @@
+{
+  "order": 10,
+  "day": 10,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "10",
+  "title": "Proof Stacking",
+  "slug": "proof-stacking",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Multiple proof types compound trust.",
+    "question": "Do you have proof from all four angles, social (reviews), product (works), economic (ROI), authority (press)? What's missing?",
+    "equation": "PSS = (Social + Product + Economic + Authority) × Sequence Fit ÷ 4",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Audit your current proof assets and sort them into four buckets: social, product, economic, and authority.",
+      "Identify the bucket that's empty or weakest and create one new proof asset for it this week.",
+      "Rate Social, Product, Economic, and Authority proof 1-10 each, and rate Sequence Fit 1-10 based on whether the right proof appears at the right funnel moment (see calculation, page 5)",
+      "Match proof type to buyer type, skeptical analytical buyers get economic and authority proof, social buyers get reviews and testimonials.",
+      "Re-audit monthly and replace your weakest proof asset with a stronger one as it becomes available."
+    ],
+    "explainer": "Some buyers trust testimonials; others trust data. Stack all four so every buyer finds their proof.",
+    "questions": [
+      "Do you have proof from all four angles, social (reviews), product (works), economic (ROI), authority (press)? What's missing?",
+      "Which of the four proof types do you have zero of right now?",
+      "Are you showing your strongest proof type to the buyer who actually cares about it, or just showing it to everyone?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Social, Product, Economic, and Authority proof 1-10 each, then rate Sequence Fit 1-10 (whether the right proof shows up at the right funnel moment). Social 8, Product 7, Economic 6, Authority 5, average 6.5; Sequence Fit 8 → PSS = 6.5 × 8 ÷ 4 = 13. Higher PSS means every buyer type finds proof that speaks to them, in the right order; lower means you're relying on one proof type and hoping it works for everyone.",
+    "closing_statement": "Different buyers trust different kinds of proof."
+  },
+  "caption": "Principle Nº 10: Proof Stacking\n\nMultiple proof types compound trust. Some buyers trust testimonials; others trust data.\n\nAsk yourself: Do you have proof from all four angles, social (reviews), product (works), economic (ROI), authority (press)? What's missing?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

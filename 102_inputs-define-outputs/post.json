@@ -1,0 +1,80 @@
+{
+  "order": 102,
+  "day": 102,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "102",
+  "title": "Inputs Define Outputs",
+  "slug": "inputs-define-outputs",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Garbage in, garbage out applies to everything.",
+    "question": "What's one low-quality input you tolerate daily that's degrading your output?",
+    "equation": "Output Quality = Input Quality times Process Quality, each rated 1-10, read as an index out of 100. The original 'Output Quality = f(Input Quality x Process)' is function notation, not a literal calculation.",
+    "mental_model": "Water quality reflects the source.",
+    "business_lens": "Bad data → bad decisions. Bad leads → bad sales.",
+    "life_lens": "Bad food → bad energy. Bad info → bad thinking.",
+    "sop": [
+      "List every input feeding a key output: the leads you take, the information you consume, the raw materials you use.",
+      "Rate the quality of each input source 1-10 (see calculation, page 5).",
+      "Cut or replace the lowest-scoring input, even if it's the cheapest or easiest to get.",
+      "Set a minimum quality bar for that input category going forward, and write it down.",
+      "Re-audit inputs quarterly, low-quality sources tend to creep back in."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's one low-quality input you tolerate daily that's degrading your output?",
+      "Which input into your business have you never actually audited, because it's always just 'been there'?",
+      "If you upgraded only one input this month, a lead source, a supplier, a piece of information you rely on, which would move the needle most?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Input Quality 4, Process Quality 9. Output Quality = 4 times 9 = 36 out of 100. Higher means both your raw material and your process are strong; a low score, even with one high number, means bad inputs are capping what a good process can produce, or a weak process is wasting good inputs.",
+    "closing_statement": "Protect what goes in before you fix what comes out."
+  },
+  "caption": "Principle Nº 102: Inputs Define Outputs\n\nGarbage in, garbage out applies to everything.\n\nAsk yourself: What's one low-quality input you tolerate daily that's degrading your output?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

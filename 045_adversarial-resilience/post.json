@@ -1,0 +1,90 @@
+{
+  "order": 45,
+  "day": 45,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "45",
+  "title": "Adversarial Resilience",
+  "slug": "adversarial-resilience",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "It is not enough to survive random stress; you must survive intentional pressure.",
+    "question": "If a well-funded competitor launched an identical product in your market tomorrow, where would they attack you first?",
+    "equation": "AR = (Detection × Response × Recovery × Redundancy) ÷ Attack Surface",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your 3 most likely adversaries, a direct competitor, an unhappy former employee or customer, a copycat, and what each would target first.",
+      "For your weakest point, ask specifically how fast you'd detect an intentional attack versus a random hiccup.",
+      "Build one specific response plan for your most exposed weak point, not a general we'll-handle-it.",
+      "Rate Detection, Response, Recovery, and Redundancy 1-10, and rate your Attack Surface 1-10 (see calculation, page 6)",
+      "Re-run this exercise whenever you gain a serious competitor or public visibility, your attack surface changes as you grow."
+    ],
+    "explainer": "Random stress can hit you anywhere. A real adversary hits your weakest point, on purpose. Assume intelligent hostility, not bad luck.",
+    "questions": [
+      "If a well-funded competitor launched an identical product in your market tomorrow, where would they attack you first?",
+      "If someone wanted to deliberately damage your reputation or operations, what's the cheapest way they could do it?",
+      "How quickly would you even notice if someone was actively trying to undercut or attack your business, versus just assuming bad luck?"
+    ],
+    "definitions": [
+      {
+        "term": "Attack surface",
+        "def": "Every point where an outsider, competitor, or bad actor could find a way to damage or exploit your business."
+      }
+    ],
+    "equation_example": "Rate Detection, Response, Recovery, and Redundancy 1-10 each, then rate your Attack Surface 1-10. Detection 7, Response 6, Recovery 8, Redundancy 5, Attack Surface 4 → AR = (7×6×8×5)/4 = 420. Higher AR means you'd detect and recover fast from a deliberate attack; lower means a motivated competitor could do real damage before you even noticed.",
+    "closing_statement": "Assume someone is trying to hurt you on purpose."
+  },
+  "caption": "Principle Nº 45: Adversarial Resilience\n\nIt is not enough to survive random stress; you must survive intentional pressure. Random stress can hit you anywhere.\n\nAsk yourself: If a well-funded competitor launched an identical product in your market tomorrow, where would they attack you first?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

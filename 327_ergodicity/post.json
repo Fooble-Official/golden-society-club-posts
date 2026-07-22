@@ -1,0 +1,95 @@
+{
+  "order": 327,
+  "day": 327,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "327",
+  "title": "Ergodicity",
+  "slug": "ergodicity",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Time averages and ensemble averages are not the same, protect against ruin.",
+    "question": "Am I taking any bet whose worst outcome would actually ruin me?",
+    "equation": "Time-Average Growth = Geometric Mean (not arithmetic)",
+    "mental_model": "Casino, the average gambler wins on paper, the average individual goes broke.",
+    "business_lens": "Avoid bets where a single bad outcome wipes out the company, even if expected value is positive.",
+    "life_lens": "Survival comes first; optimize for time-average growth, not ensemble expected value.",
+    "sop": [
+      "Identify bets with non-zero ruin probability",
+      "Reject them regardless of expected value",
+      "Optimize for geometric (time-average) growth",
+      "Use fractional sizing for bets with edge",
+      "Diversify so no single outcome can ruin you"
+    ],
+    "explainer": "A coin-flip with double-or-zero has positive expected value but guarantees ruin if repeated. Ergodicity explains why diversification matters, why VC firms make many small bets, and why personal-finance survival comes before optimization. Most \"rational\" expected-value calculations ignore the path to ruin.",
+    "questions": [
+      "Am I taking any bet whose worst outcome would actually ruin me?",
+      "If you took this exact bet 100 times in a row yourself, not 100 different people taking it once, would you still come out ahead, or would one bad run wipe you out?",
+      "What's the largest single bet in your business right now, and have you sized it using how much you could survive losing, or how much you hope to gain?"
+    ],
+    "definitions": [
+      {
+        "term": "Geometric mean",
+        "def": "A way to average values that are multiplied together."
+      }
+    ],
+    "equation_example": "Three years of returns: plus 50%, plus 50%, negative 70%. Arithmetic average equals plus 10% per year, which sounds fine. Geometric mean, the actual compounded result, works out to roughly negative 21% per year, a real decline the arithmetic mean hides. A higher geometric mean means your real-world compounded growth is healthy; a big gap between arithmetic and geometric mean is a warning that a single bad outcome is quietly destroying you over time.",
+    "closing_statement": "Survive first; then let compounding do the rest."
+  },
+  "caption": "Principle Nº 327: Ergodicity\n\nTime averages and ensemble averages are not the same, protect against ruin. A coin-flip with double-or-zero has positive expected value but guarantees ruin if repeated.\n\nAsk yourself: Am I taking any bet whose worst outcome would actually ruin me?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

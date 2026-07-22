@@ -1,0 +1,85 @@
+{
+  "order": 303,
+  "day": 303,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "303",
+  "title": "Authority",
+  "slug": "authority",
+  "category": "Persuasion (Cialdini)",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "People defer to credible expertise and authority.",
+    "question": "What real authority signals do you have, and are you showing them appropriately without exaggeration?",
+    "equation": "Authority Trust = Credentials × Expertise Visibility × Relevance",
+    "mental_model": "Doctor in a white coat, credentials shortcut judgment.",
+    "business_lens": "Display real credentials, awards, and expert endorsements visibly; do not fake authority.",
+    "life_lens": "Build genuine expertise; let it be visible without bragging.",
+    "sop": [
+      "Identify legitimate credentials, awards, expertise",
+      "Display them appropriately on collateral",
+      "Have experts publicly contribute",
+      "Maintain professional presentation",
+      "Avoid false authority, it destroys trust when discovered"
+    ],
+    "explainer": "Milgram’s experiments showed how powerfully authority shapes behavior. In business, the principle is to make legitimate authority visible without manufacturing it. Endorsements from named experts often outweigh much larger marketing spends.",
+    "questions": [
+      "What real authority signals do you have, and are you showing them appropriately without exaggeration?",
+      "If every credential and 'as seen in' logo vanished from your materials tomorrow, what authority would still be true?",
+      "Have you ever leaned on a title or affiliation that impressed people but didn't actually predict whether you were right?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Credentials 6, Expertise Visibility 5, Relevance 9. Score = (6 plus 5 plus 9) divided by 3 = 6.7. Higher means your authority signals actually shorten the buyer's decision; lower means you either lack visible proof or it doesn't relate to what they're deciding.",
+    "closing_statement": "Real authority doesn't need to be exaggerated to work."
+  },
+  "caption": "Principle Nº 303: Authority\n\nPeople defer to credible expertise and authority. Milgram’s experiments showed how powerfully authority shapes behavior.\n\nAsk yourself: What real authority signals do you have, and are you showing them appropriately without exaggeration?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #Persuasion",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#Persuasion"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

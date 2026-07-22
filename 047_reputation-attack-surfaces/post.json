@@ -1,0 +1,80 @@
+{
+  "order": 47,
+  "day": 47,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "47",
+  "title": "Reputation Attack Surfaces",
+  "slug": "reputation-attack-surfaces",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Trust usually collapses through a few predictable pathways.",
+    "question": "What's the one story about your business that could go viral for the wrong reasons, and is it actually preventable?",
+    "equation": "RAS = Σ(Exposure × Amplifiability × Trust Damage × Response Difficulty)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the 3-5 realistic ways your business could become a viral cautionary tale (bad service moment, hypocrisy, safety failure, broken promise).",
+      "For each scenario, rate Exposure, Amplifiability, Trust Damage, and Response Difficulty 1-10 (see calculation, page 5).",
+      "Multiply the four scores per scenario and rank them, the highest score is your single biggest reputational vulnerability.",
+      "Build a specific prevention fix and a pre-written response plan for your top-ranked scenario.",
+      "Review and re-score this list quarterly as your business changes."
+    ],
+    "explainer": "Every brand has a few predictable ways it could be humiliated. Knowing them lets you prevent them.",
+    "questions": [
+      "What's the one story about your business that could go viral for the wrong reasons, and is it actually preventable?",
+      "Which of your current business practices would embarrass you most if a customer filmed it and posted it today?",
+      "How fast could you respond publicly if the worst version of your business's story started spreading tonight?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10 per scenario. Exposure 7, Amplifiability 8, Trust Damage 9, Response Difficulty 6 = 3,024. Higher scores mark scenarios that would spread fast and do lasting damage; lower scores mean even a bad version of that story would stay small and recoverable.",
+    "closing_statement": "The stories that could hurt you are usually foreseeable."
+  },
+  "caption": "Principle Nº 47: Reputation Attack Surfaces\n\nTrust usually collapses through a few predictable pathways. Every brand has a few predictable ways it could be humiliated.\n\nAsk yourself: What's the one story about your business that could go viral for the wrong reasons, and is it actually preventable?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

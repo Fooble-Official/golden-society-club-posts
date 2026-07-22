@@ -1,0 +1,95 @@
+{
+  "order": 210,
+  "day": 210,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "210",
+  "title": "Parallel Systems (Redundancy)",
+  "slug": "parallel-systems-redundancy",
+  "category": "Habits & Behavior",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Backups for critical elements.",
+    "question": "What critical thing has no backup right now?",
+    "equation": "Reliability = 1 - ∏(1-rel_i)",
+    "mental_model": "Two-engine plane.",
+    "business_lens": "Diversify suppliers.",
+    "life_lens": "Duplicate docs.",
+    "sop": [
+      "List every single point of failure, one supplier, one platform, one employee who holds a critical process",
+      "Rate the reliability of each critical element and its backup (see calculation, page 7)",
+      "For each SPoF, build one true backup, a second supplier, documented process, or trained backup person",
+      "Test the backup on purpose, not just in theory, simulate the failure and switch to it",
+      "Re-check quarterly; backups decay when nobody uses them"
+    ],
+    "explainer": "A backup only adds real reliability if its failure is independent from the original, two systems that both depend on the same server, the same person's judgment, or the same supplier's warehouse aren't actually redundant, they're the same point of failure wearing two names. True redundancy means the second option can survive the exact thing that killed the first.",
+    "questions": [
+      "What critical thing has no backup right now?",
+      "If your single most-used supplier, tool, or team member disappeared tomorrow, how many days before it actually hurt you?",
+      "Which 'backup' in your business have you never actually tested, so you don't really know if it would work?"
+    ],
+    "definitions": [
+      {
+        "term": "Single point of failure",
+        "def": "One thing whose breakage would stop everything."
+      }
+    ],
+    "equation_example": "Rate each element's reliability as a percent. Primary supplier 90%, backup supplier 80%. Reliability = 1 minus (0.10 times 0.20) = 98% out of 100%. Higher means both would have to fail at once for you to be exposed; lower means you're still one failure away from a real problem.",
+    "closing_statement": "Untested backups are just backups you're hoping about."
+  },
+  "caption": "Principle Nº 210: Parallel Systems (Redundancy)\n\nBackups for critical elements. A backup only adds real reliability if its failure is independent from the original, two systems that both depend on the same server, the same person's judgment, or the same supplier's warehouse aren't actually redundant, they're the same point of failure wearing two names.\n\nAsk yourself: What critical thing has no backup right now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

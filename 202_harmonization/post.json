@@ -1,0 +1,80 @@
+{
+  "order": 202,
+  "day": 202,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "202",
+  "title": "Harmonization",
+  "slug": "harmonization",
+  "category": "Viable Systems",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Smooth frictions between parts.",
+    "question": "Where is internal conflict draining you that harmonization would resolve?",
+    "equation": "Smooth Ops = Σ(Resolutions)",
+    "mental_model": "Conductor prevents clashing.",
+    "business_lens": "Cross-dept meetings; PM mediates.",
+    "life_lens": "Shutdown ritual; shared calendar.",
+    "sop": [
+      "List the recurring points of friction between people, teams, or parts of your own schedule.",
+      "For each, assign one person (or yourself, for personal conflicts) as the harmonizer responsible for resolving it.",
+      "Set a short daily or weekly check-in specifically to catch friction before it compounds.",
+      "Resolve one conflict fully this week instead of letting it simmer, count it as resolved only when both sides agree it's settled (see calculation, page 5).",
+      "Track how many resolutions actually stick after 30 days, not just how many conversations happened."
+    ],
+    "explainer": "",
+    "questions": [
+      "Where is internal conflict draining you that harmonization would resolve?",
+      "Which two people, teams, or parts of your own schedule are consistently working against each other instead of in sync?",
+      "What recurring friction have you been treating as 'just how it is' instead of something to actually resolve?"
+    ],
+    "definitions": [],
+    "equation_example": "Count of friction points actually resolved (not just discussed) in a given period. 3 conflicts fully resolved this month gives a score of 3. Higher and rising means friction is being cleared faster than it's created; flat or zero means conflicts are accumulating unresolved.",
+    "closing_statement": "Unresolved friction compounds quietly until it doesn't."
+  },
+  "caption": "Principle Nº 202: Harmonization\n\nSmooth frictions between parts.\n\nAsk yourself: Where is internal conflict draining you that harmonization would resolve?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

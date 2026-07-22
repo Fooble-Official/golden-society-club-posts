@@ -1,0 +1,90 @@
+{
+  "order": 165,
+  "day": 165,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "165",
+  "title": "Feedback Frequency",
+  "slug": "feedback-frequency",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Faster feedback = faster growth.",
+    "question": "What metric should you be checking daily but currently check monthly?",
+    "equation": "Growth = Frequency × Adjustment",
+    "mental_model": "Short loop.",
+    "business_lens": "Track daily/weekly.",
+    "life_lens": "Check metrics often.",
+    "sop": [
+      "List your key metrics and how often you actually check each one right now.",
+      "Rate the Frequency 1-10 of your checks, daily is 10, quarterly is closer to 1 (see calculation, page 6)",
+      "Pick your slowest-checked, highest-impact metric and move it to a weekly or daily check.",
+      "Rate your Adjustment 1-10, how meaningfully you change behavior based on what you see (see calculation, page 6)",
+      "If Adjustment stays low even after increasing Frequency, the problem is follow-through, not visibility, fix that next."
+    ],
+    "explainer": "",
+    "questions": [
+      "What metric should you be checking daily but currently check monthly?",
+      "What's the longest gap right now between an action you take and finding out if it worked?",
+      "If you found out today's results tomorrow morning instead of at month's end, what would you change starting this week?"
+    ],
+    "definitions": [
+      {
+        "term": "Feedback loop",
+        "def": "When a system's output is fed back as input, allowing self-correction or self-amplification."
+      }
+    ],
+    "equation_example": "Rate Frequency 1-10 (how often you check the metric) and Adjustment 1-10 (how meaningfully you act on it). Frequency 9 times Adjustment 4 equals 36 out of 100. Higher means frequent checks are actually translating into real course-correction. Lower means you're either checking rarely, or checking often and doing nothing with it.",
+    "closing_statement": "Checking more often only helps if you act on it."
+  },
+  "caption": "Principle Nº 165: Feedback Frequency\n\nFaster feedback = faster growth.\n\nAsk yourself: What metric should you be checking daily but currently check monthly?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

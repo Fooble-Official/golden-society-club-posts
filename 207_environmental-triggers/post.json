@@ -1,0 +1,85 @@
+{
+  "order": 207,
+  "day": 207,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "207",
+  "title": "Environmental Triggers",
+  "slug": "environmental-triggers",
+  "category": "Habits & Behavior",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Design space to cue success.",
+    "question": "What's one environmental tweak that would nudge you toward the habit you want?",
+    "equation": "Behavior = f(Cues)",
+    "mental_model": "Clay and mold.",
+    "business_lens": "Desk clutter-free.",
+    "life_lens": "Water in view; floss by sink.",
+    "sop": [
+      "Walk your space and list every visible cue that currently triggers an unwanted behavior (phone in sightline, snacks on the counter)",
+      "Remove or hide the two worst cues today",
+      "Place one good cue in the most obvious sightline for the habit you want (water bottle on the desk, shoes by the door)",
+      "Run it for one week before adding a second cue",
+      "Re-audit the space monthly, cues stop working once your eyes stop registering them"
+    ],
+    "explainer": "Behavior isn't mostly a willpower problem, it's a response to whatever is physically visible and easy to reach in the moment. Change what's in front of you and the behavior tends to follow without a fight; leave the old cues in place and no amount of motivation reliably beats them twice a day.",
+    "questions": [
+      "What's one environmental tweak that would nudge you toward the habit you want?",
+      "Which object in your space is triggering a behavior you're actively trying to stop?",
+      "If someone studied only the cues in your workspace, which habit would they bet you're building, is it the right one?"
+    ],
+    "definitions": [],
+    "equation_example": "Behavior likelihood rises with 3 supportive cues placed in sightline (count) versus 1 remaining bad cue. Behavior likelihood rises as supportive cues go up and bad cues go down. More visible good cues means the behavior happens with less willpower; more visible bad cues means you'll default back to the old one.",
+    "closing_statement": "Design the room so willpower isn't required."
+  },
+  "caption": "Principle Nº 207: Environmental Triggers\n\nDesign space to cue success. Behavior isn't mostly a willpower problem, it's a response to whatever is physically visible and easy to reach in the moment.\n\nAsk yourself: What's one environmental tweak that would nudge you toward the habit you want?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 25,
+  "day": 25,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "25",
+  "title": "Execution Entropy",
+  "slug": "execution-entropy",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Plans naturally degrade as they travel through reality.",
+    "question": "Pick one initiative from last quarter. How far did the original plan drift by the time it reached execution?",
+    "equation": "XE = (Plan + Messaging + Ownership + Priority + Timing Drift) ÷ 5",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Pick a recent initiative and pull up the original plan, brief, or kickoff notes.",
+      "Compare it line by line to what actually shipped, note every place it drifted.",
+      "For each drift point, identify whether it was Plan, Messaging, Ownership, Priority, or Timing that broke down.",
+      "Rate Plan, Messaging, Ownership, Priority, and Timing Drift 1-10 for that initiative (see calculation, page 6)",
+      "Build a one-page recap after every kickoff and require sign-off so drift gets caught early, not at the finish line."
+    ],
+    "explainer": "Entropy is the default. High-performance teams actively fight it with docs, recaps, and ownership clarity.",
+    "questions": [
+      "Pick one initiative from last quarter. How far did the original plan drift by the time it reached execution?",
+      "If you compared your original brief to what actually got built, how many of the core decisions changed without anyone deciding to change them?",
+      "Who owned the last project that quietly missed its original goal, and did they know they owned it from day one?"
+    ],
+    "definitions": [
+      {
+        "term": "Entropy",
+        "def": "The natural tendency for plans and systems to lose precision and drift toward disorder as they pass through more people and steps."
+      }
+    ],
+    "equation_example": "Rate Plan, Messaging, Ownership, Priority, and Timing Drift 1-10 each, where 10 means no drift at all. Plan 7, Messaging 6, Ownership 8, Priority 5, Timing Drift 6 → XE = (7+6+8+5+6)/5 = 6.4 out of 10. Higher XE means the plan survived contact with reality; lower means it degraded badly on the way to execution.",
+    "closing_statement": "Every plan decays unless someone actively defends it."
+  },
+  "caption": "Principle Nº 25: Execution Entropy\n\nPlans naturally degrade as they travel through reality. Entropy is the default.\n\nAsk yourself: Pick one initiative from last quarter. How far did the original plan drift by the time it reached execution?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

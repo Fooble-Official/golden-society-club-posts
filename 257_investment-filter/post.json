@@ -1,0 +1,85 @@
+{
+  "order": 257,
+  "day": 257,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "257",
+  "title": "Investment Filter",
+  "slug": "investment-filter",
+  "category": "Decision Quality",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Evaluate opportunities by looking for good people, good intentions, good rationale, and good contracts.",
+    "question": "Which of the four filters are you most tempted to skip because the upside excites you?",
+    "equation": "Deal Quality = People × Intentions × Rationale × Contracts",
+    "mental_model": "Four locks on a door, all must open before you walk through.",
+    "business_lens": "Use this before partnerships, hires, investments, acquisitions, or major client agreements.",
+    "life_lens": "Do not commit deeply to people or opportunities that only look good in one dimension.",
+    "sop": [
+      "Assess the people involved",
+      "Clarify their intentions",
+      "Examine the business rationale",
+      "Review the contract terms",
+      "Walk away if any major area is weak"
+    ],
+    "explainer": "The Investment Filter prevents you from being seduced by upside alone. Good people matter because character affects every future conflict. Good intentions matter because hidden agendas create misalignment. Good rationale matters because even honest people can make bad decisions. Good contracts matter because trust still needs structure.",
+    "questions": [
+      "Which of the four filters are you most tempted to skip because the upside excites you?",
+      "Where have you gotten burned before by ignoring one weak link in this checklist?",
+      "Whose intentions in this deal have you assumed rather than actually verified?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. People 8, Intentions 7, Rationale 6, Contracts 3. Score = 8 times 7 times 6 times 3 = 1,008 out of a possible 10,000. Higher means the deal can survive stress in any one area. Lower, especially a near-zero score in any single category, means walk away regardless of how good the other three look.",
+    "closing_statement": "One weak link can undo the other three."
+  },
+  "caption": "Principle Nº 257: Investment Filter\n\nEvaluate opportunities by looking for good people, good intentions, good rationale, and good contracts. The Investment Filter prevents you from being seduced by upside alone.\n\nAsk yourself: Which of the four filters are you most tempted to skip because the upside excites you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

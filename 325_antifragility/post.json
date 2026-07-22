@@ -1,0 +1,95 @@
+{
+  "order": 325,
+  "day": 325,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "325",
+  "title": "Antifragility",
+  "slug": "antifragility",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Some systems get stronger from volatility instead of weaker.",
+    "question": "Where in my business does volatility hurt me, and where could I redesign so it helps?",
+    "equation": "Antifragility = Convex Payoffs × Optionality × Recovery Capacity",
+    "mental_model": "Muscle, stress, recover, grow.",
+    "business_lens": "Use barbell strategy (mostly safe + small high-upside bets); decentralize decisions; preserve slack to seize chaos.",
+    "life_lens": "Design exposure so volatility benefits you more than it harms you.",
+    "sop": [
+      "Map current exposures: what fragilities, what robustness, what antifragility?",
+      "Build optionality where you are fragile",
+      "Add convex bets (capped downside, uncapped upside)",
+      "Preserve slack and reserves",
+      "Avoid over-optimization that removes buffers"
+    ],
+    "explainer": "Restaurants run brittle (one bad month kills them); R&D labs run antifragile (most experiments fail, but the rare hits more than compensate). Antifragility is built through structure: optionality, convex payoffs, slack, and barbell strategies.",
+    "questions": [
+      "Where in my business does volatility hurt me, and where could I redesign so it helps?",
+      "Name one part of your business that would break under a bad month. Could you redesign it to instead get information or upside from that same stress?",
+      "What's your current equivalent of a barbell, mostly safe with a few small high-upside bets, versus one big bet with no room for a bad surprise?"
+    ],
+    "definitions": [
+      {
+        "term": "Antifragile",
+        "def": "A system that gets stronger under stress."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Convex Payoffs 6 (capped downside, uncapped upside on your bets), Optionality 7, Recovery Capacity 5 (how fast you bounce back from a shock). Score = (6 plus 7 plus 5) divided by 3 = 6.0. Higher means stress and volatility tend to make you stronger over time; lower means shocks just accumulate damage with no offsetting upside.",
+    "closing_statement": "Design for volatility to help you, not just survive it."
+  },
+  "caption": "Principle Nº 325: Antifragility\n\nSome systems get stronger from volatility instead of weaker. Restaurants run brittle (one bad month kills them); R&D labs run antifragile (most experiments fail, but the rare hits more than compensate).\n\nAsk yourself: Where in my business does volatility hurt me, and where could I redesign so it helps?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,95 @@
+{
+  "order": 306,
+  "day": 306,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "306",
+  "title": "Adjacent Possible",
+  "slug": "adjacent-possible",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Innovation grows from the immediate vicinity of current capabilities.",
+    "question": "What is the adjacent possible move that uses what I already have to open something new?",
+    "equation": "Innovation Yield = Adjacent Steps × Combination Quality × Iteration Speed",
+    "mental_model": "Door to the next room, not the whole house at once.",
+    "business_lens": "Build the next product from current capabilities and adjacent customer needs; avoid leaping to far-future markets without intermediate steps.",
+    "life_lens": "Grow by stretching one step beyond current capacity, not by demanding a full transformation.",
+    "sop": [
+      "Map current capabilities",
+      "Identify customer needs one step beyond what you serve",
+      "Prototype the adjacent extension",
+      "Validate with current customers",
+      "Repeat, each step opens the next"
+    ],
+    "explainer": "Instagram emerged adjacent to existing photo apps by adding filters and a social feed. The adjacent possible explains why category-creating innovations usually look obvious in hindsight: they were one step away the whole time, but only visible from the vicinity.",
+    "questions": [
+      "What is the adjacent possible move that uses what I already have to open something new?",
+      "List five things your business could become next, using only what you already have. Which one have you dismissed because it feels too obvious?",
+      "What underused asset, data, relationships, a skill you built by accident, is quietly capable of opening a door you haven't tried?"
+    ],
+    "definitions": [
+      {
+        "term": "Adjacent possible",
+        "def": "The set of next moves that become available only because of what you've already built or learned, not moves available from scratch."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Adjacent Steps 7 (how many nearby moves you can see from here), Combination Quality 6 (how well your existing pieces fit together), Iteration Speed 8 (how fast you can test the next step). Score = (7 plus 6 plus 8) divided by 3 = 7.0. Higher means you're compounding capability into new opportunity efficiently; lower means you're either not seeing the adjacent moves or too slow to test them.",
+    "closing_statement": "The next move is usually closer than it looks."
+  },
+  "caption": "Principle Nº 306: Adjacent Possible\n\nInnovation grows from the immediate vicinity of current capabilities. Instagram emerged adjacent to existing photo apps by adding filters and a social feed.\n\nAsk yourself: What is the adjacent possible move that uses what I already have to open something new?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

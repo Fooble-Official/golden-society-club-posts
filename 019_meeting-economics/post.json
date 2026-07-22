@@ -1,0 +1,80 @@
+{
+  "order": 19,
+  "day": 19,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "19",
+  "title": "Meeting Economics",
+  "slug": "meeting-economics",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Meetings are investments.",
+    "question": "Of every meeting you attended this week, which produced a decision or deliverable? Which didn't?",
+    "equation": "MMS = Output ÷ Time",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Audit every meeting on your calendar this week and label each with the decision or deliverable it produced, or none.",
+      "Cancel or convert to async (a doc, a recording, a message) any meeting that consistently produces none.",
+      "For meetings that stay, require an agenda with a stated decision to be made, no agenda, no meeting.",
+      "Rate Output 1-10 and log Time in hours for your recurring meetings (see calculation, page 5)",
+      "Re-audit monthly, meetings tend to creep back without a regular cut."
+    ],
+    "explainer": "Most meetings are the lazy alternative to a well-written doc. Justify each one with an output or cancel it.",
+    "questions": [
+      "Of every meeting you attended this week, which produced a decision or deliverable? Which didn't?",
+      "Which recurring meeting on your calendar hasn't produced a real decision in the last month?",
+      "If you canceled your least useful weekly meeting, what would you actually lose?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Output 1-10 (value of decisions or deliverables produced) and log Time in hours spent. Output 6, Time 2 hours → MMS = 6 ÷ 2 = 3. Higher MMS means the meeting produces a lot for the time spent; lower means it's a low-value time sink.",
+    "closing_statement": "A meeting without a decision is a cost."
+  },
+  "caption": "Principle Nº 19: Meeting Economics\n\nMeetings are investments. Most meetings are the lazy alternative to a well-written doc.\n\nAsk yourself: Of every meeting you attended this week, which produced a decision or deliverable? Which didn't?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

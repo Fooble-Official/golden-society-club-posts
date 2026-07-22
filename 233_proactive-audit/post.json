@@ -1,0 +1,85 @@
+{
+  "order": 233,
+  "day": 233,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "233",
+  "title": "Proactive Audit",
+  "slug": "proactive-audit",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Regularly inspect and fine-tune systems.",
+    "question": "What system needs a tune-up you've been postponing?",
+    "equation": "Health = 1 / (Drift × Time)",
+    "mental_model": "Car check-ups.",
+    "business_lens": "Monthly performance reviews.",
+    "life_lens": "Weekly self-meeting.",
+    "sop": [
+      "Schedule recurring reviews for your core systems, monthly for business, weekly for personal",
+      "Compare what's actually happening against what the system was designed to do",
+      "Rate the drift and how long it's gone unchecked (see calculation, page 6)",
+      "Make one fix per review, don't try to overhaul everything at once",
+      "Log what you found and fixed, so drift is visible over time, not just felt"
+    ],
+    "explainer": "Systems don't usually fail all at once, they drift, a small deviation at a time, and each individual drift feels too small to bother fixing. The problem is that drift compounds with time even when it doesn't compound in severity, which is why a system left unchecked for a year needs a bigger fix than the same system caught monthly.",
+    "questions": [
+      "What system needs a tune-up you've been postponing?",
+      "What process in your business hasn't been reviewed since the day you set it up?",
+      "If you audited your top 3 systems today, which one would surprise you most with how far it's drifted?"
+    ],
+    "definitions": [],
+    "equation_example": "Drift: rate 1-10 how far the system has wandered from its design. Time: months since last audit. Drift 6 times Time 8 months equals 48, so Health equals 1 divided by 48, approximately 0.02, very low. Catch it at Time 1 month: Drift 6 times 1 equals 6, so Health is approximately 0.17, much healthier. Higher health score means the system still matches its design; lower means drift has been compounding unchecked for too long.",
+    "closing_statement": "Unchecked drift always costs more the longer it waits."
+  },
+  "caption": "Principle Nº 233: Proactive Audit\n\nRegularly inspect and fine-tune systems. Systems don't usually fail all at once, they drift, a small deviation at a time, and each individual drift feels too small to bother fixing.\n\nAsk yourself: What system needs a tune-up you've been postponing?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

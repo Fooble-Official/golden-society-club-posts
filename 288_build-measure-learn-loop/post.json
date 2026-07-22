@@ -1,0 +1,85 @@
+{
+  "order": 288,
+  "day": 288,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "288",
+  "title": "Build-Measure-Learn Loop",
+  "slug": "build-measure-learn-loop",
+  "category": "Lean Startup",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Iterate by building, measuring real behavior, and learning whether to pivot or persevere.",
+    "question": "How fast is your Build-Measure-Learn cycle right now, and what is the next thing slowing it down?",
+    "equation": "Learning Velocity = Cycle Speed × Hypothesis Quality",
+    "mental_model": "Wheel, each turn gets you closer to truth.",
+    "business_lens": "Optimize for cycle speed; treat each cycle as a unit of learning, not just shipping.",
+    "life_lens": "Replace long planning with fast loops of small action and honest measurement.",
+    "sop": [
+      "Build a minimum experiment",
+      "Measure actual behavior, not opinions",
+      "Learn what was true",
+      "Decide pivot or persevere",
+      "Repeat, speed up the cycle every iteration"
+    ],
+    "explainer": "The loop’s power is compounding learning. A team that runs the loop weekly will outlearn a team that runs it monthly. Most startups die because they confuse activity with learning; the loop’s discipline is to extract a real lesson from every cycle.",
+    "questions": [
+      "How fast is your Build-Measure-Learn cycle right now, and what is the next thing slowing it down?",
+      "Which stage of your loop, build, measure, or learn, takes the longest, and have you ever actually timed it?",
+      "When was the last time a measurement made you change what you were building, rather than just confirming it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Cycle Speed 7 (how many loops you complete per month, normalized), Hypothesis Quality 6 (how specific and falsifiable each test was). Score = (7 plus 6) divided by 2 = 6.5. Higher/rising means you're compounding real knowledge fast; lower/falling means you're either moving slowly or testing vague ideas that don't produce a clear answer.",
+    "closing_statement": "Speed of honest feedback beats speed of shipping."
+  },
+  "caption": "Principle Nº 288: Build-Measure-Learn Loop\n\nIterate by building, measuring real behavior, and learning whether to pivot or persevere. The loop’s power is compounding learning.\n\nAsk yourself: How fast is your Build-Measure-Learn cycle right now, and what is the next thing slowing it down?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

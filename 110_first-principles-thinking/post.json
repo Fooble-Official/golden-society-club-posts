@@ -1,0 +1,90 @@
+{
+  "order": 110,
+  "day": 110,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "110",
+  "title": "First-Principles Thinking",
+  "slug": "first-principles-thinking",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Break problems to fundamentals, rebuild from there.",
+    "question": "What assumption are you operating under that you've never tested?",
+    "equation": "Clarity = Truth ÷ Inherited Assumptions",
+    "mental_model": "Don't inherit assumptions.",
+    "business_lens": "Rethink business model from raw truths.",
+    "life_lens": "Rethink your routine from what works for YOU.",
+    "sop": [
+      "Pick one belief or 'rule' you operate by and write down where it actually came from.",
+      "Rate your Truth score (how much you've verified yourself) and your Inherited Assumptions score, each 1-10 (see calculation, page 6).",
+      "Strip the situation down to only what you can verify is actually true.",
+      "Rebuild your approach from those verified facts, ignoring 'that's just how it's done.'",
+      "Test the rebuilt approach against the old one on a small scale before fully switching."
+    ],
+    "explainer": "",
+    "questions": [
+      "What assumption are you operating under that you've never tested?",
+      "If you had to rebuild your offer from scratch today with zero industry convention to lean on, what would you actually keep?",
+      "Which 'best practice' in your business have you copied from someone else without ever checking if it applies to you?"
+    ],
+    "definitions": [
+      {
+        "term": "First principles",
+        "def": "Reasoning from foundational truths rather than analogy or convention."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Truth, how much you've verified yourself, 8; Inherited Assumptions, how much you're still relying on 'that's just how it's done,' 6. Score = 8 divided by 6 = 1.3. A ratio above 1 means your thinking is grounded more in verified truth than borrowed assumption; a ratio below 1 means you're building on more inherited belief than tested fact.",
+    "closing_statement": "Question the assumption before you accept the conclusion."
+  },
+  "caption": "Principle Nº 110: First-Principles Thinking\n\nBreak problems to fundamentals, rebuild from there.\n\nAsk yourself: What assumption are you operating under that you've never tested?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

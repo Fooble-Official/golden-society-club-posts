@@ -1,0 +1,80 @@
+{
+  "order": 135,
+  "day": 135,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "135",
+  "title": "Environmental Design",
+  "slug": "environmental-design",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Your environment is stronger than discipline.",
+    "question": "Which space is fighting you instead of serving you?",
+    "equation": "Behavior = Environment × Exposure Time",
+    "mental_model": "You become your room.",
+    "business_lens": "Workspace = productivity.",
+    "life_lens": "Clean space = calm mind.",
+    "sop": [
+      "Walk through your main workspace and home space and note every visible cue.",
+      "Rate the Environment 1-10 for how well it's designed for the behavior you want (see calculation, page 5)",
+      "Remove or hide every trigger for the behavior you don't want.",
+      "Add one visible cue (object, note, layout change) for the behavior you do want.",
+      "Re-audit monthly, environments quietly revert if you don't maintain them."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which space is fighting you instead of serving you?",
+      "What's within arm's reach right now that's pulling you toward a behavior you don't actually want?",
+      "If you removed every trigger for your worst habit from your space today, what would actually be left to fight?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Environment 1-10 (how well it's designed for the behavior you want) and Exposure Time in hours/day spent in it. Environment 8 times Exposure Time 6 equals 48. Higher means your space is quietly pulling you toward the behavior you want, hour after hour. Lower means you're relying on willpower to fight a space that's working against you.",
+    "closing_statement": "Discipline fades. A well-built environment doesn't."
+  },
+  "caption": "Principle Nº 135: Environmental Design\n\nYour environment is stronger than discipline.\n\nAsk yourself: Which space is fighting you instead of serving you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

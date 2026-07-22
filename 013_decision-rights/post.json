@@ -1,0 +1,80 @@
+{
+  "order": 13,
+  "day": 13,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "13",
+  "title": "Decision Rights",
+  "slug": "decision-rights",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Clarity beats intelligence.",
+    "question": "For your next big business decision, is it clear who decides, who consults, who executes, and who is merely informed?",
+    "equation": "DRD = (Clarity × Role Alignment × Escalation Clarity) ÷ Overlap",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Pick your 5 most recurring decision types (pricing, hiring, refunds, content approval, vendor selection).",
+      "For each, name exactly one decider, then list who's consulted, who executes, and who's just kept informed.",
+      "Rate Clarity, Role Alignment, and Escalation Clarity 1-10 for each decision type, and rate Overlap 1-10 based on how many people could plausibly claim the same call (see calculation, page 5)",
+      "Fix the decision type with the highest overlap first, name the single decider in writing and share it with the team.",
+      "Revisit the map every quarter as the team grows or roles shift."
+    ],
+    "explainer": "Ambiguity in authority is the single biggest cause of slow, bad, or no decisions. Name the decider.",
+    "questions": [
+      "For your next big business decision, is it clear who decides, who consults, who executes, and who is merely informed?",
+      "Can two people on your team both plausibly claim ownership of the same decision right now?",
+      "When was the last time a decision stalled because nobody was sure whose call it was?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Clarity, Role Alignment, and Escalation Clarity 1-10 each, then rate Overlap 1-10. Clarity 8, Role Alignment 7, Escalation Clarity 6, Overlap 3 → DRD = (8×7×6)/3 = 112. Higher DRD means everyone knows exactly whose call it is; lower means decisions stall because ownership overlaps or is unclear.",
+    "closing_statement": "Name the decider, or the decision waits forever."
+  },
+  "caption": "Principle Nº 13: Decision Rights\n\nClarity beats intelligence. Ambiguity in authority is the single biggest cause of slow, bad, or no decisions.\n\nAsk yourself: For your next big business decision, is it clear who decides, who consults, who executes, and who is merely informed?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

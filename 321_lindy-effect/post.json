@@ -1,0 +1,85 @@
+{
+  "order": 321,
+  "day": 321,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "321",
+  "title": "Lindy Effect",
+  "slug": "lindy-effect",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The longer something has survived, the longer its expected remaining life.",
+    "question": "Among my current bets, which are Lindy-proof and which are trend-dependent?",
+    "equation": "Expected Remaining Life ≈ Time Already Survived",
+    "mental_model": "Old book vs a new one, survival predicts survival.",
+    "business_lens": "Bet on durable foundations (proven business models, time-tested principles) before chasing trends.",
+    "life_lens": "Choose books, habits, and relationships that have already endured; survival is signal.",
+    "sop": [
+      "List candidate ideas, technologies, or strategies",
+      "Estimate how long each has survived",
+      "Weight bets toward those with longer track records",
+      "Treat new things as higher-risk experiments",
+      "Re-evaluate as evidence accumulates"
+    ],
+    "explainer": "Mathematics, double-entry bookkeeping, and most physical laws are Lindy-strong. SaaS pricing models, social platforms, and management fads are not. Lindy thinking biases toward durable foundations without ruling out experimental bets.",
+    "questions": [
+      "Among my current bets, which are Lindy-proof and which are trend-dependent?",
+      "What in your business model has survived unchanged for years, and what have you rebuilt three times already?",
+      "If you had to bet your next year of effort on either a proven, boring method or a trending one, which has actually paid off for you before?"
+    ],
+    "definitions": [],
+    "equation_example": "A tactic or business model that has survived 8 years has an expected remaining life of roughly 8 more years, under this logic. A tool that's 6 months old has an expected remaining life of roughly 6 more months. Longer survival so far means a longer expected future; a short track record means treat it as an experiment, not a foundation.",
+    "closing_statement": "What survived long already tends to keep surviving."
+  },
+  "caption": "Principle Nº 321: Lindy Effect\n\nThe longer something has survived, the longer its expected remaining life. Mathematics, double-entry bookkeeping, and most physical laws are Lindy-strong.\n\nAsk yourself: Among my current bets, which are Lindy-proof and which are trend-dependent?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,98 @@
+{
+  "order": 167,
+  "day": 167,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "167",
+  "title": "System Constraints Awareness",
+  "slug": "system-constraints-awareness",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Know your limits.",
+    "question": "Which constraint are you ignoring that's capping your output?",
+    "equation": "Output = Min(Limits)",
+    "mental_model": "Plan within bounds.",
+    "business_lens": "Identify limits.",
+    "life_lens": "Work within bandwidth.",
+    "sop": [
+      "Map your business as a straight line from lead to delivered result.",
+      "At each step, note current throughput, how many units it can process per day (see calculation, page 6).",
+      "Identify the step with the lowest throughput number, that's your real constraint, not the one that feels most broken.",
+      "Redirect this month's entire improvement budget to that one step and ignore the rest.",
+      "Once throughput there rises, re-map the whole line, the constraint has likely moved."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which constraint are you ignoring that's capping your output?",
+      "If you fixed your biggest bottleneck this month, would revenue actually move, or is something else quietly capping you first?",
+      "Are you polishing the parts of your business that already work while one broken link limits everything downstream?"
+    ],
+    "definitions": [
+      {
+        "term": "Bottleneck",
+        "def": "The slowest or most constrained step in a system."
+      },
+      {
+        "term": "Throughput",
+        "def": "The rate of output per unit of time."
+      },
+      {
+        "term": "Theory of Constraints",
+        "def": "Every system has a single constraint that caps output."
+      }
+    ],
+    "equation_example": "Limits are each function's capacity in units/day: Sales can generate 50 leads/day, Onboarding can process 20/day, Fulfillment can ship 35/day. Output equals the minimum of those, 20/day. Higher means your weakest step's capacity is rising and total output rises with it; lower means one function drags the whole system down no matter how good the others are.",
+    "closing_statement": "Your weakest link sets your true ceiling."
+  },
+  "caption": "Principle Nº 167: System Constraints Awareness\n\nKnow your limits.\n\nAsk yourself: Which constraint are you ignoring that's capping your output?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,95 @@
+{
+  "order": 271,
+  "day": 271,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "271",
+  "title": "Value Innovation",
+  "slug": "value-innovation",
+  "category": "Strategy: Blue Ocean",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Pursue differentiation and low cost simultaneously to create a leap in buyer value.",
+    "question": "Which factors should we eliminate, reduce, raise, and create to make competition irrelevant?",
+    "equation": "Value Innovation = (New Buyer Value Created) × (Cost Reduced)",
+    "mental_model": "Two rails of a track, value goes up while cost comes down at the same time.",
+    "business_lens": "Use the Four Actions on every offer: which industry factors do we eliminate, reduce, raise, and create?",
+    "life_lens": "Stop trying to be marginally better at the same game; redesign the game so the trade-offs disappear.",
+    "sop": [
+      "List every factor your industry competes on",
+      "Ask the four questions: Eliminate, Reduce, Raise, Create",
+      "Reconfigure the offer to drop costly factors customers do not value",
+      "Add factors that create new value",
+      "Iterate using a strategy canvas to visualize differentiation vs price"
+    ],
+    "explainer": "Cirque du Soleil eliminated star performers and animal acts (lower cost) while creating theatrical narrative and artistic music (higher value). The result was a new market category where traditional circuses could not compete on the same axes. The Four Actions framework forces you to look beyond incremental improvement.",
+    "questions": [
+      "Which factors should we eliminate, reduce, raise, and create to make competition irrelevant?",
+      "What does everyone in your industry assume is required that customers don't actually value?",
+      "What could you add that no competitor offers, even if it means dropping something they all compete on?"
+    ],
+    "definitions": [
+      {
+        "term": "Value innovation",
+        "def": "A strategy that pursues differentiation and low cost at the same time, creating a leap in value for buyers instead of trading one for the other."
+      }
+    ],
+    "equation_example": "Rate each 1-10. New Buyer Value Created 8, Cost Reduced 7. Score = 8 times 7 = 56 out of a possible 100. Higher means you're creating a genuine leap in value while structurally lowering cost, a new market. Lower means you're still trading value for cost like everyone else.",
+    "closing_statement": "Redesign the game instead of playing it better."
+  },
+  "caption": "Principle Nº 271: Value Innovation\n\nPursue differentiation and low cost simultaneously to create a leap in buyer value. Cirque du Soleil eliminated star performers and animal acts (lower cost) while creating theatrical narrative and artistic music (higher value).\n\nAsk yourself: Which factors should we eliminate, reduce, raise, and create to make competition irrelevant?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

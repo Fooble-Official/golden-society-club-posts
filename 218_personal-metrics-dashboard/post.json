@@ -1,0 +1,85 @@
+{
+  "order": 218,
+  "day": 218,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "218",
+  "title": "Personal Metrics Dashboard",
+  "slug": "personal-metrics-dashboard",
+  "category": "Performance & Rest",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Track core measures transparently.",
+    "question": "Do you have a personal dashboard, or are you guessing at your own progress?",
+    "equation": "Insight = f(Visibility)",
+    "mental_model": "Car dashboard.",
+    "business_lens": "KPI dashboard.",
+    "life_lens": "Weight, HR, mood log.",
+    "sop": [
+      "Pick 3-5 metrics that actually reflect your progress, not vanity numbers, ones you'd act on if they moved",
+      "Set up one place to log them (spreadsheet, app, notebook), consistency matters more than the tool",
+      "Update the numbers on a fixed cadence, daily for some, weekly for others",
+      "Rate your current visibility into each metric 1-10 before you start tracking (see calculation, page 6)",
+      "Review the trend monthly, not just the latest number, one data point is noise"
+    ],
+    "explainer": "Insight doesn't come from having more experience or better instincts, it comes from being able to actually see the pattern, which requires the number to exist somewhere outside your memory. A dashboard doesn't create the progress; it just makes progress (or its absence) impossible to lie to yourself about.",
+    "questions": [
+      "Do you have a personal dashboard, or are you guessing at your own progress?",
+      "If someone asked you right now for your top 3 numbers, weight, savings rate, whatever matters to you, could you answer without checking?",
+      "What's a metric you assume is fine because you haven't actually looked at it in months?"
+    ],
+    "definitions": [],
+    "equation_example": "Visibility rated 2 out of 10 (rarely check your numbers) produces vague, guessy insight. Visibility rated 8 out of 10 (checked weekly, trends visible) produces specific, actionable insight. Higher visibility means you catch drift early; lower visibility means you only notice a problem once it's already large.",
+    "closing_statement": "What you don't track, you're only guessing about."
+  },
+  "caption": "Principle Nº 218: Personal Metrics Dashboard\n\nTrack core measures transparently. Insight doesn't come from having more experience or better instincts, it comes from being able to actually see the pattern, which requires the number to exist somewhere outside your memory.\n\nAsk yourself: Do you have a personal dashboard, or are you guessing at your own progress?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

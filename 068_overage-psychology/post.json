@@ -1,0 +1,80 @@
+{
+  "order": 68,
+  "day": 68,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "68",
+  "title": "Overage Psychology",
+  "slug": "overage-psychology",
+  "category": "Behavioral Pricing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Variable pricing must feel controlled, not punitive.",
+    "question": "If your business ever charges per-use or overage, how do you make it feel like the user is in control?",
+    "equation": "OP = (Tolerance × Predictability × Control) ÷ Surprise",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Map every situation where your pricing could produce a variable or surprise charge (overage fees, usage tiers, add-ons).",
+      "Rate customer Tolerance 1-10 for that kind of variability given your industry and audience (see calculation, page 5).",
+      "Rate Predictability 1-10, can customers estimate the charge before it happens (see calculation, page 5).",
+      "Rate Control 1-10, can customers actively manage or cap what they're charged (see calculation, page 5).",
+      "Rate Surprise 1-10 for how often the actual charge differs from what customers expected (see calculation, page 5), and add a real-time usage indicator or spending cap wherever Surprise is high."
+    ],
+    "explainer": "Variable pricing that surprises = churn. Variable pricing the user predicts = love.",
+    "questions": [
+      "If your business ever charges per-use or overage, how do you make it feel like the user is in control?",
+      "Would your customers rather get an unexpected discount or an unexpected extra charge, and does your billing ever risk the second one?",
+      "Can a customer predict, before they use more, roughly what it will cost them?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Tolerance 6, Predictability 7, Control 8. 6 times 7 times 8 equals 336, divided by Surprise 3 equals 112. Higher scores mean variable charges feel manageable and even fair. Lower scores mean customers feel ambushed by their own bill, which drives complaints and cancellations.",
+    "closing_statement": "Predictability turns variable costs into something users tolerate."
+  },
+  "caption": "Principle Nº 68: Overage Psychology\n\nVariable pricing must feel controlled, not punitive. Variable pricing that surprises = churn.\n\nAsk yourself: If your business ever charges per-use or overage, how do you make it feel like the user is in control?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 42,
+  "day": 42,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "42",
+  "title": "Fragility Mapping",
+  "slug": "fragility-mapping",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The business is weaker than it looks wherever small shocks create outsized damage.",
+    "question": "What's your business's most fragile assumption, the one a 10% miss would break everything?",
+    "equation": "FM = Σ(Impact × Probability × Sensitivity Multiplier)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your top 5 assumptions behind this year's plan (a conversion rate, a supplier price, a key customer staying).",
+      "For each, estimate what a 10% miss would actually do to the business, not just to that one number.",
+      "Identify the assumption where a small miss causes a disproportionately large amount of damage, that's your fragility point.",
+      "Rate the Impact, Probability, and Sensitivity Multiplier 1-10 for that assumption, then multiply them (see calculation, page 6)",
+      "Build a specific buffer or hedge for your single most fragile assumption before the quarter ends."
+    ],
+    "explainer": "Fragility hides in nonlinearity. A 10% miss shouldn't destroy you. If it does, you're fragile.",
+    "questions": [
+      "What's your business's most fragile assumption, the one a 10% miss would break everything?",
+      "Which of your numbers, if it came in 10% worse than planned, would cause a disproportionate amount of damage?",
+      "Do you actually know which assumption your whole plan is most sensitive to, or are you guessing?"
+    ],
+    "definitions": [
+      {
+        "term": "Fragility",
+        "def": "Sensitivity to variance, when small shocks create disproportionate damage."
+      }
+    ],
+    "equation_example": "Rate Impact, Probability, and Sensitivity Multiplier 1-10 each for your most fragile assumption. Impact 8, Probability 6, Sensitivity Multiplier 7 → FM = 8 × 6 × 7 = 336 out of a possible 1,000. Higher FM means a small miss on that assumption could do outsized damage; lower means the business can absorb the shock without much disruption.",
+    "closing_statement": "A 10% miss shouldn't be able to break you."
+  },
+  "caption": "Principle Nº 42: Fragility Mapping\n\nThe business is weaker than it looks wherever small shocks create outsized damage. Fragility hides in nonlinearity.\n\nAsk yourself: What's your business's most fragile assumption, the one a 10% miss would break everything?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

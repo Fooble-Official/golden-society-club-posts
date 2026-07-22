@@ -1,0 +1,90 @@
+{
+  "order": 174,
+  "day": 174,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "174",
+  "title": "Network Effects",
+  "slug": "network-effects",
+  "category": "Advanced Systems",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "More users make the product more valuable.",
+    "question": "If your existing users vanished tomorrow, would the product be exactly as valuable to the ones who stayed, or did their presence make it better?",
+    "equation": "Value = f(Users^2)",
+    "mental_model": "Telephone.",
+    "business_lens": "Marketplace, platform, community.",
+    "life_lens": "Relationships compound opportunity.",
+    "sop": [
+      "Identify what a new user contributes to the experience of every other user, content, liquidity, connections, or data.",
+      "Test whether the product is meaningfully worse with 10 users than with 1,000, if there's no difference, you don't have a network effect yet.",
+      "Design one feature that explicitly surfaces other users' activity to new ones (reviews, activity feed, matches, community).",
+      "Count your current active users, and rate how much value each additional user adds to the experience, 1-10 (see calculation, page 6).",
+      "Protect early users' experience even while chasing growth, a network effect dies if the early adopters leave."
+    ],
+    "explainer": "",
+    "questions": [
+      "If your existing users vanished tomorrow, would the product be exactly as valuable to the ones who stayed, or did their presence make it better?",
+      "What's the one thing early users get from later users joining, more content, faster matches, a bigger community, that new users can't get from you alone?",
+      "Are you still designing your product to work well with 10 users, or does it require hundreds to feel valuable?"
+    ],
+    "definitions": [
+      {
+        "term": "Network effect",
+        "def": "When a product becomes more valuable as more people use it."
+      }
+    ],
+    "equation_example": "Value scales roughly with Users squared, a relative index, not literal dollars. 10 users gives value index 100; 100 users gives value index 10,000. Rising faster than linear means real network effects; if value only grows in a straight line with users, it's just user growth, not a network effect.",
+    "closing_statement": "Design for what users give each other, not you."
+  },
+  "caption": "Principle Nº 174: Network Effects\n\nMore users make the product more valuable.\n\nAsk yourself: If your existing users vanished tomorrow, would the product be exactly as valuable to the ones who stayed, or did their presence make it better?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

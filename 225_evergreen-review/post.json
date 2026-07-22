@@ -1,0 +1,85 @@
+{
+  "order": 225,
+  "day": 225,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "225",
+  "title": "Evergreen Review",
+  "slug": "evergreen-review",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Refresh second brain periodically.",
+    "question": "When did you last clean out notes, tasks, or files?",
+    "equation": "Utility = Maintenance × Relevance",
+    "mental_model": "Pruning a tree.",
+    "business_lens": "Quarterly wiki audits.",
+    "life_lens": "Monthly note review.",
+    "sop": [
+      "Run weekly inbox zero, every captured item gets routed, not left floating",
+      "Do a monthly review pass across notes, tasks, and files",
+      "Rate the maintenance level and relevance of your system honestly (see calculation, page 6)",
+      "Tag or flag items that need revisiting instead of letting them go stale silently",
+      "Archive or delete anything that's lost relevance instead of letting it accumulate as clutter"
+    ],
+    "explainer": "Relevance alone doesn't keep a system useful, a note can still be true and still be impossible to find or act on if it hasn't been maintained. Utility comes from both at once: the information has to still matter, and the system has to still be tended, or the two multiply down toward zero instead of up.",
+    "questions": [
+      "When did you last clean out notes, tasks, or files?",
+      "How many open tasks or notes in your system are more than 3 months old and still unresolved?",
+      "If you had to justify keeping every note in your system today, which ones couldn't you defend?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Maintenance 3 (rarely reviewed), Relevance 8 (content still matters). Utility = 3 times 8 = 24, low, because neglect is dragging down otherwise-good content. Raise Maintenance to 8: Utility = 8 times 8 = 64. Higher utility means your system stays usable and trustworthy; lower means even relevant information becomes effectively lost.",
+    "closing_statement": "Even good content rots without maintenance."
+  },
+  "caption": "Principle Nº 225: Evergreen Review\n\nRefresh second brain periodically. Relevance alone doesn't keep a system useful, a note can still be true and still be impossible to find or act on if it hasn't been maintained.\n\nAsk yourself: When did you last clean out notes, tasks, or files?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

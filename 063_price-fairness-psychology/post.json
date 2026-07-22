@@ -1,0 +1,80 @@
+{
+  "order": 63,
+  "day": 63,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "63",
+  "title": "Price-Fairness Psychology",
+  "slug": "price-fairness-psychology",
+  "category": "Behavioral Pricing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "People accept prices that feel fair, even if they are high.",
+    "question": "Does your business's pricing feel fair, or merely \"correct\"? What would make it feel more fair?",
+    "equation": "PFP = (Value + Transparency + Norm Consistency + Satisfaction) ÷ Price Shock",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Rate your pricing 1-10 on perceived Value, does the price feel earned by what's delivered (see calculation, page 5).",
+      "Rate it 1-10 on Transparency, do customers understand why it costs what it costs (see calculation, page 5).",
+      "Rate it 1-10 on Norm Consistency, does it match what similar businesses charge for similar things (see calculation, page 5).",
+      "Rate it 1-10 on Satisfaction after purchase, and rate Price Shock 1-10 for how jarring the number feels the first time someone sees it (see calculation, page 5).",
+      "Add the first three scores, divide by Price Shock, and if the score is low, add context or explanation at the point of purchase rather than just lowering the price."
+    ],
+    "explainer": "Fair is not the same as cheap. People pay premium for \"fair.\" They churn on \"unfair\" at any price.",
+    "questions": [
+      "Does your business's pricing feel fair, or merely \"correct\"? What would make it feel more fair?",
+      "If you explained exactly why your price is what it is, would customers nod along or feel like something's being hidden from them?",
+      "Is your pricing more likely to lose you a sale, or lose you a customer's trust after they've already paid?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Value 8, Transparency 7, Norm Consistency 6, Satisfaction 8. 8 plus 7 plus 6 plus 8 equals 29, divided by Price Shock 3 equals 9.7. Higher scores mean the price feels justified even when it's high. Lower scores mean people are paying but quietly resenting it, which shows up later as churn or bad reviews.",
+    "closing_statement": "Perceived fairness protects a price more than being cheap."
+  },
+  "caption": "Principle Nº 63: Price-Fairness Psychology\n\nPeople accept prices that feel fair, even if they are high. Fair is not the same as cheap.\n\nAsk yourself: Does your business's pricing feel fair, or merely \"correct\"? What would make it feel more fair?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

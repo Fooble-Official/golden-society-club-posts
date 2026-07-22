@@ -1,0 +1,95 @@
+{
+  "order": 293,
+  "day": 293,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "293",
+  "title": "Whole Product",
+  "slug": "whole-product",
+  "category": "Go-to-Market",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Mainstream customers buy the whole solution, not the core product.",
+    "question": "What does a customer need to succeed beyond my core product, and am I providing it?",
+    "equation": "Whole Product = Core Product + Integrations + Services + Support + References",
+    "mental_model": "Laptop with charger, OS, software, support, not just the chip inside.",
+    "business_lens": "Map gaps between your core and a complete solution; build or partner to close them.",
+    "life_lens": "Deliver complete value, not just the central piece.",
+    "sop": [
+      "List everything a successful customer needs beyond your core",
+      "Identify the gaps",
+      "Decide build, buy, or partner",
+      "Bundle into a complete offer",
+      "Iterate as customer expectations rise"
+    ],
+    "explainer": "Enterprise software vendors learned to bundle implementation, training, and support because mainstream IT buyers will not assemble the whole product themselves. The chasm between early adopters and mainstream is mostly a whole-product gap.",
+    "questions": [
+      "What does a customer need to succeed beyond my core product, and am I providing it?",
+      "If a customer bought only your core product with nothing else, would they succeed, or would they quietly struggle and churn?",
+      "Which gap between your core offering and a truly complete solution are you currently asking the customer to fill themselves?"
+    ],
+    "definitions": [
+      {
+        "term": "Churn",
+        "def": "The rate at which customers stop paying or stop using a product."
+      }
+    ],
+    "equation_example": "Rate each component's completeness 1-10. Core Product 9, Integrations 4, Services 3, Support 6, References 5. Score = (9 plus 4 plus 3 plus 6 plus 5) divided by 5 = 5.4. Higher means customers get a complete solution from you alone; lower means they must assemble the rest themselves, and may buy from whoever assembles it for them instead.",
+    "closing_statement": "Customers buy outcomes, not the core feature alone."
+  },
+  "caption": "Principle Nº 293: Whole Product\n\nMainstream customers buy the whole solution, not the core product. Enterprise software vendors learned to bundle implementation, training, and support because mainstream IT buyers will not assemble the whole product themselves.\n\nAsk yourself: What does a customer need to succeed beyond my core product, and am I providing it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

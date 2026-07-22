@@ -1,0 +1,80 @@
+{
+  "order": 74,
+  "day": 74,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "74",
+  "title": "Density Before Scale",
+  "slug": "density-before-scale",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A small market fully solved beats a large market weakly served.",
+    "question": "What's the density threshold in your market before you're allowed to expand to a second city?",
+    "equation": "DBS = Local Usage Density ÷ Expansion Footprint",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Define Local Usage Density for your home market, active users, transactions, or repeat visits per area (see calculation, page 5).",
+      "Set a specific density threshold that means your home market is won before expanding (see calculation, page 5).",
+      "Track your current Expansion Footprint, how many markets, cities, or regions you're already spread across (see calculation, page 5).",
+      "Divide Local Usage Density by Expansion Footprint to see if you're deepening or just spreading (see calculation, page 5).",
+      "Delay any new-market launch until your home market density hits the threshold you set."
+    ],
+    "explainer": "Pre-define \"done with your home market\" metrics. Don't expand until they're hit. Density compounds; sprawl doesn't.",
+    "questions": [
+      "What's the density threshold in your market before you're allowed to expand to a second city?",
+      "If you expanded to a new market tomorrow, would you be spreading strength or spreading yourself thin?",
+      "What number, specifically, would tell you your home market is \"done\" and ready to fund expansion?"
+    ],
+    "definitions": [],
+    "equation_example": "Local Usage Density 500 active users per neighborhood, Expansion Footprint 2 neighborhoods entered. 500 divided by 2 equals 250. Higher and rising means you're deeply saturated relative to how far you've spread, a sign you're ready to expand. Lower and falling means you've spread into more places than you've actually won, a sign to pull back and deepen first.",
+    "closing_statement": "Depth in one place beats width across many."
+  },
+  "caption": "Principle Nº 74: Density Before Scale\n\nA small market fully solved beats a large market weakly served. Pre-define \"done with your home market\" metrics.\n\nAsk yourself: What's the density threshold in your market before you're allowed to expand to a second city?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

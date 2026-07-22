@@ -1,0 +1,94 @@
+{
+  "order": 53,
+  "day": 53,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "53",
+  "title": "Payback-Period Architecture",
+  "slug": "payback-period-architecture",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Growth quality depends on how fast acquisition spend returns as gross profit.",
+    "question": "What's your business's target CAC payback, and are you on track to hit it at your market launch?",
+    "equation": "PPA = CAC ÷ Monthly Gross Profit per Acquired Customer",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Calculate your average CAC per acquisition channel (see calculation, page 6).",
+      "Calculate Monthly Gross Profit per Acquired Customer, revenue minus direct costs, divided by months (see calculation, page 6).",
+      "Divide CAC by Monthly Gross Profit to get your payback period in months for each channel (see calculation, page 6).",
+      "Set a maximum acceptable payback period (commonly 6-12 months) and rank your channels against it.",
+      "Pause or renegotiate spend on any channel whose payback period exceeds your maximum."
+    ],
+    "explainer": "Long payback compounds risk. Short payback compounds freedom.",
+    "questions": [
+      "What's your business's target CAC payback, and are you on track to hit it at your market launch?",
+      "If it takes 8 months to earn back what you spent acquiring a customer, what happens to your growth plans if 3 of those months go quiet?",
+      "Are you calculating payback on gross profit, or are you quietly using revenue, and does that difference change your answer?"
+    ],
+    "definitions": [
+      {
+        "term": "CAC",
+        "def": "Customer Acquisition Cost, what you spend on average to gain one new paying customer."
+      },
+      {
+        "term": "Payback period",
+        "def": "How long it takes to recover what you spent acquiring a customer."
+      }
+    ],
+    "equation_example": "CAC $150, Monthly Gross Profit per Acquired Customer $50. $150 divided by $50 equals 3 months. Lower means you recover your acquisition spend fast and can reinvest sooner; higher means your cash is tied up longer and a slow month puts more strain on you.",
+    "closing_statement": "Fast payback buys you the freedom to keep betting."
+  },
+  "caption": "Principle Nº 53: Payback-Period Architecture\n\nGrowth quality depends on how fast acquisition spend returns as gross profit. Long payback compounds risk.\n\nAsk yourself: What's your business's target CAC payback, and are you on track to hit it at your market launch?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

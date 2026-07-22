@@ -1,0 +1,80 @@
+{
+  "order": 160,
+  "day": 160,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "160",
+  "title": "Drift Prevention",
+  "slug": "drift-prevention",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Without correction → decline.",
+    "question": "When's the last time you did a real system audit? Be honest.",
+    "equation": "Drift = Deviation × Time",
+    "mental_model": "Boat.",
+    "business_lens": "Content quality drops.",
+    "life_lens": "Routines break, health declines.",
+    "sop": [
+      "Rate your current Deviation 1-10 from your original standard, for one key system (see calculation, page 5)",
+      "Note the Time since your last real audit, in months (see calculation, page 5)",
+      "If it's been more than a quarter, schedule the audit this week, not 'someday'.",
+      "Realign the system back to standard, documenting what specifically had drifted.",
+      "Set a recurring calendar reminder so the next audit happens on schedule, not by memory."
+    ],
+    "explainer": "",
+    "questions": [
+      "When's the last time you did a real system audit? Be honest.",
+      "What would you find if you compared this month's output quality to six months ago, side by side?",
+      "Which routine have you assumed is still working, purely because no one has complained yet?"
+    ],
+    "definitions": [],
+    "equation_example": "Deviation equals 5 (1-10, how far off standard you are right now), Time equals 3 (months since last audit). Drift equals 15 drift-points accumulated. Higher/rising means the gap between your standard and your reality is compounding the longer it goes unchecked. Lower/falling means regular audits are keeping drift near zero.",
+    "closing_statement": "No news isn't the same as no drift."
+  },
+  "caption": "Principle Nº 160: Drift Prevention\n\nWithout correction → decline.\n\nAsk yourself: When's the last time you did a real system audit? Be honest.\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

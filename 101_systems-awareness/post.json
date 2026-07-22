@@ -1,0 +1,90 @@
+{
+  "order": 101,
+  "day": 101,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "101",
+  "title": "Systems Awareness",
+  "slug": "systems-awareness",
+  "category": "Foundations",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Everything is a system with inputs, outputs, and feedback.",
+    "question": "Which part of your life are you still treating as a list of tasks instead of a system?",
+    "equation": "Output Score = (Input Quality plus Structure Quality plus Feedback Speed) divided by 3, each rated 1-10. The original 'Output = f(Inputs, Structure, Feedback)' is function notation, not something you can literally calculate.",
+    "mental_model": "Zoom out: see the whole mechanism, not one part.",
+    "business_lens": "Business = interconnected flows (marketing → sales → ops → retention).",
+    "life_lens": "Life = interconnected systems (sleep → energy → work → money).",
+    "sop": [
+      "Pick one recurring problem area and name it explicitly as a system, not a task list.",
+      "List every part or component involved and how they connect to each other.",
+      "Rate the Input Quality, Structure Quality, and Feedback Speed of that system, each 1-10 (see calculation, page 6).",
+      "Identify which of those three scores is lowest, that's where to intervene first.",
+      "Re-check the score in 30 days to confirm the change actually moved the system, not just the symptom."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which part of your life are you still treating as a list of tasks instead of a system?",
+      "Pick one recurring problem, what are its actual inputs, and which one are you never touching?",
+      "If you mapped the feedback loop in your business right now, would you even know where the signal comes back in?"
+    ],
+    "definitions": [
+      {
+        "term": "Feedback loop",
+        "def": "When a system's output is fed back as input, allowing self-correction or self-amplification."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Input Quality 7, Structure Quality 5, Feedback Speed 8. (7 plus 5 plus 8) divided by 3 equals 6.7 out of 10. Higher means your system is well-designed enough to produce good outputs reliably; lower means at least one part, inputs, structure, or feedback, is dragging the whole system down.",
+    "closing_statement": "See the mechanism, not just the moving parts."
+  },
+  "caption": "Principle Nº 101: Systems Awareness\n\nEverything is a system with inputs, outputs, and feedback.\n\nAsk yourself: Which part of your life are you still treating as a list of tasks instead of a system?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

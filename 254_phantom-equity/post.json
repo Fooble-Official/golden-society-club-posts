@@ -1,0 +1,95 @@
+{
+  "order": 254,
+  "day": 254,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "254",
+  "title": "Phantom Equity",
+  "slug": "phantom-equity",
+  "category": "Compensation & Team",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Key employees can be motivated with phantom ownership that rewards them in a future sale without giving away actual equity.",
+    "question": "Who needs to feel economically aligned with the long-term value of this business?",
+    "equation": "Team Alignment = Future Upside × Role Importance × Retention Incentive",
+    "mental_model": "Shadow share, it behaves like ownership economically, but does not change legal ownership.",
+    "business_lens": "Use phantom stock or bonus plans to keep high-value team members committed to building enterprise value.",
+    "life_lens": "Create incentives where people benefit when the shared mission grows.",
+    "sop": [
+      "Identify key people who meaningfully increase company value",
+      "Decide what future event triggers the reward",
+      "Define the payout formula",
+      "Put the agreement in writing with legal support",
+      "Review as the company grows"
+    ],
+    "explainer": "Phantom Equity gives someone the feeling of ownership economics without making them an actual owner. Instead of issuing shares, the company promises a payout based on a future event, such as a sale. It should be handled carefully with proper contracts and professional advice.",
+    "questions": [
+      "Who needs to feel economically aligned with the long-term value of this business?",
+      "Which key person would hurt the business most if a competitor poached them tomorrow?",
+      "What would it cost you to lose that person versus what a phantom equity plan would cost?"
+    ],
+    "definitions": [
+      {
+        "term": "Phantom equity",
+        "def": "A bonus plan that pays a key employee like an owner would be paid in a future sale, without giving them actual shares or legal ownership."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Future Upside 8, Role Importance 9, Retention Incentive 6. Score = 8 times 9 times 6 = 432 out of a possible 1,000. Higher means the plan will actually keep that person committed through the hard years. Lower means you're offering a reward that won't change their behavior.",
+    "closing_statement": "Pay for alignment before you need loyalty."
+  },
+  "caption": "Principle Nº 254: Phantom Equity\n\nKey employees can be motivated with phantom ownership that rewards them in a future sale without giving away actual equity. Phantom Equity gives someone the feeling of ownership economics without making them an actual owner.\n\nAsk yourself: Who needs to feel economically aligned with the long-term value of this business?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

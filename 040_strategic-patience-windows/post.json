@@ -1,0 +1,80 @@
+{
+  "order": 40,
+  "day": 40,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "40",
+  "title": "Strategic Patience Windows",
+  "slug": "strategic-patience-windows",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Waiting can be a strategic act when uncertainty is falling faster than opportunity is decaying.",
+    "question": "What business decision are you rushing that you should actually wait another 30 days on to get better info?",
+    "equation": "SPW = Value of Waiting - Cost of Waiting",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "For your next big decision, list what new information you'd realistically have in 2, 4, and 8 weeks.",
+      "Estimate what waiting costs you (lost opportunity, competitor advantage) versus what it could save you (better data, lower risk).",
+      "If the value of waiting outweighs the cost, set a specific date to revisit, not an open-ended later.",
+      "Rate the Value of Waiting and the Cost of Waiting 1-10 (see calculation, page 5)",
+      "If the cost of waiting clearly outweighs the value, stop deliberating and commit now."
+    ],
+    "explainer": "Waiting is a move. The question is whether the clock is working for you or against you.",
+    "questions": [
+      "What business decision are you rushing that you should actually wait another 30 days on to get better info?",
+      "What information would you have in 30 days that you don't have right now, and would it actually change your decision?",
+      "Is a competitor's current move actually pressuring you to rush, or are you just assuming it is?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate the Value of Waiting 1-10 (how much better your decision gets with more time or data) and the Cost of Waiting 1-10 (what you lose by not moving now). Value of Waiting 7, Cost of Waiting 4 → SPW = 7 - 4 = 3. A positive SPW means patience is the right move; a negative SPW means the clock is working against you and you should decide now.",
+    "closing_statement": "Waiting is a move, not an absence of one."
+  },
+  "caption": "Principle Nº 40: Strategic Patience Windows\n\nWaiting can be a strategic act when uncertainty is falling faster than opportunity is decaying. Waiting is a move.\n\nAsk yourself: What business decision are you rushing that you should actually wait another 30 days on to get better info?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

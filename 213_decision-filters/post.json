@@ -1,0 +1,85 @@
+{
+  "order": 213,
+  "day": 213,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "213",
+  "title": "Decision Filters",
+  "slug": "decision-filters",
+  "category": "Habits & Behavior",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Pre-commit to simplifying choices.",
+    "question": "What standing rule would save you 20 decisions this month?",
+    "equation": "Effort = Options ÷ Filter",
+    "mental_model": "Sieve.",
+    "business_lens": "Project criteria; templates.",
+    "life_lens": "No fast food weekdays.",
+    "sop": [
+      "Identify a category of recurring decisions, what to say yes to, what to buy, what projects to take",
+      "Write one explicit rule that pre-decides the category (e.g., 'no client calls after 5pm')",
+      "Rate how many options the rule needs to cut through (see calculation, page 6)",
+      "Post the rule somewhere visible, calendar, doc, wall, so it's enforceable, not just remembered",
+      "Enforce it for 30 days before adjusting it"
+    ],
+    "explainer": "A filter only saves effort if it's specific enough to actually eliminate options before you evaluate them, a vague value like 'be selective' still leaves you weighing every choice individually. The whole point of pre-committing is that the decision happens once, in the rule, instead of every single time the situation shows up again.",
+    "questions": [
+      "What standing rule would save you 20 decisions this month?",
+      "Which category of decision do you currently make from scratch every time, when a simple rule would settle it instantly?",
+      "What's a rule you already believe in but haven't actually written down or enforced?"
+    ],
+    "definitions": [],
+    "equation_example": "Options: 12 choices you're weighing. Filter strength: rate 1-10 how strict your standing rule is. Effort = 12 divided by 8 = 1.5. Higher filter strength drives effort down sharply, fewer real decisions left to make; a weak filter (low number) barely cuts the options, so effort stays high even with a 'rule' in place.",
+    "closing_statement": "An enforced rule beats ten you admire."
+  },
+  "caption": "Principle Nº 213: Decision Filters\n\nPre-commit to simplifying choices. A filter only saves effort if it's specific enough to actually eliminate options before you evaluate them, a vague value like 'be selective' still leaves you weighing every choice individually.\n\nAsk yourself: What standing rule would save you 20 decisions this month?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

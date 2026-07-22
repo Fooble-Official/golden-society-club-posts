@@ -1,0 +1,85 @@
+{
+  "order": 268,
+  "day": 268,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "268",
+  "title": "Ask For Help",
+  "slug": "ask-for-help",
+  "category": "Learning & Acceleration",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Progress accelerates when you seek guidance from people who have already solved the problem you are facing.",
+    "question": "Who has already solved the problem you are trying to figure out alone?",
+    "equation": "Learning Speed = Access to Experience × Question Quality × Implementation",
+    "mental_model": "Borrowing a map, someone else has already walked the terrain.",
+    "business_lens": "Pay for advice, mentorship, coaching, or advisory access when it reduces costly mistakes.",
+    "life_lens": "Do not confuse independence with refusing support.",
+    "sop": [
+      "Identify the specific problem you need solved",
+      "Find someone who has solved it",
+      "Ask for low-friction access, such as email, a call, or a review",
+      "Prepare precise questions",
+      "Implement quickly and report back"
+    ],
+    "explainer": "Asking for Help is a leverage move, not a weakness. The right advisor can help you avoid expensive mistakes, see obvious gaps, and move with more confidence. The value is not just information. It is compressed experience.",
+    "questions": [
+      "Who has already solved the problem you are trying to figure out alone?",
+      "What question have you been avoiding asking because it might expose what you don't know?",
+      "The last time someone gave you advice, did you actually implement it within a week?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Access to Experience 7, Question Quality 5, Implementation 8. Score = 7 times 5 times 8 = 280 out of a possible 1,000. Higher means advice actually compresses your timeline. Lower means you're collecting opinions without acting on any of them.",
+    "closing_statement": "Borrowed experience is faster than earned scars."
+  },
+  "caption": "Principle Nº 268: Ask For Help\n\nProgress accelerates when you seek guidance from people who have already solved the problem you are facing. Asking for Help is a leverage move, not a weakness.\n\nAsk yourself: Who has already solved the problem you are trying to figure out alone?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

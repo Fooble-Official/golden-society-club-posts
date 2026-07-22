@@ -1,0 +1,85 @@
+{
+  "order": 300,
+  "day": 300,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "300",
+  "title": "Commitment and Consistency",
+  "slug": "commitment-and-consistency",
+  "category": "Persuasion (Cialdini)",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Small commitments create pressure to remain consistent with later, larger commitments.",
+    "question": "What is the smallest aligned first commitment that would set users on the path to the larger commitment?",
+    "equation": "Commitment Pull = Initial Step × Visibility × Time",
+    "mental_model": "Foot in the door, small step now, larger step later.",
+    "business_lens": "Design onboarding with low-friction first commitments (sign-up, profile, first action) that pull users into deeper engagement.",
+    "life_lens": "Make small public commitments to identity-forming behaviors; consistency does the heavy lifting.",
+    "sop": [
+      "Identify the desired ultimate commitment",
+      "Design a small first action that aligns with it",
+      "Make that action visible (public, profile, shared)",
+      "Build the next step on top",
+      "Avoid asking for too much too early"
+    ],
+    "explainer": "Studies show people who agreed to a small yard sign were far more likely later to accept a much larger one. Onboarding flows that get users to invest small effort early (set goals, customize) drive significant retention gains.",
+    "questions": [
+      "What is the smallest aligned first commitment that would set users on the path to the larger commitment?",
+      "Which step in your onboarding asks for the biggest 'yes' first, and what happens to completion rates right there?",
+      "Think of a goal you or your team stated out loud publicly. Are you still pursuing it because it's right, or because you already said it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Initial Step ease 8 (how low-friction the first ask is), Visibility 6 (how public the commitment is), Time 5 (how long it's been reinforced). Score = (8 plus 6 plus 5) divided by 3 = 6.3. Higher means the customer is primed to say yes to your next, bigger ask; lower means the first step didn't build enough momentum to carry forward.",
+    "closing_statement": "A small yes today shapes a bigger yes tomorrow."
+  },
+  "caption": "Principle Nº 300: Commitment and Consistency\n\nSmall commitments create pressure to remain consistent with later, larger commitments. Studies show people who agreed to a small yard sign were far more likely later to accept a much larger one.\n\nAsk yourself: What is the smallest aligned first commitment that would set users on the path to the larger commitment?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #Persuasion",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#Persuasion"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

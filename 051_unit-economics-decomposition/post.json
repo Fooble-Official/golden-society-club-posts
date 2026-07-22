@@ -1,0 +1,94 @@
+{
+  "order": 51,
+  "day": 51,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "51",
+  "title": "Unit-Economics Decomposition",
+  "slug": "unit-economics-decomposition",
+  "category": "Unit Economics",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Overall economics are too blunt; you need to know exactly which sub-components create or destroy value.",
+    "question": "Can you name every layer of cost between a business signup and a profit dollar? What's the biggest surprise?",
+    "equation": "UE = LTV - CAC - Variable Service Cost - Retention Cost - Support Burden",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Calculate lifetime value, total revenue or profit expected from an average customer over their relationship with you (see calculation, page 6).",
+      "Calculate acquisition cost, your average cost to acquire one paying customer (see calculation, page 6).",
+      "Add up Variable Service Cost, Retention Cost, and Support Burden per customer, every dollar spent serving, keeping, and supporting them (see calculation, page 6).",
+      "Subtract all four cost layers from lifetime value to get true unit economics per customer (see calculation, page 6).",
+      "Rebuild your pricing or service model around whichever layer is the biggest drag once you see the real number."
+    ],
+    "explainer": "Good aggregate numbers can hide bad underlying economics. Decompose or die.",
+    "questions": [
+      "Can you name every layer of cost between a business signup and a profit dollar? What's the biggest surprise?",
+      "If you added up every dollar it costs to serve a customer after the sale, would your \"profitable\" customers still be profitable?",
+      "Which single cost layer, acquisition, service, retention, or support, is quietly eating the most margin, and have you ever measured it directly?"
+    ],
+    "definitions": [
+      {
+        "term": "LTV",
+        "def": "Lifetime Value, the total revenue or profit you expect from a customer over the entire relationship."
+      },
+      {
+        "term": "CAC",
+        "def": "Customer Acquisition Cost, what you spend on average to gain one new paying customer."
+      }
+    ],
+    "equation_example": "LTV $400, CAC $80, Variable Service Cost $50, Retention Cost $20, Support Burden $15. $400 minus $80 minus $50 minus $20 minus $15 equals $235. Higher means each customer leaves real profit after every cost is paid; lower or negative means you're losing money on customers you thought were profitable.",
+    "closing_statement": "Every profit dollar has to survive several deductions first."
+  },
+  "caption": "Principle Nº 51: Unit-Economics Decomposition\n\nOverall economics are too blunt; you need to know exactly which sub-components create or destroy value. Good aggregate numbers can hide bad underlying economics.\n\nAsk yourself: Can you name every layer of cost between a business signup and a profit dollar? What's the biggest surprise?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#StartupFinance"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

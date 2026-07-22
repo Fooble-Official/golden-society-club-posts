@@ -1,0 +1,103 @@
+{
+  "order": 290,
+  "day": 290,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "290",
+  "title": "Innovation Accounting",
+  "slug": "innovation-accounting",
+  "category": "Lean Startup",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Track startup progress with metrics that reveal whether the business model is working.",
+    "question": "Are my metrics actionable cohort signals, or vanity numbers that hide stagnation?",
+    "equation": "Innovation Score = Cohort Behavior × Conversion × Retention",
+    "mental_model": "Startup-specific dashboard, different from accounting for stable companies.",
+    "business_lens": "Track per-cohort activation, conversion, and retention; pivot when these stop improving.",
+    "life_lens": "Pick measures that show whether your effort actually produces the outcome you want.",
+    "sop": [
+      "Define actionable metrics, not vanity ones",
+      "Group users into cohorts",
+      "Track each cohort's activation, conversion, retention",
+      "Set milestones that signal real progress",
+      "Pivot when metrics stagnate"
+    ],
+    "explainer": "A startup with rising downloads but flat retention may look healthy and be dying. Innovation accounting forces honest assessment: is the engine actually pulling? Cohort analysis is the standard tool because it reveals trends time-series totals hide.",
+    "questions": [
+      "Are my metrics actionable cohort signals, or vanity numbers that hide stagnation?",
+      "If you pulled up your dashboard right now, could you name the one number that would have to move before you changed a decision?",
+      "Which cohort, this month's or three months ago, actually retains better, and have you ever compared them side by side instead of looking at totals?"
+    ],
+    "definitions": [
+      {
+        "term": "Cohort",
+        "def": "A group of customers who started in the same period."
+      },
+      {
+        "term": "Activation",
+        "def": "The moment a new user reaches their first meaningful win in a product."
+      },
+      {
+        "term": "Retention",
+        "def": "The percentage of customers who keep paying or using a product over time."
+      }
+    ],
+    "equation_example": "Cohort behavior 60% engaged, conversion 20%, retention 45%. 0.60 times 0.20 times 0.45 equals an Innovation Score of about 5.4%. Higher/rising means your engine is actually pulling, engaged users convert and stick; lower/falling means growth numbers are hiding a leaky core.",
+    "closing_statement": "Rising engagement means little if it never converts."
+  },
+  "caption": "Principle Nº 290: Innovation Accounting\n\nTrack startup progress with metrics that reveal whether the business model is working. A startup with rising downloads but flat retention may look healthy and be dying.\n\nAsk yourself: Are my metrics actionable cohort signals, or vanity numbers that hide stagnation?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

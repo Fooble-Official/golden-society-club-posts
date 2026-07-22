@@ -1,0 +1,80 @@
+{
+  "order": 30,
+  "day": 30,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "30",
+  "title": "Failure Containment Design",
+  "slug": "failure-containment-design",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Bad events are inevitable; systemic spread is optional.",
+    "question": "If your business's payment processor failed tonight, how far would the damage spread? What's your containment plan?",
+    "equation": "FCD = (Isolation × Detection × Recovery × Override) ÷ Cascade Potential",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your top 3 critical systems (payments, hosting, communication, fulfillment) and map what else breaks if each one fails.",
+      "For each, write down how you'd detect the failure, ideally in minutes, not from a customer complaint.",
+      "Build one firebreak per critical system, a manual backup, a second vendor, an offline process, so failure doesn't cascade.",
+      "Rate Isolation, Detection, Recovery, and Override 1-10, and rate Cascade Potential 1-10 (see calculation, page 5)",
+      "Run a tabletop drill twice a year: system X is down right now, what do we do?"
+    ],
+    "explainer": "You can't prevent all failures. You can prevent them from cascading. Design firebreaks.",
+    "questions": [
+      "If your business's payment processor failed tonight, how far would the damage spread? What's your containment plan?",
+      "Which single failure in your business would take down more than one system if it happened right now?",
+      "How long would it take you to even notice if your most critical system went down?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Isolation, Detection, Recovery, and Override 1-10 each, then rate Cascade Potential 1-10. Isolation 7, Detection 8, Recovery 6, Override 5, Cascade Potential 3 → FCD = (7×8×6×5)/3 = 560. Higher FCD means failures stay contained and recover fast; lower means one break threatens to take down everything connected to it.",
+    "closing_statement": "Design containment, not just prevention."
+  },
+  "caption": "Principle Nº 30: Failure Containment Design\n\nBad events are inevitable; systemic spread is optional. You can't prevent all failures.\n\nAsk yourself: If your business's payment processor failed tonight, how far would the damage spread? What's your containment plan?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

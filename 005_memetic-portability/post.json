@@ -1,0 +1,79 @@
+{
+  "order": 5,
+  "day": 5,
+  "cta_type": "follow_only",
+  "cover_type": "green",
+  "principle_number": "5",
+  "title": "Memetic Portability",
+  "slug": "memetic-portability",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Ideas that compress survive.",
+    "question": "Can you describe your business in 8 words or less without losing what makes it matter?",
+    "equation": "MP = (Retell Accuracy × Share Rate × Platform Spread) ÷ Complexity",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Write your full pitch, then cut it in half",
+      "Cut it in half again until it's under 8 words",
+      "Say it out loud to 3 people and see if they can repeat it back correctly",
+      "Use the version that survived unprompted repetition"
+    ],
+    "explainer": "Complexity is the enemy of distribution. Every extra word halves the chance someone repeats it.",
+    "questions": [
+      "Can you describe your business in 8 words or less without losing what makes it matter?",
+      "If someone had to explain your business to a friend in one text message, what would they write?",
+      "What's the shortest version of your pitch that still makes someone want to know more?"
+    ],
+    "equation_example": "Retell Accuracy 80%, Share Rate 20%, Platform Spread 3, divided by Complexity 2 on a 1-5 scale where 5 is most complex = 24. Higher means your pitch is simple enough to spread on its own. Lower means it needs to be cut down further.",
+    "definitions": [],
+    "closing_statement": "If it can't survive being repeated, it won't spread."
+  },
+  "caption": "Principle Nº 5: Memetic Portability\n\nIdeas that compress survive. Complexity is the enemy of distribution.\n\nAsk yourself: Can you describe your business in 8 words or less without losing what makes it matter?\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 100,
+  "day": 100,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "100",
+  "title": "Scaling Identity Coherence",
+  "slug": "scaling-identity-coherence",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Growth breaks identity unless actively maintained.",
+    "question": "At 10x your business's size, what will still feel like you, and what will drift? What do you protect now?",
+    "equation": "SIC = (Brand + Experience + Cultural + Strategic Consistency) ÷ 4",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Write down, in one paragraph, what your brand or company actually stands for right now, before you scale further.",
+      "Identify the 3 things, tone, values, product principle, customer experience, that must never change as you grow.",
+      "Rate Brand, Experience, Cultural, and Strategic Consistency each 1-10 against that written standard (see calculation, page 5).",
+      "Build one document or onboarding step that transmits those non-negotiables to every new hire or partner.",
+      "Re-score consistency every 6 months as you grow, and course-correct the lowest score first."
+    ],
+    "explainer": "Identity drift at scale is silent until it's catastrophic. Define what's core, and defend it.",
+    "questions": [
+      "At 10x your business's size, what will still feel like you, and what will drift? What do you protect now?",
+      "What's one decision you'd make differently today than you would if you were already 10x bigger, and why are you making it that way?",
+      "If a new hire read everything public about your brand, would they describe it the same way you would?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Brand Consistency 8, Experience Consistency 7, Cultural Consistency 6, Strategic Consistency 9. (8 plus 7 plus 6 plus 9) divided by 4 equals 7.5 out of 10. Higher means your identity is holding steady as you scale; lower means growth is quietly eroding what made you distinct in the first place.",
+    "closing_statement": "What can't change should be decided before growth, not during it."
+  },
+  "caption": "Principle Nº 100: Scaling Identity Coherence\n\nGrowth breaks identity unless actively maintained. Identity drift at scale is silent until it's catastrophic.\n\nAsk yourself: At 10x your business's size, what will still feel like you, and what will drift? What do you protect now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

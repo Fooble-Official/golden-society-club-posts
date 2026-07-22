@@ -1,0 +1,85 @@
+{
+  "order": 231,
+  "day": 231,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "231",
+  "title": "Decomposed Tasks",
+  "slug": "decomposed-tasks",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Break projects into micro-actions.",
+    "question": "What goal feels stuck because the next step isn't small enough?",
+    "equation": "Clarity ∝ 1/Task Size",
+    "mental_model": "Eat elephant one bite.",
+    "business_lens": "Specific posts/emails.",
+    "life_lens": "Do 10 push-ups today.",
+    "sop": [
+      "State the goal clearly, in one sentence",
+      "Break it down until the next step takes less than 15 minutes",
+      "Rate the current task's size and clarity before you start (see calculation, page 6)",
+      "Do that one small step, nothing else on the list matters until it's done",
+      "Repeat: define the next tiny step only once the last one is finished"
+    ],
+    "explainer": "'I don't know where to start' is almost never a motivation problem, it's a sizing problem. A goal stated at the scale of 'grow the business' has no obvious next physical action, which is exactly why it stalls; the same goal broken down to 'write one sentence' has an obvious one, which is why it moves.",
+    "questions": [
+      "What goal feels stuck because the next step isn't small enough?",
+      "What project have you been avoiding for weeks that you've never actually broken down into a first physical action?",
+      "If your next step took less than 10 minutes, would you still be procrastinating on it?"
+    ],
+    "definitions": [],
+    "equation_example": "Task Size: rate 1-10 (10 = huge, vague, multi-week). At Task Size 9, Clarity is proportional to 1 divided by 9, approximately 0.11, you barely know where to start. Break it into a step sized 2: Clarity is proportional to 1 divided by 2 = 0.5, obvious what to do next. Smaller task size (a falling number) means rising clarity; a large, undefined task size means low clarity and stalling.",
+    "closing_statement": "Stuck usually means the next step is still too big."
+  },
+  "caption": "Principle Nº 231: Decomposed Tasks\n\nBreak projects into micro-actions. 'I don't know where to start' is almost never a motivation problem, it's a sizing problem.\n\nAsk yourself: What goal feels stuck because the next step isn't small enough?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

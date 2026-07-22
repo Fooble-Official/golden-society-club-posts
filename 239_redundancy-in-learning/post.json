@@ -1,0 +1,85 @@
+{
+  "order": 239,
+  "day": 239,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "239",
+  "title": "Redundancy in Learning",
+  "slug": "redundancy-in-learning",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Multiple methods to encode knowledge.",
+    "question": "What did you learn this week that you haven't reinforced through a second mode?",
+    "equation": "Retention ∝ Modes of Engagement",
+    "mental_model": "Brick + steel house.",
+    "business_lens": "Manual + demos + quizzes.",
+    "life_lens": "Read + cook + explain.",
+    "sop": [
+      "Consume the material once, in your preferred mode (reading, watching, listening)",
+      "Reinforce through a second mode within 24 hours, writing a summary, explaining it out loud, applying it",
+      "Rate how many distinct modes you've used for this piece of knowledge (see calculation, page 6)",
+      "Keep a 'teaching list,' topics you'll explain to someone else within the week",
+      "Revisit anything you can't yet explain simply; that's the sign it hasn't stuck"
+    ],
+    "explainer": "Reading something once creates recognition, not retention, you'll nod along if you see it again, but you probably can't produce it from scratch when you actually need it. Each additional mode of engagement (writing it, saying it, using it) forces a different kind of retrieval, and that's what actually builds durable, usable knowledge instead of a vague sense of familiarity.",
+    "questions": [
+      "What did you learn this week that you haven't reinforced through a second mode?",
+      "Could you teach what you learned this week out loud to someone else right now, or would you get stuck halfway through?",
+      "What's something you've read multiple times but never actually tried to apply, write about, or explain?"
+    ],
+    "definitions": [],
+    "equation_example": "Modes of Engagement: count how many distinct ways you've encoded the material, read (1), summarized in writing (2), explained out loud (3), applied it (4). At 1 mode, retention is fragile and fades fast. At 4 modes, retention is durable and recallable weeks later. More modes means knowledge survives contact with time; a single mode means it's likely gone within days.",
+    "closing_statement": "Being able to recall something beats merely recognizing it."
+  },
+  "caption": "Principle Nº 239: Redundancy in Learning\n\nMultiple methods to encode knowledge. Reading something once creates recognition, not retention, you'll nod along if you see it again, but you probably can't produce it from scratch when you actually need it.\n\nAsk yourself: What did you learn this week that you haven't reinforced through a second mode?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

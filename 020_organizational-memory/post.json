@@ -1,0 +1,90 @@
+{
+  "order": 20,
+  "day": 20,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "20",
+  "title": "Organizational Memory",
+  "slug": "organizational-memory",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Knowledge must survive people.",
+    "question": "What critical business knowledge lives only in your head? How do you write it down this month?",
+    "equation": "OMS = (Quality × Retrieval × Reuse) ÷ Loss",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the 5 pieces of knowledge that would hurt most if the person holding them left tomorrow.",
+      "Pick one per week and turn it into a doc, video, or SOP that anyone on the team can find.",
+      "Put all documentation in one searchable place, not scattered across DMs, notebooks, and memory.",
+      "Rate Quality, Retrieval, and Reuse 1-10, and rate Loss 1-10 based on how much knowledge currently lives only in someone's head (see calculation, page 6)",
+      "Test retrieval by asking a new hire to find the answer to a real question using only your docs."
+    ],
+    "explainer": "If a person leaving takes institutional knowledge with them, you have a memory leak. Write it down.",
+    "questions": [
+      "What critical business knowledge lives only in your head? How do you write it down this month?",
+      "If your best employee quit tomorrow with no notice, what would you lose that isn't written down anywhere?",
+      "How long does it take a new hire to find the answer to a question you could answer instantly?"
+    ],
+    "definitions": [
+      {
+        "term": "SOP",
+        "def": "Standard Operating Procedure."
+      }
+    ],
+    "equation_example": "Rate Quality, Retrieval, and Reuse 1-10 each, then rate Loss 1-10. Quality 8, Retrieval 6, Reuse 7, Loss 4 → OMS = (8×6×7)/4 = 84. Higher OMS means knowledge survives people leaving; lower means you're one resignation away from losing critical know-how.",
+    "closing_statement": "Knowledge only in your head is a liability."
+  },
+  "caption": "Principle Nº 20: Organizational Memory\n\nKnowledge must survive people. If a person leaving takes institutional knowledge with them, you have a memory leak.\n\nAsk yourself: What critical business knowledge lives only in your head? How do you write it down this month?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

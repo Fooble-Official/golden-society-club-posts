@@ -1,0 +1,85 @@
+{
+  "order": 216,
+  "day": 216,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "216",
+  "title": "Health-First Systems",
+  "slug": "health-first-systems",
+  "category": "Performance & Rest",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Regulate nervous system before tasks.",
+    "question": "What's your pre-stress regulation habit, or do you only cope after?",
+    "equation": "Function = f(Nervous System Balance)",
+    "mental_model": "Warm up engine.",
+    "business_lens": "Start meetings with grounding.",
+    "life_lens": "10-min walk, meditation.",
+    "sop": [
+      "Build one daily bottom-up regulation habit, breathwork, cold exposure, movement, before you open email or start work",
+      "Do a 60-second body check before any high-stakes task: breath rate, jaw tension, shoulders",
+      "Rate your nervous system state 1-10 before starting your top priority for the day (see calculation, page 6)",
+      "Use a quick reset (a few slow breaths, a short walk) the moment you notice a stress spike",
+      "Track which regulation habit actually moves the needle for you, and drop the ones that don't"
+    ],
+    "explainer": "Your capacity to think clearly, decide well, and execute isn't separate from your physical state, it runs through it. A dysregulated nervous system doesn't just feel bad, it measurably narrows attention and worsens judgment, which is why the highest-leverage move before a hard task is often not more strategy but ninety seconds of regulation first.",
+    "questions": [
+      "What's your pre-stress regulation habit, or do you only cope after?",
+      "How much of your work output today happened while your body was actually in a stressed state, and did you notice while it was happening?",
+      "What's the first physical sign your nervous system gives you before a bad decision, and do you act on it or override it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate your regulation 1-10 before a task. At a 3 (dysregulated), decision quality and output noticeably drop. At an 8 (regulated), the same task gets done faster with fewer errors. Higher balance means clearer function; lower balance means your capacity is there but hard to access.",
+    "closing_statement": "A calm nervous system outperforms a motivated one."
+  },
+  "caption": "Principle Nº 216: Health-First Systems\n\nRegulate nervous system before tasks. Your capacity to think clearly, decide well, and execute isn't separate from your physical state, it runs through it.\n\nAsk yourself: What's your pre-stress regulation habit, or do you only cope after?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 148,
+  "day": 148,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "148",
+  "title": "Drift Correction",
+  "slug": "drift-correction",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Everything drifts, correction required.",
+    "question": "What's your weekly reset ritual? Do you do it?",
+    "equation": "Correction = Deviation × Frequency",
+    "mental_model": "Boat.",
+    "business_lens": "Re-align weekly.",
+    "life_lens": "Reset standards.",
+    "sop": [
+      "Write down the original standard for one key process (response time, output quality, pricing discipline).",
+      "Rate your current Deviation 1-10 from that original standard (see calculation, page 5)",
+      "Set your correction Frequency, weekly for fast-moving areas, monthly for slower ones (see calculation, page 5)",
+      "Realign the process back to standard at every scheduled check, even by a small amount.",
+      "Track whether Deviation is shrinking or growing over time, if it's growing, increase Frequency."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's your weekly reset ritual? Do you do it?",
+      "What standard did you quietly lower this month without deciding to?",
+      "How would you know if a system had drifted if you never compared it back to the original?"
+    ],
+    "definitions": [],
+    "equation_example": "Deviation equals 6 (1-10, how far off your original standard you currently are), Frequency equals 4 (corrections made per month). Correction equals 24 correction-points applied. Higher/rising means you're actively catching and closing gaps as they appear. Lower/falling means drift is accumulating faster than you're addressing it.",
+    "closing_statement": "A standard you never re-check has already started slipping."
+  },
+  "caption": "Principle Nº 148: Drift Correction\n\nEverything drifts, correction required.\n\nAsk yourself: What's your weekly reset ritual? Do you do it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 84,
+  "day": 84,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "84",
+  "title": "Behavioral Dead Zones",
+  "slug": "behavioral-dead-zones",
+  "category": "User Behavior & Retention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Users drop when effort exceeds perceived value.",
+    "question": "Where in your business's flow do users pause or quit? Have you actually watched users go through it?",
+    "equation": "BDZ = Drop-Off Rate × Step Effort × Ambiguity",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Map every step a new customer takes from first contact to completed purchase or signup.",
+      "Calculate the Drop-Off Rate percentage at each step (see calculation, page 5).",
+      "Rate Step Effort 1-10, how much work or time that step takes (see calculation, page 5).",
+      "Rate Ambiguity 1-10, how unclear that step is about what to do next (see calculation, page 5).",
+      "Multiply Drop-Off Rate, Step Effort, and Ambiguity for each step (see calculation, page 5), and fix whichever step scores highest by watching 5 real people go through it."
+    ],
+    "explainer": "Watch five real users. You'll find the dead zones you couldn't imagine from inside the building.",
+    "questions": [
+      "Where in your business's flow do users pause or quit? Have you actually watched users go through it?",
+      "Which step in your process would you personally get frustrated with if you were a first-time customer doing it cold?",
+      "Is there a step in your process where you've assumed it's obvious, but never actually confirmed that with a real customer?"
+    ],
+    "definitions": [],
+    "equation_example": "Drop-Off Rate 25%, Step Effort rated 7 out of 10, Ambiguity rated 6 out of 10. 0.25 times 7 times 6 equals 10.5. Higher means that step is a real dead zone costing you customers. Lower means people move through that step without much friction or confusion.",
+    "closing_statement": "Watching real users reveals friction you can't imagine."
+  },
+  "caption": "Principle Nº 84: Behavioral Dead Zones\n\nUsers drop when effort exceeds perceived value. Watch five real users.\n\nAsk yourself: Where in your business's flow do users pause or quit? Have you actually watched users go through it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

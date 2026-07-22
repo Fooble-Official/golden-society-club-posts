@@ -1,0 +1,85 @@
+{
+  "order": 240,
+  "day": 240,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "240",
+  "title": "Most Valuable Thing",
+  "slug": "most-valuable-thing",
+  "category": "Value Proposition",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The fastest way to simplify a business is to ask what the most valuable thing in the list is and organize around that.",
+    "question": "What is the most valuable thing in this list to you?",
+    "equation": "Strategic Clarity = Highest Value × Focus × Elimination",
+    "mental_model": "Gold pan: shake away the noise until the highest-value piece remains.",
+    "business_lens": "Use this before building offers, features, campaigns, dashboards, or partnerships so the business does not become bloated with low-value work.",
+    "life_lens": "Use this to stop overwhelming yourself with everything you could do and identify the one thing that actually matters most.",
+    "sop": [
+      "Write the full list of options, features, tasks, or stakeholder needs",
+      "Ask the person: 'What is the most valuable thing in this list to you?'",
+      "Rank the list by what creates the most value, trust, revenue, retention, or relief (see calculation, page 6)",
+      "Put the highest-value item at the center of the strategy",
+      "Delay, delegate, simplify, or delete the lower-value items"
+    ],
+    "explainer": "This question forces prioritization before execution. A list can feel productive, but lists often hide the fact that some items matter ten times more than others. The exact question matters because it makes the other person choose instead of vaguely approving everything. You are not asking what they like, what sounds interesting, or what they might use someday. You are asking what they value most. That answer tells you where to focus the business, the offer, the pitch, or the product. It also protects you from building five \"nice\" things while ignoring the one thing that would actually make someone say yes.",
+    "questions": [
+      "What is the most valuable thing in this list to you?",
+      "The last time you built something without asking this, how do you know it actually mattered to the person it was for?",
+      "If you had to defend cutting everything except the top answer, what would you lose, and would anyone actually miss it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Highest Value item scored 9, Focus 8 (how narrowly you're committing), Elimination 7 (how much lower-value stuff you actually cut). Strategic Clarity = 9 times 8 times 7 = 504. Higher score means the whole strategy is organized around what actually matters; a low score on any one factor (especially Elimination near zero) collapses the clarity even if the top item is genuinely valuable.",
+    "closing_statement": "Not every item on the list deserves equal weight."
+  },
+  "caption": "Principle Nº 240: Most Valuable Thing\n\nThe fastest way to simplify a business is to ask what the most valuable thing in the list is and organize around that. This question forces prioritization before execution.\n\nAsk yourself: What is the most valuable thing in this list to you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

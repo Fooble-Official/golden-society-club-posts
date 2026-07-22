@@ -1,0 +1,90 @@
+{
+  "order": 76,
+  "day": 76,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "76",
+  "title": "Chicken-and-Egg Bypass Design",
+  "slug": "chicken-and-egg-bypass-design",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Early-stage networks require artificial liquidity.",
+    "question": "What artificial or manual moves will you make pre-launch to make your business feel alive from day one?",
+    "equation": "CEB = (Synthetic Liquidity × Experience Quality) ÷ Cost of Support",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List the manual or unscalable moves you could make to simulate activity before real supply or demand exists.",
+      "Rate the Synthetic Liquidity 1-10, how convincingly those moves create the feeling of an active market (see calculation, page 6).",
+      "Rate the Experience Quality 1-10, whether early users get a genuinely good experience, not just a busy-looking one (see calculation, page 6).",
+      "Rate the Cost of Support 1-10, how expensive or time-consuming those manual moves are to sustain (see calculation, page 6).",
+      "Divide the product of Synthetic Liquidity and Experience Quality by Cost of Support and commit to your manual bootstrap only as long as the ratio stays favorable."
+    ],
+    "explainer": "Every great marketplace faked it before it made it. The trick is the fake feels real to the first user.",
+    "questions": [
+      "What artificial or manual moves will you make pre-launch to make your business feel alive from day one?",
+      "If your first 20 users showed up today, would there be enough real activity for them to see, or would it look empty?",
+      "What are you personally willing to do manually, deliver it yourself, fake the supply, seed the reviews, to make the first experience feel real?"
+    ],
+    "definitions": [
+      {
+        "term": "Cold start",
+        "def": "The problem of getting a marketplace started when neither side will join until the other side is there."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Synthetic Liquidity 7, Experience Quality 8. 7 times 8 equals 56, divided by Cost of Support 5 equals 11.2. Higher means your manual bootstrap creates a real, good experience without draining you. Lower means you're either faking it unconvincingly or burning yourself out to keep the illusion alive.",
+    "closing_statement": "Early momentum can be manufactured and still feel real."
+  },
+  "caption": "Principle Nº 76: Chicken-and-Egg Bypass Design\n\nEarly-stage networks require artificial liquidity. Every great marketplace faked it before it made it.\n\nAsk yourself: What artificial or manual moves will you make pre-launch to make your business feel alive from day one?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

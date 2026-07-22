@@ -1,0 +1,90 @@
+{
+  "order": 196,
+  "day": 196,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "196",
+  "title": "Habit Loop Architecture",
+  "slug": "habit-loop-architecture",
+  "category": "Behavioral Design",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Behavior repeats via cue → action → reward.",
+    "question": "Which habit are you trying to build without a clear cue or reward?",
+    "equation": "Strength ∝ Cue × Reward",
+    "mental_model": "Pavlov.",
+    "business_lens": "Stand-up at 9am; celebrate wins.",
+    "life_lens": "Stretch after alarm.",
+    "sop": [
+      "Identify the cue that currently triggers the habit you want to change or build.",
+      "Make the desired action as small as physically possible, smaller than feels necessary.",
+      "Attach an immediate reward to the new action, not a delayed one, your brain needs to feel it now.",
+      "Rate Cue clarity and Reward strength, 1-10 each (see calculation, page 6), and strengthen whichever is weaker.",
+      "Repeat in the exact same context for at least 2 weeks before increasing difficulty."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which habit are you trying to build without a clear cue or reward?",
+      "What's the actual reward your brain gets right now from the habit you're trying to replace, and does your new habit offer anything close?",
+      "If someone watched your day, could they point to the exact moment that triggers your worst habit?"
+    ],
+    "definitions": [
+      {
+        "term": "Habit loop",
+        "def": "Trigger, action, reward."
+      }
+    ],
+    "equation_example": "Rate each 1-10: Cue (how clear and consistent the trigger is), Reward (how satisfying and immediate the payoff is). Cue 8 times Reward 7 equals 56. Higher means the habit is reinforcing itself automatically; lower means it needs willpower to repeat because the loop isn't actually closing.",
+    "closing_statement": "No reward, no repeat, the loop needs both ends."
+  },
+  "caption": "Principle Nº 196: Habit Loop Architecture\n\nBehavior repeats via cue → action → reward.\n\nAsk yourself: Which habit are you trying to build without a clear cue or reward?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

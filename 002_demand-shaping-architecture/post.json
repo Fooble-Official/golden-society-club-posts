@@ -1,0 +1,79 @@
+{
+  "order": 2,
+  "day": 2,
+  "cta_type": "follow_only",
+  "cover_type": "photo",
+  "principle_number": "2",
+  "title": "Demand-Shaping Architecture",
+  "slug": "demand-shaping-architecture",
+  "category": "Strategy & Market Perception",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Markets are created before they are captured.",
+    "question": "What is the belief you need your market to hold BEFORE they'll adopt your business?",
+    "equation": "DSA = (Education Reach × Curiosity Lift × Engagement) ÷ Time to Understanding",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Write the one belief a stranger needs before your product makes sense",
+      "Create one piece of content that plants that belief, not that sells the product",
+      "Measure how many people who saw it later converted",
+      "Double down on whichever format shifted belief fastest"
+    ],
+    "explainer": "If the customer doesn't already believe the category exists, you spend your first year selling education, not product. Shape demand first.",
+    "questions": [
+      "What is the belief you need your market to hold BEFORE they'll adopt your business?",
+      "What would a stranger have to already believe is possible before your product even makes sense to them?",
+      "Is this month's marketing budget educating the market, or converting people who already get it?"
+    ],
+    "equation_example": "Education Reach 500 people, Curiosity Lift 40%, Engagement 25%, divided by Time to Understanding 3 minutes = 1,666. There's no fixed ceiling, track it weekly: a rising number means your category education is compounding. Flat or falling means people still don't get it.",
+    "definitions": [],
+    "closing_statement": "Teach the belief. The sale follows."
+  },
+  "caption": "Principle Nº 2: Demand-Shaping Architecture\n\nMarkets are created before they are captured. If the customer doesn't already believe the category exists, you spend your first year selling education, not product.\n\nAsk yourself: What is the belief you need your market to hold BEFORE they'll adopt your business?\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

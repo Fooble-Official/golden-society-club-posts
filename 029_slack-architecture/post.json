@@ -1,0 +1,80 @@
+{
+  "order": 29,
+  "day": 29,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "29",
+  "title": "Slack Architecture",
+  "slug": "slack-architecture",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Resilience requires spare capacity.",
+    "question": "Where does your business have zero slack? What would happen if one key thing broke tomorrow?",
+    "equation": "SA = (Reserve + Cash + Time + Talent + Supplier Redundancy) ÷ Operational Load",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your critical dependencies, key supplier, key platform, key person, and rate how much backup each has.",
+      "Calculate your cash runway in days or weeks if revenue stopped tomorrow.",
+      "For your single point of least redundancy, identify one backup option (second supplier, cross-trained employee, backup platform) and start setting it up.",
+      "Rate Reserve, Cash, Time, and Talent 1-10 each, plus Supplier Redundancy 1-10, and rate Operational Load 1-10 (see calculation, page 5)",
+      "Re-check slack quarterly, growth quietly eats reserves if you don't watch it."
+    ],
+    "explainer": "Slack looks wasteful until the moment you need it. Then it's the only thing that saves you.",
+    "questions": [
+      "Where does your business have zero slack? What would happen if one key thing broke tomorrow?",
+      "How many days could you operate if your top supplier or platform disappeared without warning?",
+      "Which team member, if they got sick for two weeks, would stop something critical from happening?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Reserve, Cash, Time, Talent, and Supplier Redundancy 1-10 each, then rate Operational Load 1-10. Reserve 6, Cash 7, Time 5, Talent 6, Supplier Redundancy 4, sum 28, Operational Load 7 → SA = 28 ÷ 7 = 4. Higher SA means you have real buffer if something breaks; lower means you're running too tight to absorb a shock.",
+    "closing_statement": "Build reserves before you need them, not after."
+  },
+  "caption": "Principle Nº 29: Slack Architecture\n\nResilience requires spare capacity. Slack looks wasteful until the moment you need it.\n\nAsk yourself: Where does your business have zero slack? What would happen if one key thing broke tomorrow?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 44,
+  "day": 44,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "44",
+  "title": "Tail-Risk Operating Plans",
+  "slug": "tail-risk-operating-plans",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Low-probability events deserve preparation when the downside is severe enough.",
+    "question": "What's your business's worst-case 6-month scenario? Do you have a 1-page plan for it?",
+    "equation": "TROP = Σ(Probability × Impact × Unpreparedness)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your 3 worst-case, low-probability scenarios (major lawsuit, key platform ban, key person leaving, fraud, disaster).",
+      "For each, rate how catastrophic it would be if it happened, regardless of how unlikely it feels.",
+      "Write a 1-page response plan for your single worst scenario: first 24 hours, first week, who's responsible.",
+      "Rate Probability, Impact, and Unpreparedness 1-10 for your worst-case scenario (see calculation, page 6)",
+      "Share the plan with your key team members now, not after the event happens."
+    ],
+    "explainer": "Probability × impact underweights ruin. If a 5% risk ends the company, treat it like a 50% risk.",
+    "questions": [
+      "What's your business's worst-case 6-month scenario? Do you have a 1-page plan for it?",
+      "Which low-probability event would end the business outright if it happened, not just hurt it?",
+      "If your worst-case scenario happened tomorrow, would your team know the plan, or would you be improvising live?"
+    ],
+    "definitions": [
+      {
+        "term": "Tail risk",
+        "def": "Low-probability events with severe impact."
+      }
+    ],
+    "equation_example": "Rate Probability, Impact, and Unpreparedness 1-10 each for your worst-case scenario. Probability 2, Impact 10, Unpreparedness 8 → TROP = 2×10×8 = 160 out of a possible 1,000. Higher TROP means a rare event could still do catastrophic damage because you're not ready; lower means either the risk is smaller or you're already prepared for it.",
+    "closing_statement": "Treat a 5% risk of ruin like it's 50%."
+  },
+  "caption": "Principle Nº 44: Tail-Risk Operating Plans\n\nLow-probability events deserve preparation when the downside is severe enough. Probability × impact underweights ruin.\n\nAsk yourself: What's your business's worst-case 6-month scenario? Do you have a 1-page plan for it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

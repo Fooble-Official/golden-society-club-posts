@@ -1,0 +1,90 @@
+{
+  "order": 43,
+  "day": 43,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "43",
+  "title": "Single-Point-of-Failure Inventory",
+  "slug": "single-point-of-failure-inventory",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "What cannot fail safely is a hidden existential risk.",
+    "question": "Name your business's top 3 single points of failure. What's your mitigation for each?",
+    "equation": "SPF = Σ(Criticality × Concentration × Recovery Difficulty × Time-to-Recover)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every person, platform, supplier, or customer that, if it disappeared tomorrow, would stop something critical.",
+      "Rank them by how hard and how long recovery would take.",
+      "For your top single point of failure, build one real backup this month, not just a plan to build one someday.",
+      "Rate Criticality, Concentration, Recovery Difficulty, and Time-to-Recover 1-10 for your top risk (see calculation, page 6)",
+      "Re-run the inventory every 6 months, new single points of failure appear as you grow, a new key hire, a new dominant platform."
+    ],
+    "explainer": "SPoFs are the risks you pretend aren't there. Listing them is 80% of the work.",
+    "questions": [
+      "Name your business's top 3 single points of failure. What's your mitigation for each?",
+      "If your top customer, supplier, or platform vanished tomorrow, how many days before it actually hurt?",
+      "Which single point of failure have you known about for months but haven't actually fixed?"
+    ],
+    "definitions": [
+      {
+        "term": "Single point of failure",
+        "def": "One thing whose breakage would stop everything."
+      }
+    ],
+    "equation_example": "Rate Criticality, Concentration, Recovery Difficulty, and Time-to-Recover 1-10 each for your top risk. Criticality 9, Concentration 8, Recovery Difficulty 7, Time-to-Recover 6 → SPF = 9×8×7×6 = 3,024 out of a possible 10,000. Higher SPF means that single point of failure could genuinely end the business; lower means you'd feel it but survive it.",
+    "closing_statement": "A backup you haven't built yet isn't a backup."
+  },
+  "caption": "Principle Nº 43: Single-Point-of-Failure Inventory\n\nWhat cannot fail safely is a hidden existential risk. SPoFs are the risks you pretend aren't there.\n\nAsk yourself: Name your business's top 3 single points of failure. What's your mitigation for each?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

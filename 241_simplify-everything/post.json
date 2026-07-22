@@ -1,0 +1,85 @@
+{
+  "order": 241,
+  "day": 241,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "241",
+  "title": "Simplify Everything",
+  "slug": "simplify-everything",
+  "category": "Stakeholder Strategy",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A business becomes easier to scale when it clearly understands what each core stakeholder wants.",
+    "question": "Have you actually asked your suppliers, partners, and customers what they want, or are you still guessing on their behalf?",
+    "equation": "Marketplace Value = Supplier Desire × Partner Desire × Customer Desire",
+    "mental_model": "Three clean windows, each stakeholder sees the business through a different need.",
+    "business_lens": "Ask what your suppliers want, what your partners want, and what your customers want before creating features, offers, campaigns, or partnerships.",
+    "life_lens": "When serving multiple people, stop assuming everyone wants the same outcome. Clarify what each person actually values.",
+    "sop": [
+      "Identify the core stakeholder group you are speaking to",
+      "Ask the person directly what they want",
+      "Separate nice-to-have desires from must-have desires",
+      "Compare the answers across suppliers, partners, and customers",
+      "Build the offer around the overlap between stakeholder needs"
+    ],
+    "explainer": "Simplify Everything means reducing the business to the real desires of the people involved. In a marketplace or network business, different stakeholders join for different reasons. Suppliers may want new customers, repeat business, visibility, and low-risk promotion. Partners may want status, access, income, community, and something worth sharing. Customers may want savings, discovery, belonging, and a better everyday experience. But you should not only guess. You ask them directly: \"What do you want?\" Then you look for the overlap where the business can serve all sides without becoming bloated.",
+    "questions": [
+      "Have you actually asked your suppliers, partners, and customers what they want, or are you still guessing on their behalf?",
+      "Where are you building one feature to please three different stakeholder groups, when their actual desires don't even overlap?",
+      "If your top customer, your top partner, and your top supplier each answered honestly, whose 'want' would surprise you most?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10 (based on how clearly identified and strong the desire is). Supplier Desire 7, Partner Desire 6, Customer Desire 8. Marketplace Value = 7 times 6 times 8 = 336. Higher score means all three sides have a clear, strong reason to stay; if any one factor drops toward zero, say a stakeholder group has no real desire to engage, the whole marketplace value collapses, even if the other two are strong.",
+    "closing_statement": "One group's guess about another's wants is still a guess."
+  },
+  "caption": "Principle Nº 241: Simplify Everything\n\nA business becomes easier to scale when it clearly understands what each core stakeholder wants. Simplify Everything means reducing the business to the real desires of the people involved.\n\nAsk yourself: Have you actually asked your suppliers, partners, and customers what they want, or are you still guessing on their behalf?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,95 @@
+{
+  "order": 277,
+  "day": 277,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "277",
+  "title": "20-Mile March",
+  "slug": "20-mile-march",
+  "category": "Discipline",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Hit consistent performance targets in good times and bad.",
+    "question": "What is your non-negotiable monthly minimum, and have you hit it every month this year?",
+    "equation": "Long-term Output = Daily Floor × Consistency × Years",
+    "mental_model": "Daily march through any weather, pace beats heroics.",
+    "business_lens": "Set a quantifiable monthly minimum (revenue, output, learning) and never miss it; cap the upside to avoid burnout.",
+    "life_lens": "Build a daily minimum you hit on great days and bad days alike.",
+    "sop": [
+      "Define a quantifiable target per period",
+      "Commit to never miss the floor",
+      "Cap heroic over-performance to protect sustainability",
+      "Track weekly",
+      "Review pace, not peaks"
+    ],
+    "explainer": "Amundsen reached the South Pole by marching 15–20 miles daily regardless of weather; Scott raced when sunny and rested when bad and lost the race and his life. Disciplined pace beats sporadic intensity in long-horizon games.",
+    "questions": [
+      "What is your non-negotiable monthly minimum, and have you hit it every month this year?",
+      "What would you have to say no to on your best month to protect the pace on your worst?",
+      "Which of the last 12 months did you miss your floor, and what caused it?"
+    ],
+    "definitions": [
+      {
+        "term": "20-Mile March",
+        "def": "A discipline of hitting a consistent, predefined performance floor in both good conditions and bad, rather than sprinting when times are easy and stalling when they're hard."
+      }
+    ],
+    "equation_example": "Daily Floor: $500 per day minimum revenue. Consistency: 95% of days the floor was hit. Years: 5 years sustained. Rising Consistency and more Years compounding means durable, predictable growth. Falling Consistency, hitting the floor only in good months, means you're relying on heroics instead of a system.",
+    "closing_statement": "Pace beats heroics over a long horizon."
+  },
+  "caption": "Principle Nº 277: 20-Mile March\n\nHit consistent performance targets in good times and bad. Amundsen reached the South Pole by marching 15–20 miles daily regardless of weather; Scott raced when sunny and rested when bad and lost the race and his life.\n\nAsk yourself: What is your non-negotiable monthly minimum, and have you hit it every month this year?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

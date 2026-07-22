@@ -1,0 +1,85 @@
+{
+  "order": 219,
+  "day": 219,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "219",
+  "title": "Decision Matrix",
+  "slug": "decision-matrix",
+  "category": "Performance & Rest",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Structured criteria for complex choices.",
+    "question": "What big decision should you run through a matrix instead of vibes?",
+    "equation": "Score = Σ(Weight × Rating)",
+    "mental_model": "Judges' scorecard.",
+    "business_lens": "Weighted criteria for hires.",
+    "life_lens": "Factors + weights.",
+    "sop": [
+      "List every option you're actually considering, side by side",
+      "Define the 4-6 factors that matter most, and assign each a weight (see calculation, page 6)",
+      "Rate every option against every factor (see calculation, page 6)",
+      "Multiply weight by rating per factor and total the score for each option (see calculation, page 6)",
+      "Compare the winning score against your gut reaction, if they clash, dig into why before deciding"
+    ],
+    "explainer": "Gut feeling isn't wrong so much as it's unweighted, it lets whichever factor is loudest in the moment (price, excitement, fear) dominate the decision, even when that factor isn't actually the one that matters most to you. A matrix doesn't remove judgment; it forces you to state your weights honestly before the options bias them.",
+    "questions": [
+      "What big decision should you run through a matrix instead of vibes?",
+      "The last big decision you made on gut feeling alone, if you'd scored it against your actual priorities, would the answer have changed?",
+      "What criteria are you weighing equally right now that clearly shouldn't carry equal weight?"
+    ],
+    "definitions": [],
+    "equation_example": "Weight times Rating per factor, summed. Factor A (weight 3) rated 8 = 24. Factor B (weight 2) rated 5 = 10. Factor C (weight 1) rated 9 = 9. Score = 24 plus 10 plus 9 = 43. Higher total score means the option best matches what you actually said matters; a low score means it looks appealing but scores poorly against your real priorities.",
+    "closing_statement": "A weighted score catches what gut feeling misses."
+  },
+  "caption": "Principle Nº 219: Decision Matrix\n\nStructured criteria for complex choices. Gut feeling isn't wrong so much as it's unweighted, it lets whichever factor is loudest in the moment (price, excitement, fear) dominate the decision, even when that factor isn't actually the one that matters most to you.\n\nAsk yourself: What big decision should you run through a matrix instead of vibes?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

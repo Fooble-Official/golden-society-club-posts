@@ -1,0 +1,85 @@
+{
+  "order": 251,
+  "day": 251,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "251",
+  "title": "Universal Front Door",
+  "slug": "universal-front-door",
+  "category": "Offer Strategy",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A business grows faster when it has one clear, high-value entry offer that attracts the right people into the ecosystem.",
+    "question": "What is the one obvious first step people should take with your business?",
+    "equation": "Customer Entry = Clear Offer × Low Friction × High Perceived Value",
+    "mental_model": "Welcoming front door, everyone knows where to enter.",
+    "business_lens": "Create one obvious first step that leads customers into the larger business model.",
+    "life_lens": "Make it easy for the right people to understand how to work with you, support you, or join your world.",
+    "sop": [
+      "Identify your ideal customer's easiest first yes",
+      "Make the entry offer valuable and low-friction",
+      "Connect the entry offer to your deeper paid offers",
+      "Track conversion from entry to next step",
+      "Improve the front door before adding more entrances"
+    ],
+    "explainer": "The Universal Front Door is the main way people enter your business. It could be a free trial, a low-cost offer, a diagnostic call, a waitlist, a template, a sample, or a simple starter product. Mailchimp’s free first contacts offer is an example of a front door that made the product easy to try.",
+    "questions": [
+      "What is the one obvious first step people should take with your business?",
+      "If a stranger found you today, what's the easiest yes you could offer them in the next five minutes?",
+      "Which of your current offers are actually competing with each other for that first-step spot?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Clear Offer 8, Low Friction 9, High Perceived Value 6. Score = 8 times 9 times 6 = 432 out of a possible 1,000. Higher means strangers convert into your ecosystem almost automatically. Lower means people bounce before they ever experience your value.",
+    "closing_statement": "Make the first yes effortless."
+  },
+  "caption": "Principle Nº 251: Universal Front Door\n\nA business grows faster when it has one clear, high-value entry offer that attracts the right people into the ecosystem. The Universal Front Door is the main way people enter your business.\n\nAsk yourself: What is the one obvious first step people should take with your business?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

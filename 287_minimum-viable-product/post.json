@@ -1,0 +1,85 @@
+{
+  "order": 287,
+  "day": 287,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "287",
+  "title": "Minimum Viable Product",
+  "slug": "minimum-viable-product",
+  "category": "Lean Startup",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Ship the smallest version that lets you start the Build-Measure-Learn loop.",
+    "question": "What is the smallest thing I could ship this week that would tell me whether the riskiest assumption is true?",
+    "equation": "Learning Speed = (Hypothesis Tested ÷ Time-to-Build)",
+    "mental_model": "Scout sent ahead to learn, not to win the war.",
+    "business_lens": "Define the riskiest hypothesis; build the smallest thing that tests it; release; measure; decide.",
+    "life_lens": "Run small cheap experiments before committing to a big plan.",
+    "sop": [
+      "Identify the riskiest customer or business hypothesis",
+      "Define what data would falsify it",
+      "Build the smallest thing that produces that data",
+      "Release to real users",
+      "Decide pivot or persevere from the data"
+    ],
+    "explainer": "Zappos started by photographing shoes at local stores and listing them online without holding inventory. The MVP tested whether anyone would buy shoes online before building logistics. The MVP is not a small product, it is the smallest learning instrument.",
+    "questions": [
+      "What is the smallest thing I could ship this week that would tell me whether the riskiest assumption is true?",
+      "If your MVP succeeded exactly as planned, what would you actually learn about the risky assumption, versus just proof people will click 'buy'?",
+      "What are you still building this month that isn't testing anything, just delaying the moment you find out you're wrong?"
+    ],
+    "definitions": [],
+    "equation_example": "Hypotheses tested: 3 (count). Time-to-build: 6 weeks. Learning Speed = 3 divided by 6 equals 0.5 hypotheses tested per week. Higher/rising means you're converting build time into real learning fast; lower/falling means you're spending weeks building without extracting a testable insight.",
+    "closing_statement": "Learning is the product, not the shipped feature."
+  },
+  "caption": "Principle Nº 287: Minimum Viable Product\n\nShip the smallest version that lets you start the Build-Measure-Learn loop. Zappos started by photographing shoes at local stores and listing them online without holding inventory.\n\nAsk yourself: What is the smallest thing I could ship this week that would tell me whether the riskiest assumption is true?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

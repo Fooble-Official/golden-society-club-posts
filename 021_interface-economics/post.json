@@ -1,0 +1,80 @@
+{
+  "order": 21,
+  "day": 21,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "21",
+  "title": "Interface Economics",
+  "slug": "interface-economics",
+  "category": "Interfaces & Incentives",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Value is often lost at the handoff, not in the function itself.",
+    "question": "In your business's workflow, which handoff loses the most context or time? How do you compress or remove it?",
+    "equation": "IE = Value Created at Handoff - (Delay + Error + Coordination + Context Loss)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Map your workflow's handoffs and note what information typically gets lost or delayed at each one.",
+      "Pick the worst handoff and interview both sides, ask what context they wish they had going in.",
+      "Build a simple template or checklist that travels with the work so context doesn't rely on memory or a verbal recap.",
+      "Rate Value Created at Handoff, Delay, Error, Coordination, and Context Loss for your weakest handoff (see calculation, page 5)",
+      "Where possible, remove the handoff entirely by giving one person or team ownership start to finish."
+    ],
+    "explainer": "Specialized teams can each be excellent and still produce mediocrity if the seams between them are weak.",
+    "questions": [
+      "In your business's workflow, which handoff loses the most context or time? How do you compress or remove it?",
+      "What information gets lost or garbled every single time work passes from one person to the next?",
+      "Could you remove a step from your process entirely instead of just making the handoff faster?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Value Created at Handoff on a 1-100 point scale, then rate Delay, Error, Coordination, and Context Loss each on a 1-25 point scale. Value Created 80, Delay 10, Error 8, Coordination 12, Context Loss 10 → IE = 80 - (10+8+12+10) = 40. Higher IE means the handoff preserves most of the value created; lower or negative IE means the handoff is destroying more value than it passes on.",
+    "closing_statement": "Fix the seams before you fix the teams."
+  },
+  "caption": "Principle Nº 21: Interface Economics\n\nValue is often lost at the handoff, not in the function itself. Specialized teams can each be excellent and still produce mediocrity if the seams between them are weak.\n\nAsk yourself: In your business's workflow, which handoff loses the most context or time? How do you compress or remove it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

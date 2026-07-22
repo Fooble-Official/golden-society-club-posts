@@ -1,0 +1,80 @@
+{
+  "order": 95,
+  "day": 95,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "95",
+  "title": "Conversion-Friction Cartography",
+  "slug": "conversion-friction-cartography",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Conversion is the sum of micro-frictions.",
+    "question": "If you mapped every step in your signup flow, where's the single highest-leverage friction to remove?",
+    "equation": "CFC = Σ(Step Friction × Importance × Traffic Volume)",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Map every single step of your funnel from first click to purchase or signup completion, no matter how minor.",
+      "Pull step-by-step drop-off data, or run a 10-person user test, to see where people actually quit.",
+      "Rate each step's Friction (1-10) and Importance (1-10), and note Traffic Volume at that step (see calculation, page 5).",
+      "Rank steps by Friction times Importance times Traffic Volume, and fix the top 3 first.",
+      "Re-test conversion after each fix before moving to the next step, don't batch all the changes at once."
+    ],
+    "explainer": "You don't fix conversion with one big change. You kill ten tiny frictions.",
+    "questions": [
+      "If you mapped every step in your signup flow, where's the single highest-leverage friction to remove?",
+      "Which step in your funnel loses the most people relative to how little it actually accomplishes?",
+      "If you removed the top 3 friction points in your flow, would your conversion double, or is the real block somewhere else entirely?"
+    ],
+    "definitions": [],
+    "equation_example": "Step 1: Friction 3 times Importance 8 times Traffic 1,000 visitors equals 24,000. Step 2: Friction 8 times Importance 5 times Traffic 400 visitors equals 16,000. Sum equals 40,000, an index, not a percentage. Whichever step contributes the largest number to that total is your highest-leverage fix, attack it first, not the step that simply feels most annoying.",
+    "closing_statement": "Small frictions rarely feel small in aggregate."
+  },
+  "caption": "Principle Nº 95: Conversion-Friction Cartography\n\nConversion is the sum of micro-frictions. You don't fix conversion with one big change.\n\nAsk yourself: If you mapped every step in your signup flow, where's the single highest-leverage friction to remove?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

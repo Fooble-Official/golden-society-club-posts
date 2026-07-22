@@ -1,0 +1,80 @@
+{
+  "order": 198,
+  "day": 198,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "198",
+  "title": "Delegation & Automation",
+  "slug": "delegation-and-automation",
+  "category": "Behavioral Design",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Offload repetitive work.",
+    "question": "What's the most repetitive thing you're still doing manually?",
+    "equation": "Time Freed = Repetitive - Automation Cost",
+    "mental_model": "CEO doesn't mow.",
+    "business_lens": "Automate invoicing, hire VA.",
+    "life_lens": "Robot vacuum, meal kits.",
+    "sop": [
+      "List every task you did this week that you also did last week, identically.",
+      "For each, decide: automate (software can do this) or delegate (a person can do this).",
+      "Calculate Time Freed by subtracting the setup/automation cost from the repetitive hours it currently takes (see calculation, page 5).",
+      "Hand off or automate the highest Time-Freed task first, not the easiest one.",
+      "Audit quality after 2 weeks, a bad handoff undone is worse than never delegating."
+    ],
+    "explainer": "",
+    "questions": [
+      "What's the most repetitive thing you're still doing manually?",
+      "If you had to train someone else to do this task in 30 minutes, could you, or is it still living only in your head?",
+      "What's costing you more right now: the time you're spending doing it, or the discomfort of handing it off?"
+    ],
+    "definitions": [],
+    "equation_example": "Repetitive (hours/week currently spent on the task) minus Automation Cost (hours/week to set up and maintain the automation or delegation, amortized) equals Time Freed. Repetitive 6 hours minus Automation Cost 1 hour equals 5 hours/week freed. Higher Time Freed means the task was worth automating; a near-zero or negative number means the setup cost isn't worth it yet.",
+    "closing_statement": "If it repeats, it shouldn't require you anymore."
+  },
+  "caption": "Principle Nº 198: Delegation & Automation\n\nOffload repetitive work.\n\nAsk yourself: What's the most repetitive thing you're still doing manually?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

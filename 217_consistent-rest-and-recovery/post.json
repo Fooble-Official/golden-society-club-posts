@@ -1,0 +1,85 @@
+{
+  "order": 217,
+  "day": 217,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "217",
+  "title": "Consistent Rest & Recovery",
+  "slug": "consistent-rest-and-recovery",
+  "category": "Performance & Rest",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Schedule recovery like work.",
+    "question": "Are you treating rest as earned luxury, or non-negotiable input?",
+    "equation": "Performance = f(Stress × Recovery)",
+    "mental_model": "Supercomputers cool down.",
+    "business_lens": "No-meeting days.",
+    "life_lens": "Daily wind-down.",
+    "sop": [
+      "Estimate your current stress load and recovery time honestly (see calculation, page 6)",
+      "Schedule recovery blocks on the calendar the same way you'd schedule a client meeting",
+      "Pick one hard boundary, no after-hours email, one full off day, and hold it",
+      "Protect at least one full recovery cycle (a night's sleep, a weekend) from being the first thing cut when busy",
+      "Review monthly whether stress and recovery are actually in proportion, or drifting apart"
+    ],
+    "explainer": "Performance isn't just a function of how much stress you can handle, it's a function of stress relative to the recovery you've actually built in, and those two have to move together. Recovery that only happens after you've already broken down isn't the same system as recovery that's scheduled before you need it; only the second one actually protects output.",
+    "questions": [
+      "Are you treating rest as earned luxury, or non-negotiable input?",
+      "When was the last time you scheduled recovery in advance, instead of collapsing into it after you'd already run out?",
+      "If your calendar is a fair record of your priorities, how much of it is actually recovery, not just the absence of meetings?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Stress 8 (high load), Recovery 3 (low). The ratio is badly mismatched, performance degrades even though effort is high. Bring Recovery up to 7 against the same Stress of 8, and performance holds. Higher recovery relative to stress means sustained performance; a growing gap between high stress and low recovery means performance is borrowing against tomorrow.",
+    "closing_statement": "Unscheduled recovery is the first thing that gets cut."
+  },
+  "caption": "Principle Nº 217: Consistent Rest & Recovery\n\nSchedule recovery like work. Performance isn't just a function of how much stress you can handle, it's a function of stress relative to the recovery you've actually built in, and those two have to move together.\n\nAsk yourself: Are you treating rest as earned luxury, or non-negotiable input?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

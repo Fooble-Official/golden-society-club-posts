@@ -1,0 +1,95 @@
+{
+  "order": 278,
+  "day": 278,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "278",
+  "title": "Level 5 Leadership",
+  "slug": "level-5-leadership",
+  "category": "Leadership",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Combine personal humility with fierce professional will.",
+    "question": "Are you leading with personal humility and professional will, or just one?",
+    "equation": "Leadership = Humility × Will × Mission Focus",
+    "mental_model": "Quiet captain, humble in self, fierce in mission.",
+    "business_lens": "Develop leaders who give credit and take responsibility; promote people who put the mission above self-promotion.",
+    "life_lens": "Be ambitious for what you build, not for how you are seen.",
+    "sop": [
+      "In leadership criteria, weight humility and mission-focus heavily (see calculation, page 7)",
+      "In reviews, observe how leaders handle credit and blame",
+      "Coach high-ego leaders or move them aside",
+      "Promote those whose ambition serves the company",
+      "Model the behavior at the top"
+    ],
+    "explainer": "Darwin Smith at Kimberly-Clark sold the paper mills (the company’s historic core) because the future was in consumer products. He took the heat publicly and gave credit to others, building one of the strongest consumer companies in the world. Level 5 is the rarest and most underrated leadership style.",
+    "questions": [
+      "Are you leading with personal humility and professional will, or just one?",
+      "When something goes wrong on your team, is your first instinct to explain it or own it?",
+      "Who on your team deserves credit right now that you haven't given publicly yet?"
+    ],
+    "definitions": [
+      {
+        "term": "Level 5 leadership",
+        "def": "A leadership style that combines deep personal humility with intense professional will to build something larger and more durable than oneself."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Humility 6, Will 9, Mission Focus 8. Score = 6 times 9 times 8 = 432 out of a possible 1,000. Higher means the team trusts you because ambition serves the mission, not your image. Lower, especially a weak Humility score, means talented people eventually stop wanting to work for you.",
+    "closing_statement": "Ambition should serve the mission, not the ego."
+  },
+  "caption": "Principle Nº 278: Level 5 Leadership\n\nCombine personal humility with fierce professional will. Darwin Smith at Kimberly-Clark sold the paper mills (the company’s historic core) because the future was in consumer products.\n\nAsk yourself: Are you leading with personal humility and professional will, or just one?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

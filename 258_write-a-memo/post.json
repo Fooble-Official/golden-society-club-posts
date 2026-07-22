@@ -1,0 +1,85 @@
+{
+  "order": 258,
+  "day": 258,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "258",
+  "title": "Write A Memo",
+  "slug": "write-a-memo",
+  "category": "Leadership & Decision Making",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Important decisions should be written before they are discussed so everyone arrives with clarity instead of emotion or confusion.",
+    "question": "What decision in your business needs a memo before it needs another conversation?",
+    "equation": "Decision Clarity = Written Thinking × Shared Context × Reduced Ambiguity",
+    "mental_model": "Pre-flight checklist, writing forces the thinking to land before the meeting takes off.",
+    "business_lens": "Require memos for major strategic, hiring, financial, operational, and product decisions.",
+    "life_lens": "Write down important choices before reacting so you can see the real issue clearly.",
+    "sop": [
+      "Define the decision",
+      "Write the context, facts, and options",
+      "List the risks and tradeoffs",
+      "Share the memo before the meeting",
+      "Decide only after everyone has read it"
+    ],
+    "explainer": "WAFM means Write A Memo. It is a discipline for making better decisions. A memo forces people to explain what they mean, what facts they are using, what they recommend, and what risks they see. Without a memo, teams often debate fragments, emotions, or assumptions. With a memo, the conversation starts from shared context.",
+    "questions": [
+      "What decision in your business needs a memo before it needs another conversation?",
+      "How many times has the same debate resurfaced in meetings because nobody wrote down the reasoning the first time?",
+      "If you had to defend this decision in writing to a stranger, what gaps would show up in your logic?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Written Thinking 8, Shared Context 7, Reduced Ambiguity 6. Score = 8 times 7 times 6 = 336 out of a possible 1,000. Higher means the room reaches a real decision instead of restating opinions. Lower means the same debate resurfaces next quarter.",
+    "closing_statement": "Think in writing before you decide out loud."
+  },
+  "caption": "Principle Nº 258: Write A Memo\n\nImportant decisions should be written before they are discussed so everyone arrives with clarity instead of emotion or confusion. WAFM means Write A Memo.\n\nAsk yourself: What decision in your business needs a memo before it needs another conversation?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

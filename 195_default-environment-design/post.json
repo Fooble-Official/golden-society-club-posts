@@ -1,0 +1,90 @@
+{
+  "order": 195,
+  "day": 195,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "195",
+  "title": "Default Environment Design",
+  "slug": "default-environment-design",
+  "category": "Behavioral Design",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Defaults drive behavior with minimal willpower.",
+    "question": "What default in your environment is working against you?",
+    "equation": "Behavior ∝ Default Appeal ÷ Friction",
+    "mental_model": "Home is autopilot.",
+    "business_lens": "Automate tasks, bill pay.",
+    "life_lens": "Healthy meals default; junk harder to reach.",
+    "sop": [
+      "Walk through your physical and digital environment and note the path of least resistance for each habit you're trying to change.",
+      "Rate the Default Appeal and Friction for your desired behavior, 1-10 each (see calculation, page 6), how attractive is it by default, and how much effort does it take.",
+      "Remove friction from the behavior you want (pre-portion healthy food, auto-pay bills, pin the right app).",
+      "Add friction to the behavior you don't want (delete the app, move the snacks out of reach, require a manual step).",
+      "Re-check monthly, defaults erode as new conveniences and shortcuts sneak back in."
+    ],
+    "explainer": "",
+    "questions": [
+      "What default in your environment is working against you?",
+      "What's the easiest option available to you right now in your space, and is it the one you actually want to default to?",
+      "If you removed all willpower from the equation, would your environment still lead you to the right choice?"
+    ],
+    "definitions": [
+      {
+        "term": "Default",
+        "def": "The behavior that happens when no decision is made."
+      }
+    ],
+    "equation_example": "Default Appeal (rate 1-10: how attractive the default option already is) divided by Friction (rate 1-10: how much effort it takes to do) equals Behavior likelihood. Default Appeal 8 divided by Friction 2 equals 4. Higher means the environment is doing the work for you without willpower; lower means you're relying on discipline to overcome a bad default.",
+    "closing_statement": "Design the default so willpower isn't required."
+  },
+  "caption": "Principle Nº 195: Default Environment Design\n\nDefaults drive behavior with minimal willpower.\n\nAsk yourself: What default in your environment is working against you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

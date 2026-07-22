@@ -1,0 +1,90 @@
+{
+  "order": 48,
+  "day": 48,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "48",
+  "title": "Counterparty Concentration Risk",
+  "slug": "counterparty-concentration-risk",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Dependence on a few relationships makes the business more brittle than top-line revenue suggests.",
+    "question": "What percentage of your revenue or users comes from your top 5 customers or partners, and is that concentration rising or falling?",
+    "equation": "CCR = Σ(Share_i ^ 2) — Herfindahl-style",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List your top 10 customers, suppliers, or partners by revenue or volume share.",
+      "Calculate each one's share of total revenue as a percentage (see calculation, page 6).",
+      "Square each share and sum them to get your concentration index (see calculation, page 6).",
+      "If your top 1-2 relationships account for more than 40% combined, set a target to bring that below 25% within two quarters.",
+      "Add one new customer, supplier, or channel relationship each month until concentration trends down."
+    ],
+    "explainer": "Big wins feel like traction and are actually concentration. Track it. Diversify intentionally.",
+    "questions": [
+      "What percentage of your revenue or users comes from your top 5 customers or partners, and is that concentration rising or falling?",
+      "If your single biggest customer, supplier, or partner disappeared tomorrow, what percentage of your revenue goes with them?",
+      "Are you actively adding new customers or partners, or is your growth just making your biggest relationships bigger?"
+    ],
+    "definitions": [
+      {
+        "term": "Counterparty",
+        "def": "The other party in a business relationship, a customer, supplier, or partner you depend on."
+      }
+    ],
+    "equation_example": "Share 1 at 30%, Share 2 at 25%, Share 3 at 20%, Share 4 at 15%, Share 5 at 10%. Squared and summed: 0.09 plus 0.0625 plus 0.04 plus 0.0225 plus 0.01 equals 0.225 out of a possible 1.0. Higher, closer to 1, means revenue is concentrated in a few relationships, one loss could sink you. Lower, closer to 0, means revenue is spread evenly and no single relationship can hurt you badly.",
+    "closing_statement": "Diversification is insurance you buy before you need it."
+  },
+  "caption": "Principle Nº 48: Counterparty Concentration Risk\n\nDependence on a few relationships makes the business more brittle than top-line revenue suggests. Big wins feel like traction and are actually concentration.\n\nAsk yourself: What percentage of your revenue or users comes from your top 5 customers or partners, and is that concentration rising or falling?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 146,
+  "day": 146,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "146",
+  "title": "System Visibility",
+  "slug": "system-visibility",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You can't improve what you can't see.",
+    "question": "Which system are you operating blind on right now?",
+    "equation": "Control = Visibility × Understanding",
+    "mental_model": "Dashboard.",
+    "business_lens": "KPI dashboards.",
+    "life_lens": "Budgets, schedules, routines.",
+    "sop": [
+      "List the 3 core metrics that actually indicate whether your business is healthy.",
+      "Rate your current Visibility 1-10 into each, can you see the real-time number or not (see calculation, page 6)",
+      "Build a simple dashboard or tracker for anything currently invisible.",
+      "Rate your Understanding 1-10, do you actually know what a good vs bad number looks like (see calculation, page 6)",
+      "Review the dashboard on a fixed weekly cadence, not just when something feels off."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which system are you operating blind on right now?",
+      "What number about your business could you not tell someone right now without looking it up?",
+      "What decision did you make this month based on a guess instead of a number?"
+    ],
+    "definitions": [
+      {
+        "term": "KPI",
+        "def": "Key Performance Indicator, a measurable value that shows how effectively you're achieving a key business objective."
+      }
+    ],
+    "equation_example": "Rate Visibility 1-10 (how much of the system you can actually see) and Understanding 1-10 (how well you interpret what you see). Visibility 7 times Understanding 6 equals 42 out of 100. Higher means you can act accurately on what's really happening. Lower means you're either blind to the data or misreading it.",
+    "closing_statement": "A number you never check isn't managing anything."
+  },
+  "caption": "Principle Nº 146: System Visibility\n\nYou can't improve what you can't see.\n\nAsk yourself: Which system are you operating blind on right now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

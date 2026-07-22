@@ -1,0 +1,11 @@
+Principle Nº 59: Cost Elasticity Mapping
+
+Some costs scale smoothly; others explode in steps. Linear cost models lie.
+
+Ask yourself: Which of your business costs will jump in a step-function, not smoothly, when you hit 5x or 10x scale?
+
+The Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.
+
+Follow @TheGoldenSocietyClub for a new principle every day.
+
+#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance

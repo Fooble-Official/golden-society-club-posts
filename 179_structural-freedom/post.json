@@ -1,0 +1,80 @@
+{
+  "order": 179,
+  "day": 179,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "179",
+  "title": "Structural Freedom",
+  "slug": "structural-freedom",
+  "category": "Advanced Systems",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Freedom is designed, not earned.",
+    "question": "What structural change would give you the freedom you're chasing via effort?",
+    "equation": "Freedom = Automation × Alignment × Ownership",
+    "mental_model": "Build the cage you want.",
+    "business_lens": "Business structure = freedom structure.",
+    "life_lens": "Home/time/money = life freedom.",
+    "sop": [
+      "List everything that currently requires your direct, personal involvement to function.",
+      "Rate your Automation, Alignment, and Ownership each 1-10 (see calculation, page 5), automation of tasks, alignment of structure with your actual goals, ownership of the assets involved.",
+      "Pick the lowest-scoring variable and design one structural fix (a system, a hire, a contract change) rather than just working harder.",
+      "Defend that structural boundary the next time a shortcut tempts you to skip it.",
+      "Re-score quarterly, freedom decays if the structure isn't maintained."
+    ],
+    "explainer": "",
+    "questions": [
+      "What structural change would give you the freedom you're chasing via effort?",
+      "If you took a month completely off, what would break, and why does it still depend on you?",
+      "Are you designing your business's structure on purpose, or did it just accumulate by default?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Automation, Alignment, Ownership. Automation 6 times Alignment 8 times Ownership 7 equals 336. Higher means your structure produces freedom without your constant input; lower means your day-to-day still depends on you personally showing up.",
+    "closing_statement": "Design the structure instead of just working harder."
+  },
+  "caption": "Principle Nº 179: Structural Freedom\n\nFreedom is designed, not earned.\n\nAsk yourself: What structural change would give you the freedom you're chasing via effort?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

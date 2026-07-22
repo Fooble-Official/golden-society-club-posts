@@ -1,0 +1,85 @@
+{
+  "order": 307,
+  "day": 307,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "307",
+  "title": "Inversion Thinking",
+  "slug": "inversion-thinking",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Solve problems by considering their opposite first, eliminate failure modes rather than chase success.",
+    "question": "If this fails, what will the autopsy reveal, and have I addressed it now?",
+    "equation": "Decision Quality = Success Pursuit + Failure Mode Elimination",
+    "mental_model": "Pre-mortem, picture the failure, then prevent it.",
+    "business_lens": "Run pre-mortems on major bets; design features that prevent the worst customer outcomes; invert KPIs to find what to avoid.",
+    "life_lens": "Ask what would guarantee failure and remove those things first.",
+    "sop": [
+      "State the goal",
+      "Imagine the project failed",
+      "List the most likely causes of failure",
+      "Design eliminations or guardrails for each",
+      "Now pursue success knowing the failure modes are blocked"
+    ],
+    "explainer": "Munger built Berkshire by avoiding stupidity rather than chasing brilliance. Pre-mortems consistently outperform standard planning because they surface risks that optimistic reviews suppress. Inversion is one of the most underused mental tools.",
+    "questions": [
+      "If this fails, what will the autopsy reveal, and have I addressed it now?",
+      "Write down exactly how you'd guarantee your business fails this year. Are you quietly doing any item on that list right now?",
+      "If a competitor with real resources wanted you gone, what's their most effective move, and are you defended against it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Success Pursuit 8 (effort chasing the upside), Failure Mode Elimination 4 (effort blocking the specific ways this dies). Score = 8 plus 4 = 12 out of a possible 20. A high total with a low Failure Mode Elimination score means you're sprinting toward a cliff you haven't mapped; a high, balanced score on both means you're pursuing upside while guarding against how it fails.",
+    "closing_statement": "Avoiding stupidity beats chasing brilliance most days."
+  },
+  "caption": "Principle Nº 307: Inversion Thinking\n\nSolve problems by considering their opposite first, eliminate failure modes rather than chase success. Munger built Berkshire by avoiding stupidity rather than chasing brilliance.\n\nAsk yourself: If this fails, what will the autopsy reveal, and have I addressed it now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

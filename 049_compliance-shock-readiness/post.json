@@ -1,0 +1,80 @@
+{
+  "order": 49,
+  "day": 49,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "49",
+  "title": "Compliance Shock Readiness",
+  "slug": "compliance-shock-readiness",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Regulation is not just legal overhead; it is operational survivability.",
+    "question": "What regulation in your industry or province could change and directly hurt your business model? What's your early-warning system for catching it?",
+    "equation": "CSR = (Monitoring × Interpretation × Adaptation × Flexibility) ÷ Regulatory Exposure",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every regulation that materially affects your business (licensing, labor, tax, industry-specific rules, data or privacy law).",
+      "Rate your Monitoring, Interpretation, Adaptation, and Flexibility 1-10 for how well you'd catch and respond to a change in each (see calculation, page 5).",
+      "Rate your Regulatory Exposure 1-10 for how much a change in that area would hurt you (see calculation, page 5).",
+      "Divide your readiness score by your exposure score to find your weakest area (see calculation, page 5), the lowest score is where a shock would hit hardest.",
+      "Set up one monitoring source (industry association, legal newsletter, regulator alert list) for your weakest area this week."
+    ],
+    "explainer": "Regulation rarely ends a business. Unpreparedness for regulation does.",
+    "questions": [
+      "What regulation in your industry or province could change and directly hurt your business model? What's your early-warning system for catching it?",
+      "Who on your team is actually responsible for tracking regulatory change, or is it nobody's job right now?",
+      "The last time a rule changed in your industry, how many days passed before you found out?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Monitoring 7, Interpretation 6, Adaptation 8, Flexibility 7. Multiplied: 7 times 6 times 8 times 7 equals 2,352, divided by Regulatory Exposure 5 equals 470.4. Higher scores mean you could absorb a regulatory shock without major disruption; lower scores mean a rule change could stop your business cold.",
+    "closing_statement": "Regulatory readiness is a habit, not a scramble."
+  },
+  "caption": "Principle Nº 49: Compliance Shock Readiness\n\nRegulation is not just legal overhead; it is operational survivability. Regulation rarely ends a business.\n\nAsk yourself: What regulation in your industry or province could change and directly hurt your business model? What's your early-warning system for catching it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

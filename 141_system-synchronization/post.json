@@ -1,0 +1,80 @@
+{
+  "order": 141,
+  "day": 141,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "141",
+  "title": "System Synchronization",
+  "slug": "system-synchronization",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems must work together.",
+    "question": "Which two systems are fighting each other instead of working together?",
+    "equation": "Efficiency equals Aligned Systems divided by Total Systems.",
+    "mental_model": "Gears align.",
+    "business_lens": "Content → funnel → sales aligned.",
+    "life_lens": "Work + home + health aligned.",
+    "sop": [
+      "Map every major system in your business (content, sales, delivery, admin) and how they hand off to each other.",
+      "Identify where timing or output from one system creates a bottleneck or conflict in another.",
+      "Rate how many of your systems are actually Aligned versus fighting each other (see calculation, page 5)",
+      "Adjust timing, sequencing, or ownership so the misaligned systems hand off cleanly instead of colliding.",
+      "Re-map monthly, new systems you add will need to be synced in too."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which two systems are fighting each other instead of working together?",
+      "Where does finishing one part of your process actively create a backlog somewhere else?",
+      "If you mapped your business as gears, which one is turning against the others instead of with them?"
+    ],
+    "definitions": [],
+    "equation_example": "Aligned Systems equals 3, Total Systems equals 5. Efficiency equals 60%. Higher means more of your systems reinforce rather than fight each other. Lower means most of your systems are working against each other, quietly wasting the output each one produces.",
+    "closing_statement": "Unsynced systems cancel out each other's progress."
+  },
+  "caption": "Principle Nº 141: System Synchronization\n\nSystems must work together.\n\nAsk yourself: Which two systems are fighting each other instead of working together?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,85 @@
+{
+  "order": 328,
+  "day": 328,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "328",
+  "title": "Organizational Inertia",
+  "slug": "organizational-inertia",
+  "category": "Deep Strategy Spaces",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Established organizations resist change even when change is clearly needed.",
+    "question": "On my biggest needed change, am I relying on persuasion when I should be redesigning structure?",
+    "equation": "Change Capacity = Burning Platform × Leadership Conviction × Structural Redesign ÷ Existing Inertia",
+    "mental_model": "Heavy ship, slow to turn, slow to stop.",
+    "business_lens": "For real change, redesign incentives and decision rights, not just communication; pair urgency with structural support.",
+    "life_lens": "Notice when your habits and identity are resisting change you intellectually agree with.",
+    "sop": [
+      "Acknowledge inertia structurally, not as failure",
+      "Make the case for change concrete and urgent",
+      "Redesign incentives and structures to favor the new direction",
+      "Create cross-functional change teams",
+      "Rotate or replace leaders who cannot move"
+    ],
+    "explainer": "Studies show 68–87% of leaders identify organizational inertia as the top barrier to transformation. Communication alone rarely overcomes it. The structural fixes (incentives, decision rights, cross-functional teams) are what actually move the ship.",
+    "questions": [
+      "On my biggest needed change, am I relying on persuasion when I should be redesigning structure?",
+      "What change have you announced more than once that still hasn't actually happened? What does that repetition tell you about whether the problem is communication or structure?",
+      "If you removed yourself from championing this change for a month, would it still move, or does it only happen because you're personally pushing it?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Burning Platform (urgency) 7, Leadership Conviction 8, Structural Redesign 4, Existing Inertia 6. Score = (7 times 8 times 4) divided by 6, approximately 37.3. Higher means change is likely to stick because urgency, conviction, and structural redesign outweigh the organization's resistance; lower, especially a low Structural Redesign score, means persuasion alone won't move it.",
+    "closing_statement": "Structural change outlasts persuasion when inertia is real."
+  },
+  "caption": "Principle Nº 328: Organizational Inertia\n\nEstablished organizations resist change even when change is clearly needed. Studies show 68–87% of leaders identify organizational inertia as the top barrier to transformation.\n\nAsk yourself: On my biggest needed change, am I relying on persuasion when I should be redesigning structure?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

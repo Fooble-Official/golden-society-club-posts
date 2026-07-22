@@ -1,0 +1,90 @@
+{
+  "order": 73,
+  "day": 73,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "73",
+  "title": "Cold-Start Geometry",
+  "slug": "cold-start-geometry",
+  "category": "Network & Marketplace",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The shape of your initial market determines your ability to start.",
+    "question": "Is your market launch narrow enough? Should you start with one neighborhood, not the whole city?",
+    "equation": "CSG = (Density × Niche Focus × Tightness) ÷ Complexity",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Define your current launch market, geography, niche, or customer type, as precisely as possible.",
+      "Rate its Density 1-10, how concentrated your target users are within that market (see calculation, page 6).",
+      "Rate its Niche Focus and Tightness 1-10, how specific and interconnected that group is (see calculation, page 6).",
+      "Rate its Complexity 1-10, how many variables (languages, regulations, logistics) make it harder to serve well (see calculation, page 6).",
+      "If your launch market scores low on density or high on complexity, narrow it further before spending more on acquisition."
+    ],
+    "explainer": "Most founders launch too broadly and fail to ignite. Go narrower than feels comfortable.",
+    "questions": [
+      "Is your market launch narrow enough? Should you start with one neighborhood, not the whole city?",
+      "If you tried to serve your entire target market on day one, where would the experience feel thinnest first?",
+      "What's the smallest geography or niche where you could realistically make your product feel indispensable within 90 days?"
+    ],
+    "definitions": [
+      {
+        "term": "Cold start",
+        "def": "The problem of getting a marketplace started when neither side will join until the other side is there."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Density 8, Niche Focus 7, Tightness 7. 8 times 7 times 7 equals 392, divided by Complexity 4 equals 98. Higher means your starting market is tight and simple enough to ignite quickly. Lower means you've picked a market too broad or too complicated to get moving.",
+    "closing_statement": "Narrower markets ignite faster than broad, thin ones."
+  },
+  "caption": "Principle Nº 73: Cold-Start Geometry\n\nThe shape of your initial market determines your ability to start. Most founders launch too broadly and fail to ignite.\n\nAsk yourself: Is your market launch narrow enough? Should you start with one neighborhood, not the whole city?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BrandStrategy",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BrandStrategy"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

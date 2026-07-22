@@ -1,0 +1,80 @@
+{
+  "order": 154,
+  "day": 154,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "154",
+  "title": "Time Allocation",
+  "slug": "time-allocation",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Your life = how you allocate time.",
+    "question": "Does your calendar match your stated priorities this week?",
+    "equation": "Output = Σ(Time × Priority Weight)",
+    "mental_model": "Calendar = reality.",
+    "business_lens": "Creation vs admin vs growth.",
+    "life_lens": "Work vs home vs health.",
+    "sop": [
+      "Track every hour for one full week, categorized by activity.",
+      "Rate each activity's Priority Weight 1-3 (low/medium/high) based on your actual stated goals (see calculation, page 5)",
+      "Multiply Time spent by Priority Weight for each activity and sum the totals (see calculation, page 5)",
+      "Identify the highest-time, lowest-priority-weight activities, these are your biggest misalignments.",
+      "Rebuild next week's calendar to shift hours toward your highest-weighted priorities."
+    ],
+    "explainer": "",
+    "questions": [
+      "Does your calendar match your stated priorities this week?",
+      "If a stranger only saw your calendar, what would they guess your top priority actually is?",
+      "How many hours this week went to something you'd rate below a 5 out of 10 in importance?"
+    ],
+    "definitions": [],
+    "equation_example": "Task A: Time 3 hours times Priority Weight 3 equals 9. Task B: Time 5 hours times Priority Weight 1 equals 5. Total equals 14 priority-weighted hours. Higher means your hours are concentrated on what actually matters to you. Lower means you're logging hours that don't move anything important, no matter how busy they feel.",
+    "closing_statement": "A full calendar isn't the same as a good one."
+  },
+  "caption": "Principle Nº 154: Time Allocation\n\nYour life = how you allocate time.\n\nAsk yourself: Does your calendar match your stated priorities this week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

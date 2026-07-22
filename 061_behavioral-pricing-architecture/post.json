@@ -1,0 +1,80 @@
+{
+  "order": 61,
+  "day": 61,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "61",
+  "title": "Behavioral Pricing Architecture",
+  "slug": "behavioral-pricing-architecture",
+  "category": "Behavioral Pricing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Pricing is not just revenue extraction, it shapes perception, adoption, and retention.",
+    "question": "Does your business's pricing produce the behavior you want, or just the revenue you want?",
+    "equation": "BPA = (Conversion × Fairness × Usage Alignment × Upsell Flow) ÷ Confusion",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Rate your current pricing 1-10 on Conversion, how well it turns lookers into buyers (see calculation, page 5).",
+      "Rate it 1-10 on Fairness and Usage Alignment, whether customers feel the price matches what they use and get (see calculation, page 5).",
+      "Rate it 1-10 on Upsell Flow, how naturally it leads to a next purchase (see calculation, page 5).",
+      "Rate it 1-10 on Confusion, how hard it is for a new customer to understand at a glance (see calculation, page 5).",
+      "Divide the product of Conversion, Fairness, Usage Alignment, and Upsell Flow by Confusion, and simplify pricing wherever Confusion is above 5."
+    ],
+    "explainer": "Bad pricing can kill a great product. Price for behavior first, revenue second.",
+    "questions": [
+      "Does your business's pricing produce the behavior you want, or just the revenue you want?",
+      "If a new customer had to explain your pricing back to you in one sentence, could they do it correctly?",
+      "Is there a price point in your business right now that technically converts well but quietly makes people resent you?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10. Conversion 7, Fairness 8, Usage Alignment 6, Upsell Flow 5. 7 times 8 times 6 times 5 equals 1,680, divided by Confusion 4 equals 420. Higher scores mean your pricing converts well and builds trust at the same time. Lower scores mean your pricing might be making money while quietly damaging how customers feel about you.",
+    "closing_statement": "Price shapes behavior long before it shapes revenue."
+  },
+  "caption": "Principle Nº 61: Behavioral Pricing Architecture\n\nPricing is not just revenue extraction, it shapes perception, adoption, and retention. Bad pricing can kill a great product.\n\nAsk yourself: Does your business's pricing produce the behavior you want, or just the revenue you want?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,90 @@
+{
+  "order": 155,
+  "day": 155,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "155",
+  "title": "Priority Stack",
+  "slug": "priority-stack",
+  "category": "Wealth & Architecture",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Everything is not equal.",
+    "question": "What are your top 3 THIS month, and can you name them without looking?",
+    "equation": "Impact = Priority × Execution",
+    "mental_model": "Stack ranking.",
+    "business_lens": "Revenue tasks > vanity tasks.",
+    "life_lens": "Health > appearance.",
+    "sop": [
+      "Write down your top 3 priorities for this month, ranked in order.",
+      "Rate the Priority 1-10 of everything currently on your task list against that ranked list (see calculation, page 6)",
+      "Rate your actual Execution 1-10 on each of the top 3 specifically (see calculation, page 6)",
+      "Cut or delegate anything ranked below your top 3 that's eating meaningful time.",
+      "Re-stack rank weekly, priorities shift and yesterday's number one may no longer be this week's."
+    ],
+    "explainer": "",
+    "questions": [
+      "What are your top 3 THIS month, and can you name them without looking?",
+      "If you could only finish one thing this week, would it be the thing you're working on right now?",
+      "What's currently ranked above your top priority on your calendar, even though it matters less?"
+    ],
+    "definitions": [
+      {
+        "term": "Stack ranking",
+        "def": "Ordering items from most to least important, forcing an explicit priority call instead of treating everything as equally urgent."
+      }
+    ],
+    "equation_example": "Rate Priority 1-10 (how much this actually matters) and Execution 1-10 (how well you're actually doing it). Priority 9 times Execution 3 equals 27 out of 100. Higher means high-priority work is also being executed well. Lower means either you're executing well on the wrong things, or ignoring the right ones entirely.",
+    "closing_statement": "Treating everything as equal ranks nothing as important."
+  },
+  "caption": "Principle Nº 155: Priority Stack\n\nEverything is not equal.\n\nAsk yourself: What are your top 3 THIS month, and can you name them without looking?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,94 @@
+{
+  "order": 97,
+  "day": 97,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "97",
+  "title": "Dark-Funnel Capture",
+  "slug": "dark-funnel-capture",
+  "category": "Growth & Attention",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A large portion of influence is untracked.",
+    "question": "How much of your business's growth is happening off-dashboard in DMs, word of mouth, or offline? Are you measuring it at all?",
+    "equation": "DFC = (Self-Reported + Direct + Branded Search + Mentions) ÷ 4",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "Add a 'How did you hear about us?' open-text question at signup or checkout, not a dropdown menu.",
+      "Track branded search volume, meaning people searching your business name directly, month over month.",
+      "Rate Self-Reported mentions, Direct traffic, Branded Search, and social Mentions each as a share of total signals (see calculation, page 6).",
+      "Ask your last 10 customers directly, in a message, how they actually found you, and compare their answer to what your dashboard says.",
+      "Invest a small, deliberate budget in whatever channel keeps showing up in these direct answers, even if it's hard to attribute."
+    ],
+    "explainer": "The real funnel is wider than your dashboard. Ask people how they heard about you, in their words.",
+    "questions": [
+      "How much of your business's growth is happening off-dashboard in DMs, word of mouth, or offline? Are you measuring it at all?",
+      "The next 10 customers who buy, will you actually ask them how they first heard of you, or assume you know?",
+      "If half your 'organic' or 'direct' traffic is actually word-of-mouth you can't see, how would that change what you invest in?"
+    ],
+    "definitions": [
+      {
+        "term": "Dark funnel",
+        "def": "The parts of a customer's decision journey, DMs, word of mouth, offline conversations, that never show up in analytics."
+      },
+      {
+        "term": "Word of mouth",
+        "def": "Customers telling other people about you directly, outside any tracked channel."
+      }
+    ],
+    "equation_example": "Self-Reported mentions 40%, Direct traffic 25%, Branded Search 20%, Social Mentions 15%. (40 plus 25 plus 20 plus 15) divided by 4 equals 25% out of 100%. Higher means a larger share of your real growth is happening in untracked, dark-funnel channels, worth deliberate investment even without clean attribution. Lower means your dashboard is probably capturing most of what's actually driving growth.",
+    "closing_statement": "Not everything that matters shows up in a dashboard."
+  },
+  "caption": "Principle Nº 97: Dark-Funnel Capture\n\nA large portion of influence is untracked. The real funnel is wider than your dashboard.\n\nAsk yourself: How much of your business's growth is happening off-dashboard in DMs, word of mouth, or offline? Are you measuring it at all?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,94 @@
+{
+  "order": 170,
+  "day": 170,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "170",
+  "title": "Recurring Revenue Design",
+  "slug": "recurring-revenue-design",
+  "category": "Advanced Systems",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "One sale, infinite income.",
+    "question": "What part of your business could become recurring revenue within 90 days?",
+    "equation": "MRR = Customers × Price × Retention",
+    "mental_model": "Rent vs sell.",
+    "business_lens": "Subscriptions > one-off sales.",
+    "life_lens": "Systems that earn while you sleep.",
+    "sop": [
+      "List every product or service you currently sell as a one-time transaction.",
+      "Identify which ones solve a problem that recurs, not a problem solved once and done.",
+      "Package the recurring-need offer into a subscription or membership tier with a clear cadence.",
+      "Rate your retention realistically, 0-100% (see calculation, page 6), based on how many subscribers stay past month 3 in similar offers.",
+      "Optimize the weakest lever first: more customers, higher price, or better retention, whichever moves recurring revenue most."
+    ],
+    "explainer": "",
+    "questions": [
+      "What part of your business could become recurring revenue within 90 days?",
+      "If you got zero new customers next month, would revenue drop to zero, or would something keep paying you?",
+      "Which one-time offer gets repurchased anyway, and why isn't it already a subscription?"
+    ],
+    "definitions": [
+      {
+        "term": "MRR",
+        "def": "Monthly Recurring Revenue."
+      },
+      {
+        "term": "Retention",
+        "def": "The percentage of customers who keep paying or using a product over time."
+      }
+    ],
+    "equation_example": "Customers (count) times Price (dollars/month) times Retention (%) equals MRR. 200 customers times $50 times 90% retention equals $9,000 MRR. Higher retention or price raises MRR fastest without needing new customers; lower retention quietly erodes revenue you already earned.",
+    "closing_statement": "Sell it once, get paid on repeat."
+  },
+  "caption": "Principle Nº 170: Recurring Revenue Design\n\nOne sale, infinite income.\n\nAsk yourself: What part of your business could become recurring revenue within 90 days?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

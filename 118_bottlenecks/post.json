@@ -1,0 +1,90 @@
+{
+  "order": 118,
+  "day": 118,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "118",
+  "title": "Bottlenecks",
+  "slug": "bottlenecks",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "System is only as strong as weakest constraint.",
+    "question": "Which bottleneck have you tolerated for months because widening it feels hard?",
+    "equation": "Output = Min(Capacity of all parts)",
+    "mental_model": "Traffic jam.",
+    "business_lens": "You = bottleneck. Editing, posting can choke growth.",
+    "life_lens": "Time, energy, clarity, hidden bottlenecks.",
+    "sop": [
+      "Map your process and estimate the capacity, in units per day, of each stage.",
+      "Identify the minimum, the stage with the lowest capacity (see calculation, page 6).",
+      "Remove, automate, or delegate one piece of that stage's workload.",
+      "Re-measure total output to confirm it actually rose.",
+      "Repeat on the new lowest-capacity stage, there's always another one."
+    ],
+    "explainer": "",
+    "questions": [
+      "Which bottleneck have you tolerated for months because widening it feels hard?",
+      "If you doubled the capacity of every stage except one, what would your actual output look like?",
+      "What's the slowest stage in your process that you've quietly stopped trying to fix?"
+    ],
+    "definitions": [
+      {
+        "term": "Bottleneck",
+        "def": "The slowest or most constrained step in a system."
+      }
+    ],
+    "equation_example": "Rate the daily capacity of each stage in orders per day: Intake 50, Production 20, Shipping 45. Output equals the minimum of those, 20 orders per day, capped by Production, not the average of all three. Raising the lowest number raises total output; raising an already-strong stage does nothing until the bottleneck moves.",
+    "closing_statement": "The whole system moves at the bottleneck's pace."
+  },
+  "caption": "Principle Nº 118: Bottlenecks\n\nSystem is only as strong as weakest constraint.\n\nAsk yourself: Which bottleneck have you tolerated for months because widening it feels hard?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

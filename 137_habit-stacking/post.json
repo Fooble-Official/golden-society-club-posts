@@ -1,0 +1,80 @@
+{
+  "order": 137,
+  "day": 137,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "137",
+  "title": "Habit Stacking",
+  "slug": "habit-stacking",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Attach new habits to existing ones.",
+    "question": "What existing habit can you stack a new behavior onto tomorrow?",
+    "equation": "Habit Success = Anchor × Attachment",
+    "mental_model": "Chain behavior.",
+    "business_lens": "Content after coffee.",
+    "life_lens": "Skincare after shower.",
+    "sop": [
+      "List 3 habits you already do consistently without needing motivation (e.g. making coffee, brushing teeth).",
+      "Rate the Anchor strength 1-10 for each existing habit (see calculation, page 5)",
+      "Pick your strongest anchor and attach exactly one new specific behavior directly after it.",
+      "Rate the Attachment 1-10, how tightly and immediately the new habit follows the anchor (see calculation, page 5)",
+      "Repeat the pair daily for 2 weeks before adding a second stacked habit."
+    ],
+    "explainer": "",
+    "questions": [
+      "What existing habit can you stack a new behavior onto tomorrow?",
+      "Which habit already runs on autopilot for you, strong enough to carry a second behavior along with it?",
+      "What new habit have you tried to start from scratch three times and failed, because it had no anchor?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Anchor strength 1-10 (how consistent the existing habit already is) and Attachment 1-10 (how tightly the new habit is linked right after it). Anchor 9 times Attachment 6 equals 54 out of 100. Higher means the new habit rides the old one's momentum reliably. Lower means the new habit is floating free and will get skipped.",
+    "closing_statement": "New habits borrow their strength from old ones."
+  },
+  "caption": "Principle Nº 137: Habit Stacking\n\nAttach new habits to existing ones.\n\nAsk yourself: What existing habit can you stack a new behavior onto tomorrow?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

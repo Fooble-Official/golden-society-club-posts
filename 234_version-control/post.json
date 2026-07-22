@@ -1,0 +1,95 @@
+{
+  "order": 234,
+  "day": 234,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "234",
+  "title": "Version Control",
+  "slug": "version-control",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Track major changes and iterations.",
+    "question": "What plan are you changing without tracking what worked before?",
+    "equation": "History Value equals the sum of the size of each tracked change, not the raw differences. The original formula telescopes down to just the final version minus the initial version mathematically, so it doesn't actually capture the value of having tracked every step. Summing the size of each change reflects how much the version history actually holds.",
+    "mental_model": "Save as v1, v2.",
+    "business_lens": "Revision history in docs.",
+    "life_lens": "Version your resume, budget.",
+    "sop": [
+      "Timestamp every major change to a plan, price, process, or strategy",
+      "Maintain a simple changelog, what changed, why, and what you expected to happen",
+      "Rate the size of each change you're tracking (see calculation, page 7)",
+      "Revert to a prior version if the new one is underperforming, instead of layering another change on top",
+      "Review the changelog quarterly to see which changes actually worked"
+    ],
+    "explainer": "Not tracking changes doesn't just risk losing a good version, it means you lose the ability to compare, because you no longer remember precisely what was different. The value of a changelog isn't nostalgia, it's that it turns 'this seems to work better now' into an actual comparison you can learn from.",
+    "questions": [
+      "What plan are you changing without tracking what worked before?",
+      "If your current plan fails, could you actually go back and see what the last version looked like, or is it already overwritten?",
+      "What's a decision you reversed recently that you can't fully explain, because you didn't record why you made the original call?"
+    ],
+    "definitions": [
+      {
+        "term": "Version control",
+        "def": "A record of each change made to something over time, so you can see, compare, or revert to a prior state."
+      }
+    ],
+    "equation_example": "Change 1 size: 3 (points of impact, rated 1-10). Change 2 size: 5. Change 3 size: 2. History Value = 3 plus 5 plus 2 = 10 tracked points of change. Higher total means you have a rich, useful record of what was tried; a low or zero total means you've been changing things without leaving a trail to learn from.",
+    "closing_statement": "Untracked changes mean you can't learn from your own history."
+  },
+  "caption": "Principle Nº 234: Version Control\n\nTrack major changes and iterations. Not tracking changes doesn't just risk losing a good version, it means you lose the ability to compare, because you no longer remember precisely what was different.\n\nAsk yourself: What plan are you changing without tracking what worked before?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

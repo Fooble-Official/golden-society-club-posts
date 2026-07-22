@@ -1,0 +1,80 @@
+{
+  "order": 180,
+  "day": 180,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "180",
+  "title": "Legacy Systems",
+  "slug": "legacy-systems",
+  "category": "Legacy & Orchestration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You're building for what lasts beyond you.",
+    "question": "What are you building this year that will still matter in 50 years?",
+    "equation": "Legacy = Impact × Duration × Transferability",
+    "mental_model": "Tree planted today gives shade later.",
+    "business_lens": "Brand > quick money; equity > cash.",
+    "life_lens": "Family systems, values.",
+    "sop": [
+      "List your current major projects or investments.",
+      "For each, ask honestly: does this stop mattering the moment I stop showing up?",
+      "Rate Impact, Duration, and Transferability each 1-10 (see calculation, page 5), how big the effect, how long it lasts, how well it transfers to others.",
+      "Pick the lowest-scoring project and redesign it to survive without you: documentation, ownership transfer, or a systemized process.",
+      "Choose one long-term asset (brand, IP, a trained team, owned property) to invest in this quarter over a short-term win."
+    ],
+    "explainer": "",
+    "questions": [
+      "What are you building this year that will still matter in 50 years?",
+      "If your business or work stopped requiring you tomorrow, would it keep running, or would it disappear with you?",
+      "What are you optimizing for right now: this quarter's cash, or something that outlives you?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate each 1-10: Impact, Duration, Transferability. Impact 8 times Duration 7 times Transferability 5 equals 280. Higher means what you're building keeps creating value long after you stop touching it; lower means it's tied to your ongoing personal effort and ends when you do.",
+    "closing_statement": "Build things that outlive your involvement in them."
+  },
+  "caption": "Principle Nº 180: Legacy Systems\n\nYou're building for what lasts beyond you.\n\nAsk yourself: What are you building this year that will still matter in 50 years?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

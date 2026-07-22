@@ -1,0 +1,80 @@
+{
+  "order": 11,
+  "day": 11,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "11",
+  "title": "Institutionalization Lag",
+  "slug": "institutionalization-lag",
+  "category": "Organization & Execution",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The company is always behind the founder.",
+    "question": "What do you do that no one else at your business can? How do you start transferring one of those today?",
+    "equation": "IL = Founder Capability - Team Capability",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "sop": [
+      "List every task, decision, or relationship that currently runs only through you.",
+      "Rank that list by business impact if it broke tomorrow, highest impact first.",
+      "Pick the top 1-2 items and document the process, checklist, or decision criteria you use, in writing.",
+      "Rate Founder Capability and Team Capability 1-10 for that specific skill or task (see calculation, page 5)",
+      "Assign the task to a team member with your documentation, then stay hands-off unless asked, and review after 2 weeks."
+    ],
+    "explainer": "The founder's personal capability is the company's ceiling until it's institutionalized. Every skill you hoard is a growth cap.",
+    "questions": [
+      "What do you do that no one else at your business can? How do you start transferring one of those today?",
+      "If you disappeared for 30 days, which part of the business would visibly suffer first?",
+      "Which skill are you still doing yourself purely out of habit, not necessity?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Founder Capability and Team Capability 1-10 for a specific skill (e.g., closing sales, fixing production issues). Founder Capability 9, Team Capability 3 → IL = 9 - 3 = 6. Higher IL means the company is dangerously dependent on you; an IL near 0 means your team could operate without you.",
+    "closing_statement": "Everything you hoard becomes the company's ceiling."
+  },
+  "caption": "Principle Nº 11: Institutionalization Lag\n\nThe company is always behind the founder. The founder's personal capability is the company's ceiling until it's institutionalized.\n\nAsk yourself: What do you do that no one else at your business can? How do you start transferring one of those today?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

@@ -1,0 +1,80 @@
+{
+  "order": 136,
+  "day": 136,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "136",
+  "title": "Identity Systems",
+  "slug": "identity-systems",
+  "category": "Operator Level",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You act like the person you believe you are.",
+    "question": "Whose identity are you currently acting out, and is it the one you want?",
+    "equation": "Action Consistency = Identity × Belief",
+    "mental_model": "\"I'm the type who…\"",
+    "business_lens": "CEO identity → different decisions.",
+    "life_lens": "Wealthy, healthy, creative woman, identity drives all.",
+    "sop": [
+      "Write one sentence defining the identity you want to operate from (e.g. 'I'm the type who ships daily').",
+      "Rate your Identity clarity 1-10 and Belief strength 1-10 in that identity (see calculation, page 5)",
+      "List 3 recent actions that contradicted that identity.",
+      "Pick one contradiction to eliminate this week by acting as the identity instead.",
+      "Repeat the aligned action daily until it stops requiring conscious effort."
+    ],
+    "explainer": "",
+    "questions": [
+      "Whose identity are you currently acting out, and is it the one you want?",
+      "What would the version of you who already succeeded do differently today than you're about to do?",
+      "Where does your daily behavior contradict the identity you'd claim if someone asked you who you are?"
+    ],
+    "definitions": [],
+    "equation_example": "Rate Identity clarity 1-10 and Belief strength 1-10. Identity 8 times Belief 7 equals 56 out of 100. Higher means your actions will reliably match the identity you claim. Lower means a gap between who you say you are and what you actually believe, so your actions default somewhere else.",
+    "closing_statement": "Identity isn't declared once, it's proven by repetition."
+  },
+  "caption": "Principle Nº 136: Identity Systems\n\nYou act like the person you believe you are.\n\nAsk yourself: Whose identity are you currently acting out, and is it the one you want?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

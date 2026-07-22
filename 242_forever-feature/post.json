@@ -1,0 +1,95 @@
+{
+  "order": 242,
+  "day": 242,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "242",
+  "title": "Forever Feature",
+  "slug": "forever-feature",
+  "category": "Strategic Focus",
+  "funnel_stage": "Advanced",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The strongest feature, offer, or promise is the one that would make the business stay valuable for a long time.",
+    "question": "What is the one thing you wish we added that would make you stay forever?",
+    "equation": "Durable Value = Core Need × Long-Term Relevance × Repeat Use",
+    "mental_model": "Foundation stone, if it lasts, the whole structure can keep standing.",
+    "business_lens": "Identify the one element of the product or offer that would still matter years from now and build the business around it.",
+    "life_lens": "Choose commitments that remain meaningful after the initial excitement wears off.",
+    "sop": [
+      "List the features, offers, or promises in the business",
+      "Ask the person: 'What is the one thing you wish we added that would make you stay forever?'",
+      "Look for answers tied to retention, identity, savings, access, habit, convenience, or emotional loyalty",
+      "Strengthen the recurring-value element first",
+      "Avoid overbuilding temporary novelty"
+    ],
+    "explainer": "The Forever Feature question helps separate durable value from temporary excitement. A feature may be fun, trendy, or impressive, but that does not mean it creates retention. Retention comes from something people repeatedly want, need, or identify with. In a membership, marketplace, or app, this might be savings, access, status, discovery, community, convenience, or a habit loop. The exact question matters because it asks the person to reveal what would create long-term loyalty, not just short-term curiosity. That answer should influence what you build, promote, and protect.",
+    "questions": [
+      "What is the one thing you wish we added that would make you stay forever?",
+      "What's a feature you built that impressed people in week one but nobody mentions three months later?",
+      "If your product disappeared tomorrow, what's the one piece people would actually be upset to lose, is that the piece you're investing in?"
+    ],
+    "definitions": [
+      {
+        "term": "Retention",
+        "def": "The percentage of customers who keep paying or using a product over time."
+      }
+    ],
+    "equation_example": "Rate each 1-10. Core Need 8, Long-Term Relevance 7, Repeat Use 9. Durable Value = 8 times 7 times 9 = 504. Higher score means the feature is likely to matter years from now, not just at launch; a high score on novelty alone won't show up here if repeat use and long-term relevance are low.",
+    "closing_statement": "Novelty fades; ask what still matters after it does."
+  },
+  "caption": "Principle Nº 242: Forever Feature\n\nThe strongest feature, offer, or promise is the one that would make the business stay valuable for a long time. The Forever Feature question helps separate durable value from temporary excitement.\n\nAsk yourself: What is the one thing you wish we added that would make you stay forever?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

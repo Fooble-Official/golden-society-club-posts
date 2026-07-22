@@ -1,0 +1,90 @@
+{
+  "order": 126,
+  "day": 126,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "126",
+  "title": "Redundancy",
+  "slug": "redundancy",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Backup systems create survival.",
+    "question": "What in your life/business has no backup, and would hurt most to lose?",
+    "equation": "Resilience = Primary + Backup",
+    "mental_model": "Two-engine plane.",
+    "business_lens": "Multiple income streams.",
+    "life_lens": "Backup meals, routines.",
+    "sop": [
+      "List your top 5 dependencies, the things that, if they broke, would stop revenue or operations.",
+      "For your highest-risk dependency, identify the Primary system currently running it and whether a Backup exists (see calculation, page 6)",
+      "Build one working backup for your highest-risk single point of failure this week.",
+      "Test the backup under real conditions, not hypothetically, pull the plug and see what happens.",
+      "Put a recurring quarterly reminder on the calendar to re-test every backup you build."
+    ],
+    "explainer": "",
+    "questions": [
+      "What in your life/business has no backup, and would hurt most to lose?",
+      "If your number one client or income source vanished tomorrow, how many days could you run before it hurts?",
+      "Which backup have you built but never actually tested working?"
+    ],
+    "definitions": [
+      {
+        "term": "Single point of failure",
+        "def": "One thing whose breakage would stop everything."
+      }
+    ],
+    "equation_example": "Primary equals 1 (count of working main systems covering this function), Backup equals 1 (count of working backup systems ready to activate). Resilience equals 1 plus 1 equals 2. Higher means more independent systems can fail without stopping you. Lower (Resilience equals 1) means a single failure ends the function completely.",
+    "closing_statement": "Untested backups are guesses, not safety nets."
+  },
+  "caption": "Principle Nº 126: Redundancy\n\nBackup systems create survival.\n\nAsk yourself: What in your life/business has no backup, and would hurt most to lose?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

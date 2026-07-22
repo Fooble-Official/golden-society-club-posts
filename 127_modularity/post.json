@@ -1,0 +1,80 @@
+{
+  "order": 127,
+  "day": 127,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "127",
+  "title": "Modularity",
+  "slug": "modularity",
+  "category": "Flows & Structures",
+  "funnel_stage": "Foundational",
+  "dimensions": "1080x1080",
+  "slide_count": 6,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "calculation"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Systems should be separable.",
+    "question": "What in your system is tangled together that would work better separated?",
+    "equation": "Flexibility = Independent Modules",
+    "mental_model": "Lego.",
+    "business_lens": "Content, sales, ops separated.",
+    "life_lens": "Routines broken into modules.",
+    "sop": [
+      "Map your current system end-to-end and mark every point where two functions depend on each other to run.",
+      "Rate how tangled each dependency is 1-10, how much breaking one part would break the other (see calculation, page 5)",
+      "Pick the most tangled pair and separate it into two standalone modules with a clear handoff between them.",
+      "Give each module its own owner, process, or tool so it can improve without touching the others.",
+      "Re-test: change one module and confirm the rest keeps running untouched."
+    ],
+    "explainer": "",
+    "questions": [
+      "What in your system is tangled together that would work better separated?",
+      "If you had to hand off just one part of your business tomorrow, could someone run it without understanding the rest?",
+      "Which two unrelated tasks have you bundled together out of habit, not necessity?"
+    ],
+    "definitions": [],
+    "equation_example": "Independent Modules equals 3 (count of parts that can change without breaking the others). Flexibility equals 3. Higher means more of your system can be improved, replaced, or handed off in isolation. Lower (Independent Modules equals 1) means everything is fused together, one change risks breaking the whole system.",
+    "closing_statement": "Separable parts move faster than fused ones."
+  },
+  "caption": "Principle Nº 127: Modularity\n\nSystems should be separable.\n\nAsk yourself: What in your system is tangled together that would work better separated?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}

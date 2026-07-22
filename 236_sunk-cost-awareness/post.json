@@ -1,0 +1,95 @@
+{
+  "order": 236,
+  "day": 236,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "236",
+  "title": "Sunk Cost Awareness",
+  "slug": "sunk-cost-awareness",
+  "category": "Integration",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 8,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "mental_model"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "question"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "sop"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "definitions"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "calculation"
+    },
+    {
+      "order": 8,
+      "file": "slide-08.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Don't throw good effort after bad.",
+    "question": "What are you continuing only because you've already invested, not because it works?",
+    "equation": "Continue = Future Benefit - Cost",
+    "mental_model": "Don't stay on sinking ship.",
+    "business_lens": "ROI on ongoing efforts.",
+    "life_lens": "Scrap diet that doesn't work.",
+    "sop": [
+      "Set a checkpoint date to evaluate any ongoing investment of time, money, or energy",
+      "Rate the future benefit and future cost, ignoring what's already spent (see calculation, page 7)",
+      "If the forward-looking number is negative, halt, regardless of how much has already gone in",
+      "Free up the capacity (time, money, attention) for something with a positive forward number",
+      "Write down the decision and why, so you don't quietly restart the same thing later"
+    ],
+    "explainer": "The money or time you've already spent is gone either way, it doesn't come back if you continue, and it doesn't get wasted retroactively if you stop. The only number that should actually drive the decision is what happens from here forward; anything else is just the discomfort of admitting the past investment didn't pan out.",
+    "questions": [
+      "What are you continuing only because you've already invested, not because it works?",
+      "If you were starting today with zero history, would you still choose to keep doing this?",
+      "What's the actual future benefit of continuing, separate from how much you'd hate to admit the past investment didn't pay off?"
+    ],
+    "definitions": [
+      {
+        "term": "Sunk cost",
+        "def": "Money or time already spent that can't be recovered."
+      }
+    ],
+    "equation_example": "Future Benefit: rate 1-10 (10 = high forward value). Cost: rate 1-10 (ongoing cost to continue). Continue equals Future Benefit 3 minus Cost 7 equals -4, negative, meaning stop regardless of past investment. Future Benefit 8 minus Cost 3 equals 5, positive, meaning it's still worth continuing. A positive score means keep going based on what's ahead; a negative score means the past investment shouldn't buy the future another chance.",
+    "closing_statement": "Only the road ahead should decide whether you continue."
+  },
+  "caption": "Principle Nº 236: Sunk Cost Awareness\n\nDon't throw good effort after bad. The money or time you've already spent is gone either way, it doesn't come back if you continue, and it doesn't get wasted retroactively if you stop.\n\nAsk yourself: What are you continuing only because you've already invested, not because it works?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.life"
+}
