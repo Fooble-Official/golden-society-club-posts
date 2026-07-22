@@ -11,9 +11,8 @@ on:
         description: "Credential check only (read-only API call, no publish)"
         required: false
         default: "false"
-  # Uncomment once IG_ACCESS_TOKEN / IG_BUSINESS_ACCOUNT_ID secrets are set:
-  # schedule:
-  #   - cron: '0 15 * * *'  # 15:00 UTC daily — adjust to your preferred posting time
+  schedule:
+    - cron: '0 15 * * *'  # 15:00 UTC daily — adjust to your preferred posting time. Gated by state.json's start_date (2026-07-24), so nothing publishes before then regardless of this schedule.
 
 # Prevents two runs (e.g. a scheduled run + a manual dispatch) from executing
 # at the same time and double-publishing. Later runs queue instead of
