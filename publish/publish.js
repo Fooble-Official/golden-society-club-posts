@@ -104,6 +104,16 @@ async function main() {
   const state = JSON.parse(fs.readFileSync(STATE_PATH, 'utf8'));
   const index = JSON.parse(fs.readFileSync(path.join(POSTS_DIR, 'index.json'), 'utf8'));
 
+  const today = new Date().toISOString().slice(0, 10);
+
+  // Start-date gate: even if the cron is enabled early, nothing publishes
+  // before this date. Bump state.start_date (e.g. to slip the launch by a
+  // day) instead of touching the schedule itself.
+  if (state.start_date && today < state.start_date) {
+    console.log(`Today (${today}) is before the configured start_date (${state.start_date}). Not publishing yet.`);
+    return;
+  }
+
   const entry = index.find(r => r.order === state.next_order);
   if (!entry) {
     console.log(`No post found for order ${state.next_order}. Nothing to publish (series complete?).`);
@@ -114,7 +124,6 @@ async function main() {
   // a manual re-trigger on top of the scheduled run), don't publish twice.
   // The workflow's concurrency group prevents two runs overlapping, but this
   // catches the case of two non-overlapping runs on the same calendar day.
-  const today = new Date().toISOString().slice(0, 10);
   if (state.last_published_order === state.next_order - 1 &&
       state.last_published_at && state.last_published_at.slice(0, 10) === today) {
     console.log(`Order ${state.last_published_order} was already published today (${today}). Skipping to avoid a duplicate post.`);
