@@ -2,29 +2,36 @@
 /* Golden Society — daily Instagram carousel publisher.
  * Reads state.json for the next order to publish, builds a carousel from
  * that post's slide images (served via jsDelivr from this same repo),
- * creates the carousel via the Instagram Graph API, publishes it, then
- * advances state.json for the next run.
+ * creates the carousel via the Instagram API, publishes it, then advances
+ * state.json for the next run.
  *
- * Required env vars (set as GitHub Actions secrets):
- *   IG_ACCESS_TOKEN        - System User access token
- *   IG_BUSINESS_ACCOUNT_ID - Instagram Business Account ID
+ * Uses the Instagram API with Instagram Login (graph.instagram.com), not
+ * the classic Facebook Page-linked Graph API — this account's token is an
+ * "IGAA..."-prefixed Instagram Login token, which graph.facebook.com can't
+ * parse. This flow doesn't need a Facebook Page or a separately-looked-up
+ * Business Account ID: the account ID is resolved directly from the token
+ * via /me.
+ *
+ * Required env var (set as a GitHub Actions secret):
+ *   IG_ACCESS_TOKEN        - Instagram Login access token (starts with IGAA)
  *
  * Optional:
+ *   IG_BUSINESS_ACCOUNT_ID - overrides the auto-resolved account ID, if ever needed
  *   DRY_RUN=1  - build the carousel payload and log it, but don't call the
  *                publish endpoints and don't advance state.json
+ *   CHECK_CREDENTIALS=1 - read-only check that the token works, no publish
  */
 const fs = require('fs');
 const path = require('path');
 
-const GRAPH_VERSION = 'v21.0';
-const GRAPH_BASE = `https://graph.facebook.com/${GRAPH_VERSION}`;
+const GRAPH_VERSION = 'v23.0';
+const GRAPH_BASE = `https://graph.instagram.com/${GRAPH_VERSION}`;
 const REPO = 'Fooble-Official/golden-society-club-posts';
 const BRANCH = 'main';
 const STATE_PATH = path.join(__dirname, '..', 'state.json');
 const POSTS_DIR = path.join(__dirname, '..');
 
 const TOKEN = process.env.IG_ACCESS_TOKEN;
-const IG_USER_ID = process.env.IG_BUSINESS_ACCOUNT_ID;
 const DRY_RUN = process.env.DRY_RUN === '1';
 
 const MAX_RETRIES = 3;
@@ -97,9 +104,14 @@ async function waitUntilFinished(containerId) {
 }
 
 async function main() {
-  if (!TOKEN || !IG_USER_ID) {
-    throw new Error('Missing IG_ACCESS_TOKEN or IG_BUSINESS_ACCOUNT_ID env vars.');
+  if (!TOKEN) {
+    throw new Error('Missing IG_ACCESS_TOKEN env var.');
   }
+
+  // Resolve the Instagram account ID directly from the token rather than
+  // requiring it as a separately-configured secret — avoids the whole
+  // Facebook-Page-lookup dance, which doesn't apply to this token type.
+  const IG_USER_ID = process.env.IG_BUSINESS_ACCOUNT_ID || (await graphGet('me', { fields: 'user_id,username' })).user_id;
 
   // Credential check: confirms the token + account ID are valid and have
   // the right permissions via a harmless read-only call. Never publishes
