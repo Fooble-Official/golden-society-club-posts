@@ -101,6 +101,15 @@ async function main() {
     throw new Error('Missing IG_ACCESS_TOKEN or IG_BUSINESS_ACCOUNT_ID env vars.');
   }
 
+  // Credential check: confirms the token + account ID are valid and have
+  // the right permissions via a harmless read-only call. Never publishes
+  // anything and never touches state.json.
+  if (process.env.CHECK_CREDENTIALS === '1') {
+    const info = await graphGet(IG_USER_ID, { fields: 'username,name,id' });
+    console.log('Credential check OK. Connected Instagram account:', info);
+    return;
+  }
+
   const state = JSON.parse(fs.readFileSync(STATE_PATH, 'utf8'));
   const index = JSON.parse(fs.readFileSync(path.join(POSTS_DIR, 'index.json'), 'utf8'));
 

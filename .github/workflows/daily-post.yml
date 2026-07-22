@@ -7,6 +7,10 @@ on:
         description: "Dry run (log payload, do not publish or advance state)"
         required: false
         default: "false"
+      check_only:
+        description: "Credential check only (read-only API call, no publish)"
+        required: false
+        default: "false"
   # Uncomment once IG_ACCESS_TOKEN / IG_BUSINESS_ACCOUNT_ID secrets are set:
   # schedule:
   #   - cron: '0 15 * * *'  # 15:00 UTC daily — adjust to your preferred posting time
@@ -32,10 +36,11 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          CHECK_CREDENTIALS: ${{ github.event.inputs.check_only == 'true' && '1' || '' }}
         run: node publish/publish.js
 
       - name: Commit updated state
-        if: ${{ github.event.inputs.dry_run != 'true' }}
+        if: ${{ github.event.inputs.dry_run != 'true' && github.event.inputs.check_only != 'true' }}
         run: |
           git config user.name "golden-society-bot"
           git config user.email "actions@users.noreply.github.com"
