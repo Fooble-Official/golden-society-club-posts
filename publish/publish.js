@@ -103,9 +103,32 @@ async function waitUntilFinished(containerId) {
   throw new Error(`Container ${containerId} did not finish processing within timeout.`);
 }
 
+// The cron fires hourly (UTC, fixed); this checks the actual current hour
+// in Pacific time (DST-aware via the IANA tz database) and only lets the
+// run proceed if it's the target hour. This keeps the post landing at the
+// same Pacific wall-clock time year-round, instead of drifting an hour
+// whenever Daylight/Standard Time changes.
+function isTargetPacificHour(targetHour) {
+  const hourStr = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Los_Angeles',
+    hour: 'numeric',
+    hour12: false,
+  }).format(new Date());
+  return parseInt(hourStr, 10) === targetHour;
+}
+
 async function main() {
   if (!TOKEN) {
     throw new Error('Missing IG_ACCESS_TOKEN env var.');
+  }
+
+  // Hour gate: only applies to the scheduled (cron) trigger, set via
+  // HOUR_GATE_PACIFIC in the workflow. Manual runs (dry run, credential
+  // check, or an explicit real test) skip this so they're not blocked by
+  // time of day.
+  const hourGate = process.env.HOUR_GATE_PACIFIC ? parseInt(process.env.HOUR_GATE_PACIFIC, 10) : null;
+  if (hourGate !== null && !isTargetPacificHour(hourGate)) {
+    return; // silent no-op — this is expected 23 out of 24 hourly runs
   }
 
   // Resolve the Instagram account ID directly from the token rather than
