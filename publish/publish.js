@@ -23,6 +23,7 @@
  */
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
 
 const GRAPH_VERSION = 'v23.0';
 const GRAPH_BASE = `https://graph.instagram.com/${GRAPH_VERSION}`;
@@ -103,18 +104,48 @@ async function waitUntilFinished(containerId) {
   throw new Error(`Container ${containerId} did not finish processing within timeout.`);
 }
 
-// The cron fires hourly (UTC, fixed); this checks the actual current hour
-// in Pacific time (DST-aware via the IANA tz database) and only lets the
-// run proceed if it's the target hour. This keeps the post landing at the
-// same Pacific wall-clock time year-round, instead of drifting an hour
-// whenever Daylight/Standard Time changes.
-function isTargetPacificHour(targetHour) {
+// The cron fires hourly (UTC, fixed); this returns the actual current hour
+// in Pacific time (DST-aware via the IANA tz database), so the target-hour
+// check stays correct year-round instead of drifting when Daylight/Standard
+// Time changes.
+function currentPacificHour() {
   const hourStr = new Intl.DateTimeFormat('en-US', {
     timeZone: 'America/Los_Angeles',
     hour: 'numeric',
     hour12: false,
   }).format(new Date());
-  return parseInt(hourStr, 10) === targetHour;
+  return parseInt(hourStr, 10);
+}
+
+// Commits and pushes state.json immediately, in-process, right after a
+// successful publish — not as a separate downstream workflow step. This
+// closes the window where the process could crash or lose network between
+// "Instagram confirmed the post" and "the queue advance is durably saved"
+// down to essentially nothing. If the push itself fails (e.g. a network
+// blip), the pre-publish reconciliation check below is the backstop: it
+// looks at Instagram's own recent posts, not just local state, so a stale
+// state.json can't cause a duplicate on the next run.
+function commitAndPushState() {
+  const git = (...args) => execFileSync('git', args, { cwd: POSTS_DIR, stdio: 'pipe' });
+  try {
+    git('config', 'user.name', 'golden-society-bot');
+    git('config', 'user.email', 'actions@users.noreply.github.com');
+    git('add', 'state.json');
+    try {
+      git('diff', '--quiet', '--cached');
+      return; // nothing to commit
+    } catch {
+      // non-zero exit means there IS a diff — fall through to commit
+    }
+    git('commit', '-m', 'chore: advance to next post [skip ci]');
+    git('pull', '--rebase', 'origin', 'main');
+    git('push');
+    console.log('state.json committed and pushed.');
+  } catch (err) {
+    console.error('WARNING: failed to commit/push state.json after a successful publish. ' +
+      'The post IS live on Instagram. The next run\'s reconciliation check should still ' +
+      'prevent a duplicate, but investigate this push failure directly.', err.message);
+  }
 }
 
 async function main() {
@@ -125,10 +156,24 @@ async function main() {
   // Hour gate: only applies to the scheduled (cron) trigger, set via
   // HOUR_GATE_PACIFIC in the workflow. Manual runs (dry run, credential
   // check, or an explicit real test) skip this so they're not blocked by
-  // time of day.
+  // time of day. Uses >= rather than == so that if the exact-noon trigger
+  // gets delayed or dropped by GitHub (documented as possible under load),
+  // the next hourly run still catches up same-day instead of permanently
+  // skipping that day's post — the idempotency guard below prevents a
+  // second run this same day from double-publishing once one succeeds.
   const hourGate = process.env.HOUR_GATE_PACIFIC ? parseInt(process.env.HOUR_GATE_PACIFIC, 10) : null;
-  if (hourGate !== null && !isTargetPacificHour(hourGate)) {
-    return; // silent no-op — this is expected 23 out of 24 hourly runs
+  if (hourGate !== null && currentPacificHour() < hourGate) {
+    return; // silent no-op — before the target hour, nothing to do yet
+  }
+
+  const state = JSON.parse(fs.readFileSync(STATE_PATH, 'utf8'));
+
+  // Kill switch: set state.paused = true to halt publishing without
+  // touching the queue itself. next_order stays put; flip it back to
+  // resume exactly where it left off.
+  if (state.paused) {
+    console.log('state.paused is true — publishing is halted. Set it back to false to resume.');
+    return;
   }
 
   // Resolve the Instagram account ID directly from the token rather than
@@ -145,9 +190,7 @@ async function main() {
     return;
   }
 
-  const state = JSON.parse(fs.readFileSync(STATE_PATH, 'utf8'));
   const index = JSON.parse(fs.readFileSync(path.join(POSTS_DIR, 'index.json'), 'utf8'));
-
   const today = new Date().toISOString().slice(0, 10);
 
   // Start-date gate: even if the cron is enabled early, nothing publishes
@@ -166,8 +209,6 @@ async function main() {
 
   // Idempotency guard: if we already published this exact order today (e.g.
   // a manual re-trigger on top of the scheduled run), don't publish twice.
-  // The workflow's concurrency group prevents two runs overlapping, but this
-  // catches the case of two non-overlapping runs on the same calendar day.
   if (state.last_published_order === state.next_order - 1 &&
       state.last_published_at && state.last_published_at.slice(0, 10) === today) {
     console.log(`Order ${state.last_published_order} was already published today (${today}). Skipping to avoid a duplicate post.`);
@@ -185,6 +226,26 @@ async function main() {
 
   if (DRY_RUN) {
     console.log('DRY_RUN set — not calling the Graph API, not advancing state.json.');
+    return;
+  }
+
+  // Reconciliation check: this is the real fix for "Instagram published
+  // successfully, then the process crashed before local state was saved."
+  // Rather than trusting local state alone, ask Instagram itself whether a
+  // post matching this exact caption already went out recently. Local
+  // state (and the in-process commit-immediately-after-publish below) is
+  // the fast path; this is the backstop that makes it actually safe even
+  // if that commit/push fails.
+  const recent = await graphGet(IG_USER_ID + '/media', { fields: 'caption,timestamp', limit: 10 });
+  const alreadyPosted = (recent.data || []).find(m => m.caption === caption);
+  if (alreadyPosted) {
+    console.log(`Found a matching post already on Instagram (id ${alreadyPosted.id}, ${alreadyPosted.timestamp}) — a previous run must have published it before crashing. Recovering state instead of republishing.`);
+    state.next_order = post.order + 1;
+    state.last_published_order = post.order;
+    state.last_published_at = new Date().toISOString();
+    state.last_published_media_id = alreadyPosted.id;
+    fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 2) + '\n');
+    commitAndPushState();
     return;
   }
 
@@ -208,19 +269,25 @@ async function main() {
   });
   await waitUntilFinished(carousel.id);
 
-  // Step 3: publish it
+  // Step 3: publish it. This is the moment the post goes live — everything
+  // after this line exists purely to durably record that fact as fast as
+  // possible.
   const published = await graphPost(IG_USER_ID + '/media_publish', {
     creation_id: carousel.id,
   });
 
   console.log('Published:', published);
 
-  // advance state for next run
+  // Advance state and persist immediately (in-process commit + push, not a
+  // separate downstream step) to minimize the crash window. See the
+  // reconciliation check above for the backstop if this still fails.
   state.next_order = post.order + 1;
   state.last_published_order = post.order;
   state.last_published_at = new Date().toISOString();
+  state.last_published_media_id = published.id;
   fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 2) + '\n');
   console.log(`Advanced state.json -> next_order ${state.next_order}`);
+  commitAndPushState();
 }
 
 main().catch(err => {
