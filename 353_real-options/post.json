@@ -49,7 +49,7 @@
   ],
   "content": {
     "statement": "Keeping your options open is not indecision; under uncertainty it is an asset you can price.",
-    "explainer": "A real option is the right, but not the obligation, to make a business move later — expand, delay, abandon, switch. When the future is uncertain, holding that right has value because you can act if things go well and walk away if they don't; that value rises with uncertainty and falls with the cost of keeping the option open.",
+    "explainer": "A real option is the right, but not the obligation, to make a business move later, expand, delay, abandon, switch. When the future is uncertain, holding that right has value because you can act if things go well and walk away if they don't; that value rises with uncertainty and falls with the cost of keeping the option open.",
     "questions": [
       "Are you committing fully today when a small payment to keep the choice open would let you decide with better information later?",
       "What is the upside you would capture if you preserved the right to act, and how likely is it actually to materialize?",
@@ -59,17 +59,17 @@
       "Name the decision you could defer and the future move it would preserve (expand, delay, abandon, or switch).",
       "Estimate the Upside in dollars if you keep the option open and later exercise it well.",
       "Estimate the Probability that the favorable scenario actually occurs (see calculation, page 6).",
-      "Estimate the Cost to Hold Open — the fee, retainer, or carrying cost of preserving the right without committing.",
+      "Estimate the Cost to Hold Open, the fee, retainer, or carrying cost of preserving the right without committing.",
       "Compute Option Value and keep the option only when it is clearly positive; otherwise commit or walk away."
     ],
     "definitions": [
       {
         "term": "Real option",
-        "def": "The right, but not the obligation, to take a future business action — such as expanding, delaying, or abandoning — whose value comes from flexibility under uncertainty."
+        "def": "The right, but not the obligation, to take a future business action, such as expanding, delaying, or abandoning, whose value comes from flexibility under uncertainty."
       },
       {
         "term": "Cost to hold open",
-        "def": "What you pay to keep a choice available without committing — a deposit, retainer, lease, or the carrying cost of not deciding yet."
+        "def": "What you pay to keep a choice available without committing, a deposit, retainer, lease, or the carrying cost of not deciding yet."
       }
     ],
     "equation": "Option Value = (Upside × Probability) − Cost to Hold Open",
@@ -80,7 +80,7 @@
     "life_lens": "",
     "question": "Are you committing fully today when a small payment to keep the choice open would let you decide with better information later?"
   },
-  "caption": "Principle Nº 353: Real Options\n\nKeeping your options open is not indecision; under uncertainty it is an asset you can price.\n\nAsk yourself: Are you committing fully today when a small payment to keep the choice open would let you decide with better information later?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "caption": "Principle Nº 353: Real Options\n\nKeeping your options open is not indecision; under uncertainty it is an asset you can price.\n\nAsk yourself: Are you committing fully today when a small payment to keep the choice open would let you decide with better information later?\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
   "hashtags": [
     "#TheGoldenSociety",
     "#SoloFounder",

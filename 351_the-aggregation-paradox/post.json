@@ -53,7 +53,7 @@
     "questions": [
       "Does your headline metric hold up when you break it down by segment, or does the direction reverse once you split it?",
       "Are you comparing two options over populations that are mixed very differently, so the totals are really measuring the mix?",
-      "Which lurking variable — segment size, timing, customer type — is quietly steering your aggregate number?"
+      "Which lurking variable, segment size, timing, customer type, is quietly steering your aggregate number?"
     ],
     "sop": [
       "Take the aggregate comparison you are about to act on and split it into its underlying segments.",
@@ -69,7 +69,7 @@
       },
       {
         "term": "Lurking variable",
-        "def": "A hidden factor, not in your headline comparison, that influences the result — here, usually how unevenly the segments are sized."
+        "def": "A hidden factor, not in your headline comparison, that influences the result, here, usually how unevenly the segments are sized."
       }
     ],
     "equation": "Paradox Risk = Segment Mix Imbalance (rate 1-10)",
@@ -80,7 +80,7 @@
     "life_lens": "",
     "question": "Does your headline metric hold up when you break it down by segment, or does the direction reverse once you split it?"
   },
-  "caption": "Principle Nº 351: The Aggregation Paradox\n\nA trend that holds in every group can flip completely once you pool the groups together.\n\nAsk yourself: Does your headline metric hold up when you break it down by segment, or does the direction reverse once you split it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "caption": "Principle Nº 351: The Aggregation Paradox\n\nA trend that holds in every group can flip completely once you pool the groups together.\n\nAsk yourself: Does your headline metric hold up when you break it down by segment, or does the direction reverse once you split it?\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
   "hashtags": [
     "#TheGoldenSociety",
     "#SoloFounder",

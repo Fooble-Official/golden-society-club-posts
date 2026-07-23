@@ -49,16 +49,16 @@
   ],
   "content": {
     "statement": "Build it in-house only until buying it on the market costs you less.",
-    "explainer": "A company exists because doing some things internally beats paying the market's costs of finding, negotiating, and policing a supplier — but that advantage has an edge. Grow past the point where internal cost exceeds the market's, and you're keeping work you should be buying.",
+    "explainer": "A company exists because doing some things internally beats paying the market's costs of finding, negotiating, and policing a supplier, but that advantage has an edge. Grow past the point where internal cost exceeds the market's, and you're keeping work you should be buying.",
     "questions": [
       "Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?",
-      "What are the hidden transaction costs — contracting, monitoring, quality risk — of the things you currently outsource?",
+      "What are the hidden transaction costs, contracting, monitoring, quality risk, of the things you currently outsource?",
       "As you grow, which internal task has quietly become more expensive to run than to simply buy?"
     ],
     "sop": [
-      "Pick one function you currently perform in-house — support, fulfillment, design, or bookkeeping.",
+      "Pick one function you currently perform in-house, support, fulfillment, design, or bookkeeping.",
       "Add up its true internal cost: labor, tools, overhead, and your own coordination time.",
-      "Get real market quotes and add the transaction costs of buying — vetting, contracting, monitoring, quality risk.",
+      "Get real market quotes and add the transaction costs of buying, vetting, contracting, monitoring, quality risk.",
       "Compare internal cost to market transaction cost and keep it in-house only while internal is cheaper (see calculation, page 6).",
       "Re-run this test as you scale, since the cheaper side flips as volume and complexity change."
     ],
@@ -69,18 +69,18 @@
       },
       {
         "term": "Theory of the firm",
-        "def": "The idea that companies exist because handling some tasks internally is cheaper than buying them on the open market — and should grow only until that stops being true."
+        "def": "The idea that companies exist because handling some tasks internally is cheaper than buying them on the open market, and should grow only until that stops being true."
       }
     ],
     "equation": "Firm Boundary: Internal Cost = Market Transaction Cost",
-    "equation_example": "In-house: production $4,000 + management $2,000 = $6,000/mo. Buying: price $4,500 + contracting $1,000 = $5,500/mo. $6,000 > $5,500, so the market is cheaper — outsource it. When your internal cost falls below the market's $5,500, bring it back in-house.",
+    "equation_example": "In-house: production $4,000 + management $2,000 = $6,000/mo. Buying: price $4,500 + contracting $1,000 = $5,500/mo. $6,000 > $5,500, so the market is cheaper, outsource it. When your internal cost falls below the market's $5,500, bring it back in-house.",
     "closing_statement": "The right size for anything is the point where doing it yourself stops being worth it.",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",
     "question": "Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?"
   },
-  "caption": "Principle Nº 337: The Build-vs-Buy Boundary\n\nBuild it in-house only until buying it on the market costs you less.\n\nAsk yourself: Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "caption": "Principle Nº 337: The Build-vs-Buy Boundary\n\nBuild it in-house only until buying it on the market costs you less.\n\nAsk yourself: Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
   "hashtags": [
     "#TheGoldenSociety",
     "#SoloFounder",

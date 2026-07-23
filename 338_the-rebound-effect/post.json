@@ -49,14 +49,14 @@
   ],
   "content": {
     "statement": "Make a resource cheaper to use and you'll often use far more of it, not less.",
-    "explainer": "Efficiency lowers the cost per task, but cheaper tasks invite more tasks — so total consumption can rise even as each use gets leaner. It's why faster tools rarely give you free time and cheaper energy rarely shrinks total demand.",
+    "explainer": "Efficiency lowers the cost per task, but cheaper tasks invite more tasks, so total consumption can rise even as each use gets leaner. It's why faster tools rarely give you free time and cheaper energy rarely shrinks total demand.",
     "questions": [
       "Where has a tool that saved you time per task simply led you to do far more of that task?",
-      "When you make something cheaper or faster for customers, does total consumption fall — or explode?",
+      "When you make something cheaper or faster for customers, does total consumption fall, or explode?",
       "Which 'efficiency win' actually expanded the resource, headcount, or spend it was supposed to shrink?"
     ],
     "sop": [
-      "Identify an efficiency you just gained — a tool, automation, or process that cut cost or time per task.",
+      "Identify an efficiency you just gained, a tool, automation, or process that cut cost or time per task.",
       "Estimate how many tasks you did before and how much resource each one consumed.",
       "Estimate how much the lower cost will expand the number of tasks you take on.",
       "Divide total tasks times use-per-task by the new efficiency to project real total consumption (see calculation, page 6).",
@@ -65,7 +65,7 @@
     "definitions": [
       {
         "term": "Efficiency",
-        "def": "Getting the same output from less input — less time, energy, or resource per unit of work."
+        "def": "Getting the same output from less input, less time, energy, or resource per unit of work."
       },
       {
         "term": "Elastic demand",
@@ -73,14 +73,14 @@
       }
     ],
     "equation": "Total Use = (Tasks × Use per Task) ÷ Efficiency",
-    "equation_example": "Before: (100 tasks × 5 units) ÷ 1 = 500 units used. Efficiency doubles and the lower cost pushes demand to 500 tasks: (500 × 5) ÷ 2 = 1,250 units. Total use rose from 500 to 1,250 — high efficiency with elastic demand raises total use; only weak demand would let it fall.",
+    "equation_example": "Before: (100 tasks × 5 units) ÷ 1 = 500 units used. Efficiency doubles and the lower cost pushes demand to 500 tasks: (500 × 5) ÷ 2 = 1,250 units. Total use rose from 500 to 1,250, high efficiency with elastic demand raises total use; only weak demand would let it fall.",
     "closing_statement": "Efficiency only frees you if you decide, on purpose, what to do with the room it opens up.",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",
     "question": "Where has a tool that saved you time per task simply led you to do far more of that task?"
   },
-  "caption": "Principle Nº 338: The Rebound Effect\n\nMake a resource cheaper to use and you'll often use far more of it, not less.\n\nAsk yourself: Where has a tool that saved you time per task simply led you to do far more of that task?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "caption": "Principle Nº 338: The Rebound Effect\n\nMake a resource cheaper to use and you'll often use far more of it, not less.\n\nAsk yourself: Where has a tool that saved you time per task simply led you to do far more of that task?\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
   "hashtags": [
     "#TheGoldenSociety",
     "#SoloFounder",
