@@ -9,7 +9,7 @@
   "category": "Flows & Structures",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -19,44 +19,39 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Systems resist change.",
     "question": "Which change is pushing back, and are you fighting harder, or reducing resistance?",
-    "equation": "Change Rate = Desired - Current",
+    "equation": "Gap = Desired − Current",
     "mental_model": "Body fights weight loss.",
     "business_lens": "Growth plateaus. Saturation.",
     "life_lens": "Motivation dips. Routines break.",
     "sop": [
       "Name the change you're trying to make and where you're currently getting pushback.",
-      "Rate your Desired state and Current state each 1-10 to size the gap (see calculation, page 6).",
+      "Rate your Desired state and Current state each 1-10 to size the gap (see calculation, page 5).",
       "Reduce friction around the change instead of increasing pressure to force it.",
       "Hold the new behavior steady for at least 3-4 weeks, balancing loops often relent after sustained consistency.",
       "Expect a plateau, not a straight line, that's the loop pushing back, not failure."
@@ -73,7 +68,7 @@
         "def": "A feedback loop that pushes a system back toward equilibrium."
       }
     ],
-    "equation_example": "Rate each 1-10: Desired state 9, Current state 4. Gap = 9 minus 4 = 5. A larger gap means more resistance to expect, systems push back harder the further you're asking them to move from equilibrium. A small or shrinking gap means the resistance is easing and the change is taking hold.",
+    "equation_example": "Rate each 1-10: Desired state 9, Current state 4. Gap = 9 − 4 = 5. A larger gap means more resistance — systems push back harder the further you ask them from equilibrium; a shrinking gap means resistance is easing and the change is taking hold.",
     "closing_statement": "Expect resistance in proportion to how far you're pushing."
   },
   "caption": "Principle Nº 122: Balancing Loops\n\nSystems resist change.\n\nAsk yourself: Which change is pushing back, and are you fighting harder, or reducing resistance?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -86,5 +81,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

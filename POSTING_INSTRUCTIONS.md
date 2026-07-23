@@ -11,7 +11,7 @@
 ## Cadence
 - Post ONE carousel per day, in folder order (001 first).
 - Recommended time: 9:00am local. One post per day, no gaps.
-- Account: @TheGoldenSocietyClub (goldensociety.life).
+- Account: @TheGoldenSocietyClub (goldensociety.club).
 
 ## Caption / CTA rules (already baked into caption.txt, keep them if regenerating)
 - Every caption: a short summary of the principle + the reflection question + "Follow @TheGoldenSocietyClub for a new principle every day." + hashtags.

@@ -9,7 +9,7 @@
   "category": "Compounding",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 8,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -24,38 +24,33 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 7,
       "file": "slide-07.png",
-      "role": "calculation"
-    },
-    {
-      "order": 8,
-      "file": "slide-08.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Build momentum through small, consistent pushes that compound over time.",
     "question": "What is the flywheel of your business and which step needs the most consistent push right now?",
-    "equation": "Momentum = Σ(Consistent Pushes) × Time",
+    "equation": "Momentum = Disciplined Pushes per Month × Months Sustained",
     "mental_model": "Heavy flywheel, each push adds to all previous pushes.",
     "business_lens": "Identify your core flywheel (e.g., low prices → traffic → sellers → selection → traffic) and protect every component.",
     "life_lens": "Trust small consistent action over heroic sporadic effort.",
@@ -78,7 +73,7 @@
         "def": "A self-reinforcing loop where each small win makes the next one easier, so momentum compounds instead of resetting."
       }
     ],
-    "equation_example": "Consistent Pushes counted as actions per month (e.g., 12 disciplined pushes), times Time in months of compounding (e.g., 24 months). Score = 12 times 24 = 288. A higher, rising score means the loop is now feeding itself. A lower, falling score means you're still pushing dead weight instead of a spinning wheel.",
+    "equation_example": "12 disciplined pushes per month × 24 months sustained = 288. A higher, rising score means the loop is starting to feed itself; a low or falling score means you're still pushing dead weight instead of a spinning wheel.",
     "closing_statement": "Momentum comes from repetition, not intensity."
   },
   "caption": "Principle Nº 276: Flywheel Effect\n\nBuild momentum through small, consistent pushes that compound over time. Amazon’s flywheel, lower prices → more customers → more sellers → larger selection → better experience → more customers, was drawn on a napkin and ran for two decades.\n\nAsk yourself: What is the flywheel of your business and which step needs the most consistent push right now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -91,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

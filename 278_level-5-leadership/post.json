@@ -9,7 +9,7 @@
   "category": "Leadership",
   "funnel_stage": "Elite",
   "dimensions": "1080x1080",
-  "slide_count": 8,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -24,31 +24,26 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 7,
       "file": "slide-07.png",
-      "role": "calculation"
-    },
-    {
-      "order": 8,
-      "file": "slide-08.png",
       "role": "get_the_os"
     }
   ],
@@ -60,7 +55,7 @@
     "business_lens": "Develop leaders who give credit and take responsibility; promote people who put the mission above self-promotion.",
     "life_lens": "Be ambitious for what you build, not for how you are seen.",
     "sop": [
-      "In leadership criteria, weight humility and mission-focus heavily (see calculation, page 7)",
+      "In leadership criteria, weight humility and mission-focus heavily (see calculation, page 6)",
       "In reviews, observe how leaders handle credit and blame",
       "Coach high-ego leaders or move them aside",
       "Promote those whose ambition serves the company",
@@ -91,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

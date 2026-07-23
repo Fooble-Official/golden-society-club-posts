@@ -9,7 +9,7 @@
   "category": "Wealth & Architecture",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,40 +19,35 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "One action should serve multiple goals.",
     "question": "What one action could you design to serve 3 goals instead of 1?",
-    "equation": "Value = Outputs per Action",
+    "equation": "Leverage = Goals Served ÷ Actions Taken",
     "mental_model": "Two birds, one stone.",
     "business_lens": "Content = marketing + brand + sales.",
     "life_lens": "Cooking = health + family + finances.",
     "sop": [
       "List your top 5 recurring actions and the single goal each currently serves.",
       "For each, ask what other goal (health, brand, relationships, revenue) it could also serve with a small tweak.",
-      "Rate the Outputs per Action for your top candidate before and after the redesign (see calculation, page 5)",
+      "Rate the Outputs per Action for your top candidate before and after the redesign (see calculation, page 4)",
       "Redesign the action to intentionally hit the extra goal(s) at the same time.",
       "Re-audit monthly, as goals shift, some stacked actions will need to be re-paired."
     ],
@@ -63,7 +58,7 @@
       "What are you currently doing separately that could be combined into one action without losing either result?"
     ],
     "definitions": [],
-    "equation_example": "Outputs per Action equals 3 (count of goals this one action serves). Value equals 3. Higher means each action is doing more work for you at the same cost of time. Lower (Value equals 1) means you're spending separate actions on things that could have been combined.",
+    "equation_example": "One action serves 3 goals and it took 1 action. Leverage = 3 ÷ 1 = 3.0. Higher means each action does more work at the same time cost; 1.0 means you're spending a separate action on each thing when they could have been combined.",
     "closing_statement": "One action, one goal is the expensive default."
   },
   "caption": "Principle Nº 157: System Stacking\n\nOne action should serve multiple goals.\n\nAsk yourself: What one action could you design to serve 3 goals instead of 1?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

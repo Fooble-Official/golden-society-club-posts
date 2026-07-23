@@ -75,6 +75,10 @@
       {
         "term": "DPO",
         "def": "Days Payable Outstanding, the average number of days you take to pay your own suppliers."
+      },
+      {
+        "term": "DIO",
+        "def": "Days Inventory Outstanding — the average number of days inventory sits before it sells. Fewer days means cash isn't tied up in stock as long."
       }
     ],
     "equation_example": "Days to Collect 35, Days Inventory Sits 20, Days to Pay Suppliers 40. 35 plus 20 minus 40 equals 15 days. Lower, even negative, means cash comes back to you fast, sometimes before you even pay your own bills. Higher means your cash is tied up longer, forcing you to finance the gap yourself.",
@@ -90,5 +94,5 @@
     "#StartupFinance"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

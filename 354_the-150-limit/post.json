@@ -1,0 +1,94 @@
+{
+  "order": 354,
+  "day": 354,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "354",
+  "title": "The 150 Limit",
+  "slug": "the-150-limit",
+  "category": "Organization & Execution",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "You can hold about 150 real relationships in your head; past that, you need structure instead of memory.",
+    "explainer": "There is a rough cognitive limit — around 150 — on the number of stable relationships one person can actively maintain. Below it, a group can coordinate on trust and informal memory; above it, informal ties break down and you need explicit process, hierarchy, and rules to hold coordination together.",
+    "questions": [
+      "Is your team or community still running on everyone-knows-everyone trust, even though it has quietly grown past the point that works?",
+      "Where are things breaking because you are relying on informal memory where you now need written process and clear ownership?",
+      "Are you adding people faster than you are adding the structure that groups past ~150 require to function?"
+    ],
+    "sop": [
+      "Count the people any single person must actively coordinate with inside your team or community.",
+      "Compare that count against the ~150 Coordination Breakpoint (see calculation, page 6).",
+      "Flag where informal trust and memory are already straining as you approach the threshold.",
+      "Introduce explicit structure — roles, documented process, sub-teams — before you cross it, not after.",
+      "Split large groups into smaller units well under the limit so each keeps the trust of a manageable size."
+    ],
+    "definitions": [
+      {
+        "term": "The 150 limit",
+        "def": "A proposed cognitive limit, roughly 150, on the number of people with whom one can maintain stable, active social relationships."
+      },
+      {
+        "term": "Coordination breakpoint",
+        "def": "The group size at which informal, memory-based coordination stops working and formal structure becomes necessary."
+      }
+    ],
+    "equation": "Coordination Breakpoint ≈ 150 people",
+    "equation_example": "A team grows from 140 to 160 people. Below ~150 everyone can roughly know everyone and coordinate informally; crossing 150, informal ties break and you need documented roles and process. Smaller companies deliberately cap units near this size, splitting before they exceed it.",
+    "closing_statement": "Knowing the size at which trust needs help from structure is how a group grows without losing itself.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Is your team or community still running on everyone-knows-everyone trust, even though it has quietly grown past the point that works?"
+  },
+  "caption": "Principle Nº 354: The 150 Limit\n\nYou can hold about 150 real relationships in your head; past that, you need structure instead of memory.\n\nAsk yourself: Is your team or community still running on everyone-knows-everyone trust, even though it has quietly grown past the point that works?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

@@ -66,11 +66,15 @@
       "If you removed every feature list from your marketing, what story would still make someone want to buy?",
       "What's the last thing a happy customer said about you, in their own words, not yours?"
     ],
-    "equation_example": "Recall 70%, Share Rate 15%, Trust Lift +20 points, divided by Copyability 2, on a 1-5 scale where 5 is easiest to copy = 105. A rising number means your story is spreading on its own. A falling number means it's not sticking.",
+    "equation_example": "Recall 0.70 (70%), Share Rate 0.15 (15%), Trust Lift 20 points, Copyability 2. NM = (0.70 × 0.15 × 20) ÷ 2 = 1.05. Track the trend: higher means your story sticks and spreads faster than rivals can copy it; lower means it's forgettable or easily cloned.",
     "definitions": [
       {
         "term": "Moat",
         "def": "A durable competitive advantage that protects your business from competition over time."
+      },
+      {
+        "term": "Social graph",
+        "def": "The web of relationships and connections between people online — friends, followers, contacts. A story spreads through a customer's social graph, not through ads."
       }
     ],
     "closing_statement": "What survives is what gets retold."
@@ -85,5 +89,5 @@
     "#BrandStrategy"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

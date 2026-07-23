@@ -9,7 +9,7 @@
   "category": "Deep Strategy Spaces",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 8,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -24,38 +24,33 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 7,
       "file": "slide-07.png",
-      "role": "calculation"
-    },
-    {
-      "order": 8,
-      "file": "slide-08.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "In radical uncertainty, true probabilities cannot be known, embrace experimentation over prediction.",
     "question": "What am I trying to predict that I should be testing instead?",
-    "equation": "Survival = Affordable Loss × Optionality × Learning Rate",
+    "equation": "Survival = (Affordable Loss + Optionality + Learning Rate) ÷ 3",
     "mental_model": "Fog instead of a chessboard, you cannot calculate, only test and adapt.",
     "business_lens": "Replace prediction-heavy plans with parallel small bets; cap downside; preserve optionality.",
     "life_lens": "Stop demanding certainty before acting; act in ways where the worst outcome is acceptable.",
@@ -76,9 +71,13 @@
       {
         "term": "Optionality",
         "def": "The value of having future choices."
+      },
+      {
+        "term": "Knightian uncertainty",
+        "def": "Economist Frank Knight's term for true uncertainty where the odds themselves are unknowable, unlike ordinary risk where probabilities can be estimated."
       }
     ],
-    "equation_example": "Rate each 1-10. Affordable Loss 8 (how survivable your worst-case bet is), Optionality 6 (how many future choices you've preserved), Learning Rate 7 (how fast you convert bets into real evidence). Score = (8 plus 6 plus 7) divided by 3 = 7.0. Higher means you're built to survive being wrong repeatedly while still learning; lower means one bad bet could end things before you learn anything.",
+    "equation_example": "Rate each 1-10. Affordable Loss 8 (how survivable your worst-case bet is), Optionality 6 (how many future choices you've preserved), Learning Rate 7 (how fast you convert bets into real evidence). Score = (8 + 6 + 7) ÷ 3 = 7.0. Higher means you're built to survive being wrong repeatedly while still learning; lower means one bad bet could end things before you learn anything.",
     "closing_statement": "You can't forecast uncertainty, only survive it."
   },
   "caption": "Principle Nº 305: Knightian Uncertainty\n\nIn radical uncertainty, true probabilities cannot be known, embrace experimentation over prediction. Forecasting precision implies knowable probabilities.\n\nAsk yourself: What am I trying to predict that I should be testing instead?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -91,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

@@ -71,6 +71,14 @@
       {
         "term": "Half-life",
         "def": "Here, the amount of time it takes a piece of content's performance to fall to half of its peak."
+      },
+      {
+        "term": "CTR",
+        "def": "Click-Through Rate — the percentage of people who click an ad or link after seeing it."
+      },
+      {
+        "term": "Creative",
+        "def": "Industry shorthand for the actual content of an ad — the image, video, or copy itself, as opposed to the targeting or budget behind it."
       }
     ],
     "equation_example": "Peak performance in Week 1 (100% of peak). Performance drops to 50% of peak by Week 6, so half-life equals 6 weeks. A short half-life (2-3 weeks) means you need a constant creative pipeline. A long half-life (8+ weeks) means you can run winners longer before refreshing.",
@@ -86,5 +94,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

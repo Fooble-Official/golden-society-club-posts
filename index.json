@@ -2622,5 +2622,301 @@
     "slides": 7,
     "cover": "photo",
     "cta": "os_plus_follow"
+  },
+  {
+    "order": 329,
+    "folder": "329_the-queue-equation",
+    "title": "The Queue Equation",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 330,
+    "folder": "330_the-experience-curve",
+    "title": "The Experience Curve",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 331,
+    "folder": "331_the-mirror-principle",
+    "title": "The Mirror Principle",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 332,
+    "folder": "332_the-late-project-trap",
+    "title": "The Late-Project Trap",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 333,
+    "folder": "333_the-square-root-rule",
+    "title": "The Square-Root Rule",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 334,
+    "folder": "334_start-simple-grow-complex",
+    "title": "Start Simple, Grow Complex",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 335,
+    "folder": "335_bullwhip-effect",
+    "title": "Bullwhip Effect",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 336,
+    "folder": "336_cost-disease",
+    "title": "Cost Disease",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 337,
+    "folder": "337_the-build-vs-buy-boundary",
+    "title": "The Build-vs-Buy Boundary",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 338,
+    "folder": "338_the-rebound-effect",
+    "title": "The Rebound Effect",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 339,
+    "folder": "339_the-problem-preservation-trap",
+    "title": "The Problem-Preservation Trap",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 340,
+    "folder": "340_the-fence-principle",
+    "title": "The Fence Principle",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 341,
+    "folder": "341_bad-drives-out-good",
+    "title": "Bad Drives Out Good",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 342,
+    "folder": "342_social-loafing",
+    "title": "Social Loafing",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 343,
+    "folder": "343_winners-curse",
+    "title": "Winner's Curse",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 344,
+    "folder": "344_the-focal-point",
+    "title": "The Focal Point",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 345,
+    "folder": "345_minimum-efficient-scale",
+    "title": "Minimum Efficient Scale",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 346,
+    "folder": "346_aggregation-theory",
+    "title": "Aggregation Theory",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 347,
+    "folder": "347_cornered-resource",
+    "title": "Cornered Resource",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 348,
+    "folder": "348_process-power",
+    "title": "Process Power",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 349,
+    "folder": "349_switching-cost-power",
+    "title": "Switching-Cost Power",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 350,
+    "folder": "350_regression-to-the-mean",
+    "title": "Regression to the Mean",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 351,
+    "folder": "351_the-aggregation-paradox",
+    "title": "The Aggregation Paradox",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 352,
+    "folder": "352_diffusion-of-innovations",
+    "title": "Diffusion of Innovations",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 353,
+    "folder": "353_real-options",
+    "title": "Real Options",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 354,
+    "folder": "354_the-150-limit",
+    "title": "The 150 Limit",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 355,
+    "folder": "355_ooda-loop",
+    "title": "OODA Loop",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 356,
+    "folder": "356_the-parallelization-ceiling",
+    "title": "The Parallelization Ceiling",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 357,
+    "folder": "357_the-law-of-implicit-dependencies",
+    "title": "The Law of Implicit Dependencies",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 358,
+    "folder": "358_the-network-value-law",
+    "title": "The Network-Value Law",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 359,
+    "folder": "359_stability-breeds-instability",
+    "title": "Stability Breeds Instability",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 360,
+    "folder": "360_reflexivity",
+    "title": "Reflexivity",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 361,
+    "folder": "361_status-goods",
+    "title": "Status Goods",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 362,
+    "folder": "362_value-chain-mapping",
+    "title": "Value-Chain Mapping",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 363,
+    "folder": "363_two-sided-subsidy",
+    "title": "Two-Sided Subsidy",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 364,
+    "folder": "364_optimal-bet-sizing",
+    "title": "Optimal Bet Sizing",
+    "slides": 7,
+    "cover": "photo",
+    "cta": "os_plus_follow"
+  },
+  {
+    "order": 365,
+    "folder": "365_veil-of-ignorance-pricing",
+    "title": "Veil of Ignorance Pricing",
+    "slides": 7,
+    "cover": "green",
+    "cta": "os_plus_follow"
   }
 ]

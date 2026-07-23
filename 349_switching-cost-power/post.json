@@ -1,0 +1,94 @@
+{
+  "order": 349,
+  "day": 349,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "349",
+  "title": "Switching-Cost Power",
+  "slug": "switching-cost-power",
+  "category": "Strategy & Market Power",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Customers do not stay because they love you; they stay because leaving costs more than staying.",
+    "explainer": "Switching costs are the friction of leaving: retraining, data migration, integrations, lost history. When that friction exceeds the annual value a customer gets, they stay even when a better option exists.",
+    "questions": [
+      "If a competitor offered your customer the same value for free, what would it still cost them in time and disruption to actually switch?",
+      "Which of your switching costs are real lock-in you built (integrations, data, workflow) versus contract handcuffs a customer will resent?",
+      "Are you investing in raising switching costs, or quietly relying on inertia while a rival makes leaving effortless?"
+    ],
+    "sop": [
+      "List every switching cost a customer eats to leave you: retraining, data export, re-integration, lost history, and setup time.",
+      "Estimate the total dollar-and-hours cost of that switch for a typical customer.",
+      "Estimate the annual value that customer receives from you in dollars.",
+      "Divide switching cost by annual value to get your Lock-In score (see calculation, page 6).",
+      "Raise the number through embedded workflow and data, not through punitive contracts customers will escape at renewal."
+    ],
+    "definitions": [
+      {
+        "term": "Switching cost",
+        "def": "Everything a customer spends — money, time, hassle, lost data or history — to move from you to another provider. Higher switching costs make leaving harder."
+      },
+      {
+        "term": "Lock-in",
+        "def": "The degree to which a customer is held in place by the cost of leaving rather than by ongoing satisfaction."
+      }
+    ],
+    "equation": "Lock-In = Switching Cost ÷ Annual Value",
+    "equation_example": "Switching Cost $6,000 ÷ Annual Value $2,000 = 3. A score above 1 means leaving costs more than a year of value, so the customer stays; below 1 means the exit is cheap and your retention is really just satisfaction.",
+    "closing_statement": "Lock-in earned by being deeply useful is loyalty; lock-in enforced by penalty is a debt that comes due at renewal.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "If a competitor offered your customer the same value for free, what would it still cost them in time and disruption to actually switch?"
+  },
+  "caption": "Principle Nº 349: Switching-Cost Power\n\nCustomers do not stay because they love you; they stay because leaving costs more than staying.\n\nAsk yourself: If a competitor offered your customer the same value for free, what would it still cost them in time and disruption to actually switch?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

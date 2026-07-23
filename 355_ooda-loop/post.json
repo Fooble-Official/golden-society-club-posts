@@ -1,0 +1,94 @@
+{
+  "order": 355,
+  "day": 355,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "355",
+  "title": "OODA Loop",
+  "slug": "ooda-loop",
+  "category": "Asymmetry & Timing",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Whoever completes the Observe-Orient-Decide-Act cycle fastest controls the tempo.",
+    "explainer": "Speed of adaptation beats raw quality of any single decision, because a faster cycle makes your rival react to a situation that has already changed. Get inside their loop and they are forever fighting your last move.",
+    "questions": [
+      "How long does it take you to go from noticing a market shift to actually shipping a response?",
+      "Where in your Observe-Orient-Decide-Act loop does the delay actually live, gathering data, interpreting it, deciding, or executing?",
+      "Which competitor forces you to react to their moves more often than you force them to react to yours?"
+    ],
+    "sop": [
+      "Map one recurring decision as four stages: Observe, Orient, Decide, Act.",
+      "Time how long each stage takes end to end and find your slowest one.",
+      "Rate your cycle time against your fastest competitor's cycle time (see calculation, page 6).",
+      "Cut the biggest delay by pre-deciding rules so Orient and Decide collapse into one step.",
+      "Re-run the loop weekly and track whether your tempo edge is rising."
+    ],
+    "definitions": [
+      {
+        "term": "OODA",
+        "def": "Observe, Orient, Decide, Act, the four-step decision cycle developed by military strategist John Boyd to describe how you adapt to a changing situation."
+      },
+      {
+        "term": "Tempo",
+        "def": "The rate at which you make and execute decisions. Setting the tempo means forcing others to react to you rather than the other way around."
+      }
+    ],
+    "equation": "Tempo Edge = Competitor Cycle Time ÷ Your Cycle Time",
+    "equation_example": "Your rival takes 60 hours to spot a change and ship a response; you take 20 hours. 60 ÷ 20 = 3. A tempo edge above 1 means you cycle faster and set the pace; below 1 means you are the one always reacting.",
+    "closing_statement": "The willingness to move before you feel fully ready is often what separates the people who shape events from the people who get shaped by them.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "How long does it take you to go from noticing a market shift to actually shipping a response?"
+  },
+  "caption": "Principle Nº 355: OODA Loop\n\nWhoever completes the Observe-Orient-Decide-Act cycle fastest controls the tempo.\n\nAsk yourself: How long does it take you to go from noticing a market shift to actually shipping a response?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

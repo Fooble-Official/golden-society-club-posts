@@ -9,7 +9,7 @@
   "category": "Flows & Structures",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,7 +46,7 @@
     "life_lens": "Weight loss, skin, marriage, delayed feedback.",
     "sop": [
       "Pick one system where results take time to show up, such as content, relationships, health, or referrals.",
-      "Estimate the realistic Time Delay for that system in weeks (see calculation, page 5).",
+      "Estimate the realistic Time Delay for that system in weeks (see calculation, page 4).",
       "Track your input consistency, whether you did the work, instead of watching for outcome movement.",
       "Set a review date at the expected delay point, not before.",
       "Don't quit a system before its expected delay has actually passed."
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

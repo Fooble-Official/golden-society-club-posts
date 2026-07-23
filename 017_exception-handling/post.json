@@ -9,7 +9,7 @@
   "category": "Organization & Execution",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -34,11 +34,16 @@
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -53,7 +58,7 @@
       "List your 5 most common edge cases from the last 90 days (refunds, no-shows, disputes, fraud, complaints).",
       "Write a one-page playbook for each: trigger, first response, who owns it, when to escalate.",
       "Put the playbooks somewhere your team can find them in under 30 seconds, not buried in your head.",
-      "Rate Speed, Accuracy, and Containment 1-10 for your last real edge case, and rate Chaos 1-10 based on how much it disrupted other work (see calculation, page 5)",
+      "Rate Speed, Accuracy, and Containment 1-10 for your last real edge case, and rate Chaos 1-10 based on how much it disrupted other work (see calculation, page 6)",
       "After each new edge case, add it to the playbook so the list never stops growing."
     ],
     "explainer": "Average-case thinking is where amateurs live. Pros design for the 5% of cases that create 95% of the pain.",
@@ -62,7 +67,12 @@
       "The last time an edge case hit, did your team know what to do, or did they wait for you?",
       "Which 5% of situations are eating 95% of your team's troubleshooting time?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Edge case",
+        "def": "An unusual or extreme situation at the margins of normal operation (a refund, a no-show, fraud). Rare individually, but collectively they cause most of the pain."
+      }
+    ],
     "equation_example": "Rate Speed, Accuracy, and Containment 1-10 each, then rate Chaos 1-10. Speed 8, Accuracy 7, Containment 6, Chaos 3 → EHA = (8×7×6)/3 = 112. Higher EHA means edge cases get handled fast and cleanly without disrupting everything else; lower means one bad case turns into a fire drill.",
     "closing_statement": "Design for the exceptions, not the average day."
   },
@@ -76,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

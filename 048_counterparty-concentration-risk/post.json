@@ -71,6 +71,10 @@
       {
         "term": "Counterparty",
         "def": "The other party in a business relationship, a customer, supplier, or partner you depend on."
+      },
+      {
+        "term": "Herfindahl index",
+        "def": "A standard measure of concentration: square each party's share and add them up. A result near 1 means a few relationships dominate; near 0 means things are spread evenly."
       }
     ],
     "equation_example": "Share 1 at 30%, Share 2 at 25%, Share 3 at 20%, Share 4 at 15%, Share 5 at 10%. Squared and summed: 0.09 plus 0.0625 plus 0.04 plus 0.0225 plus 0.01 equals 0.225 out of a possible 1.0. Higher, closer to 1, means revenue is concentrated in a few relationships, one loss could sink you. Lower, closer to 0, means revenue is spread evenly and no single relationship can hurt you badly.",
@@ -86,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

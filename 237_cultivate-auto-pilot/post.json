@@ -9,7 +9,7 @@
   "category": "Integration",
   "funnel_stage": "Elite",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,40 +24,35 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Rely on systems, not motivation.",
     "question": "Where are you still relying on motivation that systems should handle?",
-    "equation": "Reliance = 1 - Motivation Dependence",
+    "equation": "Reliance = 1 − (Motivation Dependence ÷ 10)",
     "mental_model": "Plane autopilot.",
     "business_lens": "Standardize processes.",
     "life_lens": "Stocked ingredients.",
     "sop": [
       "Identify the habits that currently depend on how motivated you feel that day",
       "Remove the decision point entirely, pre-decide the time, place, and trigger",
-      "Rate how motivation-dependent each habit currently is (see calculation, page 6)",
+      "Rate how motivation-dependent each habit currently is (see calculation, page 5)",
       "Reduce every friction point between you and the habit, prep the night before, remove extra steps",
       "Test it on your worst-energy day, if it survives that, it's actually on autopilot"
     ],
@@ -68,7 +63,7 @@
       "Which habit only survives on your best days, and what would it take to make it survive your worst ones?"
     ],
     "definitions": [],
-    "equation_example": "Motivation Dependence: rate 1-10 (10 equals only happens when you feel like it). At 8, Reliance equals 1 minus 0.8 equals 0.2, the habit barely survives without motivation. Redesign it down to Motivation Dependence 2: Reliance equals 1 minus 0.2 equals 0.8, it mostly runs itself. Higher reliance means the habit survives low-motivation days; lower reliance means it disappears the moment you're tired or busy.",
+    "equation_example": "Rate Motivation Dependence 1-10 (10 = only happens when you feel like it). At 8: Reliance = 1 − (8 ÷ 10) = 0.2 — the habit barely survives without motivation. Redesign it down to 2: Reliance = 1 − (2 ÷ 10) = 0.8 — it mostly runs itself. Higher reliance means the habit survives low-motivation days; lower means it disappears the moment you're tired.",
     "closing_statement": "A motivation-dependent habit is still fragile."
   },
   "caption": "Principle Nº 237: Cultivate Auto-Pilot\n\nRely on systems, not motivation. Motivation is real, but it's also unreliable by design, it fluctuates with sleep, stress, and mood, which makes it a bad foundation for anything you need to happen consistently.\n\nAsk yourself: Where are you still relying on motivation that systems should handle?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -81,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

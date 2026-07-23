@@ -24,17 +24,17 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
@@ -67,7 +67,12 @@
       "How long does it take you to come down from a stress spike, minutes, or does it linger for the rest of the day?",
       "What's the last time you deliberately practiced switching states, instead of just waiting for the stressful moment to pass on its own?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Autonomic nervous system",
+        "def": "The part of your nervous system that runs automatically, controlling stress-and-calm responses (fight-or-flight vs. rest) without conscious effort."
+      }
+    ],
     "equation_example": "Rate each 1-10. State Diversity 6 (number of states you can access on command), Flex 7 (how easily you switch). Resilience = 6 times 7 = 42. Higher score means you can meet a stressful moment with the right state instead of being stuck reacting from whatever state you're already in; a low score means one bad moment tends to color your whole day.",
     "closing_statement": "Resilience is how many states you can reach on command."
   },
@@ -81,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

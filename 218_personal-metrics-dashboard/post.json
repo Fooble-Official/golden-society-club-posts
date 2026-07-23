@@ -9,7 +9,7 @@
   "category": "Performance & Rest",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,26 +24,21 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -58,7 +53,7 @@
       "Pick 3-5 metrics that actually reflect your progress, not vanity numbers, ones you'd act on if they moved",
       "Set up one place to log them (spreadsheet, app, notebook), consistency matters more than the tool",
       "Update the numbers on a fixed cadence, daily for some, weekly for others",
-      "Rate your current visibility into each metric 1-10 before you start tracking (see calculation, page 6)",
+      "Rate your current visibility into each metric 1-10 before you start tracking (see calculation, page 5)",
       "Review the trend monthly, not just the latest number, one data point is noise"
     ],
     "explainer": "Insight doesn't come from having more experience or better instincts, it comes from being able to actually see the pattern, which requires the number to exist somewhere outside your memory. A dashboard doesn't create the progress; it just makes progress (or its absence) impossible to lie to yourself about.",
@@ -81,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

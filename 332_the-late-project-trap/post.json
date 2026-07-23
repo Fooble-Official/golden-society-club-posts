@@ -1,0 +1,94 @@
+{
+  "order": 332,
+  "day": 332,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "332",
+  "title": "The Late-Project Trap",
+  "slug": "the-late-project-trap",
+  "category": "Organization & Execution",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Adding people to a project that's already late will make it later, not sooner.",
+    "explainer": "New people don't produce instantly; they must be trained and coordinated by the very people who are already behind. Communication overhead grows faster than the headcount you add, so the team slows down before it ever speeds up.",
+    "questions": [
+      "When you're behind, is your instinct to add bodies, and has that ever actually pulled a deadline in?",
+      "How much of your existing team's time would be swallowed onboarding and coordinating each new person?",
+      "Is the real problem a shortage of hands, or a scope and sequencing problem that more hands can't fix?"
+    ],
+    "sop": [
+      "Before adding anyone to a late project, count the people already on it (see calculation, page 6).",
+      "Calculate the communication channels at the current size and at the proposed larger size (see calculation, page 6).",
+      "Weigh the jump in channels against the actual work capacity a new person adds after ramp-up time.",
+      "If the overhead outweighs the added output, cut scope or resequence the work instead of adding headcount.",
+      "When you must add people, add them in a small, self-contained pod with a clean interface rather than scattering them across the team."
+    ],
+    "definitions": [
+      {
+        "term": "Communication overhead",
+        "def": "The time and effort a team spends keeping everyone in sync rather than doing the work itself. It rises with the number of possible person-to-person connections, not just headcount."
+      },
+      {
+        "term": "Ramp-up time",
+        "def": "The period a new team member needs to learn the context and become productive, during which they consume more of the team's time than they give back."
+      }
+    ],
+    "equation": "Comms Overhead = People × (People − 1) ÷ 2",
+    "equation_example": "A late project has 10 people: Comms Overhead = 10 × (10 − 1) ÷ 2 = 45 communication channels. Add 2 more and it becomes 12 × (12 − 1) ÷ 2 = 66 channels, 21 new lines of coordination for only 2 new pairs of hands. The bigger the team, the steeper the overhead each extra person imposes.",
+    "closing_statement": "When you're behind, the disciplined move is usually to subtract scope, not to add people.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "When you're behind, is your instinct to add bodies, and has that ever actually pulled a deadline in?"
+  },
+  "caption": "Principle Nº 332: The Late-Project Trap\n\nAdding people to a project that's already late will make it later, not sooner.\n\nAsk yourself: When you're behind, is your instinct to add bodies, and has that ever actually pulled a deadline in?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

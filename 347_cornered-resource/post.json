@@ -1,0 +1,94 @@
+{
+  "order": 347,
+  "day": 347,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "347",
+  "title": "Cornered Resource",
+  "slug": "cornered-resource",
+  "category": "Strategy & Market Power",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Sometimes the whole moat is one asset your rivals simply cannot get their hands on.",
+    "explainer": "A cornered resource, in Hamilton Helmer's 7 Powers, is preferential access to a coveted asset, a patent, a location, a mineral deposit, a signature talent, on terms rivals can't match. Its value is the product of how badly others want it and how completely you've locked it up.",
+    "questions": [
+      "Do you hold any asset that rivals genuinely want but cannot obtain at any reasonable price?",
+      "Is your exclusive access protected by a durable mechanism, or just by luck that could run out?",
+      "If a competitor tried to replicate your edge, exactly which door would be locked to them?"
+    ],
+    "sop": [
+      "Inventory the assets you control: talent, IP, locations, contracts, data, relationships, supply.",
+      "Rate how desirable each asset is to competitors who lack it (see calculation, page 6).",
+      "Rate how exclusively you've secured it, how hard it is for rivals to obtain (see calculation, page 6).",
+      "Reinforce the strongest cornered resource with legal, contractual, or relational locks.",
+      "Avoid betting the business on any asset whose exclusivity is temporary or easily bypassed."
+    ],
+    "definitions": [
+      {
+        "term": "Cornered resource",
+        "def": "Preferential access to a coveted asset that competitors cannot obtain on equal terms, giving you an advantage they can't replicate."
+      },
+      {
+        "term": "Exclusivity",
+        "def": "The degree to which you, and no one else, can access or use a given asset."
+      }
+    ],
+    "equation": "Cornered Resource Value = Asset Desirability × Exclusivity",
+    "equation_example": "Asset Desirability 9 × Exclusivity 8 = 72. High on both means a durable, hard-to-attack advantage; a coveted asset with weak exclusivity (9 × 2 = 18) is a prize rivals will soon share.",
+    "closing_statement": "A real advantage is something others want and cannot simply go out and buy.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Do you hold any asset that rivals genuinely want but cannot obtain at any reasonable price?"
+  },
+  "caption": "Principle Nº 347: Cornered Resource\n\nSometimes the whole moat is one asset your rivals simply cannot get their hands on.\n\nAsk yourself: Do you hold any asset that rivals genuinely want but cannot obtain at any reasonable price?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

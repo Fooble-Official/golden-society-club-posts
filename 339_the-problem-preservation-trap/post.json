@@ -1,0 +1,94 @@
+{
+  "order": 339,
+  "day": 339,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "339",
+  "title": "The Problem-Preservation Trap",
+  "slug": "the-problem-preservation-trap",
+  "category": "Behavioral & Institutional",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Institutions quietly preserve the very problem they were built to solve.",
+    "explainer": "When your income depends on a problem existing, actually solving it ends the paycheck — so organizations drift toward managing problems forever instead of ending them. The stronger the earnings from the problem, the more the incentive bends against the cure.",
+    "questions": [
+      "Which of your recurring revenues depends on a customer problem never fully going away?",
+      "If you solved your clients' problem permanently tomorrow, how much of your income disappears with it?",
+      "Where does your team have a quiet incentive to manage a problem forever rather than end it?"
+    ],
+    "sop": [
+      "Name a problem your business or a department is paid to address.",
+      "Add up the recurring revenue that flows only while that problem persists.",
+      "Add up what you'd earn from solving it permanently — often a one-time or shrinking sum.",
+      "Divide problem revenue by solving revenue to expose your true preservation incentive (see calculation, page 6).",
+      "Redesign pricing or incentives so you profit more from resolution than from the problem's survival."
+    ],
+    "definitions": [
+      {
+        "term": "Institution",
+        "def": "Any established organization or system — a company, agency, charity, or department — that develops its own interest in continuing to exist."
+      },
+      {
+        "term": "Problem-preservation",
+        "def": "The observation that institutions will try to preserve the problem to which they are the solution, because ending the problem would end their reason to exist."
+      }
+    ],
+    "equation": "Preservation Risk = Revenue from the Problem ÷ Revenue from Solving It",
+    "equation_example": "Revenue while the problem persists: $900k/yr. Revenue from actually solving it: $100k one-time. $900k ÷ $100k = 9. A ratio far above 1 means you earn far more from the problem than the cure, so expect it to be managed forever; near or below 1 means solving it pays.",
+    "closing_statement": "Watch who profits from a wound staying open, because they are rarely the ones who will close it.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which of your recurring revenues depends on a customer problem never fully going away?"
+  },
+  "caption": "Principle Nº 339: The Problem-Preservation Trap\n\nInstitutions quietly preserve the very problem they were built to solve.\n\nAsk yourself: Which of your recurring revenues depends on a customer problem never fully going away?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

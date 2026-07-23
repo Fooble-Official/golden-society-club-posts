@@ -1,0 +1,94 @@
+{
+  "order": 365,
+  "day": 365,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "365",
+  "title": "Veil of Ignorance Pricing",
+  "slug": "veil-of-ignorance-pricing",
+  "category": "Behavioral & Institutional",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Set policies you would still accept without knowing which side you will land on.",
+    "explainer": "The Veil of Ignorance, from philosopher John Rawls, tests fairness by stripping away your own position. If you would accept a rule not knowing whether you will be the customer, the vendor, or the worker under it, it is genuinely fair rather than merely self-serving.",
+    "questions": [
+      "Would you accept this policy if you were on the receiving end of it instead of the one writing it?",
+      "Does this rule stay fair only because you happen to hold the stronger position today?",
+      "If you swapped places with the person most affected, what would you want this policy to say?"
+    ],
+    "sop": [
+      "Write down the policy or pricing rule and list everyone it affects, on every side.",
+      "Imagine you do not know which of those positions you will occupy once the rule is live.",
+      "Rate 1-10 how acceptable the policy is to each side from behind that veil (see calculation, page 6).",
+      "Divide the acceptability score by 10 to get a fairness reading, and revise anything that only works from your own seat.",
+      "Publish the rule and hold yourself to it as if you might be assigned the least powerful side tomorrow."
+    ],
+    "definitions": [
+      {
+        "term": "Veil of ignorance",
+        "def": "A thought experiment by philosopher John Rawls: choose the rules of a system as if you did not know what position you would hold within it. It forces fairness by removing self-interest."
+      },
+      {
+        "term": "Acceptability to both sides",
+        "def": "How willingly every party affected by a rule would agree to it if they did not yet know which side they would end up on."
+      }
+    ],
+    "equation": "Fairness Score = Acceptability to Both Sides ÷ 10",
+    "equation_example": "Rate acceptability across all sides 1-10 behind the veil. A refund policy scoring 8 gives 8 ÷ 10 = 0.8, a fair rule most sides would accept. A one-sided clause scoring 3 gives 3 ÷ 10 = 0.3, a signal to rewrite it; higher scores mean the rule survives a change of seats, lower scores mean it only serves you.",
+    "closing_statement": "The rules you would still accept as the weakest party are the only ones worth building your reputation on.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Would you accept this policy if you were on the receiving end of it instead of the one writing it?"
+  },
+  "caption": "Principle Nº 365: Veil of Ignorance Pricing\n\nSet policies you would still accept without knowing which side you will land on.\n\nAsk yourself: Would you accept this policy if you were on the receiving end of it instead of the one writing it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

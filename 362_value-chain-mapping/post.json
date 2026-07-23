@@ -1,0 +1,98 @@
+{
+  "order": 362,
+  "day": 362,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "362",
+  "title": "Value-Chain Mapping",
+  "slug": "value-chain-mapping",
+  "category": "Strategy & Market Power",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Map your components by user-value and how evolved they are to see where to move next.",
+    "explainer": "You cannot craft strategy on a landscape you cannot see. This mapping plots each part of your value chain against how visible it is to the user and how mature it has become, so you know what to build, buy, or outsource.",
+    "questions": [
+      "Which parts of your business are you still building custom that the market now sells as a commodity?",
+      "Can you actually see how each component connects to the customer, or are you guessing?",
+      "Where on the map is your effort going, and does that match where your real advantage lives?"
+    ],
+    "sop": [
+      "List every component your product depends on, from the visible customer need down to the underlying infrastructure.",
+      "Rate 1-10 how visible each component is to the end user (see calculation, page 6).",
+      "Rate each component's evolution stage from 1 genesis to 4 commodity, then scale it 1-10 (see calculation, page 6).",
+      "Multiply the two to position each component, and plot them into a map of your value chain.",
+      "Move effort toward what is novel and valuable, and buy or outsource anything that has become a commodity."
+    ],
+    "definitions": [
+      {
+        "term": "Value-chain map",
+        "def": "A strategy map that plots the components of a business against how visible they are to the user and how evolved they are, from brand-new to commodity."
+      },
+      {
+        "term": "Evolution stage",
+        "def": "How mature a component is: genesis (brand new), custom-built, product/rental, or commodity/utility. Things drift rightward over time as they standardize."
+      },
+      {
+        "term": "Value chain",
+        "def": "The linked sequence of components and activities that together deliver value to the customer, from the visible need down to the hidden infrastructure."
+      }
+    ],
+    "equation": "Component Position = Visibility to User × Evolution Stage",
+    "equation_example": "Rate visibility 1-10 and evolution 1-10 (stage 1-4 scaled). A payment feature: Visibility to User 9 × Evolution Stage 8 = 72, meaning it is highly visible and near-commodity, so buy it, do not build it. A low score flags something novel and hidden that may be worth building yourself.",
+    "closing_statement": "You spend your life on a landscape whether or not you bother to see it; drawing the map is how you stop wandering.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which parts of your business are you still building custom that the market now sells as a commodity?"
+  },
+  "caption": "Principle Nº 362: Value-Chain Mapping\n\nMap your components by user-value and how evolved they are to see where to move next.\n\nAsk yourself: Which parts of your business are you still building custom that the market now sells as a commodity?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

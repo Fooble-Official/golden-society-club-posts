@@ -1,0 +1,94 @@
+{
+  "order": 337,
+  "day": 337,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "337",
+  "title": "The Build-vs-Buy Boundary",
+  "slug": "the-build-vs-buy-boundary",
+  "category": "Economics & Scale",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Build it in-house only until buying it on the market costs you less.",
+    "explainer": "A company exists because doing some things internally beats paying the market's costs of finding, negotiating, and policing a supplier — but that advantage has an edge. Grow past the point where internal cost exceeds the market's, and you're keeping work you should be buying.",
+    "questions": [
+      "Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?",
+      "What are the hidden transaction costs — contracting, monitoring, quality risk — of the things you currently outsource?",
+      "As you grow, which internal task has quietly become more expensive to run than to simply buy?"
+    ],
+    "sop": [
+      "Pick one function you currently perform in-house — support, fulfillment, design, or bookkeeping.",
+      "Add up its true internal cost: labor, tools, overhead, and your own coordination time.",
+      "Get real market quotes and add the transaction costs of buying — vetting, contracting, monitoring, quality risk.",
+      "Compare internal cost to market transaction cost and keep it in-house only while internal is cheaper (see calculation, page 6).",
+      "Re-run this test as you scale, since the cheaper side flips as volume and complexity change."
+    ],
+    "definitions": [
+      {
+        "term": "Transaction cost",
+        "def": "The full cost of making an exchange on the market: finding a supplier, negotiating, writing and enforcing contracts, and monitoring the quality you get."
+      },
+      {
+        "term": "Theory of the firm",
+        "def": "The idea that companies exist because handling some tasks internally is cheaper than buying them on the open market — and should grow only until that stops being true."
+      }
+    ],
+    "equation": "Firm Boundary: Internal Cost = Market Transaction Cost",
+    "equation_example": "In-house: production $4,000 + management $2,000 = $6,000/mo. Buying: price $4,500 + contracting $1,000 = $5,500/mo. $6,000 > $5,500, so the market is cheaper — outsource it. When your internal cost falls below the market's $5,500, bring it back in-house.",
+    "closing_statement": "The right size for anything is the point where doing it yourself stops being worth it.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?"
+  },
+  "caption": "Principle Nº 337: The Build-vs-Buy Boundary\n\nBuild it in-house only until buying it on the market costs you less.\n\nAsk yourself: Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

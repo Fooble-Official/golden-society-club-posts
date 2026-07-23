@@ -9,7 +9,7 @@
   "category": "Cybernetics",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,7 +46,7 @@
     "life_lens": "Track steps vs goal; adjust.",
     "sop": [
       "Define one specific numeric target for the area you care about most (revenue, weight, savings, output).",
-      "Measure your current state against it honestly this week (see calculation, page 5).",
+      "Measure your current state against it honestly this week (see calculation, page 4).",
       "Calculate the gap, Target minus Current, don't round it in your favor.",
       "If the gap exists, take one specific corrective action proportional to its size.",
       "Re-measure on a fixed schedule (weekly or monthly), not whenever you happen to think of it."
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

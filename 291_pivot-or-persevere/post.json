@@ -9,7 +9,7 @@
   "category": "Lean Startup",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,33 +24,28 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Decide regularly whether to change strategy or double down.",
     "question": "What criteria would tell me to pivot rather than persevere, and have I written them down before the data comes in?",
-    "equation": "Pivot Quality = Data Honesty × Pre-Set Criteria × Decision Speed",
+    "equation": "Pivot Quality = (Data Honesty + Pre-Set Criteria + Decision Speed) ÷ 3",
     "mental_model": "Fork in the road, keep walking or take the new path.",
     "business_lens": "Set quarterly pivot criteria in advance; review honestly; pivot one variable at a time.",
     "life_lens": "Define in advance what would make you change course so emotion does not run the decision.",
@@ -68,7 +63,7 @@
       "If you changed exactly one variable, segment, price, channel, or feature, which one would you bet resolves the most uncertainty fastest?"
     ],
     "definitions": [],
-    "equation_example": "Rate each 1-10. Data Honesty 8, Pre-Set Criteria 6, Decision Speed 7. Score = (8 plus 6 plus 7) divided by 3 = 7.0. Higher means your pivot decisions are evidence-driven and fast; lower means you're deciding on mood, after the fact, or too slowly for the decision to matter.",
+    "equation_example": "Rate each 1-10. Data Honesty 8, Pre-Set Criteria 6, Decision Speed 7. Score = (8 + 6 + 7) ÷ 3 = 7.0. Higher means your pivot decisions are evidence-driven and fast; lower means you're deciding on mood, after the fact, or too slowly for the decision to matter.",
     "closing_statement": "Advance criteria protect you from your own hope."
   },
   "caption": "Principle Nº 291: Pivot or Persevere\n\nDecide regularly whether to change strategy or double down. Twitter began as Odeo (podcast platform).\n\nAsk yourself: What criteria would tell me to pivot rather than persevere, and have I written them down before the data comes in?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -81,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

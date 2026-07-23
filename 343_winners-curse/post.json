@@ -1,0 +1,94 @@
+{
+  "order": 343,
+  "day": 343,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "343",
+  "title": "Winner's Curse",
+  "slug": "winners-curse",
+  "category": "Risk & Uncertainty",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "In a real auction, beating everyone usually means you were the one who misjudged the value.",
+    "explainer": "When many bidders estimate an uncertain value, the winner is systematically the one who overestimated most, so winning itself is evidence you paid too much. This is why aggressive acquirers, spectrum bidders, and hot-market buyers so often earn poor returns.",
+    "questions": [
+      "When you last won a competitive deal, did you check how far your bid sat above the pack, or just celebrate winning?",
+      "Are you bidding against other people's estimates, or against your own independent read of what the asset is actually worth?",
+      "In the deals you lose, who wins, and are they consistently the ones who later regret it?"
+    ],
+    "sop": [
+      "Estimate the asset's value independently before you ever see competing bids or ask the price.",
+      "Collect or infer the range of what other serious bidders are likely offering.",
+      "Compute the gap between your intended bid and the average of the field (see calculation, page 6).",
+      "Shade your bid downward to offset the fact that winning means you were the most optimistic estimator.",
+      "Walk away when the only way to win is to bid past your independent value line."
+    ],
+    "definitions": [
+      {
+        "term": "Winner's curse",
+        "def": "The tendency, in auctions for things of uncertain value, for the winning bidder to be the one who most overestimated the prize, and therefore to overpay."
+      },
+      {
+        "term": "Competitive bid",
+        "def": "A situation where multiple buyers submit offers for the same asset and the highest offer wins."
+      }
+    ],
+    "equation": "Overpayment = Winning Bid − Average Bid",
+    "equation_example": "Winning Bid $1,200,000 − Average Bid $900,000 = $300,000 of likely overpayment. A large gap above the field is a warning that you were the outlier optimist; a bid near the average means the crowd's collective estimate is backing you up.",
+    "closing_statement": "Knowing what a thing is worth to you matters more than the thrill of outbidding everyone else.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "When you last won a competitive deal, did you check how far your bid sat above the pack, or just celebrate winning?"
+  },
+  "caption": "Principle Nº 343: Winner's Curse\n\nIn a real auction, beating everyone usually means you were the one who misjudged the value.\n\nAsk yourself: When you last won a competitive deal, did you check how far your bid sat above the pack, or just celebrate winning?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

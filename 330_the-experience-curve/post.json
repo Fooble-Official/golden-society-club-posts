@@ -1,0 +1,94 @@
+{
+  "order": 330,
+  "day": 330,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "330",
+  "title": "The Experience Curve",
+  "slug": "the-experience-curve",
+  "category": "Economics & Scale",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Every time you double your total output, your cost per unit drops by a fixed percent.",
+    "explainer": "Cost falls with accumulated experience, not with the calendar. The operator who understands this prices for the volume they will reach, not the volume they have today.",
+    "questions": [
+      "Do you know your learning rate, how much your unit cost actually drops each time cumulative output doubles?",
+      "Are you pricing off today's high early-stage cost, or off the lower cost you'll hit once volume compounds?",
+      "How far away is your next doubling of cumulative output, and what does that do to your margins?"
+    ],
+    "sop": [
+      "Pick one product or process and pull your cost per unit at two points in its history where cumulative output roughly doubled.",
+      "Divide the later unit cost by the earlier one to find your learning rate, the fraction that cost survives per doubling (see calculation, page 6).",
+      "Estimate how many more doublings of cumulative output are realistically ahead of you.",
+      "Project your future unit cost by applying the learning rate across those doublings (see calculation, page 6).",
+      "Set pricing and capacity decisions against that projected cost curve, not against today's early-stage cost."
+    ],
+    "definitions": [
+      {
+        "term": "Cumulative output",
+        "def": "The running total of everything you have ever produced, not your current monthly volume. Doublings are measured against this lifetime total."
+      },
+      {
+        "term": "Learning Rate",
+        "def": "The fraction of unit cost that remains after each doubling of cumulative output. A 0.85 learning rate means cost drops 15% per doubling; the smaller the number, the steeper the savings."
+      }
+    ],
+    "equation": "New Cost = Old Cost × Learning Rate ^ (Doublings)",
+    "equation_example": "Your unit cost is $100 today, with a learning rate of 0.85 (15% off per doubling), and you expect 3 more doublings of cumulative output. New Cost = $100 × 0.85 ^ 3 = $100 × 0.614 = $61.41 per unit. A lower learning rate (steeper savings) or more doublings ahead means dramatically cheaper units; a rate near 1 means experience barely helps you.",
+    "closing_statement": "Mastery is cumulative: what feels expensive today gets cheaper every time you double the reps behind you.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Do you know your learning rate, how much your unit cost actually drops each time cumulative output doubles?"
+  },
+  "caption": "Principle Nº 330: The Experience Curve\n\nEvery time you double your total output, your cost per unit drops by a fixed percent.\n\nAsk yourself: Do you know your learning rate, how much your unit cost actually drops each time cumulative output doubles?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

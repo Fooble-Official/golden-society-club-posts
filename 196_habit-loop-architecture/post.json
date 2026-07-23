@@ -9,7 +9,7 @@
   "category": "Behavioral Design",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -19,31 +19,26 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -58,7 +53,7 @@
       "Identify the cue that currently triggers the habit you want to change or build.",
       "Make the desired action as small as physically possible, smaller than feels necessary.",
       "Attach an immediate reward to the new action, not a delayed one, your brain needs to feel it now.",
-      "Rate Cue clarity and Reward strength, 1-10 each (see calculation, page 6), and strengthen whichever is weaker.",
+      "Rate Cue clarity and Reward strength, 1-10 each (see calculation, page 5), and strengthen whichever is weaker.",
       "Repeat in the exact same context for at least 2 weeks before increasing difficulty."
     ],
     "explainer": "",
@@ -86,5 +81,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

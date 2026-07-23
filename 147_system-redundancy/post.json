@@ -9,7 +9,7 @@
   "category": "Operator Level",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -19,44 +19,39 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Backup prevents collapse.",
     "question": "What's your biggest single-point-of-failure right now?",
-    "equation": "Stability equals Backup Systems divided by Critical Systems.",
+    "equation": "Stability = Backup Systems ÷ Critical Systems",
     "mental_model": "Plan B.",
     "business_lens": "Backup income streams.",
     "life_lens": "Backup meals, routines.",
     "sop": [
       "List every Critical System your business can't function without (payment processor, main client, key platform).",
-      "Count how many of them currently have a working Backup System versus none (see calculation, page 6)",
+      "Count how many of them currently have a working Backup System versus none (see calculation, page 5)",
       "Build a backup for your single highest-risk critical system this month.",
       "Test that backup once, for real, not just in theory.",
       "Re-audit every 6 months as your critical systems change."
@@ -73,7 +68,7 @@
         "def": "One thing whose breakage would stop everything."
       }
     ],
-    "equation_example": "Backup Systems equals 2, Critical Systems equals 5. Stability equals 40% out of 100%. Higher means more of your critical functions have a working backup in place. Lower means most critical functions have zero redundancy, one failure stops you completely.",
+    "equation_example": "Backup Systems = 2, Critical Systems = 5. Stability = 2 ÷ 5 = 40% out of 100%. Higher means more of your critical functions have a working backup in place. Lower means most critical functions have zero redundancy — one failure stops you completely.",
     "closing_statement": "One working system is one failure away from zero."
   },
   "caption": "Principle Nº 147: System Redundancy\n\nBackup prevents collapse.\n\nAsk yourself: What's your biggest single-point-of-failure right now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -86,5 +81,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

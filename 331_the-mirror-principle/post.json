@@ -1,0 +1,94 @@
+{
+  "order": 331,
+  "day": 331,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "331",
+  "title": "The Mirror Principle",
+  "slug": "the-mirror-principle",
+  "category": "Organization & Execution",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Your product's structure ends up mirroring the shape of your org chart.",
+    "explainer": "Systems copy the communication paths of the people who build them, so a fragmented team ships a fragmented product. If you want clean architecture, design the team before you design the system.",
+    "questions": [
+      "Do the seams and handoffs in your product line up suspiciously with the boundaries between your teams?",
+      "Are two features awkwardly glued together because two groups that never talk had to build them separately?",
+      "If you redrew your org chart around the product you want, how different would it look from today's?"
+    ],
+    "sop": [
+      "Map your product's major components and note which team or person owns each one.",
+      "Count the number of distinct teams or independent contributors involved in building it (see calculation, page 6).",
+      "Compute the coordination interfaces that org structure forces on you and treat that as your true complexity cost (see calculation, page 6).",
+      "Find every product seam that exists only because two teams had to hand off, not because the design demanded it.",
+      "Reshape team boundaries to match the architecture you actually want, then let the product structure follow."
+    ],
+    "definitions": [
+      {
+        "term": "Coordination interface",
+        "def": "A required line of communication between two teams that must sync to build something together. More teams means more of these connections, each one a place for friction and mismatch."
+      },
+      {
+        "term": "Org chart",
+        "def": "The map of who reports to whom and which group owns what. This map quietly imprints itself onto whatever the organization builds."
+      }
+    ],
+    "equation": "Coordination Interfaces = Teams × (Teams − 1) ÷ 2",
+    "equation_example": "You have 6 teams building one product. Coordination Interfaces = 6 × (6 − 1) ÷ 2 = 6 × 5 ÷ 2 = 15 communication seams the product must span. More teams means the interface count climbs fast and the product fractures along those lines; fewer, well-bounded teams means cleaner architecture.",
+    "closing_statement": "What you build will always carry the fingerprints of how you organized to build it, so shape the team with intention.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Do the seams and handoffs in your product line up suspiciously with the boundaries between your teams?"
+  },
+  "caption": "Principle Nº 331: The Mirror Principle\n\nYour product's structure ends up mirroring the shape of your org chart.\n\nAsk yourself: Do the seams and handoffs in your product line up suspiciously with the boundaries between your teams?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

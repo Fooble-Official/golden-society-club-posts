@@ -1,0 +1,98 @@
+{
+  "order": 335,
+  "day": 335,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "335",
+  "title": "Bullwhip Effect",
+  "slug": "bullwhip-effect",
+  "category": "Operations & Flow",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Small swings in customer demand amplify into huge swings the further upstream you go.",
+    "explainer": "Each tier in a supply chain over-reacts to the tier below it, inflating orders to protect itself, so a tiny blip at the customer end becomes a violent surge at the factory. Recognizing it stops you from mistaking noise for a real trend.",
+    "questions": [
+      "Are your upstream orders swinging far harder than your actual end-customer demand is?",
+      "How many tiers sit between your real demand signal and the decisions your suppliers make?",
+      "Are you reacting to a genuine shift in demand, or amplifying normal noise into a panic order?"
+    ],
+    "sop": [
+      "Measure your true end-customer demand swing, the percentage it actually moves week to week (see calculation, page 6).",
+      "Count the tiers between that real demand and your furthest-upstream supplier (see calculation, page 6).",
+      "Estimate how much the swing amplifies across those tiers to see the surge your suppliers experience.",
+      "Share real demand data upstream so each tier reacts to the customer, not to the tier below it.",
+      "Smooth your own ordering with steadier reorder rules so you stop injecting whip into the chain."
+    ],
+    "definitions": [
+      {
+        "term": "Upstream",
+        "def": "The direction toward raw materials and suppliers, away from the end customer. The further upstream a tier sits, the more distorted the demand signal it receives."
+      },
+      {
+        "term": "Demand swing",
+        "def": "The size of the change in actual end-customer demand, usually expressed as a percentage move up or down over a period."
+      },
+      {
+        "term": "Tiers amplified",
+        "def": "The number of hand-off layers between real demand and a given supplier, each of which magnifies the swing as it passes upward."
+      }
+    ],
+    "equation": "Upstream Swing = Demand Swing × Tiers Amplified",
+    "equation_example": "Real customer demand moves just 10%, and there are 4 tiers between the customer and your raw-material supplier. Upstream Swing = 10% × 4 = a 40% swing hitting the top of the chain. The more tiers and the less shared data, the more a small blip becomes a violent surge; a short, transparent chain keeps the swing small.",
+    "closing_statement": "Trace a reaction back to the real signal before you amplify it, in supply chains and in life.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Are your upstream orders swinging far harder than your actual end-customer demand is?"
+  },
+  "caption": "Principle Nº 335: Bullwhip Effect\n\nSmall swings in customer demand amplify into huge swings the further upstream you go.\n\nAsk yourself: Are your upstream orders swinging far harder than your actual end-customer demand is?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

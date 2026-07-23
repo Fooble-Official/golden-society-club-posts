@@ -1,0 +1,98 @@
+{
+  "order": 352,
+  "day": 352,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "352",
+  "title": "Diffusion of Innovations",
+  "slug": "diffusion-of-innovations",
+  "category": "Network & Growth",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "New ideas spread first through a brave few, then accelerate as everyone copies the crowd.",
+    "explainer": "Adoption is driven by two forces: a steady 'innovation' pull that reaches independent early adopters, and an 'imitation' pull that grows as more people adopt and social proof compounds. Together they trace the S-curve — slow start, steep middle, saturation — described by diffusion of innovations.",
+    "questions": [
+      "Are you still marketing to innovators when your growth now depends on triggering the imitators who copy peers?",
+      "What social proof are you giving the majority — proof that people like them already adopted — or are you only pushing product features?",
+      "Are you mistaking the slow early-adopter phase for failure, right before the imitation pull would have made the curve steepen?"
+    ],
+    "sop": [
+      "Estimate your total addressable Market in number of potential adopters.",
+      "Estimate Innovation Pull: adopters you win per period from outreach independent of social proof.",
+      "Estimate Imitation Pull: the strength of word-of-mouth and copying once people see others adopt.",
+      "Count how many have already Adopted, then compute New Adopters for the period (see calculation, page 6).",
+      "Shift spend from awareness to visible social proof as the Adopted-to-Market ratio climbs into the steep part of the curve."
+    ],
+    "definitions": [
+      {
+        "term": "Diffusion of innovations",
+        "def": "A theory (Everett Rogers) describing how a new product or idea spreads through a population over time, following an S-shaped adoption curve from innovators to laggards."
+      },
+      {
+        "term": "Innovation pull",
+        "def": "Adoption driven by external influence — advertising, discovery, independent decision — that does not depend on how many others have already adopted."
+      },
+      {
+        "term": "Imitation pull",
+        "def": "Adoption driven by social proof — people copying peers — which grows stronger as the adopted share of the market rises."
+      }
+    ],
+    "equation": "New Adopters = Innovation Pull + Imitation Pull × (Adopted ÷ Market)",
+    "equation_example": "Innovation Pull 50 + Imitation Pull 400 × (Adopted 2,000 ÷ Market 10,000) = 50 + 400 × 0.2 = 50 + 80 = 130 new adopters. Early on, the small Adopted ratio makes imitation weak and innovation carries growth; as the ratio climbs, the imitation term dominates and the curve steepens.",
+    "closing_statement": "Patience in the flat part of the curve is what earns you the steep part.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Are you still marketing to innovators when your growth now depends on triggering the imitators who copy peers?"
+  },
+  "caption": "Principle Nº 352: Diffusion of Innovations\n\nNew ideas spread first through a brave few, then accelerate as everyone copies the crowd.\n\nAsk yourself: Are you still marketing to innovators when your growth now depends on triggering the imitators who copy peers?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

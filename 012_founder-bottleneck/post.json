@@ -71,9 +71,13 @@
       {
         "term": "Bottleneck",
         "def": "The slowest or most constrained step in a system."
+      },
+      {
+        "term": "Throughput",
+        "def": "The rate of output per unit of time. A bottleneck reduces throughput. Speeding up the bottleneck speeds the whole system."
       }
     ],
-    "equation_example": "Calculate Founder Decisions ÷ Total Decisions as a percentage (e.g., 40 of 100 weekly decisions route through you = 40%), then rate average Delay 1-10 (hours a decision waits for you, scaled). 40% × Delay 6 → FBT = 24. Higher FBT means you're the bottleneck slowing the whole company down; lower means decisions move without waiting on you.",
+    "equation_example": "40 of 100 weekly decisions route through you = 0.40. Rate average Delay 1-10 (how long a decision waits on you): 6. FBT = 0.40 × 6 = 2.4. Higher means you're the bottleneck slowing the whole company; lower means decisions move without waiting on you.",
     "closing_statement": "Speed comes from decisions that don't wait on you."
   },
   "caption": "Principle Nº 12: Founder Bottleneck\n\nSpeed = decision decentralization. You are the slowest node.\n\nAsk yourself: Which 3 decisions does your team still route through you that they could own? What's the framework you need to hand them?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -86,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

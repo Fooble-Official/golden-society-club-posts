@@ -1,0 +1,98 @@
+{
+  "order": 341,
+  "day": 341,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "341",
+  "title": "Bad Drives Out Good",
+  "slug": "bad-drives-out-good",
+  "category": "Behavioral & Institutional",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "When buyers can't see quality and the price won't move, bad drives out good.",
+    "explainer": "If a fixed price can't reward better quality and customers can't tell the difference before buying, the honest seller's extra effort goes unpaid — so quality quietly exits the market. Hidden quality plus rigid pricing is how good options get competed out by cheaper fakes.",
+    "questions": [
+      "Where do buyers in your market pay one price but can't tell your quality from a cheaper fake?",
+      "Is your best work being undercut because customers can't see the difference before they buy?",
+      "What signal, guarantee, or proof could make your quality visible enough to command its price?"
+    ],
+    "sop": [
+      "Spot a market where you sell at a fixed or expected price and buyers can't verify quality upfront.",
+      "Rate how hidden your quality is to buyers before they purchase, from 1 to 10 (see calculation, page 6).",
+      "Rate how rigid the price is — how little it can flex to reward better quality — from 1 to 10 (see calculation, page 6).",
+      "Multiply the two scores to gauge how strongly bad offerings will drive out good ones (see calculation, page 6).",
+      "Attack a high score with visible proof — guarantees, transparency, reviews, credible signals — so quality can command its price."
+    ],
+    "definitions": [
+      {
+        "term": "Adverse selection",
+        "def": "When one side of a deal knows more about quality than the other, and that hidden information pushes the good options out of the market."
+      },
+      {
+        "term": "Price rigidity",
+        "def": "When a price is fixed or slow to move, so it can't adjust to reflect real differences in quality between sellers."
+      },
+      {
+        "term": "Bad drives out good",
+        "def": "Originally about money. When two things trade at one fixed value but differ in real worth, people pass on the worse one and hold back the better."
+      }
+    ],
+    "equation": "Adverse Selection = Quality Opacity × Price Rigidity",
+    "equation_example": "Quality Opacity 8 × Price Rigidity 7 = 56 out of 100. A high score means buyers can't tell good from bad at a fixed price, so sellers of quality quit the market; a low score means quality can command its price and survive.",
+    "closing_statement": "In a world that hides quality, the honest move is to make yours impossible to fake.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Where do buyers in your market pay one price but can't tell your quality from a cheaper fake?"
+  },
+  "caption": "Principle Nº 341: Bad Drives Out Good\n\nWhen buyers can't see quality and the price won't move, bad drives out good.\n\nAsk yourself: Where do buyers in your market pay one price but can't tell your quality from a cheaper fake?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

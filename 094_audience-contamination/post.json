@@ -71,6 +71,10 @@
       {
         "term": "CPM",
         "def": "Cost per thousand ad impressions, what you pay to show your ad 1,000 times."
+      },
+      {
+        "term": "Lookalike audience",
+        "def": "An ad-targeting group the platform builds by finding new people who resemble your existing customers."
       }
     ],
     "equation_example": "Wrong Audience percentage 30%, Reinforcement Rate 1.5 (how aggressively the algorithm is chasing that audience), CPM $12. 0.30 times 1.5 times 12 equals $5.40. Higher means more of your ad budget is being spent training the algorithm toward the wrong audience; lower means your targeting is staying clean.",
@@ -86,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

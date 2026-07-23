@@ -1,0 +1,94 @@
+{
+  "order": 333,
+  "day": 333,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "333",
+  "title": "The Square-Root Rule",
+  "slug": "the-square-root-rule",
+  "category": "Organization & Execution",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The square root of your headcount produces about half of all the output.",
+    "explainer": "Contribution is wildly uneven, concentrated in a small core, not spread evenly across the team. Knowing this changes who you protect, who you develop, and how you read your own org.",
+    "questions": [
+      "Do you actually know which handful of people generate the bulk of your real output?",
+      "Are you rewarding and protecting that core, or spreading attention evenly as if everyone contributes the same?",
+      "As you scale, is your top tier growing fast enough to carry a much larger base?"
+    ],
+    "sop": [
+      "Count your total contributors on a given function, team, or platform (see calculation, page 6).",
+      "Take the square root of that count to estimate the size of your true top-producer core (see calculation, page 6).",
+      "Identify who those people actually are by output, not title or tenure.",
+      "Build retention and development deliberately around that core, since losing one of them costs far more than losing an average contributor.",
+      "Watch the ratio as you grow; if headcount balloons but top producers don't multiply, your output per head is decaying."
+    ],
+    "definitions": [
+      {
+        "term": "Top producers",
+        "def": "The small group responsible for a disproportionate share of total output. This group is roughly the square root of the total headcount."
+      },
+      {
+        "term": "Headcount",
+        "def": "The total number of people contributing to a defined body of work, the pool the square root is taken from."
+      }
+    ],
+    "equation": "Top Producers = √(Total People)",
+    "equation_example": "You have 100 people contributing to a domain. Top Producers = √100 = 10 people generating roughly half the total output. As headcount grows, this core grows far more slowly (400 people still yields only 20), so the bigger you get, the more concentrated and precious your top tier becomes.",
+    "closing_statement": "Recognize and guard the few who carry the weight, because contribution is never as evenly shared as it looks.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Do you actually know which handful of people generate the bulk of your real output?"
+  },
+  "caption": "Principle Nº 333: The Square-Root Rule\n\nThe square root of your headcount produces about half of all the output.\n\nAsk yourself: Do you actually know which handful of people generate the bulk of your real output?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

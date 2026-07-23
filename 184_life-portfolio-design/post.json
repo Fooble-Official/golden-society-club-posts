@@ -19,17 +19,17 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
@@ -62,7 +62,12 @@
       "If your business disappeared tomorrow, what else in your life would still be standing?",
       "Are you as diversified in health, relationships, and identity as you are in income?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Concentration risk",
+        "def": "The danger of having too much riding on a single area, source, or bet. If that one thing fails, everything is exposed; spreading out reduces it."
+      }
+    ],
     "equation_example": "Rate each 1-10: Diversification (spread across life areas), Balance (no single area dominating). Diversification 6 times Balance 7 equals 42. Higher means your life can absorb a hit to one area without collapsing; lower means everything depends on one area holding up.",
     "closing_statement": "Don't let one life area carry all the weight."
   },
@@ -76,5 +81,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

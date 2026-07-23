@@ -1,0 +1,90 @@
+{
+  "order": 340,
+  "day": 340,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "340",
+  "title": "The Fence Principle",
+  "slug": "the-fence-principle",
+  "category": "Behavioral & Institutional",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Don't tear down a rule until you understand why someone built it.",
+    "explainer": "Rules and constraints usually exist because they once solved a real problem you may no longer see. Removing one you don't understand isn't boldness — it's gambling that the original danger has vanished.",
+    "questions": [
+      "Which rule or process are you itching to delete without knowing why it was put there?",
+      "Who created the constraint you're about to remove, and what were they protecting against?",
+      "What's the worst that could happen if the reason for this old rule still quietly holds?"
+    ],
+    "sop": [
+      "Identify the rule, process, or constraint you want to remove.",
+      "Trace who put it there and what problem they were solving — ask people, dig through history, don't guess.",
+      "Rate your understanding of its original purpose from 1 to 10 (see calculation, page 6).",
+      "If you score low, keep the rule in place and keep investigating until the reason is clear.",
+      "Remove it only once you understand it and can confirm the original risk is genuinely gone."
+    ],
+    "definitions": [
+      {
+        "term": "The fence rule",
+        "def": "Don't take down a fence until you know why it was put up, because it may be quietly solving a problem you can't currently see."
+      }
+    ],
+    "equation": "Removal Safety = Understanding of Its Original Purpose (rate 1-10)",
+    "equation_example": "You rate your understanding of the rule's original purpose at 3 out of 10. 3 ÷ 10 = 0.3 — low removal safety, so leave it alone for now. When your understanding reaches 9 ÷ 10 = 0.9, you can remove it with real confidence.",
+    "closing_statement": "Respecting what you don't yet understand is the humility that keeps you from breaking things still holding weight.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which rule or process are you itching to delete without knowing why it was put there?"
+  },
+  "caption": "Principle Nº 340: The Fence Principle\n\nDon't tear down a rule until you understand why someone built it.\n\nAsk yourself: Which rule or process are you itching to delete without knowing why it was put there?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

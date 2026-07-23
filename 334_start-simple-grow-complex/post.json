@@ -1,0 +1,94 @@
+{
+  "order": 334,
+  "day": 334,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "334",
+  "title": "Start Simple, Grow Complex",
+  "slug": "start-simple-grow-complex",
+  "category": "Systems & Complexity",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Every working complex system grew out of a working simple one.",
+    "explainer": "You cannot design a complex system that works from scratch; complexity that works is always evolved, never installed. So launch something small that works and let it earn its complexity.",
+    "questions": [
+      "Are you trying to launch a fully complex system at once, or a simple one that actually works today?",
+      "Which parts of your grand design are unproven complexity you're adding before the core even functions?",
+      "Can you point to the working simple version that your current complex plan is supposed to have grown from?"
+    ],
+    "sop": [
+      "Write down the smallest version of your system that would genuinely work end to end for one real user.",
+      "Rate how simple that launch version is on a 1-10 scale (see calculation, page 6).",
+      "Rate how much complexity you're actually planning to ship at launch on a 1-10 scale (see calculation, page 6).",
+      "Divide simplicity by complexity; if the ratio is below 1, strip features until the working core stands alone.",
+      "Ship the simple working version first, then add complexity only where real usage proves it's needed."
+    ],
+    "definitions": [
+      {
+        "term": "Working simple system",
+        "def": "A minimal version that genuinely functions end to end, not a stripped-down mockup. Only this can reliably evolve into a working complex system."
+      },
+      {
+        "term": "Evolved complexity",
+        "def": "Complexity that was added gradually onto a functioning base, each layer tested by real use, as opposed to complexity designed in all at once."
+      }
+    ],
+    "equation": "Survival Odds = Simplicity at Launch ÷ Complexity at Launch",
+    "equation_example": "Rate each 1-10. Simplicity at launch 8, complexity at launch 2. Survival Odds = 8 ÷ 2 = 4, comfortably above 1, meaning the system is simple enough to actually work and then grow. A ratio below 1 (complex and tangled at launch) signals a system likely to collapse before it ever stabilizes.",
+    "closing_statement": "Build things that work small first, and let them earn every layer of complexity they carry.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Are you trying to launch a fully complex system at once, or a simple one that actually works today?"
+  },
+  "caption": "Principle Nº 334: Start Simple, Grow Complex\n\nEvery working complex system grew out of a working simple one.\n\nAsk yourself: Are you trying to launch a fully complex system at once, or a simple one that actually works today?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

@@ -9,7 +9,7 @@
   "category": "Strategic Focus",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 8,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -24,31 +24,26 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 7,
       "file": "slide-07.png",
-      "role": "calculation"
-    },
-    {
-      "order": 8,
-      "file": "slide-08.png",
       "role": "get_the_os"
     }
   ],
@@ -76,6 +71,10 @@
       {
         "term": "Retention",
         "def": "The percentage of customers who keep paying or using a product over time."
+      },
+      {
+        "term": "Habit loop",
+        "def": "Trigger, action, reward. Habits form when this loop repeats consistently. Designing the cue and the reward shapes the behavior."
       }
     ],
     "equation_example": "Rate each 1-10. Core Need 8, Long-Term Relevance 7, Repeat Use 9. Durable Value = 8 times 7 times 9 = 504. Higher score means the feature is likely to matter years from now, not just at launch; a high score on novelty alone won't show up here if repeat use and long-term relevance are low.",
@@ -91,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

@@ -71,6 +71,14 @@
       {
         "term": "Moat",
         "def": "A durable competitive advantage that protects your business from competition over time. Like a castle moat, it keeps rivals out."
+      },
+      {
+        "term": "Wasting asset",
+        "def": "An asset that loses value over time no matter what — like a moat competitors slowly erode. It must be reinforced or it fades."
+      },
+      {
+        "term": "Network effect",
+        "def": "When a product becomes more valuable as more people use it. Telephones, social networks, and marketplaces all have network effects."
       }
     ],
     "equation_example": "Rate Current Moat Strength 1-10 and Projected Strength at a future point, e.g., 12 months, 1-10, then divide the difference by the time period in months. Current Moat Strength 8, Projected Strength at 12 months 5, difference 3, divided by 12 months → MDA = 0.25 per month. Higher MDA means your advantage is eroding fast and needs reinforcement now; lower means it's durable and compounding on its own.",
@@ -86,5 +94,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

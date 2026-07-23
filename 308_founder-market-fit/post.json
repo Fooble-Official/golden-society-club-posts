@@ -9,7 +9,7 @@
   "category": "Deep Strategy Spaces",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,33 +24,28 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Founders win when their identity, experience, and obsessions align with the market they serve.",
     "question": "Why am I the right person to serve this market, and is the answer specific or generic?",
-    "equation": "Founder-Market Fit = Lived Experience × Identity Alignment × Mission Conviction",
+    "equation": "Founder-Market Fit = (Lived Experience + Identity Alignment + Mission Conviction) ÷ 3",
     "mental_model": "Key cut for one specific lock.",
     "business_lens": "Hire and back founders whose identity and lived experience align with the market problem; validate that alignment in due diligence.",
     "life_lens": "Build where you have unfair advantage of experience or identity, not just where there is opportunity.",
@@ -68,7 +63,7 @@
       "Which part of the work drains you, and is that a sign you're wrong for this market, or just that you need to hire around it?"
     ],
     "definitions": [],
-    "equation_example": "Rate each 1-10. Lived Experience 9, Identity Alignment 7, Mission Conviction 8. Score = (9 plus 7 plus 8) divided by 3 = 8.0. Higher means your judgment, hiring, and storytelling all get sharper because you viscerally understand the customer; lower means you're building competent-looking strategy that misses what customers actually need.",
+    "equation_example": "Rate each 1-10. Lived Experience 9, Identity Alignment 7, Mission Conviction 8. Score = (9 + 7 + 8) ÷ 3 = 8.0. Higher means your judgment, hiring, and storytelling all get sharper because you viscerally understand the customer; lower means you're building competent-looking strategy that misses what customers actually need.",
     "closing_statement": "Unfair advantage comes from lived experience, not resumes."
   },
   "caption": "Principle Nº 308: Founder-Market Fit\n\nFounders win when their identity, experience, and obsessions align with the market they serve. Founder-Market fit explains why some founders out-execute despite weaker resumes: their visceral understanding shortens every learning loop.\n\nAsk yourself: Why am I the right person to serve this market, and is the answer specific or generic?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -81,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

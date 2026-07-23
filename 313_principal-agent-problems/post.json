@@ -9,7 +9,7 @@
   "category": "Deep Strategy Spaces",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 8,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -24,38 +24,33 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 7,
       "file": "slide-07.png",
-      "role": "calculation"
-    },
-    {
-      "order": 8,
-      "file": "slide-08.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Agents (employees, executives) may pursue their own interests when those diverge from principals (owners).",
     "question": "Where are my team's actual incentives pulling them away from what the company needs?",
-    "equation": "Incentive Alignment = Goal Overlap × Measurability × Skin in the Game",
+    "equation": "Incentive Alignment = (Goal Overlap + Measurability + Skin in the Game) ÷ 3",
     "mental_model": "Renter and a landlord, different incentives, same building.",
     "business_lens": "Design compensation, equity, and decision rights so agent incentives match principal goals; expect drift without it.",
     "life_lens": "When trusting someone with your interests, ask what their incentive actually rewards.",
@@ -76,9 +71,13 @@
       {
         "term": "Principal-agent problem",
         "def": "When the person acting on your behalf (the agent) has incentives that diverge from your own (the principal), causing them to act in their own interest instead of yours."
+      },
+      {
+        "term": "EPS",
+        "def": "Earnings Per Share — a company's profit divided by its number of shares, a common short-term metric executives are often paid to boost."
       }
     ],
-    "equation_example": "Rate each 1-10. Goal Overlap 6, Measurability 7, Skin in the Game 4. Score = (6 plus 7 plus 4) divided by 3 = 5.7. Higher means the people acting for you are structurally rewarded for doing what's actually good for the company; lower means you're relying on trust to cover for a misaligned incentive.",
+    "equation_example": "Rate each 1-10. Goal Overlap 6, Measurability 7, Skin in the Game 4. Score = (6 + 7 + 4) ÷ 3 = 5.7. Higher means the people acting for you are structurally rewarded for doing what's actually good for the company; lower means you're relying on trust to cover for a misaligned incentive.",
     "closing_statement": "Incentives predict behavior better than trust does."
   },
   "caption": "Principle Nº 313: Principal-Agent Problems\n\nAgents (employees, executives) may pursue their own interests when those diverge from principals (owners). Bonuses tied to top-line revenue produce sales reps who close bad-fit deals.\n\nAsk yourself: Where are my team's actual incentives pulling them away from what the company needs?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -91,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

@@ -9,7 +9,7 @@
   "category": "Wealth & Architecture",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,8 +46,8 @@
     "life_lens": "Work vs home vs health.",
     "sop": [
       "Track every hour for one full week, categorized by activity.",
-      "Rate each activity's Priority Weight 1-3 (low/medium/high) based on your actual stated goals (see calculation, page 5)",
-      "Multiply Time spent by Priority Weight for each activity and sum the totals (see calculation, page 5)",
+      "Rate each activity's Priority Weight 1-3 (low/medium/high) based on your actual stated goals (see calculation, page 4)",
+      "Multiply Time spent by Priority Weight for each activity and sum the totals (see calculation, page 4)",
       "Identify the highest-time, lowest-priority-weight activities, these are your biggest misalignments.",
       "Rebuild next week's calendar to shift hours toward your highest-weighted priorities."
     ],
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

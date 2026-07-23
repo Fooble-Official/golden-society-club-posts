@@ -1,0 +1,94 @@
+{
+  "order": 358,
+  "day": 358,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "358",
+  "title": "The Network-Value Law",
+  "slug": "the-network-value-law",
+  "category": "Network & Growth",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A network's value grows roughly with the square of the number of people connected to it.",
+    "explainer": "Each new user can connect with everyone already there, so value rises far faster than membership. This is why networks are hard to start and nearly unstoppable once they pass a critical mass.",
+    "questions": [
+      "Does your product get more valuable to each user as more users join, or does it stay flat?",
+      "Have you crossed the critical mass where the network sustains its own growth, or are you still pushing it uphill?",
+      "What single connection between users, if you enabled it, would multiply the value of your whole network?"
+    ],
+    "sop": [
+      "Define what a connection means in your network, who links to whom and why.",
+      "Count your active users and estimate the potential connections between them (see calculation, page 6).",
+      "Find the smallest, densest cluster where the network already feels valuable.",
+      "Concentrate growth inside that cluster until connections compound on their own.",
+      "Remove friction that blocks users from connecting, since each link raises total value."
+    ],
+    "definitions": [
+      {
+        "term": "The network-value law",
+        "def": "The principle that a network's value is proportional to the number of possible connections between its users, which scales with the square of the user count."
+      },
+      {
+        "term": "Critical mass",
+        "def": "The point where a network has enough users that its value pulls in new members on its own, without you having to push."
+      }
+    ],
+    "equation": "Network Value ∝ Users × (Users − 1) ÷ 2",
+    "equation_example": "With 1,000 users the possible connections are 1,000 × (1,000 − 1) ÷ 2 = 1,000 × 999 ÷ 2 = 499,500. Double the users to 2,000 and it jumps to roughly 1,999,000, nearly quadruple the value; the higher the count, the steeper each new user's contribution.",
+    "closing_statement": "The things that compound most in a life are relationships, so the connections you nurture matter more than the count you accumulate.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Does your product get more valuable to each user as more users join, or does it stay flat?"
+  },
+  "caption": "Principle Nº 358: The Network-Value Law\n\nA network's value grows roughly with the square of the number of people connected to it.\n\nAsk yourself: Does your product get more valuable to each user as more users join, or does it stay flat?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

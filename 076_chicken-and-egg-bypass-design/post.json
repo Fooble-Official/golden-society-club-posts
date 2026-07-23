@@ -71,6 +71,10 @@
       {
         "term": "Cold start",
         "def": "The problem of getting a marketplace started when neither side will join until the other side is there."
+      },
+      {
+        "term": "Liquidity",
+        "def": "In a marketplace, how fast a user gets what they came for. Slow matching = pre-value churn. Speed of satisfaction is the metric."
       }
     ],
     "equation_example": "Rate each 1-10. Synthetic Liquidity 7, Experience Quality 8. 7 times 8 equals 56, divided by Cost of Support 5 equals 11.2. Higher means your manual bootstrap creates a real, good experience without draining you. Lower means you're either faking it unconvincingly or burning yourself out to keep the illusion alive.",
@@ -86,5 +90,5 @@
     "#BrandStrategy"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

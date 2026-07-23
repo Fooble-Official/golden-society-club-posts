@@ -71,6 +71,10 @@
       {
         "term": "Market making",
         "def": "Acting as the mechanism that matches supply and demand for a scarce resource, deciding who gets it when more than one party wants it."
+      },
+      {
+        "term": "ROI",
+        "def": "Return on Investment — the profit or value you get back relative to what you spent. High ROI means each dollar spent produces a lot in return."
       }
     ],
     "equation_example": "Rate Speed, Accuracy, and Match Quality 1-10 each for your last resource decision, then rate Political Distortion 1-10. Speed 7, Accuracy 8, Match Quality 6, Political Distortion 3 → IMM = (7×8×6)/3 = 112. Higher IMM means resources flow to their best use fast and cleanly; lower means politics or noise is deciding who gets what.",
@@ -86,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

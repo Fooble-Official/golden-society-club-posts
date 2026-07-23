@@ -61,7 +61,7 @@
       "What would a stranger have to already believe is possible before your product even makes sense to them?",
       "Is this month's marketing budget educating the market, or converting people who already get it?"
     ],
-    "equation_example": "Education Reach 500 people, Curiosity Lift 40%, Engagement 25%, divided by Time to Understanding 3 minutes = 1,666. There's no fixed ceiling, track it weekly: a rising number means your category education is compounding. Flat or falling means people still don't get it.",
+    "equation_example": "Education Reach 500, Curiosity Lift 0.40 (40%), Engagement 0.25 (25%), Time to Understanding 3 min. DSA = (500 × 0.40 × 0.25) ÷ 3 = 16.7. There's no fixed ceiling — track it weekly: a rising number means your category education is compounding; flat or falling means people still don't get it.",
     "definitions": [],
     "closing_statement": "Teach the belief. The sale follows."
   },
@@ -75,5 +75,5 @@
     "#BrandStrategy"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

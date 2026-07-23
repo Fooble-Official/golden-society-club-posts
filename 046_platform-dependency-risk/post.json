@@ -9,7 +9,7 @@
   "category": "Risk & Fragility",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -34,11 +34,16 @@
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -51,8 +56,8 @@
     "life_lens": "",
     "sop": [
       "List every platform your business depends on for revenue, traffic, or payments (ads, marketplaces, app stores, payment processors, APIs).",
-      "Rate each platform 1-10 on Revenue Dependence, how much of your income runs through it (see calculation, page 5).",
-      "Rate each platform 1-10 on Policy Volatility, Switching Cost, and Technical Dependence, how often it changes rules, how hard it'd be to leave, and how deep it's wired into your systems (see calculation, page 5).",
+      "Rate each platform 1-10 on Revenue Dependence, how much of your income runs through it (see calculation, page 6).",
+      "Rate each platform 1-10 on Policy Volatility, Switching Cost, and Technical Dependence, how often it changes rules, how hard it'd be to leave, and how deep it's wired into your systems (see calculation, page 6).",
       "Multiply the four scores for your riskiest platform to get its score, and flag anything above 3,000 as urgent.",
       "Start building one owned channel (email list, direct booking, owned app) this month to reduce dependence on your highest-risk platform."
     ],
@@ -62,7 +67,16 @@
       "If Meta, Google, Apple, or your payment processor changed one rule tomorrow, which part of your business breaks first?",
       "What would it cost you in time and money to rebuild your customer list on a channel you fully own?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Switching cost",
+        "def": "What it costs a customer or business — in money, time, or hassle — to move from one provider or platform to another. High switching costs lock you in."
+      },
+      {
+        "term": "API",
+        "def": "Application Programming Interface — the connection that lets one software system plug into and pull data from another. Depending on a platform's API means relying on them to keep it open."
+      }
+    ],
     "equation_example": "Rate each 1-10. Revenue Dependence 8, Policy Volatility 6, Switching Cost 7, Technical Dependence 5 = 1,680. Higher scores mean one platform decision could crush your economics; lower scores mean you'd survive a policy change intact.",
     "closing_statement": "Rented distribution is borrowed time, not owned ground."
   },
@@ -76,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

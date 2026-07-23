@@ -61,7 +61,7 @@
       "If someone had to explain your business to a friend in one text message, what would they write?",
       "What's the shortest version of your pitch that still makes someone want to know more?"
     ],
-    "equation_example": "Retell Accuracy 80%, Share Rate 20%, Platform Spread 3, divided by Complexity 2 on a 1-5 scale where 5 is most complex = 24. Higher means your pitch is simple enough to spread on its own. Lower means it needs to be cut down further.",
+    "equation_example": "Retell Accuracy 0.80 (80%), Share Rate 0.20 (20%), Platform Spread 3, Complexity 2. MP = (0.80 × 0.20 × 3) ÷ 2 = 0.24. Track weekly: higher means the idea survives retelling and jumps platforms; lower means it distorts or stalls.",
     "definitions": [],
     "closing_statement": "If it can't survive being repeated, it won't spread."
   },
@@ -75,5 +75,5 @@
     "#BrandStrategy"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

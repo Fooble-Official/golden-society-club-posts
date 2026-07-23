@@ -1,0 +1,11 @@
+Principle Nº 357: The Law of Implicit Dependencies
+
+At enough scale, every observable behavior of your system becomes something someone depends on.
+
+Ask yourself: Which undocumented quirks of your product or process have customers quietly started to depend on?
+
+The Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.
+
+Follow @TheGoldenSocietyClub for a new principle every day.
+
+#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples

@@ -1,0 +1,98 @@
+{
+  "order": 345,
+  "day": 345,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "345",
+  "title": "Minimum Efficient Scale",
+  "slug": "minimum-efficient-scale",
+  "category": "Operations & Flow",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "There's a smallest size you have to reach before your cost per unit stops falling.",
+    "explainer": "Fixed costs spread thinner as volume grows, so cost-per-unit drops until it flattens at the minimum efficient scale. Operate below that point and you're structurally more expensive than rivals who cleared it, no matter how hard you work.",
+    "questions": [
+      "Do you actually know the volume at which your cost-per-unit stops dropping, or are you guessing?",
+      "Are you competing on price against someone who has already crossed a scale you haven't reached?",
+      "Which of your fixed costs are so large that only high volume can ever make them cheap per unit?"
+    ],
+    "sop": [
+      "Separate your costs into fixed (unchanged by volume) and variable (rising with each unit).",
+      "Model unit cost across a range of volumes using the fixed and variable figures (see calculation, page 6).",
+      "Find the volume where unit cost stops falling meaningfully, your minimum efficient scale.",
+      "Compare your current volume against that scale to see if you're structurally sub-scale.",
+      "Decide to grow to the scale, restructure fixed costs down, or exit segments where you can't compete."
+    ],
+    "definitions": [
+      {
+        "term": "Minimum efficient scale",
+        "def": "The lowest output volume at which cost-per-unit reaches its minimum; below it you are more expensive per unit than a larger competitor."
+      },
+      {
+        "term": "Fixed cost",
+        "def": "A cost that stays the same regardless of how many units you produce, such as rent, equipment, or core salaries."
+      },
+      {
+        "term": "Variable cost",
+        "def": "A cost that rises with each additional unit produced, such as materials or shipping."
+      }
+    ],
+    "equation": "Unit Cost = (Fixed Cost ÷ Volume) + Variable Cost",
+    "equation_example": "At 10,000 units: ($100,000 ÷ 10,000) + $5 = $10 + $5 = $15 per unit. At 50,000 units: ($100,000 ÷ 50,000) + $5 = $2 + $5 = $7 per unit. Higher volume drives unit cost toward the $5 variable floor; low volume leaves fixed costs bloating every unit.",
+    "closing_statement": "Knowing the scale a game demands tells you honestly whether it's yours to play.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Do you actually know the volume at which your cost-per-unit stops dropping, or are you guessing?"
+  },
+  "caption": "Principle Nº 345: Minimum Efficient Scale\n\nThere's a smallest size you have to reach before your cost per unit stops falling.\n\nAsk yourself: Do you actually know the volume at which your cost-per-unit stops dropping, or are you guessing?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

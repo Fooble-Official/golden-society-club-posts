@@ -1,0 +1,98 @@
+{
+  "order": 329,
+  "day": 329,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "329",
+  "title": "The Queue Equation",
+  "slug": "the-queue-equation",
+  "category": "Operations & Flow",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Items stuck in any system equal how fast they arrive times how long they stay.",
+    "explainer": "If work is piling up, you can only fix it two ways: let less in, or move it through faster. It ties your backlog, your speed, and your wait time into one relationship you can't cheat.",
+    "questions": [
+      "How many items are sitting inside your system right now waiting to be finished, and do you actually know that number?",
+      "Is your queue growing because more is arriving, or because each item is taking longer to get through?",
+      "If you wanted to cut customer wait time in half, would you throttle intake or speed up throughput first?"
+    ],
+    "sop": [
+      "Pick one bottlenecked system (support tickets, orders, leads, invoices) and count how many items are currently inside it, unfinished.",
+      "Measure your throughput: how many items you actually complete per day or per week (see calculation, page 6).",
+      "Measure your lead time: how long an average item sits from arrival to done (see calculation, page 6).",
+      "Multiply throughput by lead time and check whether it matches the pile you counted; a gap means your intake is outrunning your output.",
+      "Choose one lever, either cap new intake or shorten lead time, and re-measure the queue after two weeks."
+    ],
+    "definitions": [
+      {
+        "term": "WIP (Work In Progress)",
+        "def": "The number of items currently inside a system that have started but not yet finished, everything sitting in the queue or being worked on right now."
+      },
+      {
+        "term": "Throughput",
+        "def": "The rate at which items leave the system finished, measured as completed items per unit of time (per day, per week)."
+      },
+      {
+        "term": "Lead Time",
+        "def": "The total time one item spends in the system from the moment it arrives to the moment it is finished, including all the waiting."
+      }
+    ],
+    "equation": "WIP = Throughput × Lead Time",
+    "equation_example": "You finish 5 orders per day (throughput) and each order takes 8 days to move from placed to shipped (lead time). WIP = 5 orders/day × 8 days = 40 orders sitting in the pipeline at any moment. Higher throughput or shorter lead time shrinks that pile; slower work or longer waits swells it.",
+    "closing_statement": "You control a backlog not by working harder inside it, but by governing what you let in and how fast you let it out.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "How many items are sitting inside your system right now waiting to be finished, and do you actually know that number?"
+  },
+  "caption": "Principle Nº 329: The Queue Equation\n\nItems stuck in any system equal how fast they arrive times how long they stay.\n\nAsk yourself: How many items are sitting inside your system right now waiting to be finished, and do you actually know that number?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

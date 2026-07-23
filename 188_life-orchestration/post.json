@@ -9,7 +9,7 @@
   "category": "Legacy & Orchestration",
   "funnel_stage": "Elite",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,7 +46,7 @@
     "life_lens": "Business, home, health, beauty, creativity, marriage, all aligned.",
     "sop": [
       "List every major system running your life: business, home, health, relationships, finances.",
-      "Rate System Alignment (how well they support each other) and Flow (how smoothly things move day to day), 1-10 each (see calculation, page 5).",
+      "Rate System Alignment (how well they support each other) and Flow (how smoothly things move day to day), 1-10 each (see calculation, page 4).",
       "Identify the one system creating friction for the others, usually the loudest, not the weakest.",
       "Remove one specific friction point this week (a conflicting schedule, a broken handoff, a missing process).",
       "Review the whole system monthly, not just the part that's currently on fire."
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

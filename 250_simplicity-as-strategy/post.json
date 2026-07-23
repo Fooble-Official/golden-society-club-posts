@@ -24,17 +24,17 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
@@ -67,7 +67,12 @@
       "What part of your business would a total beginner be unable to run without you?",
       "Which 'clever' system in your business exists to prove something rather than to make more money?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Moat",
+        "def": "A durable competitive advantage that protects your business from competition over time. Like a castle moat — keeps rivals out."
+      }
+    ],
     "equation_example": "Rate each 1-10. Simplicity 8, Repeatability 7, Profitability 6. Score = 8 times 7 times 6 = 336 out of a possible 1,000. Higher means the model can run without heroics. Lower means the business depends on your personal ability to manage complexity to survive.",
     "closing_statement": "Protect simplicity like it's a moat."
   },
@@ -81,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

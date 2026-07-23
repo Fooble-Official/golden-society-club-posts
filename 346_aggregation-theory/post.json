@@ -1,0 +1,94 @@
+{
+  "order": 346,
+  "day": 346,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "346",
+  "title": "Aggregation Theory",
+  "slug": "aggregation-theory",
+  "category": "Strategy & Market Power",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The internet flipped power to whoever owns the customer, not whoever makes the product.",
+    "explainer": "Ben Thompson's Aggregation Theory holds that when distribution and transaction costs fall to zero, the firm that owns the demand relationship commands the supply, forcing suppliers to compete for access to its users. Google, Amazon, and Netflix win not by owning inventory but by owning the customer.",
+    "questions": [
+      "Do you own a direct relationship with demand, or do you depend on an aggregator who owns it for you?",
+      "If you supply through a platform, could it commoditize you tomorrow by favoring a rival supplier?",
+      "What would it take to own the customer relationship directly instead of renting access to it?"
+    ],
+    "sop": [
+      "Map whether you sit closer to owning demand (the customers) or owning supply (the product or inventory).",
+      "Rate how much of the demand relationship you truly own versus how much runs through an aggregator (see calculation, page 6).",
+      "Identify who your suppliers or you are forced to compete against for access to that demand.",
+      "Invest in a direct channel that captures the customer relationship you currently rent.",
+      "Reduce dependence on any aggregator that can commoditize your supply at will."
+    ],
+    "definitions": [
+      {
+        "term": "Aggregation",
+        "def": "Owning the direct relationship with a large base of customers so that suppliers must come to you to reach them, shifting power from supply to demand."
+      },
+      {
+        "term": "Aggregator",
+        "def": "A company that controls the demand side by owning the user relationship and modularizes suppliers, like a marketplace, search engine, or streaming platform."
+      }
+    ],
+    "equation": "Aggregation Power = Demand Owned ÷ Supply Owned",
+    "equation_example": "Demand Owned 8 ÷ Supply Owned 2 = 4. A ratio above 1 means you control the customer and suppliers compete for you; a ratio below 1 means you're the supply competing for access to someone else's customers.",
+    "closing_statement": "Owning the relationship with people you serve is worth more than owning the thing you sell them.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Do you own a direct relationship with demand, or do you depend on an aggregator who owns it for you?"
+  },
+  "caption": "Principle Nº 346: Aggregation Theory\n\nThe internet flipped power to whoever owns the customer, not whoever makes the product.\n\nAsk yourself: Do you own a direct relationship with demand, or do you depend on an aggregator who owns it for you?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

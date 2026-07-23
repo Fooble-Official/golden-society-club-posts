@@ -50,7 +50,7 @@
   "content": {
     "statement": "You never fully know what caused the conversion.",
     "question": "Are you overconfident about why your business's best customers signed up? What's the counterfactual you haven't tested?",
-    "equation": "AE = Measured Confidence ÷ True Causal Confidence",
+    "equation": "AE = Measured Confidence ÷ Experiment-Verified Confidence",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",
@@ -71,9 +71,17 @@
       {
         "term": "Epistemology",
         "def": "The study of how we know what we claim to know, here, how confident you should be in what your data says caused a result."
+      },
+      {
+        "term": "Attribution",
+        "def": "Working out which marketing touchpoint actually caused a sale — which ad, channel, or click gets the credit for the result."
+      },
+      {
+        "term": "Counterfactual",
+        "def": "The what-if you didn't test — what would have happened if you hadn't run that channel or ad. It's the baseline real results should be compared against."
       }
     ],
-    "equation_example": "Rate Measured Confidence and True Causal Confidence each 1-10. Measured Confidence 9 divided by True Causal Confidence 4 equals 2.25. A ratio above 1 means you're more confident in your attribution than the evidence actually supports, a warning sign before you scale spend. A ratio at or near 1 means your confidence is roughly earned.",
+    "equation_example": "Rate Measured Confidence (from your dashboards) 9 and Experiment-Verified Confidence (from a holdout or geo-lift test) 4, each 1-10. AE = 9 ÷ 4 = 2.25. Above 1 means you're more confident than a real experiment supports — a warning before you scale spend; near 1 means your confidence is earned.",
     "closing_statement": "Dashboards show correlation, not always the real cause."
   },
   "caption": "Principle Nº 96: Attribution Epistemology\n\nYou never fully know what caused the conversion. Dashboards lie about causation.\n\nAsk yourself: Are you overconfident about why your business's best customers signed up? What's the counterfactual you haven't tested?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -86,5 +94,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

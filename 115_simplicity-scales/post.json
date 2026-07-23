@@ -9,7 +9,7 @@
   "category": "Foundations",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,7 +46,7 @@
     "life_lens": "Simple routines, simple meals.",
     "sop": [
       "List every step in a process or offer that currently exists.",
-      "Rate Simplicity, fewer moving parts, and Consistency, how reliably you follow it, each 1-10 (see calculation, page 5).",
+      "Rate Simplicity, fewer moving parts, and Consistency, how reliably you follow it, each 1-10 (see calculation, page 4).",
       "Cut any step that doesn't directly serve the core outcome.",
       "Rebuild the process with the fewest possible steps that still work.",
       "Run it for 2 weeks before adding anything back, most cuts don't need replacing."
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

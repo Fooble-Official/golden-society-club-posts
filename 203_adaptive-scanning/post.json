@@ -9,7 +9,7 @@
   "category": "Viable Systems",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -52,7 +47,7 @@
     "sop": [
       "Set a fixed weekly time to scan industry news, competitor moves, and adjacent trends.",
       "Extract one specific insight per scan, not just 'stayed informed,' an actual takeaway.",
-      "Rate your Awareness and Responsiveness, 1-10 each (see calculation, page 5), how much you actually see, and how fast you act on what you see.",
+      "Rate your Awareness and Responsiveness, 1-10 each (see calculation, page 4), how much you actually see, and how fast you act on what you see.",
       "Test one small tweak based on that insight within the week, not next quarter.",
       "Log what you scanned and what changed as a result, so scanning doesn't become passive reading."
     ],
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

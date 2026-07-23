@@ -50,7 +50,7 @@
   "content": {
     "statement": "Overall economics are too blunt; you need to know exactly which sub-components create or destroy value.",
     "question": "Can you name every layer of cost between a business signup and a profit dollar? What's the biggest surprise?",
-    "equation": "UE = LTV - CAC - Variable Service Cost - Retention Cost - Support Burden",
+    "equation": "UE = Lifetime Revenue − CAC − Variable Service Cost − Retention Cost − Support Burden",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",
@@ -75,9 +75,13 @@
       {
         "term": "CAC",
         "def": "Customer Acquisition Cost, what you spend on average to gain one new paying customer."
+      },
+      {
+        "term": "Unit economics",
+        "def": "The per-customer or per-transaction profit and cost breakdown. Healthy unit economics = each customer is profitable on their own."
       }
     ],
-    "equation_example": "LTV $400, CAC $80, Variable Service Cost $50, Retention Cost $20, Support Burden $15. $400 minus $80 minus $50 minus $20 minus $15 equals $235. Higher means each customer leaves real profit after every cost is paid; lower or negative means you're losing money on customers you thought were profitable.",
+    "equation_example": "Using gross lifetime revenue per customer $400, minus CAC $80, Variable Service $50, Retention $20, Support $15. UE = 400 − 80 − 50 − 20 − 15 = $235 profit per customer. Positive and growing means each customer truly pays off; near zero or negative means you're buying customers who never become profitable.",
     "closing_statement": "Every profit dollar has to survive several deductions first."
   },
   "caption": "Principle Nº 51: Unit-Economics Decomposition\n\nOverall economics are too blunt; you need to know exactly which sub-components create or destroy value. Good aggregate numbers can hide bad underlying economics.\n\nAsk yourself: Can you name every layer of cost between a business signup and a profit dollar? What's the biggest surprise?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #StartupFinance",
@@ -90,5 +94,5 @@
     "#StartupFinance"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

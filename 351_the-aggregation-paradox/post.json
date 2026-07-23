@@ -1,0 +1,94 @@
+{
+  "order": 351,
+  "day": 351,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "351",
+  "title": "The Aggregation Paradox",
+  "slug": "the-aggregation-paradox",
+  "category": "Risk & Uncertainty",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "A trend that holds in every group can flip completely once you pool the groups together.",
+    "explainer": "When groups differ in size and in baseline rates, a lurking variable in how they are mixed can reverse the aggregate direction, so an option that wins in every segment loses overall. The more lopsided your segment mix, the more the headline number can lie about the parts.",
+    "questions": [
+      "Does your headline metric hold up when you break it down by segment, or does the direction reverse once you split it?",
+      "Are you comparing two options over populations that are mixed very differently, so the totals are really measuring the mix?",
+      "Which lurking variable — segment size, timing, customer type — is quietly steering your aggregate number?"
+    ],
+    "sop": [
+      "Take the aggregate comparison you are about to act on and split it into its underlying segments.",
+      "Check whether the within-segment trend agrees with or contradicts the pooled trend.",
+      "Identify the lurking variable driving any difference in how segments are weighted.",
+      "Rate your Segment Mix Imbalance from 1 to 10, where 10 is wildly unequal segment sizes and baselines (see calculation, page 6).",
+      "Decide from the segment-level numbers when the imbalance is high, not from the pooled headline."
+    ],
+    "definitions": [
+      {
+        "term": "The aggregation paradox",
+        "def": "When a trend that appears in every subgroup of data reverses or disappears once the subgroups are combined into a total."
+      },
+      {
+        "term": "Lurking variable",
+        "def": "A hidden factor, not in your headline comparison, that influences the result — here, usually how unevenly the segments are sized."
+      }
+    ],
+    "equation": "Paradox Risk = Segment Mix Imbalance (rate 1-10)",
+    "equation_example": "Two segments, one 90% of volume with a low base rate and one 10% with a high base rate: Segment Mix Imbalance rates about 8. A high score (8-10) means trust the per-segment numbers because the total can reverse; a low score (1-3) means the aggregate is safe to read directly.",
+    "closing_statement": "The truth usually lives one level below the number everyone is quoting.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Does your headline metric hold up when you break it down by segment, or does the direction reverse once you split it?"
+  },
+  "caption": "Principle Nº 351: The Aggregation Paradox\n\nA trend that holds in every group can flip completely once you pool the groups together.\n\nAsk yourself: Does your headline metric hold up when you break it down by segment, or does the direction reverse once you split it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

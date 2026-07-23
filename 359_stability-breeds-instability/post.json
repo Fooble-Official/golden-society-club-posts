@@ -1,0 +1,98 @@
+{
+  "order": 359,
+  "day": 359,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "359",
+  "title": "Stability Breeds Instability",
+  "slug": "stability-breeds-instability",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Long stretches of stability quietly breed the leverage that eventually triggers collapse.",
+    "explainer": "When conditions stay calm, people treat safety as permanent and borrow more against it, so risk builds invisibly. The break comes when that hidden fragility snaps and asset values fall faster than debts can be paid.",
+    "questions": [
+      "How much of your current position depends on conditions staying as calm as they are right now?",
+      "If your revenue dropped 30 percent for two quarters, could your cash flow still cover your fixed obligations?",
+      "Where has a long run of good times quietly convinced you to take on leverage you would not accept in a downturn?"
+    ],
+    "sop": [
+      "List every fixed obligation and debt payment you owe regardless of how business goes.",
+      "Measure the cash flow actually available to service those obligations.",
+      "Rate your fragility as debt divided by cash flow (see calculation, page 6).",
+      "Stress-test the ratio against a sharp drop in revenue or a credit freeze.",
+      "Cut leverage or build cash reserves while conditions are still calm, not after."
+    ],
+    "definitions": [
+      {
+        "term": "The stability trap",
+        "def": "The sudden collapse of asset values after a long period of stability leads people to take on too much debt, leaving them unable to cover it."
+      },
+      {
+        "term": "Leverage",
+        "def": "Using borrowed money to amplify a position. It magnifies gains when things go well and magnifies losses just as fast when they turn."
+      },
+      {
+        "term": "Cash flow",
+        "def": "The actual cash moving into your business over a period, the money genuinely available to cover debts and obligations."
+      }
+    ],
+    "equation": "Fragility = Debt ÷ Cash Flow",
+    "equation_example": "You carry 2,000,000 in debt against 500,000 of annual cash flow: 2,000,000 ÷ 500,000 = 4. A higher ratio means it takes more years of cash just to cover the debt, so you are more fragile; a lower ratio means you can absorb a shock without breaking.",
+    "closing_statement": "The best time to build resilience is when nothing appears to be wrong, because comfort is exactly when fragility grows unseen.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "How much of your current position depends on conditions staying as calm as they are right now?"
+  },
+  "caption": "Principle Nº 359: Stability Breeds Instability\n\nLong stretches of stability quietly breed the leverage that eventually triggers collapse.\n\nAsk yourself: How much of your current position depends on conditions staying as calm as they are right now?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

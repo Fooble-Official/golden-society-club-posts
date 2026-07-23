@@ -9,7 +9,7 @@
   "category": "Behavioral Pricing",
   "funnel_stage": "Elite",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -34,11 +34,16 @@
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -51,9 +56,9 @@
     "life_lens": "",
     "sop": [
       "Map the natural next need a customer has after 1, 3, and 6 months of using your product or service.",
-      "Rate a potential upsell or expansion offer 1-10 on Relevance and Timing, does it fit naturally at that stage (see calculation, page 5).",
-      "Rate it 1-10 on Margin, is the added revenue actually profitable (see calculation, page 5).",
-      "Rate it 1-10 on Adoption likelihood, and rate Resistance 1-10 for how much friction or pushback it creates (see calculation, page 5).",
+      "Rate a potential upsell or expansion offer 1-10 on Relevance and Timing, does it fit naturally at that stage (see calculation, page 6).",
+      "Rate it 1-10 on Margin, is the added revenue actually profitable (see calculation, page 6).",
+      "Rate it 1-10 on Adoption likelihood, and rate Resistance 1-10 for how much friction or pushback it creates (see calculation, page 6).",
       "Build the highest-scoring expansion offer into your customer journey as an automatic trigger, not a manual ask."
     ],
     "explainer": "Expansion is the cheapest revenue. Build the ladder at the time of first purchase.",
@@ -62,7 +67,12 @@
       "Is there a natural \"next purchase\" built into your product, or does every additional sale require a fresh pitch?",
       "At what point in a customer's journey with you have they earned enough trust to be offered something bigger?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Expansion revenue",
+        "def": "Extra revenue from customers you already have — upgrades, add-ons, or more usage — rather than from winning new ones. Usually the cheapest revenue to earn."
+      }
+    ],
     "equation_example": "Rate each 1-10. Relevance 8, Timing 7, Margin 6, Adoption 7. 8 times 7 times 6 times 7 equals 2,352, divided by Resistance 4 equals 588. Higher scores mean the expansion offer feels like a natural next step and converts easily. Lower scores mean it feels like a hard sell that customers resist.",
     "closing_statement": "The next purchase should be built into the first one."
   },
@@ -76,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

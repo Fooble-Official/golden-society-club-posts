@@ -1,0 +1,98 @@
+{
+  "order": 363,
+  "day": 363,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "363",
+  "title": "Two-Sided Subsidy",
+  "slug": "two-sided-subsidy",
+  "category": "Strategy & Market Power",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "On a platform, subsidize the harder-to-get, price-sensitive side to unlock the whole market.",
+    "explainer": "Two-sided markets only ignite when both sides show up, but the sides rarely value each other equally. Charge the side that pulls hardest and gains most, and subsidize the reluctant, price-sensitive side that the other side needs.",
+    "questions": [
+      "Which side of your platform is harder to attract, and which one is desperate for the other to be there?",
+      "Which side would walk away over a small fee, and which would happily pay to reach them?",
+      "Are you charging the side that creates the pull, or the side that provides the value everyone came for?"
+    ],
+    "sop": [
+      "Define both sides of your platform and what each side actually wants from the other.",
+      "Rate 1-10 how price-sensitive each side is, meaning how easily a fee scares them off (see calculation, page 6).",
+      "Rate 1-10 how strongly each side pulls the other side onto the platform (see calculation, page 6).",
+      "Multiply the scores to identify which side to subsidize, then shift charges onto the less sensitive, higher-value side.",
+      "Monitor both sides so a subsidy that seeds growth does not become a permanent leak once the network is dense."
+    ],
+    "definitions": [
+      {
+        "term": "Two-sided market",
+        "def": "A platform serving two distinct groups who need each other, like riders and drivers or buyers and sellers. Its value comes from bringing the sides together."
+      },
+      {
+        "term": "Cross-side network effect",
+        "def": "When adding users to one side of a platform makes it more valuable to the other side. More drivers make riders happier, which attracts more drivers."
+      },
+      {
+        "term": "Subsidized side",
+        "def": "The group a platform charges little or nothing, or even pays, to get them on board because the other side needs them and will pay for access."
+      }
+    ],
+    "equation": "Subsidize Side = Price Sensitivity × Cross-Side Pull",
+    "equation_example": "Rate each side 1-10. For riders: Price Sensitivity 8 × Cross-Side Pull 7 = 56; for drivers, say 4 × 5 = 20. The higher score (riders) is the side to subsidize, because they scare off easily yet the other side needs them badly; charge the lower-scoring side.",
+    "closing_statement": "Getting two reluctant sides to meet is worth more than any single fee you could have charged too early.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which side of your platform is harder to attract, and which one is desperate for the other to be there?"
+  },
+  "caption": "Principle Nº 363: Two-Sided Subsidy\n\nOn a platform, subsidize the harder-to-get, price-sensitive side to unlock the whole market.\n\nAsk yourself: Which side of your platform is harder to attract, and which one is desperate for the other to be there?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

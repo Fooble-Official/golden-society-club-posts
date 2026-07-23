@@ -19,17 +19,17 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
@@ -62,7 +62,12 @@
       "How many consecutive days has your longest current streak survived, and what actually broke the last one?",
       "What's the smallest version of the habit you could do today just to keep the streak alive?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Activation energy",
+        "def": "The minimum effort required to start a process, in habits, the friction standing between you and beginning."
+      }
+    ],
     "equation_example": "Rate Previous Action 1-10 (did you show up yesterday) and Consistency 1-10 (how unbroken the streak is). Previous Action 9 times Consistency 8 equals 72 out of 100. Higher means momentum is compounding and starting is getting easier each day. Lower means the streak is fragile and each restart costs you full activation energy again.",
     "closing_statement": "Momentum is easier to protect than to rebuild."
   },
@@ -76,5 +81,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

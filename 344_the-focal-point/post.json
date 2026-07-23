@@ -1,0 +1,94 @@
+{
+  "order": 344,
+  "day": 344,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "344",
+  "title": "The Focal Point",
+  "slug": "the-focal-point",
+  "category": "Behavioral & Institutional",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "When people can't talk it out, they still converge on the choice that feels obvious to everyone.",
+    "explainer": "People coordinating without communication gravitate to a shared focal point made salient by culture, precedent, or prominence, not by logic. The more obviously a single option stands out to everyone, the more reliably strangers land on it together.",
+    "questions": [
+      "When your customers must guess where to find, meet, or default to something, is there one obvious answer, or several competing ones?",
+      "Which of your conventions do people follow simply because everyone assumes everyone else follows them?",
+      "Where in your business does a lack of an obvious default force people to negotiate what should have been automatic?"
+    ],
+    "sop": [
+      "Identify a moment where people must coordinate with you or each other without discussing it first.",
+      "List every option they might independently pick.",
+      "Rate how obviously one option stands out to everyone as the natural default (see calculation, page 6).",
+      "Make the winning focal choice more prominent through naming, placement, precedent, or repetition.",
+      "Remove or downgrade rival options that split attention and weaken the focal point."
+    ],
+    "definitions": [
+      {
+        "term": "Focal point",
+        "def": "The option that people naturally settle on when they must coordinate without communicating, because it seems obvious or prominent to all of them."
+      },
+      {
+        "term": "Salience",
+        "def": "How much something stands out and grabs attention relative to the alternatives around it."
+      }
+    ],
+    "equation": "Coordination Odds = Focal Salience (rate 1-10)",
+    "equation_example": "If your default meeting spot scores Focal Salience 9, coordination is nearly automatic; if it scores 3, people scatter and must negotiate. Higher salience means strangers converge without a word; lower salience means every hand-off needs explaining.",
+    "closing_statement": "Making the right choice the obvious one spares everyone the friction of deciding.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "When your customers must guess where to find, meet, or default to something, is there one obvious answer, or several competing ones?"
+  },
+  "caption": "Principle Nº 344: The Focal Point\n\nWhen people can't talk it out, they still converge on the choice that feels obvious to everyone.\n\nAsk yourself: When your customers must guess where to find, meet, or default to something, is there one obvious answer, or several competing ones?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

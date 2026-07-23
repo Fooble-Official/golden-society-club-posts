@@ -9,7 +9,7 @@
   "category": "Integration",
   "funnel_stage": "Elite",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,40 +24,35 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Quick fixes to restore focus.",
     "question": "What's your fastest reset technique, and do you use it before crashing?",
-    "equation": "Focus = Restoration minus Fatigue (the original 'Pre-Fragility minus Restoration' runs backward, since more restoration would subtract from focus). Restoration should add to focus; fatigue or depletion is what subtracts from it.",
+    "equation": "Focus = Restoration − Fatigue",
     "mental_model": "Reboot.",
     "business_lens": "Walking meetings.",
     "life_lens": "Stress ball, stretch.",
     "sop": [
       "Learn 3 micro-reset techniques that take under 5 minutes, box breathing, a short walk, stretching",
       "Schedule short breaks proactively through the day instead of waiting until you're depleted",
-      "Rate your fatigue and identify your early warning signs (see calculation, page 6)",
+      "Rate your fatigue and identify your early warning signs (see calculation, page 5)",
       "Apply a reset the moment you notice the warning sign, not after focus is already gone",
       "Track which reset actually restores you fastest and default to that one"
     ],
@@ -68,7 +63,7 @@
       "What's your go-to reset when you're at your desk and can't leave for a walk?"
     ],
     "definitions": [],
-    "equation_example": "Rate each 1-10. Fatigue 7 (how depleted you are), Restoration 5 (how much reset you've done). Focus = Restoration 5 minus Fatigue 7 = -2, meaning you're still in a deficit. Get Restoration up to 8: Focus = 8 minus 7 = 1, a small but real gain. Higher restoration relative to fatigue means real recovered focus; if fatigue outweighs restoration, you're still running on empty no matter how hard you try.",
+    "equation_example": "Rate each 1-10: Fatigue 7 (how depleted you are), Restoration 5 (how much reset you've done). Focus = 5 − 7 = −2, meaning you're still in a deficit. Get Restoration up to 8: Focus = 8 − 7 = 1, a small but real gain. Higher restoration relative to fatigue means real recovered focus; if fatigue outweighs restoration, you're still running on empty no matter how hard you try.",
     "closing_statement": "A five-minute reset used early beats an hour used late."
   },
   "caption": "Principle Nº 228: Energy Renewal Techniques\n\nQuick fixes to restore focus. Focus doesn't just drain and stay drained, it can be actively restored, but only if the restoration outpaces the ongoing fatigue.\n\nAsk yourself: What's your fastest reset technique, and do you use it before crashing?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -81,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

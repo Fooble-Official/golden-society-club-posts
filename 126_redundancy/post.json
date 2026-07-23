@@ -9,7 +9,7 @@
   "category": "Flows & Structures",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -19,31 +19,26 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -56,7 +51,7 @@
     "life_lens": "Backup meals, routines.",
     "sop": [
       "List your top 5 dependencies, the things that, if they broke, would stop revenue or operations.",
-      "For your highest-risk dependency, identify the Primary system currently running it and whether a Backup exists (see calculation, page 6)",
+      "For your highest-risk dependency, identify the Primary system currently running it and whether a Backup exists (see calculation, page 5)",
       "Build one working backup for your highest-risk single point of failure this week.",
       "Test the backup under real conditions, not hypothetically, pull the plug and see what happens.",
       "Put a recurring quarterly reminder on the calendar to re-test every backup you build."
@@ -86,5 +81,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

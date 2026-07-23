@@ -9,7 +9,7 @@
   "category": "Operator Level",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,9 +46,9 @@
     "life_lens": "Skincare after shower.",
     "sop": [
       "List 3 habits you already do consistently without needing motivation (e.g. making coffee, brushing teeth).",
-      "Rate the Anchor strength 1-10 for each existing habit (see calculation, page 5)",
+      "Rate the Anchor strength 1-10 for each existing habit (see calculation, page 4)",
       "Pick your strongest anchor and attach exactly one new specific behavior directly after it.",
-      "Rate the Attachment 1-10, how tightly and immediately the new habit follows the anchor (see calculation, page 5)",
+      "Rate the Attachment 1-10, how tightly and immediately the new habit follows the anchor (see calculation, page 4)",
       "Repeat the pair daily for 2 weeks before adding a second stacked habit."
     ],
     "explainer": "",
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

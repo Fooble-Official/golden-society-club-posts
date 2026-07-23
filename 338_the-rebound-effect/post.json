@@ -1,0 +1,94 @@
+{
+  "order": 338,
+  "day": 338,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "338",
+  "title": "The Rebound Effect",
+  "slug": "the-rebound-effect",
+  "category": "Economics & Scale",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Make a resource cheaper to use and you'll often use far more of it, not less.",
+    "explainer": "Efficiency lowers the cost per task, but cheaper tasks invite more tasks — so total consumption can rise even as each use gets leaner. It's why faster tools rarely give you free time and cheaper energy rarely shrinks total demand.",
+    "questions": [
+      "Where has a tool that saved you time per task simply led you to do far more of that task?",
+      "When you make something cheaper or faster for customers, does total consumption fall — or explode?",
+      "Which 'efficiency win' actually expanded the resource, headcount, or spend it was supposed to shrink?"
+    ],
+    "sop": [
+      "Identify an efficiency you just gained — a tool, automation, or process that cut cost or time per task.",
+      "Estimate how many tasks you did before and how much resource each one consumed.",
+      "Estimate how much the lower cost will expand the number of tasks you take on.",
+      "Divide total tasks times use-per-task by the new efficiency to project real total consumption (see calculation, page 6).",
+      "Set an explicit cap or intention for the freed capacity, so efficiency funds your priorities instead of just more volume."
+    ],
+    "definitions": [
+      {
+        "term": "Efficiency",
+        "def": "Getting the same output from less input — less time, energy, or resource per unit of work."
+      },
+      {
+        "term": "Elastic demand",
+        "def": "Demand that grows sharply when cost or price falls. When demand is elastic, making something cheaper often means much more of it gets used overall."
+      }
+    ],
+    "equation": "Total Use = (Tasks × Use per Task) ÷ Efficiency",
+    "equation_example": "Before: (100 tasks × 5 units) ÷ 1 = 500 units used. Efficiency doubles and the lower cost pushes demand to 500 tasks: (500 × 5) ÷ 2 = 1,250 units. Total use rose from 500 to 1,250 — high efficiency with elastic demand raises total use; only weak demand would let it fall.",
+    "closing_statement": "Efficiency only frees you if you decide, on purpose, what to do with the room it opens up.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Where has a tool that saved you time per task simply led you to do far more of that task?"
+  },
+  "caption": "Principle Nº 338: The Rebound Effect\n\nMake a resource cheaper to use and you'll often use far more of it, not less.\n\nAsk yourself: Where has a tool that saved you time per task simply led you to do far more of that task?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

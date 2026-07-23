@@ -9,7 +9,7 @@
   "category": "Discipline",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 8,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -24,38 +24,33 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 7,
       "file": "slide-07.png",
-      "role": "calculation"
-    },
-    {
-      "order": 8,
-      "file": "slide-08.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Hit consistent performance targets in good times and bad.",
     "question": "What is your non-negotiable monthly minimum, and have you hit it every month this year?",
-    "equation": "Long-term Output = Daily Floor × Consistency × Years",
+    "equation": "Long-term Output = Daily Floor × Days Hit per Year × Years",
     "mental_model": "Daily march through any weather, pace beats heroics.",
     "business_lens": "Set a quantifiable monthly minimum (revenue, output, learning) and never miss it; cap the upside to avoid burnout.",
     "life_lens": "Build a daily minimum you hit on great days and bad days alike.",
@@ -78,7 +73,7 @@
         "def": "A discipline of hitting a consistent, predefined performance floor in both good conditions and bad, rather than sprinting when times are easy and stalling when they're hard."
       }
     ],
-    "equation_example": "Daily Floor: $500 per day minimum revenue. Consistency: 95% of days the floor was hit. Years: 5 years sustained. Rising Consistency and more Years compounding means durable, predictable growth. Falling Consistency, hitting the floor only in good months, means you're relying on heroics instead of a system.",
+    "equation_example": "Daily Floor $500, Consistency 95% (≈347 of 365 days hit), sustained over 5 years. Long-term Output = $500 × 347 × 5 = $867,500. Rising consistency and more years compounding means durable, predictable growth; falling consistency means you're relying on heroics instead of a system.",
     "closing_statement": "Pace beats heroics over a long horizon."
   },
   "caption": "Principle Nº 277: 20-Mile March\n\nHit consistent performance targets in good times and bad. Amundsen reached the South Pole by marching 15–20 miles daily regardless of weather; Scott raced when sunny and rested when bad and lost the race and his life.\n\nAsk yourself: What is your non-negotiable monthly minimum, and have you hit it every month this year?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -91,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

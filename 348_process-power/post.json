@@ -1,0 +1,94 @@
+{
+  "order": 348,
+  "day": 348,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "348",
+  "title": "Process Power",
+  "slug": "process-power",
+  "category": "Strategy & Market Power",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Some advantages live in how you work, refined so long that copying them takes rivals years.",
+    "explainer": "Process power, in Hamilton Helmer's 7 Powers, is an edge embedded in an organization's activities and routines that improves steadily over time and resists imitation because it's tacit and interdependent. Toyota let rivals tour its plants for decades and still couldn't be copied, because the advantage lived in accumulated practice, not a secret.",
+    "questions": [
+      "Which of your advantages live in documented, teachable processes rather than in your own head?",
+      "Could a well-funded competitor buy their way to your process edge, or would they need years of iteration?",
+      "Are your processes still compounding through steady improvement, or have they quietly stopped getting better?"
+    ],
+    "sop": [
+      "Identify the core processes that quietly drive your quality, speed, or cost advantage.",
+      "Rate how fast each process is still improving year over year (see calculation, page 6).",
+      "Count how many years you've been compounding that improvement (see calculation, page 6).",
+      "Rate how hard the process would be for a rival to copy, given its tacit, interdependent nature (see calculation, page 6).",
+      "Institutionalize the process in training and routine so the edge outlives any single person."
+    ],
+    "definitions": [
+      {
+        "term": "Process power",
+        "def": "An advantage built into an organization's routines and activities that improves over time and resists copying because it is tacit and deeply interconnected."
+      },
+      {
+        "term": "Tacit knowledge",
+        "def": "Know-how held in practice and experience that is hard to write down or transfer, so it can't be copied by reading a manual."
+      }
+    ],
+    "equation": "Process Power = Improvement Rate × Years Compounded × Copy Difficulty",
+    "equation_example": "Improvement Rate 3 × Years Compounded 10 × Copy Difficulty 8 = 240. High marks across all three describe a Toyota-like edge rivals can watch but not replicate; a young, easily copied process (3 × 2 × 3 = 18) offers little protection.",
+    "closing_statement": "The advantages worth building are the ones that get quietly better every year you keep at them.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which of your advantages live in documented, teachable processes rather than in your own head?"
+  },
+  "caption": "Principle Nº 348: Process Power\n\nSome advantages live in how you work, refined so long that copying them takes rivals years.\n\nAsk yourself: Which of your advantages live in documented, teachable processes rather than in your own head?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

@@ -1,0 +1,94 @@
+{
+  "order": 336,
+  "day": 336,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "336",
+  "title": "Cost Disease",
+  "slug": "cost-disease",
+  "category": "Economics & Scale",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Work that resists automation gets more expensive as the rest of the economy speeds up.",
+    "explainer": "When productivity soars in some sectors, wages rise everywhere to compete for the same workers, so labor-heavy work you can't speed up keeps costing more for the same output. It's why teaching, live service, and care get pricier even when nothing about them improves.",
+    "questions": [
+      "Which of your costs keep rising even though that part of your work hasn't gotten any faster or better?",
+      "Are you pricing your labor-heavy services to keep pace with economy-wide wages, or quietly eating the gap?",
+      "Where are you fighting to automate work whose entire value depends on it staying human?"
+    ],
+    "sop": [
+      "List every part of your business where output per hour barely improves — hands-on service, teaching, coaching, care, or craft.",
+      "Estimate how fast wages are rising across the wider economy you compete with to hire and keep people.",
+      "Estimate the yearly productivity gain in that specific service line honestly — often near zero.",
+      "Subtract sector productivity growth from economy wage growth to project each line's built-in cost creep (see calculation, page 6).",
+      "Reprice those services on a schedule or redesign delivery, so the rising cost doesn't silently erase your margin."
+    ],
+    "definitions": [
+      {
+        "term": "Productivity",
+        "def": "How much output a worker produces per hour. In some work — teaching, live music, care — it is hard to raise without losing the quality that makes it valuable."
+      },
+      {
+        "term": "Cost disease",
+        "def": "The tendency for wages and costs in low-productivity work to climb because those sectors must compete for workers with high-productivity ones, even when they gain no efficiency themselves."
+      }
+    ],
+    "equation": "Cost Growth = Economy Wage Growth − Sector Productivity Growth",
+    "equation_example": "Economy-wide wages rise 4% a year; your service's productivity rises 1%. 4% − 1% = 3% — your costs climb about 3% annually even with zero change in quality. A bigger wage-minus-productivity gap means faster cost creep; a smaller gap means your costs stay flatter.",
+    "closing_statement": "The work that machines can't rush — care, teaching, craft — is exactly what's worth paying to keep human.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which of your costs keep rising even though that part of your work hasn't gotten any faster or better?"
+  },
+  "caption": "Principle Nº 336: Cost Disease\n\nWork that resists automation gets more expensive as the rest of the economy speeds up.\n\nAsk yourself: Which of your costs keep rising even though that part of your work hasn't gotten any faster or better?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

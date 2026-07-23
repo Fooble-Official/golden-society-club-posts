@@ -9,7 +9,7 @@
   "category": "Legacy & Orchestration",
   "funnel_stage": "Elite",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,7 +46,7 @@
     "life_lens": "Where you live, who you marry, your habits.",
     "sop": [
       "List every decision currently in front of you this month.",
-      "Rate each on potential Outcome impact, 1-10 (see calculation, page 5), how much it could change your trajectory if it goes well or badly.",
+      "Rate each on potential Outcome impact, 1-10 (see calculation, page 4), how much it could change your trajectory if it goes well or badly.",
       "Rank them by that score, not by urgency or how loud they are.",
       "Give the top 10% real deliberation time, research, advice, sleep on it, before deciding.",
       "Act decisively once decided; low-leverage decisions don't deserve the same hesitation."
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

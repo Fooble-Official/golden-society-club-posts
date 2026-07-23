@@ -1,0 +1,98 @@
+{
+  "order": 360,
+  "day": 360,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "360",
+  "title": "Reflexivity",
+  "slug": "reflexivity",
+  "category": "Risk & Fragility",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Beliefs move fundamentals, which move beliefs, and the two spiral together.",
+    "explainer": "Markets are not just reflecting reality, they are helping create it, because what participants believe changes prices, funding, and behavior, which then changes the underlying facts. This feedback loop can drive trends far past what fundamentals alone would justify.",
+    "questions": [
+      "Where is a story about your market changing the very fundamentals that story claims to describe?",
+      "Is your recent growth driven by real underlying value, or by a belief that is feeding on itself?",
+      "When the prevailing belief reverses, how much of your current advantage disappears with it?"
+    ],
+    "sop": [
+      "Identify the dominant belief currently driving your market or valuation.",
+      "Trace how that belief is changing real fundamentals like funding, hiring, or demand.",
+      "Rate the belief feedback multiplier on top of your underlying fundamentals (see calculation, page 6).",
+      "Distinguish durable value from momentum that only holds while the belief holds.",
+      "Plan for the reversal now by reducing exposure to the self-reinforcing part."
+    ],
+    "definitions": [
+      {
+        "term": "Reflexivity",
+        "def": "The idea, developed by investor George Soros, that participants' beliefs and the reality they observe influence each other in a loop, so perception can bend the fundamentals rather than just track them."
+      },
+      {
+        "term": "Fundamentals",
+        "def": "The underlying real factors of value, such as revenue, cash flow, and demand, as opposed to sentiment or price momentum."
+      },
+      {
+        "term": "Belief feedback",
+        "def": "The self-reinforcing effect where rising prices strengthen the belief that prices will keep rising, which pushes them higher still, and the same in reverse."
+      }
+    ],
+    "equation": "Price Trend = Fundamentals × Belief Feedback",
+    "equation_example": "Fundamentals justify a 5 percent move, but a self-reinforcing belief amplifies it by a factor of 3: 5% × 3 = 15%. A belief feedback above 1 stretches the trend past what fundamentals support; near 1 the price tracks reality, and the wider the gap, the harder the eventual snap back.",
+    "closing_statement": "Hold your convictions firmly enough to act and loosely enough to notice when the story, not the truth, is carrying you.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Where is a story about your market changing the very fundamentals that story claims to describe?"
+  },
+  "caption": "Principle Nº 360: Reflexivity\n\nBeliefs move fundamentals, which move beliefs, and the two spiral together.\n\nAsk yourself: Where is a story about your market changing the very fundamentals that story claims to describe?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

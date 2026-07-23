@@ -71,6 +71,14 @@
       {
         "term": "Power law",
         "def": "A distribution where a few outcomes drive most of the returns."
+      },
+      {
+        "term": "Fat tail",
+        "def": "When extreme outcomes happen far more often than a normal bell curve predicts. The fat tail is where the rare, giant wins (or losses) live."
+      },
+      {
+        "term": "Normal distribution",
+        "def": "The classic bell-curve pattern where most results cluster near the average and extremes are rare. Many real business outcomes don't actually follow it."
       }
     ],
     "equation_example": "Rate Top-Decile Upside 1-10 (how big your best outcome could be) and Discovery Rate 1-10 (how fast you're finding new bets), then rate Total Search Effort 1-10 (how much time or budget you're spending searching). Top-Decile Upside 9, Discovery Rate 6, Total Search Effort 5 → PLH = (9×6)/5 = 10.8. Higher PLH means your search process is efficiently finding outsized winners; lower means you're spending effort without surfacing the outliers.",
@@ -86,5 +94,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

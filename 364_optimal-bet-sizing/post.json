@@ -1,0 +1,98 @@
+{
+  "order": 364,
+  "day": 364,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "364",
+  "title": "Optimal Bet Sizing",
+  "slug": "optimal-bet-sizing",
+  "category": "Risk & Uncertainty",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Bet a fraction of your capital equal to your edge divided by the odds.",
+    "explainer": "This formula sizes bets to maximize long-run growth without risking ruin. Bet too big and one bad run wipes you out; bet too small and you leave compounding on the table, so the math ties your stake to how real your edge actually is.",
+    "questions": [
+      "Do you honestly know your edge on this bet, or are you guessing at your win probability?",
+      "Are you sizing this position to survive a losing streak, or betting big because it feels certain?",
+      "How much of your total capital rides on any single bet right now?"
+    ],
+    "sop": [
+      "Define the specific bet and estimate your true probability of winning it, honestly and without optimism.",
+      "Calculate your edge as your expected advantage on the bet, then rate it as a decimal (see calculation, page 6).",
+      "Identify the payout odds you receive if you win (see calculation, page 6).",
+      "Divide edge by odds to get the fraction of capital to stake, and cap it to avoid betting on a shaky estimate.",
+      "Size every future bet by the same rule so no single loss can end your ability to keep playing."
+    ],
+    "definitions": [
+      {
+        "term": "Edge",
+        "def": "Your statistical advantage on a bet: how much the odds are tilted in your favor. An edge of 0.2 means you expect to win 20 cents on the dollar over many repetitions."
+      },
+      {
+        "term": "Odds",
+        "def": "The payout ratio if you win: odds of 2 means a winning bet returns two times the amount you staked. Higher odds mean a bigger payoff per unit risked."
+      },
+      {
+        "term": "Risk of ruin",
+        "def": "The chance that a run of losses wipes out your capital entirely. Betting too large a fraction makes ruin almost certain over time, even with a real edge."
+      }
+    ],
+    "equation": "Optimal Bet Fraction = Edge ÷ Odds",
+    "equation_example": "With an Edge of 0.2 and Odds of 2: 0.2 ÷ 2 = 0.10, so bet 10% of your capital. A larger edge or shorter odds means bet more; a smaller edge or longer odds means bet less, and a zero or negative edge means do not bet at all.",
+    "closing_statement": "Staying in the game long enough to compound beats any single bet you were sure could not lose.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Do you honestly know your edge on this bet, or are you guessing at your win probability?"
+  },
+  "caption": "Principle Nº 364: Optimal Bet Sizing\n\nBet a fraction of your capital equal to your edge divided by the odds.\n\nAsk yourself: Do you honestly know your edge on this bet, or are you guessing at your win probability?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

@@ -1,0 +1,94 @@
+{
+  "order": 342,
+  "day": 342,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "342",
+  "title": "Social Loafing",
+  "slug": "social-loafing",
+  "category": "Organization & Execution",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "The bigger the team, the less effort each person actually contributes.",
+    "explainer": "As a group grows, individual effort tends to slip — responsibility diffuses and each person's contribution feels less visible or necessary. More people can mean more total output while every single member coasts a little harder.",
+    "questions": [
+      "Which tasks on your team have grown a crowd where individual effort has quietly gone slack?",
+      "Where is accountability so diffuse that no single person feels the result is theirs?",
+      "Could a smaller group with clear ownership outproduce the larger team you have now?"
+    ],
+    "sop": [
+      "Pick a group task and note the whole team's combined output.",
+      "Estimate what one capable person produces working solo on the same task.",
+      "Divide group output by people times solo output to measure effort per person (see calculation, page 6).",
+      "If the result falls well below 1, split the work into owned, individually visible pieces.",
+      "Assign clear single-owner accountability for each piece and keep the team as small as the task allows."
+    ],
+    "definitions": [
+      {
+        "term": "Social loafing",
+        "def": "The tendency that as more people join a group task, each person's individual effort tends to fall rather than add up cleanly."
+      },
+      {
+        "term": "Social loafing",
+        "def": "The tendency to put in less effort inside a group because your individual contribution feels less visible or less necessary."
+      }
+    ],
+    "equation": "Effort per Person = Group Output ÷ (People × Solo Output)",
+    "equation_example": "Group Output 800 units ÷ (10 People × 100 Solo Output) = 800 ÷ 1,000 = 0.8. Each person delivers 80% of their solo capacity. A result below 1 signals effort lost to the crowd; at 1, the team pulls its full individual weight.",
+    "closing_statement": "You do your best work when your contribution is visible and your name is on the result.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which tasks on your team have grown a crowd where individual effort has quietly gone slack?"
+  },
+  "caption": "Principle Nº 342: Social Loafing\n\nThe bigger the team, the less effort each person actually contributes.\n\nAsk yourself: Which tasks on your team have grown a crowd where individual effort has quietly gone slack?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

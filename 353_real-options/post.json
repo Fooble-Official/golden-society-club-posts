@@ -1,0 +1,94 @@
+{
+  "order": 353,
+  "day": 353,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "353",
+  "title": "Real Options",
+  "slug": "real-options",
+  "category": "Risk & Uncertainty",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Keeping your options open is not indecision; under uncertainty it is an asset you can price.",
+    "explainer": "A real option is the right, but not the obligation, to make a business move later — expand, delay, abandon, switch. When the future is uncertain, holding that right has value because you can act if things go well and walk away if they don't; that value rises with uncertainty and falls with the cost of keeping the option open.",
+    "questions": [
+      "Are you committing fully today when a small payment to keep the choice open would let you decide with better information later?",
+      "What is the upside you would capture if you preserved the right to act, and how likely is it actually to materialize?",
+      "Which 'options' are you paying to keep open that have near-zero probability of ever paying off, and should just be closed?"
+    ],
+    "sop": [
+      "Name the decision you could defer and the future move it would preserve (expand, delay, abandon, or switch).",
+      "Estimate the Upside in dollars if you keep the option open and later exercise it well.",
+      "Estimate the Probability that the favorable scenario actually occurs (see calculation, page 6).",
+      "Estimate the Cost to Hold Open — the fee, retainer, or carrying cost of preserving the right without committing.",
+      "Compute Option Value and keep the option only when it is clearly positive; otherwise commit or walk away."
+    ],
+    "definitions": [
+      {
+        "term": "Real option",
+        "def": "The right, but not the obligation, to take a future business action — such as expanding, delaying, or abandoning — whose value comes from flexibility under uncertainty."
+      },
+      {
+        "term": "Cost to hold open",
+        "def": "What you pay to keep a choice available without committing — a deposit, retainer, lease, or the carrying cost of not deciding yet."
+      }
+    ],
+    "equation": "Option Value = (Upside × Probability) − Cost to Hold Open",
+    "equation_example": "(Upside $100,000 × Probability 0.3) − Cost to Hold Open $10,000 = $30,000 − $10,000 = $20,000. A positive value means paying to keep the choice open is worth it; if the cost to hold open exceeded $30,000, the option would be negative and you should commit or drop it now.",
+    "closing_statement": "Flexibility is worth paying for exactly when you cannot yet see which way the world will break.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Are you committing fully today when a small payment to keep the choice open would let you decide with better information later?"
+  },
+  "caption": "Principle Nº 353: Real Options\n\nKeeping your options open is not indecision; under uncertainty it is an asset you can price.\n\nAsk yourself: Are you committing fully today when a small payment to keep the choice open would let you decide with better information later?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

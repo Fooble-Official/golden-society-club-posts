@@ -79,6 +79,10 @@
       {
         "term": "Incumbent",
         "def": "The existing, established player in a market, the one with the most to lose if a new entrant succeeds."
+      },
+      {
+        "term": "Cannibalize",
+        "def": "When a product takes sales away from another product instead of adding new ones. A rival copying you would cannibalize their own existing revenue."
       }
     ],
     "closing_statement": "The strongest edge costs a rival more to copy than to ignore."
@@ -93,5 +97,5 @@
     "#BrandStrategy"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

@@ -9,7 +9,7 @@
   "category": "Advanced Systems",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -19,31 +19,26 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -58,7 +53,7 @@
       "List every product or service you currently sell as a one-time transaction.",
       "Identify which ones solve a problem that recurs, not a problem solved once and done.",
       "Package the recurring-need offer into a subscription or membership tier with a clear cadence.",
-      "Rate your retention realistically, 0-100% (see calculation, page 6), based on how many subscribers stay past month 3 in similar offers.",
+      "Rate your retention realistically, 0-100% (see calculation, page 5), based on how many subscribers stay past month 3 in similar offers.",
       "Optimize the weakest lever first: more customers, higher price, or better retention, whichever moves recurring revenue most."
     ],
     "explainer": "",
@@ -90,5 +85,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

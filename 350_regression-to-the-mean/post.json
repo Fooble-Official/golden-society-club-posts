@@ -1,0 +1,98 @@
+{
+  "order": 350,
+  "day": 350,
+  "cta_type": "os_plus_follow",
+  "cover_type": "photo",
+  "principle_number": "350",
+  "title": "Regression to the Mean",
+  "slug": "regression-to-the-mean",
+  "category": "Risk & Uncertainty",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "Extreme results are mostly luck wearing a costume, and luck does not repeat.",
+    "explainer": "When any outcome mixes skill and chance, an unusually high or low result was pushed there partly by a lucky or unlucky swing that will not recur, so the next measurement drifts back toward the average. Rewarding a peak or punishing a trough often 'works' only because the mean was going to reassert itself anyway.",
+    "questions": [
+      "Is your best month evidence you changed something, or just the top of a range that was always going to bounce back down?",
+      "When you punished a bad result and it improved, did your intervention work, or would the mean have pulled it up regardless?",
+      "How much of the gap between your top and bottom performers is durable skill versus noise that will shrink next period?"
+    ],
+    "sop": [
+      "Identify the outcome you are reacting to and ask how much of it is influenced by chance versus repeatable skill.",
+      "Estimate the long-run mean for that metric across many periods, not just recent ones.",
+      "Estimate the correlation (0 to 1) between one period's result and the next (see calculation, page 6).",
+      "Compute Expected Next to set a realistic forecast instead of extrapolating the extreme.",
+      "Judge interventions against that regressed baseline, not against the peak or trough that triggered them."
+    ],
+    "definitions": [
+      {
+        "term": "Regression to the mean",
+        "def": "The tendency for an extreme measurement to be followed by one closer to the average, because the extreme was partly caused by chance that does not repeat."
+      },
+      {
+        "term": "Correlation",
+        "def": "A number from 0 to 1 (here) describing how strongly one period's result predicts the next. 1 means fully repeatable; 0 means pure noise."
+      },
+      {
+        "term": "Mean",
+        "def": "The long-run average of a metric across many periods."
+      }
+    ],
+    "equation": "Expected Next = Mean + Correlation × (Observed − Mean)",
+    "equation_example": "Mean 100 + Correlation 0.4 × (Observed 150 − Mean 100) = 100 + 0.4 × 50 = 120. A high correlation keeps the forecast near the standout result (skill repeats); a low correlation drags it back toward 100 (the peak was mostly luck).",
+    "closing_statement": "Humility comes from knowing how much of your best and worst moments were the dice, not the hand.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Is your best month evidence you changed something, or just the top of a range that was always going to bounce back down?"
+  },
+  "caption": "Principle Nº 350: Regression to the Mean\n\nExtreme results are mostly luck wearing a costume, and luck does not repeat.\n\nAsk yourself: Is your best month evidence you changed something, or just the top of a range that was always going to bounce back down?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

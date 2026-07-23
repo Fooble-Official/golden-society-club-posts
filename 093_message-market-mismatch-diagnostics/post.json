@@ -45,7 +45,7 @@
   "content": {
     "statement": "Low conversion often means misalignment, not lack of demand.",
     "question": "If your business's traffic is high but conversion is low, is the message wrong, the offer wrong, or the audience wrong?",
-    "equation": "Diagnostic Score = (Confusion Score plus Objection Score) divided by 2, each rated 1-10 from customer exit interviews, then compare that score against your conversion rate separately. The published formula mixed a raw traffic count with two small 1-10 ratings and divided by 3, which produces a number dominated by traffic and isn't usable as a diagnostic.",
+    "equation": "Diagnostic Score = (Confusion + Objection) ÷ 2",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",
@@ -63,7 +63,7 @@
       "Could a total stranger explain what you sell, and why it matters to them, in one sentence after reading your landing page?"
     ],
     "definitions": [],
-    "equation_example": "Rate each 1-10 from customer exit interviews: Confusion 7, Objection 8. Score = (7 plus 8) divided by 2 = 7.5 out of 10. Compare this against your conversion rate separately: a high score paired with low conversion confirms a messaging or offer mismatch, not a demand problem. A low score with low conversion means the issue is elsewhere, traffic quality, pricing, or trust.",
+    "equation_example": "Rate each 1-10 from customer exit interviews: Confusion 7, Objection 8. Score = (7 + 8) ÷ 2 = 7.5 out of 10. Compare this against your conversion rate separately: a high score paired with low conversion confirms a messaging or offer mismatch, not a demand problem. A low score with low conversion means the issue is elsewhere — traffic quality, pricing, or trust.",
     "closing_statement": "Confusion kills sales faster than a bad price does."
   },
   "caption": "Principle Nº 93: Message-Market Mismatch Diagnostics\n\nLow conversion often means misalignment, not lack of demand. Before giving up, diagnose: message, market, or offer.\n\nAsk yourself: If your business's traffic is high but conversion is low, is the message wrong, the offer wrong, or the audience wrong?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -76,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

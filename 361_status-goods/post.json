@@ -1,0 +1,94 @@
+{
+  "order": 361,
+  "day": 361,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "361",
+  "title": "Status Goods",
+  "slug": "status-goods",
+  "category": "Behavioral & Institutional",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "For status goods, a higher price can raise demand instead of killing it.",
+    "explainer": "Most goods sell more as price drops, but status goods derive their value from being expensive and conspicuous. Cut the price and you erase the exclusivity signal buyers were actually paying for.",
+    "questions": [
+      "Is what your customers are really buying the product itself, or the visible signal of having afforded it?",
+      "Would cutting your price make more people buy, or would it make your best customers walk away?",
+      "How visible is your product to the people whose opinion your buyer cares about?"
+    ],
+    "sop": [
+      "Identify whether your product functions as a status signal or a utility purchase for your core buyer.",
+      "Rate 1-10 how strongly your price itself signals status and quality (see calculation, page 6).",
+      "Rate 1-10 how visible ownership is to the people your buyer wants to impress (see calculation, page 6).",
+      "Multiply the two scores to gauge the status premium; test a higher price on a limited tier if it is high.",
+      "Protect the signal by controlling discounts, distribution, and access so the price stays credible."
+    ],
+    "definitions": [
+      {
+        "term": "Status good",
+        "def": "A product whose demand rises as its price rises, because the high price itself is the appeal. Luxury watches and designer handbags are common examples."
+      },
+      {
+        "term": "Conspicuous consumption",
+        "def": "Buying and displaying expensive things mainly to signal wealth or status to others, rather than for the item's practical use."
+      }
+    ],
+    "equation": "Status Premium = Price Signal × Visibility to Others",
+    "equation_example": "Rate each 1-10. Price Signal 8 × Visibility to Others 7 = 56. A high score means raising the price can actually pull in more demand because exclusivity is the product; a low score means you are selling utility, so a higher price just loses you sales.",
+    "closing_statement": "What people pay for is rarely just the thing itself; often it is what owning it says about them.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Is what your customers are really buying the product itself, or the visible signal of having afforded it?"
+  },
+  "caption": "Principle Nº 361: Status Goods\n\nFor status goods, a higher price can raise demand instead of killing it.\n\nAsk yourself: Is what your customers are really buying the product itself, or the visible signal of having afforded it?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

@@ -9,7 +9,7 @@
   "category": "Wealth & Architecture",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -52,7 +47,7 @@
     "sop": [
       "Pull your last 3 months of bank and card statements.",
       "Flag every recurring charge and every ad or tool spend, no matter how small.",
-      "Calculate Hidden Costs as a percentage of your Total Spending (see calculation, page 5)",
+      "Calculate Hidden Costs as a percentage of your Total Spending (see calculation, page 4)",
       "Cancel or renegotiate anything unused or underperforming this week.",
       "Repeat this audit monthly, leaks reappear as new tools and subscriptions get added."
     ],
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

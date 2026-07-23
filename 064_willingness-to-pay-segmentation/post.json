@@ -71,6 +71,10 @@
       {
         "term": "WTP",
         "def": "Willingness to pay, the maximum price a specific customer or segment would realistically pay for what you offer."
+      },
+      {
+        "term": "Expected value",
+        "def": "The average payoff of an uncertain bet, with each possible outcome weighted by how likely it is. Lets you compare options that each have different odds and rewards."
       }
     ],
     "equation_example": "Segment Size 500 customers, WTP $40, Purchase Probability 30%, Margin 50%. 500 times $40 times 0.30 times 0.50 equals $3,000 expected profit contribution. Higher means that segment is worth building a dedicated offer for. Lower means it's not worth the extra effort to target separately.",
@@ -86,5 +90,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

@@ -9,7 +9,7 @@
   "category": "Performance & Rest",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,26 +24,21 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -56,9 +51,9 @@
     "life_lens": "Factors + weights.",
     "sop": [
       "List every option you're actually considering, side by side",
-      "Define the 4-6 factors that matter most, and assign each a weight (see calculation, page 6)",
-      "Rate every option against every factor (see calculation, page 6)",
-      "Multiply weight by rating per factor and total the score for each option (see calculation, page 6)",
+      "Define the 4-6 factors that matter most, and assign each a weight (see calculation, page 5)",
+      "Rate every option against every factor (see calculation, page 5)",
+      "Multiply weight by rating per factor and total the score for each option (see calculation, page 5)",
       "Compare the winning score against your gut reaction, if they clash, dig into why before deciding"
     ],
     "explainer": "Gut feeling isn't wrong so much as it's unweighted, it lets whichever factor is loudest in the moment (price, excitement, fear) dominate the decision, even when that factor isn't actually the one that matters most to you. A matrix doesn't remove judgment; it forces you to state your weights honestly before the options bias them.",
@@ -81,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

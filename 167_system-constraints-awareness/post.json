@@ -9,7 +9,7 @@
   "category": "Wealth & Architecture",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -19,31 +19,26 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "definitions"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -56,7 +51,7 @@
     "life_lens": "Work within bandwidth.",
     "sop": [
       "Map your business as a straight line from lead to delivered result.",
-      "At each step, note current throughput, how many units it can process per day (see calculation, page 6).",
+      "At each step, note current throughput, how many units it can process per day (see calculation, page 5).",
       "Identify the step with the lowest throughput number, that's your real constraint, not the one that feels most broken.",
       "Redirect this month's entire improvement budget to that one step and ignore the rest.",
       "Once throughput there rises, re-map the whole line, the constraint has likely moved."
@@ -94,5 +89,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

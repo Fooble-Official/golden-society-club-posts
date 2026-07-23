@@ -9,7 +9,7 @@
   "category": "Operator Level",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,40 +19,35 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "All systems must work as ONE.",
     "question": "If you picture your life as one machine, where is it most out of sync?",
-    "equation": "Quality equals Systems Working Together divided by Total Systems.",
+    "equation": "Quality = Systems Working Together ÷ Total Systems",
     "mental_model": "Orchestra.",
     "business_lens": "Content + brand + sales + ops unified.",
     "life_lens": "Health → energy → business → lifestyle.",
     "sop": [
       "Map every major system across your business AND life (health, work, finances, relationships).",
       "Identify where progress in one system is currently undercutting another (e.g. work hours cutting into recovery).",
-      "Rate how many Systems Working Together versus your Total Systems (see calculation, page 5)",
+      "Rate how many Systems Working Together versus your Total Systems (see calculation, page 4)",
       "Pick the single worst conflict and resolve it, adjust timing, ownership, or priority.",
       "Optimize for flow across the whole machine, not the highest score in any one part."
     ],
@@ -63,7 +58,7 @@
       "What would change if you optimized for the whole system instead of the part you're staring at right now?"
     ],
     "definitions": [],
-    "equation_example": "Systems Working Together equals 4, Total Systems equals 6. Quality equals 67% out of 100%. Higher means most of your systems reinforce each other. Lower means you're running several systems that quietly undercut one another, even while each looks fine on its own.",
+    "equation_example": "Systems Working Together = 4, Total Systems = 6. Quality = 4 ÷ 6 = 67% out of 100%. Higher means most of your systems reinforce each other. Lower means you're running several systems that quietly undercut one another, even while each looks fine on its own.",
     "closing_statement": "A system optimized alone can still break the whole."
   },
   "caption": "Principle Nº 149: System Integration\n\nAll systems must work as ONE.\n\nAsk yourself: If you picture your life as one machine, where is it most out of sync?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

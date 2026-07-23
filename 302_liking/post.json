@@ -9,7 +9,7 @@
   "category": "Persuasion (Cialdini)",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,33 +24,28 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "People are more easily influenced by those they like.",
     "question": "Have I built a real relationship with this prospect or partner before asking for the commitment?",
-    "equation": "Influence = Trust × Likability × Relevance",
+    "equation": "Influence = (Trust + Likability + Relevance) ÷ 3",
     "mental_model": "Familiar face, easier to trust, easier to follow.",
     "business_lens": "In sales and partnerships, invest in relationship-building before the ask; find authentic common ground.",
     "life_lens": "Likability without authenticity is short-term; warmth based on real care compounds.",
@@ -68,7 +63,7 @@
       "What do you actually know about your last three prospects as people, not as leads?"
     ],
     "definitions": [],
-    "equation_example": "Rate each 1-10. Trust 7, Likability 8, Relevance 6. Score = (7 plus 8 plus 6) divided by 3 = 7.0. Higher means people are inclined to say yes to you specifically, not just your offer; lower means you're relying on the pitch to do all the work.",
+    "equation_example": "Rate each 1-10. Trust 7, Likability 8, Relevance 6. Score = (7 + 8 + 6) ÷ 3 = 7.0. Higher means people are inclined to say yes to you specifically, not just your offer; lower means you're relying on the pitch to do all the work.",
     "closing_statement": "People buy from who they trust, not just what's offered."
   },
   "caption": "Principle Nº 302: Liking\n\nPeople are more easily influenced by those they like. Cialdini documents that even small touches of similarity (matched names, shared birthplaces) significantly increase compliance.\n\nAsk yourself: Have I built a real relationship with this prospect or partner before asking for the commitment?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #Persuasion",
@@ -81,5 +76,5 @@
     "#Persuasion"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

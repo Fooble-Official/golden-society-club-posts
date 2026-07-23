@@ -71,6 +71,10 @@
       {
         "term": "Working capital",
         "def": "The cash a business needs to operate day-to-day."
+      },
+      {
+        "term": "Float",
+        "def": "Money you get to hold and use in the gap between collecting cash and having to pay it out. Supplier float is the breathing room a supplier gives you before payment is due."
       }
     ],
     "equation_example": "Prepayment $5,000, Supplier Float $3,000, Deferred Delivery $2,000, Funding Need $4,000. $5,000 plus $3,000 plus $2,000 minus $4,000 equals $6,000. Positive and higher means customers and suppliers are effectively funding your growth. Negative means you're financing the gap yourself, out of your own cash.",
@@ -86,5 +90,5 @@
     "#StartupFinance"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

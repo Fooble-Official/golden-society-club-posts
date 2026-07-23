@@ -9,7 +9,7 @@
   "category": "Operator Level",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,8 +46,8 @@
     "life_lens": "Running business + home + cooking + fitness = collapse risk.",
     "sop": [
       "List every current responsibility, client, or commitment pulling on your time and capacity.",
-      "Estimate your Demand (count of active commitments) and your sustainable Capacity (see calculation, page 5)",
-      "Calculate your Load Ratio, Demand divided by Capacity (see calculation, page 5)",
+      "Estimate your Demand (count of active commitments) and your sustainable Capacity (see calculation, page 4)",
+      "Calculate your Load Ratio, Demand divided by Capacity (see calculation, page 4)",
       "If it's above 0.7, cut or delegate at least one item this week.",
       "Build a buffer of at least 20% unused capacity so one surprise doesn't collapse the whole system."
     ],
@@ -63,7 +58,7 @@
       "If you added one more commitment today, what would you have to drop to keep the system from collapsing?"
     ],
     "definitions": [],
-    "equation_example": "Demand equals 8 (count of active commitments), Capacity equals 10 (count you can sustainably handle). Load Ratio equals 0.8. Above 0.7 means you're in overload territory, quality and consistency start breaking down. Below 0.7 means you have buffer to absorb shocks without collapse.",
+    "equation_example": "Demand = 8 (count of active commitments), Capacity = 10 (count you can sustainably handle). Load Ratio = 8 ÷ 10 = 0.8. Above 0.7 means you're in overload territory — quality and consistency start breaking down. Below 0.7 means you have buffer to absorb shocks without collapse.",
     "closing_statement": "Untested capacity isn't capacity you can rely on."
   },
   "caption": "Principle Nº 130: System Load\n\nEvery system has a breaking point, overload creates collapse.\n\nAsk yourself: Is your current load above 0.7? What do you cut THIS week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

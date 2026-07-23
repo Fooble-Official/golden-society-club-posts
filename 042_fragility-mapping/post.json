@@ -71,6 +71,14 @@
       {
         "term": "Fragility",
         "def": "Sensitivity to variance, when small shocks create disproportionate damage."
+      },
+      {
+        "term": "Nonlinearity",
+        "def": "When outputs don't move in proportion to inputs — a small change can cause a huge, disproportionate effect. Fragile systems break nonlinearly."
+      },
+      {
+        "term": "Hedge",
+        "def": "A protective move or backup position that offsets a specific risk, limiting the damage if that risk actually hits."
       }
     ],
     "equation_example": "Rate Impact, Probability, and Sensitivity Multiplier 1-10 each for your most fragile assumption. Impact 8, Probability 6, Sensitivity Multiplier 7 → FM = 8 × 6 × 7 = 336 out of a possible 1,000. Higher FM means a small miss on that assumption could do outsized damage; lower means the business can absorb the shock without much disruption.",
@@ -86,5 +94,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

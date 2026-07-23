@@ -9,7 +9,7 @@
   "category": "Wealth & Architecture",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,40 +19,35 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Design for the person you want to become.",
     "question": "Is what you're doing today aligned with who you want to be in 5 years?",
-    "equation": "Alignment equals Actions Serving Future Self divided by Total Actions Today.",
+    "equation": "Alignment = Actions Serving Future Self ÷ Total Actions Today",
     "mental_model": "Build for future you.",
     "business_lens": "Decisions today serve future strategy.",
     "life_lens": "Habits today build future identity.",
     "sop": [
       "Write a short, specific description of who you want to be in 5 years.",
       "List today's key actions and mark each as serving that future self or serving only present comfort.",
-      "Rate the Actions Serving Future Self as a share of your Total Actions Today (see calculation, page 5)",
+      "Rate the Actions Serving Future Self as a share of your Total Actions Today (see calculation, page 4)",
       "Replace one present-comfort action this week with one that clearly builds toward the future self.",
       "Revisit the future-self description quarterly, refine it as you actually change."
     ],
@@ -63,7 +58,7 @@
       "What habit are you keeping purely because it serves who you are now, not who you're building toward?"
     ],
     "definitions": [],
-    "equation_example": "Actions Serving Future Self equals 4, Total Actions Today equals 10. Alignment equals 40% out of 100%. Higher means more of today's decisions are actually building the person you want to become. Lower means today mostly serves short-term comfort, not your future trajectory.",
+    "equation_example": "Actions Serving Future Self = 4, Total Actions Today = 10. Alignment = 4 ÷ 10 = 40% out of 100%. Higher means more of today's decisions are actually building the person you want to become. Lower means today mostly serves short-term comfort, not your future trajectory.",
     "closing_statement": "Today either builds your future self or delays them."
   },
   "caption": "Principle Nº 162: Future Self Alignment\n\nDesign for the person you want to become.\n\nAsk yourself: Is what you're doing today aligned with who you want to be in 5 years?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

@@ -9,7 +9,7 @@
   "category": "Persuasion (Cialdini)",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,33 +24,28 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Small commitments create pressure to remain consistent with later, larger commitments.",
     "question": "What is the smallest aligned first commitment that would set users on the path to the larger commitment?",
-    "equation": "Commitment Pull = Initial Step × Visibility × Time",
+    "equation": "Commitment Pull = (Initial Step + Visibility + Time) ÷ 3",
     "mental_model": "Foot in the door, small step now, larger step later.",
     "business_lens": "Design onboarding with low-friction first commitments (sign-up, profile, first action) that pull users into deeper engagement.",
     "life_lens": "Make small public commitments to identity-forming behaviors; consistency does the heavy lifting.",
@@ -68,7 +63,7 @@
       "Think of a goal you or your team stated out loud publicly. Are you still pursuing it because it's right, or because you already said it?"
     ],
     "definitions": [],
-    "equation_example": "Rate each 1-10. Initial Step ease 8 (how low-friction the first ask is), Visibility 6 (how public the commitment is), Time 5 (how long it's been reinforced). Score = (8 plus 6 plus 5) divided by 3 = 6.3. Higher means the customer is primed to say yes to your next, bigger ask; lower means the first step didn't build enough momentum to carry forward.",
+    "equation_example": "Rate each 1-10. Initial Step ease 8 (how low-friction the first ask is), Visibility 6 (how public the commitment is), Time 5 (how long it's been reinforced). Score = (8 + 6 + 5) ÷ 3 = 6.3. Higher means the customer is primed to say yes to your next, bigger ask; lower means the first step didn't build enough momentum to carry forward.",
     "closing_statement": "A small yes today shapes a bigger yes tomorrow."
   },
   "caption": "Principle Nº 300: Commitment and Consistency\n\nSmall commitments create pressure to remain consistent with later, larger commitments. Studies show people who agreed to a small yard sign were far more likely later to accept a much larger one.\n\nAsk yourself: What is the smallest aligned first commitment that would set users on the path to the larger commitment?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #Persuasion",
@@ -81,5 +76,5 @@
     "#Persuasion"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

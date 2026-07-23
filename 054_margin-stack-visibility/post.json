@@ -9,7 +9,7 @@
   "category": "Unit Economics",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 7,
   "slides": [
     {
       "order": 1,
@@ -34,11 +34,16 @@
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
+      "role": "definitions"
     },
     {
       "order": 6,
       "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
@@ -51,9 +56,9 @@
     "life_lens": "",
     "sop": [
       "List every possible source of margin leak: discounts, refunds, chargebacks, processing fees, wasted labor, shrinkage, comps.",
-      "Estimate a Total Estimated Margin Leak in dollars for the period, even roughly (see calculation, page 5).",
-      "Go through your books and identify the actual dollar value of leaks you can specifically trace (see calculation, page 5).",
-      "Divide Identified Margin Leak Value by Total Estimated Margin Leak to see what percentage of your leak you can actually explain (see calculation, page 5).",
+      "Estimate a Total Estimated Margin Leak in dollars for the period, even roughly (see calculation, page 6).",
+      "Go through your books and identify the actual dollar value of leaks you can specifically trace (see calculation, page 6).",
+      "Divide Identified Margin Leak Value by Total Estimated Margin Leak to see what percentage of your leak you can actually explain (see calculation, page 6).",
       "Pick the largest unexplained gap and investigate it line by line until you can name it."
     ],
     "explainer": "You probably underestimate what's leaking. Until you can see it, you can't plug it.",
@@ -62,7 +67,16 @@
       "Of the discounts, refunds, fees, and wasted labor eating your margin, which one have you never actually put a dollar figure on?",
       "If your margin leak was 10 percentage points, could you point to exactly where those 10 points went?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Chargeback",
+        "def": "When a customer disputes a charge with their bank or card company and the payment is forcibly reversed, often with an added fee to you."
+      },
+      {
+        "term": "Shrinkage",
+        "def": "Inventory that goes missing and never gets sold — from theft, damage, or error. A quiet, steady drain on margin."
+      }
+    ],
     "equation_example": "Identified Margin Leak Value $8,000, Total Estimated Margin Leak $20,000. $8,000 divided by $20,000 equals 40% out of 100%. Higher percentage means you can see and explain most of where your margin is going. Lower percentage means most of your leak is still invisible to you.",
     "closing_statement": "What you can't see in your margin is still costing you."
   },
@@ -76,5 +90,5 @@
     "#StartupFinance"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

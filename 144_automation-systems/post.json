@@ -9,7 +9,7 @@
   "category": "Operator Level",
   "funnel_stage": "Advanced",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -51,7 +46,7 @@
     "life_lens": "Meal prep, cleaning, reminders.",
     "sop": [
       "List every task you repeat weekly with no real decision-making involved.",
-      "Count how many of those are already Automated versus your Total Tasks (see calculation, page 5)",
+      "Count how many of those are already Automated versus your Total Tasks (see calculation, page 4)",
       "Pick the single highest-frequency manual task and find or build a tool to automate it.",
       "Set it up, test it for a week, and fix any errors it introduces.",
       "Repeat monthly, as one task gets automated, promote the next-most-repetitive one."
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

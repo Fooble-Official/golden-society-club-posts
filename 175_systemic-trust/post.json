@@ -9,7 +9,7 @@
   "category": "Advanced Systems",
   "funnel_stage": "Elite",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,26 +19,21 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
@@ -52,7 +47,7 @@
     "sop": [
       "Write down every explicit and implicit promise your business makes to customers.",
       "Audit the last 90 days for any moment you cut a corner on one of those promises.",
-      "Rate your Consistency and Integrity honestly, 1-10 each (see calculation, page 5), based on how often you kept the promise even when it cost you.",
+      "Rate your Consistency and Integrity honestly, 1-10 each (see calculation, page 4), based on how often you kept the promise even when it cost you.",
       "Document your standards in writing so trust doesn't depend on memory or mood.",
       "Refuse the short-term extraction option once this month, even when it's the easier or more profitable choice."
     ],
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

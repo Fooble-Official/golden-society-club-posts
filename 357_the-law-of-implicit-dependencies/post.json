@@ -1,0 +1,94 @@
+{
+  "order": 357,
+  "day": 357,
+  "cta_type": "os_plus_follow",
+  "cover_type": "green",
+  "principle_number": "357",
+  "title": "The Law of Implicit Dependencies",
+  "slug": "the-law-of-implicit-dependencies",
+  "category": "Network & Growth",
+  "funnel_stage": "Elite",
+  "dimensions": "1080x1080",
+  "slide_count": 7,
+  "slides": [
+    {
+      "order": 1,
+      "file": "slide-01.png",
+      "role": "cover"
+    },
+    {
+      "order": 2,
+      "file": "slide-02.png",
+      "role": "why"
+    },
+    {
+      "order": 3,
+      "file": "slide-03.png",
+      "role": "question"
+    },
+    {
+      "order": 4,
+      "file": "slide-04.png",
+      "role": "sop"
+    },
+    {
+      "order": 5,
+      "file": "slide-05.png",
+      "role": "definitions"
+    },
+    {
+      "order": 6,
+      "file": "slide-06.png",
+      "role": "calculation"
+    },
+    {
+      "order": 7,
+      "file": "slide-07.png",
+      "role": "get_the_os"
+    }
+  ],
+  "content": {
+    "statement": "At enough scale, every observable behavior of your system becomes something someone depends on.",
+    "explainer": "It does not matter what you promised in the contract or documentation. With enough users, some of them will rely on every quirk you actually expose, so any change to observable behavior will break someone.",
+    "questions": [
+      "Which undocumented quirks of your product or process have customers quietly started to depend on?",
+      "How much of what you expose to users is intentional promise versus accidental behavior you never meant to guarantee?",
+      "Before you change something, do you actually know who is relying on the current behavior?"
+    ],
+    "sop": [
+      "List every behavior your system exposes to users, not just the ones you documented.",
+      "Separate the behaviors you intend to guarantee from the accidental ones.",
+      "Rate your breakage risk from user count times exposed surface (see calculation, page 6).",
+      "Shrink the exposed surface by hiding internals and narrowing what users can observe.",
+      "Announce, deprecate, and migrate before changing any behavior people already depend on."
+    ],
+    "definitions": [
+      {
+        "term": "Implicit dependencies",
+        "def": "The observation that with enough users every observable behavior of a system will be depended on by somebody, regardless of what was promised."
+      },
+      {
+        "term": "Exposed surface",
+        "def": "Everything about your system that users can observe and build on, including undocumented quirks, timing, error messages, and side effects, not only the official interface."
+      }
+    ],
+    "equation": "Breakage Risk = Users × Exposed Surface",
+    "equation_example": "You have 10,000 users and expose roughly 50 distinct observable behaviors: 10,000 × 50 = 500,000 dependency points. A higher number means more people relying on more quirks, so any change is likelier to break someone; shrinking either factor lowers the risk.",
+    "closing_statement": "Being deliberate about what you expose to the world is a quiet form of respect for everyone who will come to rely on you.",
+    "mental_model": "",
+    "business_lens": "",
+    "life_lens": "",
+    "question": "Which undocumented quirks of your product or process have customers quietly started to depend on?"
+  },
+  "caption": "Principle Nº 357: The Law of Implicit Dependencies\n\nAt enough scale, every observable behavior of your system becomes something someone depends on.\n\nAsk yourself: Which undocumented quirks of your product or process have customers quietly started to depend on?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 365 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
+  "hashtags": [
+    "#TheGoldenSociety",
+    "#SoloFounder",
+    "#Entrepreneur",
+    "#FounderMindset",
+    "#BusinessStrategy",
+    "#BusinessPrinciples"
+  ],
+  "handle": "@TheGoldenSocietyClub",
+  "cta_url": "goldensociety.club"
+}

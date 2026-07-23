@@ -9,7 +9,7 @@
   "category": "Viable Systems",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 6,
+  "slide_count": 5,
   "slides": [
     {
       "order": 1,
@@ -19,39 +19,34 @@
     {
       "order": 2,
       "file": "slide-02.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "calculation"
-    },
-    {
-      "order": 6,
-      "file": "slide-06.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Insert monitoring controllers.",
     "question": "Where are you flying blind without an alarm system?",
-    "equation": "Alert Triggered equals Metric Value less than Threshold (Yes/No).",
+    "equation": "Alert = Metric Value < Threshold   (Yes / No)",
     "mental_model": "Radar alerts.",
     "business_lens": "KPI dashboards flash red.",
     "life_lens": "Budget app alerts.",
     "sop": [
       "Identify the 3-5 metrics that matter most: cash reserve, response time, churn, a health marker.",
-      "Set a specific Threshold for each (see calculation, page 5), the number that means 'act now,' not just 'keep an eye on it.'",
+      "Set a specific Threshold for each (see calculation, page 4), the number that means 'act now,' not just 'keep an eye on it.'",
       "Use a tool or simple tracker that checks your Metric Value against that threshold automatically, not your memory.",
       "Act immediately when a threshold is crossed, don't wait to see if it self-corrects.",
       "Review thresholds quarterly; a number that never triggers may be set wrong, not actually safe."
@@ -63,7 +58,7 @@
       "Which part of your business or life do you check only when something already feels wrong?"
     ],
     "definitions": [],
-    "equation_example": "Set a Threshold for your metric, e.g., cash reserve minimum $10,000. Current Metric Value: $7,500. Since $7,500 is below the $10,000 threshold, the alert triggers, corrective action starts. Above the threshold, no alert triggers, and no action is needed yet.",
+    "equation_example": "Set a Threshold for your metric — e.g. cash reserve minimum $10,000. Current Metric Value: $7,500. Since $7,500 < $10,000, the alert triggers and corrective action starts. Above the threshold, no alert triggers, and no action is needed yet.",
     "closing_statement": "Set the alarm before you need it, not after."
   },
   "caption": "Principle Nº 201: Control Points\n\nInsert monitoring controllers.\n\nAsk yourself: Where are you flying blind without an alarm system?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -76,5 +71,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

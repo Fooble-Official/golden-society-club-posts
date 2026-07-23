@@ -24,17 +24,17 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "definitions"
     },
     {
       "order": 6,
@@ -67,7 +67,12 @@
       "How much of your work output today happened while your body was actually in a stressed state, and did you notice while it was happening?",
       "What's the first physical sign your nervous system gives you before a bad decision, and do you act on it or override it?"
     ],
-    "definitions": [],
+    "definitions": [
+      {
+        "term": "Dysregulated",
+        "def": "When your nervous system is stuck in a stressed, off-balance state rather than a calm, settled one, which narrows attention and worsens judgment."
+      }
+    ],
     "equation_example": "Rate your regulation 1-10 before a task. At a 3 (dysregulated), decision quality and output noticeably drop. At an 8 (regulated), the same task gets done faster with fewer errors. Higher balance means clearer function; lower balance means your capacity is there but hard to access.",
     "closing_statement": "A calm nervous system outperforms a motivated one."
   },
@@ -81,5 +86,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }

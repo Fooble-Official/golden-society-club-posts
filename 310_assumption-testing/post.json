@@ -9,7 +9,7 @@
   "category": "Deep Strategy Spaces",
   "funnel_stage": "Foundational",
   "dimensions": "1080x1080",
-  "slide_count": 7,
+  "slide_count": 6,
   "slides": [
     {
       "order": 1,
@@ -24,33 +24,28 @@
     {
       "order": 3,
       "file": "slide-03.png",
-      "role": "mental_model"
+      "role": "question"
     },
     {
       "order": 4,
       "file": "slide-04.png",
-      "role": "question"
+      "role": "sop"
     },
     {
       "order": 5,
       "file": "slide-05.png",
-      "role": "sop"
+      "role": "calculation"
     },
     {
       "order": 6,
       "file": "slide-06.png",
-      "role": "calculation"
-    },
-    {
-      "order": 7,
-      "file": "slide-07.png",
       "role": "get_the_os"
     }
   ],
   "content": {
     "statement": "Surface and test the riskiest hypotheses before committing major resources.",
     "question": "What is the riskiest assumption I am betting on, and what is the cheapest way to test it this week?",
-    "equation": "Plan Robustness = Assumptions Tested × Cost-to-Falsify × Decision Hooks",
+    "equation": "Plan Robustness = (Assumptions Tested + Cost-to-Falsify + Decision Hooks) ÷ 3",
     "mental_model": "Scout map, verify the bridge holds before driving the truck.",
     "business_lens": "Before any major build or hire, list the top 5 assumptions and design cheap experiments to test them.",
     "life_lens": "Identify the unspoken beliefs your plan rests on; test the riskiest ones first.",
@@ -68,7 +63,7 @@
       "How would you actually know an assumption has been tested, versus just observed in a sample that was always going to agree with you?"
     ],
     "definitions": [],
-    "equation_example": "Rate each 1-10. Assumptions Tested 6 (how many of your top risks you've actually checked), Cost-to-Falsify 8 (how cheap your tests are), Decision Hooks 5 (how clearly each result changes your next move). Score = (6 plus 8 plus 5) divided by 3 = 6.3. Higher means your plan rests on evidence rather than faith; lower means you're building on assumptions no one has actually poked at.",
+    "equation_example": "Rate each 1-10. Assumptions Tested 6 (how many of your top risks you've actually checked), Cost-to-Falsify 8 (how cheap your tests are), Decision Hooks 5 (how clearly each result changes your next move). Score = (6 + 8 + 5) ÷ 3 = 6.3. Higher means your plan rests on evidence rather than faith; lower means you're building on assumptions no one has actually poked at.",
     "closing_statement": "Untested assumptions are bets you didn't know you made."
   },
   "caption": "Principle Nº 310: Assumption Testing\n\nSurface and test the riskiest hypotheses before committing major resources. Discovery-Driven Planning makes assumptions explicit and allocates spending based on what each milestone has validated.\n\nAsk yourself: What is the riskiest assumption I am betting on, and what is the cheapest way to test it this week?\n\nThe Golden Society Business OS is the complete business management system for solo founders: finance tracking, contact management, all 328 principles with a founder's journal, and the sell-your-business checklist. Get early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples",
@@ -81,5 +76,5 @@
     "#BusinessPrinciples"
   ],
   "handle": "@TheGoldenSocietyClub",
-  "cta_url": "goldensociety.life"
+  "cta_url": "goldensociety.club"
 }
