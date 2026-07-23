@@ -1,0 +1,45 @@
+name: Refresh Instagram access token
+
+# Instagram long-lived tokens expire 60 days after issue/last refresh.
+# Running this weekly keeps it far inside that window at all times —
+# required so the 328-day daily-post campaign never hits a dead token.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 10 * * 1'  # Mondays, 10:00 UTC
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh token
+        id: refresh
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          NEW_TOKEN=$(node publish/refresh_token.js)
+          echo "::add-mask::$NEW_TOKEN"
+          echo "new_token=$NEW_TOKEN" >> "$GITHUB_OUTPUT"
+
+      # Requires a separate PAT (GH_PAT secret) with Secrets: write access
+      # to this repo — the default GITHUB_TOKEN is deliberately not allowed
+      # to manage repo secrets, so a workflow can't silently grant itself
+      # more access. See posts/README.md for the one-time setup.
+      - name: Update IG_ACCESS_TOKEN secret
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh secret set IG_ACCESS_TOKEN --body "${{ steps.refresh.outputs.new_token }}" -R Fooble-Official/golden-society-club-posts
+          echo "IG_ACCESS_TOKEN secret updated."
+
+# If this workflow fails (e.g. GH_PAT missing/expired, or the Instagram
+# token itself already expired and can no longer be refreshed), GitHub
+# emails the repo owner by default — same caveat as the daily-post workflow:
+# verify that notification setting is actually on for the account that
+# owns this repo.
