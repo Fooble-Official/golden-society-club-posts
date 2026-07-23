@@ -1,6 +1,6 @@
 # The Golden Society Club — Instagram posts
 
-Asset host + daily auto-publisher for @TheGoldenSocietyClub's 328-post
+Asset host + daily auto-publisher for @TheGoldenSocietyClub's 365-post
 business-principles carousel series.
 
 - `NNN_slug/` — one folder per post at the repo root, each with `post.json`,
