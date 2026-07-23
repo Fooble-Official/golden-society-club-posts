@@ -27,6 +27,13 @@ concurrency:
   group: daily-post
   cancel-in-progress: false
 
+# Explicit minimum-required grant: write access to repo contents only (to
+# commit state.json back after a publish). Everything else stays default
+# (no access). Without this, the default token is read-only and every
+# post-publish state commit silently fails with 403.
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
