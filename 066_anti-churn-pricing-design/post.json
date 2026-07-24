@@ -50,7 +50,7 @@
   "content": {
     "statement": "Pricing should reduce regret after purchase.",
     "question": "Does a member who used your app 0 times this month feel guilty, angry, or OK with the charge?",
-    "equation": "ACPD = (Value Consistency × Usage Fit × Predictability × Trust) ÷ Regret",
+    "equation": "Anti-Churn Pricing Design = (Value Consistency × Usage Fit × Predictability × Trust) ÷ Regret",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

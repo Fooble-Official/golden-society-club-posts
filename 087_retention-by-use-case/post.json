@@ -50,7 +50,7 @@
   "content": {
     "statement": "Users stay for specific repeated jobs, not vague value.",
     "question": "What's the specific repeat job your business does for a member, in their words?",
-    "equation": "RUC = Σ(Frequency × Importance × Satisfaction)",
+    "equation": "Retention by Use-Case = Σ(Frequency × Importance × Satisfaction)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

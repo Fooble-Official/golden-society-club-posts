@@ -45,7 +45,7 @@
   "content": {
     "statement": "Confusion kills conversion.",
     "question": "If a customer lands on your business's homepage for 5 seconds, do they know the problem, outcome, and mechanism?",
-    "equation": "OL = ((Problem Clarity + Outcome Clarity + Mechanism Clarity)/3) × Comprehension",
+    "equation": "Offer Legibility = ((Problem Clarity + Outcome Clarity + Mechanism Clarity)/3) × Comprehension",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "Easier onboarding can reduce user quality.",
     "question": "If you removed all your business signup friction, would you get more real customers, or just more curious tourists?",
-    "equation": "AQT = Activation Gain - Retention Quality Loss",
+    "equation": "Activation-Quality Tradeoff = Activation Gain - Retention Quality Loss",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

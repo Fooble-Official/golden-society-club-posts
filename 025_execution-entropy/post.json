@@ -50,7 +50,7 @@
   "content": {
     "statement": "Plans naturally degrade as they travel through reality.",
     "question": "Pick one initiative from last quarter. How far did the original plan drift by the time it reached execution?",
-    "equation": "XE = (Plan + Messaging + Ownership + Priority + Timing Drift) ÷ 5",
+    "equation": "Execution Entropy = (Plan + Messaging + Ownership + Priority + Timing Drift) ÷ 5",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

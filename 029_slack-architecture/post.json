@@ -50,7 +50,7 @@
   "content": {
     "statement": "Resilience requires spare capacity.",
     "question": "Where does your business have zero slack? What would happen if one key thing broke tomorrow?",
-    "equation": "SA = (Reserve + Cash + Time + Talent + Supplier Redundancy) ÷ Operational Load",
+    "equation": "Slack Architecture = (Reserve + Cash + Time + Talent + Supplier Redundancy) ÷ Operational Load",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

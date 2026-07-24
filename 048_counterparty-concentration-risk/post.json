@@ -50,7 +50,7 @@
   "content": {
     "statement": "Dependence on a few relationships makes the business more brittle than top-line revenue suggests.",
     "question": "What percentage of your revenue or users comes from your top 5 customers or partners, and is that concentration rising or falling?",
-    "equation": "CCR = Σ(Share_i ^ 2), Herfindahl-style",
+    "equation": "Counterparty Concentration Risk = Σ(Share_i ^ 2), Herfindahl-style",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

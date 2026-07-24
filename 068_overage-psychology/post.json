@@ -50,7 +50,7 @@
   "content": {
     "statement": "Variable pricing must feel controlled, not punitive.",
     "question": "If your business ever charges per-use or overage, how do you make it feel like the user is in control?",
-    "equation": "OP = (Tolerance × Predictability × Control) ÷ Surprise",
+    "equation": "Overage Psychology = (Tolerance × Predictability × Control) ÷ Surprise",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

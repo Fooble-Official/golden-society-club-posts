@@ -50,7 +50,7 @@
   "content": {
     "statement": "The first number a customer sees shapes all future price perception.",
     "question": "What anchor price or reference do your business members see BEFORE the membership price?",
-    "equation": "APS = (Anchor Strength × Contrast × Deal Value) ÷ Rejection",
+    "equation": "Anchor-Price Sequencing = (Anchor Strength × Contrast × Deal Value) ÷ Rejection",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

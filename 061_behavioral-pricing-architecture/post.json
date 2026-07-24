@@ -45,7 +45,7 @@
   "content": {
     "statement": "Pricing is not just revenue extraction, it shapes perception, adoption, and retention.",
     "question": "Does your business's pricing produce the behavior you want, or just the revenue you want?",
-    "equation": "BPA = (Conversion × Fairness × Usage Alignment × Upsell Flow) ÷ Confusion",
+    "equation": "Behavioral Pricing Architecture = (Conversion × Fairness × Usage Alignment × Upsell Flow) ÷ Confusion",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

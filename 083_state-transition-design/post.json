@@ -45,7 +45,7 @@
   "content": {
     "statement": "Users evolve through stages; the product must guide transitions.",
     "question": "What are your business's user states (new, active, power, dormant), and is there a guided transition for each?",
-    "equation": "STD = (Clarity × Relevance × Friction Reduction) ÷ Drop-Off",
+    "equation": "State Transition Design = (Clarity × Relevance × Friction Reduction) ÷ Drop-Off",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "It is not enough to survive random stress; you must survive intentional pressure.",
     "question": "If a well-funded competitor launched an identical product in your market tomorrow, where would they attack you first?",
-    "equation": "AR = (Detection × Response × Recovery × Redundancy) ÷ Attack Surface",
+    "equation": "Adversarial Resilience = (Detection × Response × Recovery × Redundancy) ÷ Attack Surface",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

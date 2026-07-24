@@ -50,7 +50,7 @@
   "content": {
     "statement": "Users don't stay because they signed up, they stay because they felt value fast.",
     "question": "What's your business's \"aha moment,\" and how fast does a new user hit it? Can you make it faster?",
-    "equation": "UAP = Activation Rate × (1 ÷ Time-to-Aha) × First-Session Value",
+    "equation": "User Activation Physics = Activation Rate × (1 ÷ Time-to-Aha) × First-Session Value",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

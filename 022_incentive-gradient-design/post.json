@@ -50,7 +50,7 @@
   "content": {
     "statement": "People move in the direction of the reward gradient, not the mission statement.",
     "question": "What behaviors are your business's current incentives actually rewarding, and are those the ones you want?",
-    "equation": "IGD = (Desired Reward × Visibility × Frequency × Immediacy) ÷ Misaligned Incentive",
+    "equation": "Incentive Gradient Design = (Desired Reward × Visibility × Frequency × Immediacy) ÷ Misaligned Incentive",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

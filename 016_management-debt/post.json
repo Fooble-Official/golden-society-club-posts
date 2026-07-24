@@ -50,7 +50,7 @@
   "content": {
     "statement": "Hiring faster than structure breaks companies.",
     "question": "Before your next hire, have you documented what they'll own, who they report to, and what success looks like?",
-    "equation": "MD = Growth Rate × Span Stress × Process Weakness",
+    "equation": "Management Debt = Growth Rate × Span Stress × Process Weakness",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -45,7 +45,7 @@
   "content": {
     "statement": "Most problems are between teams.",
     "question": "Where do tasks stall inside your business? Between which two people or functions does work die the longest?",
-    "equation": "CFF = Σ(Handoff Delay + Rework + Misalignment)",
+    "equation": "Cross-Functional Friction = Σ(Handoff Delay + Rework + Misalignment)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "Content performance decays predictably.",
     "question": "How often do you refresh your business's creative? Are you riding dead ads because they were good once?",
-    "equation": "CFH = Time until performance drops to 50% of peak",
+    "equation": "Creative Fatigue Half-Life = Time until performance drops to 50% of peak",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

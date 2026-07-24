@@ -50,7 +50,7 @@
   "content": {
     "statement": "New growth is not always as good as past growth.",
     "question": "Are you tracking each business cohort separately, or are you hiding bad cohorts in good aggregates?",
-    "equation": "CPD = Current Cohort Profitability - Prior Cohort Profitability",
+    "equation": "Cohort Profitability Drift = Current Cohort Profitability - Prior Cohort Profitability",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "Order of building the network determines success.",
     "question": "Are you activating supply or demand first in your market, and can you explain why that order, specifically?",
-    "equation": "NIS = (Initial Density × Cross-Side Activation × Repeat) ÷ Time to Critical Mass",
+    "equation": "Network Ignition Sequencing = (Initial Density × Cross-Side Activation × Repeat) ÷ Time to Critical Mass",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

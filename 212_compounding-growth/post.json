@@ -50,7 +50,7 @@
   "content": {
     "statement": "Build systems that scale themselves.",
     "question": "What compounding mechanism are you neglecting?",
-    "equation": "FV = PV × (1+r)^n",
+    "equation": "Future Value = PV × (1+r)^n",
     "mental_model": "Snowball.",
     "business_lens": "Evergreen content; referrals.",
     "life_lens": "Save monthly; write weekly.",

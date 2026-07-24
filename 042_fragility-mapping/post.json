@@ -50,7 +50,7 @@
   "content": {
     "statement": "The business is weaker than it looks wherever small shocks create outsized damage.",
     "question": "What's your business's most fragile assumption, the one a 10% miss would break everything?",
-    "equation": "FM = Σ(Impact × Probability × Sensitivity Multiplier)",
+    "equation": "Fragility Mapping = Σ(Impact × Probability × Sensitivity Multiplier)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

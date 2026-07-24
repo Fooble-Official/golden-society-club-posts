@@ -50,7 +50,7 @@
   "content": {
     "statement": "Value is judged against a reference, not in isolation.",
     "question": "When a customer sees your price, what are they mentally comparing it to, and can you actually change that reference point?",
-    "equation": "RVC = (Benchmark Adoption × Context Control × Contrast) ÷ Unwanted Exposure",
+    "equation": "Reference-Value Control = (Benchmark Adoption × Context Control × Contrast) ÷ Unwanted Exposure",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -45,7 +45,7 @@
   "content": {
     "statement": "The best conversions happen when intent is already forming.",
     "question": "What early intent signals, searches, behaviors, life events, predict a customer is about to want your business?",
-    "equation": "IH = Signal Accuracy × Response Speed × Offer Relevance",
+    "equation": "Intent Harvesting = Signal Accuracy × Response Speed × Offer Relevance",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

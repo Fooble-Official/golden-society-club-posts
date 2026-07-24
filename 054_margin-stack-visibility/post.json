@@ -50,7 +50,7 @@
   "content": {
     "statement": "You cannot fix what you cannot see inside the margin stack.",
     "question": "If you listed every leak between your business gross revenue and net profit, what are the top 3 you haven't quantified?",
-    "equation": "MSV = Identified Margin Leak Value ÷ Total Estimated Margin Leak",
+    "equation": "Margin Stack Visibility = Identified Margin Leak Value ÷ Total Estimated Margin Leak",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

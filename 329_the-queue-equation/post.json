@@ -76,7 +76,7 @@
         "def": "The total time one item spends in the system from the moment it arrives to the moment it is finished, including all the waiting."
       }
     ],
-    "equation": "WIP = Throughput × Lead Time",
+    "equation": "Work In Progress = Throughput × Lead Time",
     "equation_example": "You finish 5 orders per day (throughput) and each order takes 8 days to move from placed to shipped (lead time). WIP = 5 orders/day × 8 days = 40 orders sitting in the pipeline at any moment. Higher throughput or shorter lead time shrinks that pile; slower work or longer waits swells it.",
     "closing_statement": "You control a backlog not by working harder inside it, but by governing what you let in and how fast you let it out.",
     "mental_model": "",

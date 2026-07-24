@@ -50,7 +50,7 @@
   "content": {
     "statement": "Edge cases kill systems.",
     "question": "What are the 3 most likely edge cases in your business's flow (refund, no-show, fraud), and do you have a written playbook for each?",
-    "equation": "EHA = (Speed × Accuracy × Containment) ÷ Chaos",
+    "equation": "Exception Handling = (Speed × Accuracy × Containment) ÷ Chaos",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

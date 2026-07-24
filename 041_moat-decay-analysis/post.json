@@ -50,7 +50,7 @@
   "content": {
     "statement": "An advantage is not durable just because it is real today.",
     "question": "Which of your business's current or planned moats will decay fastest, and what reinforces it?",
-    "equation": "MDA = (Current Moat Strength - Projected Strength at t) ÷ t",
+    "equation": "Moat Decay Analysis = (Current Moat Strength - Projected Strength at t) ÷ t",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

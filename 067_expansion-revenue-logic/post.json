@@ -50,7 +50,7 @@
   "content": {
     "statement": "The first purchase should naturally lead to future revenue.",
     "question": "What does a member's 6-month usage unlock that naturally invites them to spend more?",
-    "equation": "ERL = (Relevance × Timing × Margin × Adoption) ÷ Resistance",
+    "equation": "Expansion-Revenue Logic = (Relevance × Timing × Margin × Adoption) ÷ Resistance",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

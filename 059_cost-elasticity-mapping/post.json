@@ -50,7 +50,7 @@
   "content": {
     "statement": "Some costs scale smoothly; others explode in steps.",
     "question": "Which of your business costs will jump in a step-function, not smoothly, when you hit 5x or 10x scale?",
-    "equation": "CEM = (% Change in Cost) ÷ (% Change in Output)",
+    "equation": "Cost Elasticity Mapping = (% Change in Cost) ÷ (% Change in Output)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

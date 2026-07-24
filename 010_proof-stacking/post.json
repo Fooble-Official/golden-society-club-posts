@@ -50,7 +50,7 @@
   "content": {
     "statement": "Multiple proof types compound trust.",
     "question": "Do you have proof from all four angles, social (reviews), product (works), economic (ROI), authority (press)? What's missing?",
-    "equation": "PSS = (Social + Product + Economic + Authority) × Sequence Fit ÷ 4",
+    "equation": "Proof Stacking = (Social + Product + Economic + Authority) × Sequence Fit ÷ 4",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

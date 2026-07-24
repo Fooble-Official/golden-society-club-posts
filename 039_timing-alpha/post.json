@@ -50,7 +50,7 @@
   "content": {
     "statement": "The same move can be brilliant or stupid depending on when you do it.",
     "question": "Is right now early, late, or exactly on time for your model in this market? What proof do you have, not gut feel?",
-    "equation": "TA = Actual Return from Timing - Expected Return from Average Timing",
+    "equation": "Timing Alpha = Actual Return from Timing - Expected Return from Average Timing",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

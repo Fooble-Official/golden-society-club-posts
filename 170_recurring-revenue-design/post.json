@@ -45,7 +45,7 @@
   "content": {
     "statement": "One sale, infinite income.",
     "question": "What part of your business could become recurring revenue within 90 days?",
-    "equation": "MRR = Customers × Price × Retention",
+    "equation": "Monthly Recurring Revenue = Customers × Price × Retention",
     "mental_model": "Rent vs sell.",
     "business_lens": "Subscriptions > one-off sales.",
     "life_lens": "Systems that earn while you sleep.",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "Speed = decision decentralization.",
     "question": "Which 3 decisions does your team still route through you that they could own? What's the framework you need to hand them?",
-    "equation": "FBT = (Founder Decisions ÷ Total Decisions) × Delay",
+    "equation": "Founder Bottleneck = (Founder Decisions ÷ Total Decisions) × Delay",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

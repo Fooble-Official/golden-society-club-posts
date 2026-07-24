@@ -50,7 +50,7 @@
   "content": {
     "statement": "What cannot fail safely is a hidden existential risk.",
     "question": "Name your business's top 3 single points of failure. What's your mitigation for each?",
-    "equation": "SPF = Σ(Criticality × Concentration × Recovery Difficulty × Time-to-Recover)",
+    "equation": "Single-Point-of-Failure Inventory = Σ(Criticality × Concentration × Recovery Difficulty × Time-to-Recover)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

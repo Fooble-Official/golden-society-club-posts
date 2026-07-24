@@ -50,7 +50,7 @@
   "content": {
     "statement": "A marketplace only works when demand can be satisfied quickly.",
     "question": "When a member opens your app looking for what they need, how fast do they find it? Is it fast enough?",
-    "equation": "DSL = Active Demand Units ÷ Time-to-Satisfactory Match",
+    "equation": "Demand-Side Liquidity = Active Demand Units ÷ Time-to-Satisfactory Match",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

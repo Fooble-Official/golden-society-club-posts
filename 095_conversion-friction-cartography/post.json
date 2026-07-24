@@ -45,7 +45,7 @@
   "content": {
     "statement": "Conversion is the sum of micro-frictions.",
     "question": "If you mapped every step in your signup flow, where's the single highest-leverage friction to remove?",
-    "equation": "CFC = Σ(Step Friction × Importance × Traffic Volume)",
+    "equation": "Conversion-Friction Cartography = Σ(Step Friction × Importance × Traffic Volume)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

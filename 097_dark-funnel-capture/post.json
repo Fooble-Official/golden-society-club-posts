@@ -50,7 +50,7 @@
   "content": {
     "statement": "A large portion of influence is untracked.",
     "question": "How much of your business's growth is happening off-dashboard in DMs, word of mouth, or offline? Are you measuring it at all?",
-    "equation": "DFC = (Self-Reported + Direct + Branded Search + Mentions) ÷ 4",
+    "equation": "Dark-Funnel Capture = (Self-Reported + Direct + Branded Search + Mentions) ÷ 4",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

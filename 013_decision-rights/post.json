@@ -45,7 +45,7 @@
   "content": {
     "statement": "Clarity beats intelligence.",
     "question": "For your next big business decision, is it clear who decides, who consults, who executes, and who is merely informed?",
-    "equation": "DRD = (Clarity × Role Alignment × Escalation Clarity) ÷ Overlap",
+    "equation": "Decision Rights = (Clarity × Role Alignment × Escalation Clarity) ÷ Overlap",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

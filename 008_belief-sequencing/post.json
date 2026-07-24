@@ -45,7 +45,7 @@
   "content": {
     "statement": "Conversion = ordered belief acquisition.",
     "question": "What is the exact sequence of beliefs, first, second, third, a customer must adopt before they're ready to pay you?",
-    "equation": "BS = (Σ Belief Confidence × Order Fit) ÷ Breaks",
+    "equation": "Belief Sequencing = (Σ Belief Confidence × Order Fit) ÷ Breaks",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

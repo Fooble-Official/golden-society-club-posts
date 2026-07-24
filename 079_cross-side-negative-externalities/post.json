@@ -50,7 +50,7 @@
   "content": {
     "statement": "One side of a platform can harm the other.",
     "question": "Could too many members overwhelm your supply side? Could too much supply dilute the member experience?",
-    "equation": "CSNE = Σ(Benefit to One Side - Harm to Other)",
+    "equation": "Cross-Side Negative Externalities = Σ(Benefit to One Side - Harm to Other)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

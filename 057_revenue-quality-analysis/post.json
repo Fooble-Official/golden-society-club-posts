@@ -50,7 +50,7 @@
   "content": {
     "statement": "A dollar of revenue is not equal to every other dollar of revenue.",
     "question": "What percentage of your business's projected revenue is recurring, high-margin, diversified, and cash-reliable?",
-    "equation": "RQA = Recurring × Margin × Retention × Diversification × Cash Reliability",
+    "equation": "Revenue Quality Analysis = Recurring × Margin × Retention × Diversification × Cash Reliability",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

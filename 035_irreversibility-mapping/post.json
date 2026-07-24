@@ -45,7 +45,7 @@
   "content": {
     "statement": "Some decisions can be undone cheaply; others permanently narrow the future.",
     "question": "For your next big business decision, is it a one-way door or a two-way door? Are you treating it accordingly?",
-    "equation": "IM = (Reversal Cost + Option Loss + Time to Undo + Damage Risk) ÷ Decision Value",
+    "equation": "Irreversibility Mapping = (Reversal Cost + Option Loss + Time to Undo + Damage Risk) ÷ Decision Value",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

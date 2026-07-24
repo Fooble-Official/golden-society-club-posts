@@ -50,7 +50,7 @@
   "content": {
     "statement": "Overall economics are too blunt; you need to know exactly which sub-components create or destroy value.",
     "question": "Can you name every layer of cost between a business signup and a profit dollar? What's the biggest surprise?",
-    "equation": "UE = Lifetime Revenue − CAC − Variable Service Cost − Retention Cost − Support Burden",
+    "equation": "Unit Economics = Lifetime Revenue − CAC − Variable Service Cost − Retention Cost − Support Burden",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

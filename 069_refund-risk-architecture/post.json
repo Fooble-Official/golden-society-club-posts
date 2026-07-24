@@ -45,7 +45,7 @@
   "content": {
     "statement": "Certain offers structurally attract refunds.",
     "question": "What's your business's expected refund rate, and which of your offers is structurally most refund-prone?",
-    "equation": "RRA = (Expectation Gap + Impulse + Time to Value + Friction) ÷ 4",
+    "equation": "Refund-Risk Architecture = (Expectation Gap + Impulse + Time to Value + Friction) ÷ 4",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

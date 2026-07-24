@@ -50,7 +50,7 @@
   "content": {
     "statement": "Every business needs predefined thresholds where persistence becomes irrational.",
     "question": "For each channel or product in your business, what's the pre-agreed \"kill it\" number?",
-    "equation": "EKS = Current Contribution Margin - Minimum Viable Threshold",
+    "equation": "Economic Kill-Switches = Current Contribution Margin - Minimum Viable Threshold",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

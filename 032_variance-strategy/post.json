@@ -50,7 +50,7 @@
   "content": {
     "statement": "You should not eliminate all variance; you should choose where to absorb and where to suppress it.",
     "question": "Where in your business should you invite more variance (marketing tests)? Where should you kill it (payouts)?",
-    "equation": "VS = Desired Upside Variance - Undesired Downside Variance",
+    "equation": "Variance Strategy = Desired Upside Variance - Undesired Downside Variance",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

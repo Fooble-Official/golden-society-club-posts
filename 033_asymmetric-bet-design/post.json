@@ -50,7 +50,7 @@
   "content": {
     "statement": "The best bets have limited downside and nonlinear upside.",
     "question": "Of your next 3 business bets, which is most asymmetric? Are you overweighting the symmetric ones?",
-    "equation": "ABD = (Upside × Probability of Win) ÷ Max Downside Exposure",
+    "equation": "Asymmetric Bet Design = (Upside × Probability of Win) ÷ Max Downside Exposure",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

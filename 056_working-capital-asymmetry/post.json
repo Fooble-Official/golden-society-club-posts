@@ -50,7 +50,7 @@
   "content": {
     "statement": "The strongest businesses often get paid before they have to pay.",
     "question": "Can you restructure your business pricing or payout timing so customers effectively fund your growth?",
-    "equation": "WCA = Prepayment + Supplier Float + Deferred Delivery - Funding Need",
+    "equation": "Working-Capital Asymmetry = Prepayment + Supplier Float + Deferred Delivery - Funding Need",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

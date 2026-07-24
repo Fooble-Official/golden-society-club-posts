@@ -50,7 +50,7 @@
   "content": {
     "statement": "Insolvency often happens through timing, not lack of theoretical profitability.",
     "question": "If your business revenue dropped 40% for 3 months, how many weeks could you operate before cutting?",
-    "equation": "LSD = (Cash Buffer + Credit + Conversion Speed + Variable Cost Flex) ÷ Fixed Burn",
+    "equation": "Liquidity Stress Design = (Cash Buffer + Credit + Conversion Speed + Variable Cost Flex) ÷ Fixed Burn",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

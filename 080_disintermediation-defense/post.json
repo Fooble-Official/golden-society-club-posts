@@ -50,7 +50,7 @@
   "content": {
     "statement": "If users can bypass you, they eventually will.",
     "question": "What stops two sides of your marketplace from just bypassing your app after meeting once?",
-    "equation": "DD = (Platform Value + Lock-In + Enforcement + Switching Cost) ÷ Bypass Incentive",
+    "equation": "Disintermediation Defense = (Platform Value + Lock-In + Enforcement + Switching Cost) ÷ Bypass Incentive",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

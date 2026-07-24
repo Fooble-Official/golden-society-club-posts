@@ -50,7 +50,7 @@
   "content": {
     "statement": "Not all revenue contributes equally.",
     "question": "Which customer segment has the best margin in your business, and which has the worst? Are you actively acquiring more of the right one?",
-    "equation": "CMS = (Segment Revenue - Segment Variable Costs) ÷ Segment Revenue",
+    "equation": "Contribution Margin by Segment = (Segment Revenue - Segment Variable Costs) ÷ Segment Revenue",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "Algorithms learn from your inputs, even bad ones.",
     "question": "Is your business's ad targeting teaching Meta or TikTok to find real customers, or tourists who look similar?",
-    "equation": "AC = Wrong Audience % × Reinforcement Rate × CPM",
+    "equation": "Audience Contamination = Wrong Audience % × Reinforcement Rate × CPM",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

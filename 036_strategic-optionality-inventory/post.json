@@ -50,7 +50,7 @@
   "content": {
     "statement": "Good strategy preserves or creates valuable future choices.",
     "question": "What's one decision on your plate that would quietly close off a future option? Can you preserve that option cheaply?",
-    "equation": "SOI = Σ(Option Value × Reachable Prob × Time Window × Relevance)",
+    "equation": "Strategic Optionality Inventory = Σ(Option Value × Reachable Prob × Time Window × Relevance)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "Growth quality depends on how fast acquisition spend returns as gross profit.",
     "question": "What's your business's target CAC payback, and are you on track to hit it at your market launch?",
-    "equation": "PPA = CAC ÷ Monthly Gross Profit per Acquired Customer",
+    "equation": "Payback-Period Architecture = CAC ÷ Monthly Gross Profit per Acquired Customer",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

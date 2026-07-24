@@ -50,7 +50,7 @@
   "content": {
     "statement": "You never fully know what caused the conversion.",
     "question": "Are you overconfident about why your business's best customers signed up? What's the counterfactual you haven't tested?",
-    "equation": "AE = Measured Confidence ÷ Experiment-Verified Confidence",
+    "equation": "Attribution Epistemology = Measured Confidence ÷ Experiment-Verified Confidence",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

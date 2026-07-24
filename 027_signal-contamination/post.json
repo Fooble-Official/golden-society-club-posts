@@ -50,7 +50,7 @@
   "content": {
     "statement": "Once people optimize the metric, the metric stops cleanly representing reality.",
     "question": "Which business metric are you about to start optimizing that could get gamed or distorted?",
-    "equation": "SC = (Gaming + Proxy + Bias + Lag + Omission) ÷ Total Metrics",
+    "equation": "Signal Contamination = (Gaming + Proxy + Bias + Lag + Omission) ÷ Total Metrics",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -50,7 +50,7 @@
   "content": {
     "statement": "If another company can change one rule and crush your economics, you do not fully own your business.",
     "question": "Which of your revenue streams or customer-acquisition channels could a single platform policy change wipe out overnight?",
-    "equation": "PDR = Revenue Dependence × Policy Volatility × Switching Cost × Technical Dependence",
+    "equation": "Platform Dependency Risk = Revenue Dependence × Policy Volatility × Switching Cost × Technical Dependence",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

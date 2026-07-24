@@ -45,7 +45,7 @@
   "content": {
     "statement": "As complexity rises, more value gets consumed by coordination itself.",
     "question": "What % of your work week goes to alignment instead of output? Is that ratio getting worse as you grow?",
-    "equation": "CT = Dependencies × Coord Time × Misalignment Prob × Frequency",
+    "equation": "Coordination Tax = Dependencies × Coord Time × Misalignment Prob × Frequency",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

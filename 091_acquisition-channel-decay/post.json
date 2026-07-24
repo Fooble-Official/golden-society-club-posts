@@ -45,7 +45,7 @@
   "content": {
     "statement": "All channels get worse over time.",
     "question": "Which of your business's acquisition channels is already decaying? What's your next channel bet?",
-    "equation": "ACD = (Initial - Current Efficiency) ÷ Time",
+    "equation": "Acquisition Channel Decay = (Initial - Current Efficiency) ÷ Time",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

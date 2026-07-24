@@ -45,7 +45,7 @@
   "content": {
     "statement": "Bad events are inevitable; systemic spread is optional.",
     "question": "If your business's payment processor failed tonight, how far would the damage spread? What's your containment plan?",
-    "equation": "FCD = (Isolation × Detection × Recovery × Override) ÷ Cascade Potential",
+    "equation": "Failure Containment Design = (Isolation × Detection × Recovery × Override) ÷ Cascade Potential",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -273,3 +273,9 @@ These 68 principles had equations in the OFFICIAL sheet that were abstract, inte
 ## 326. Cynefin Framework
 - Old (sheet): Decision Quality = Domain Match × Method Fit × Iteration Speed
 - New:         Decision Quality = (Domain Match + Method Fit + Iteration Speed) ÷ 3
+
+---
+
+## Note on display labels
+
+On the carousel calculation slides, the equation label was spelled out from its acronym (e.g. `CD` -> `Counterposition Durability`, `PDR` -> `Platform Dependency Risk`, `STD` -> `State Transition Design`) for readability. The formula itself (everything right of `=`) is unchanged. The journal/app can keep the short acronym labels or spell them out - this is a display choice only, not an equation change.

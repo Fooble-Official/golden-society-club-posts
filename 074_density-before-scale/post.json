@@ -45,7 +45,7 @@
   "content": {
     "statement": "A small market fully solved beats a large market weakly served.",
     "question": "What's the density threshold in your market before you're allowed to expand to a second city?",
-    "equation": "DBS = Local Usage Density ÷ Expansion Footprint",
+    "equation": "Density Before Scale = Local Usage Density ÷ Expansion Footprint",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

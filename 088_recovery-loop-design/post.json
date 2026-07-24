@@ -50,7 +50,7 @@
   "content": {
     "statement": "Lost users can be reactivated if friction is low and relevance is high.",
     "question": "What's your business's churned-user recovery play? Do you have one at all?",
-    "equation": "RLD = (Trigger Quality + Message Relevance + Ease of Return) ÷ 3",
+    "equation": "Recovery-Loop Design = (Trigger Quality + Message Relevance + Ease of Return) ÷ 3",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

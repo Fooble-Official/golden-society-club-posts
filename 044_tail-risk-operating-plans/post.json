@@ -50,7 +50,7 @@
   "content": {
     "statement": "Low-probability events deserve preparation when the downside is severe enough.",
     "question": "What's your business's worst-case 6-month scenario? Do you have a 1-page plan for it?",
-    "equation": "TROP = Σ(Probability × Impact × Unpreparedness)",
+    "equation": "Tail-Risk Operating Plans = Σ(Probability × Impact × Unpreparedness)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

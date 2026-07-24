@@ -50,7 +50,7 @@
   "content": {
     "statement": "The shape of your initial market determines your ability to start.",
     "question": "Is your market launch narrow enough? Should you start with one neighborhood, not the whole city?",
-    "equation": "CSG = (Density × Niche Focus × Tightness) ÷ Complexity",
+    "equation": "Cold-Start Geometry = (Density × Niche Focus × Tightness) ÷ Complexity",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

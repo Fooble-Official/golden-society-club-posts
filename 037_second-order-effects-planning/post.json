@@ -50,7 +50,7 @@
   "content": {
     "statement": "The consequence after the consequence often matters more than the first-order win.",
     "question": "If your business hits its launch numbers perfectly, what does that create that you haven't planned for?",
-    "equation": "SOEP = First-Order Gain (rate 1-10) + Positive Second-Order Effects (list each one, rate 1-10, sum them) - Negative Second-Order Effects (list each one, rate 1-10, sum them)",
+    "equation": "Second-Order Effects Planning = First-Order Gain (rate 1-10) + Positive Second-Order Effects (list each one, rate 1-10, sum them) - Negative Second-Order Effects (list each one, rate 1-10, sum them)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

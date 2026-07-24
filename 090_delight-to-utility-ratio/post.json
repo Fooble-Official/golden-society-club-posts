@@ -45,7 +45,7 @@
   "content": {
     "statement": "Delight enhances value, but cannot replace utility.",
     "question": "Is your business more delightful than useful, or more useful than delightful? Which does the customer actually buy?",
-    "equation": "DUR = Delight Score ÷ Core Utility Score",
+    "equation": "Delight-to-Utility Ratio = Delight Score ÷ Core Utility Score",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

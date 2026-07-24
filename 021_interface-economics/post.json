@@ -45,7 +45,7 @@
   "content": {
     "statement": "Value is often lost at the handoff, not in the function itself.",
     "question": "In your business's workflow, which handoff loses the most context or time? How do you compress or remove it?",
-    "equation": "IE = Value Created at Handoff - (Delay + Error + Coordination + Context Loss)",
+    "equation": "Interface Economics = Value Created at Handoff - (Delay + Error + Coordination + Context Loss)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

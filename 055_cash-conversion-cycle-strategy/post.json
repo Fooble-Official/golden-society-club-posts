@@ -50,7 +50,7 @@
   "content": {
     "statement": "Speed of cash matters as much as margin.",
     "question": "How long between your business earning revenue and having it in the bank? Can you shorten it?",
-    "equation": "CCC = DSO + DIO - DPO",
+    "equation": "Cash Conversion Cycle = DSO + DIO - DPO",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

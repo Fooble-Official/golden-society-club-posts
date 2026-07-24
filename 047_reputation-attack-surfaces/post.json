@@ -45,7 +45,7 @@
   "content": {
     "statement": "Trust usually collapses through a few predictable pathways.",
     "question": "What's the one story about your business that could go viral for the wrong reasons, and is it actually preventable?",
-    "equation": "RAS = Σ(Exposure × Amplifiability × Trust Damage × Response Difficulty)",
+    "equation": "Reputation Attack Surfaces = Σ(Exposure × Amplifiability × Trust Damage × Response Difficulty)",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

@@ -45,7 +45,7 @@
   "content": {
     "statement": "Every organization runs at a certain heat level, and too much heat destroys judgment.",
     "question": "What's your business's operational temperature this week? Too hot, too cold, or productive?",
-    "equation": "OT = (Urgency + Firefighting + Stress + Volatility + Context Switching) ÷ 5",
+    "equation": "Operational Temperature = (Urgency + Firefighting + Stress + Volatility + Context Switching) ÷ 5",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

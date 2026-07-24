@@ -50,7 +50,7 @@
   "content": {
     "statement": "Stories scale trust faster than features.",
     "question": "What's the one-sentence story about your business that a customer would retell to a friend, unprompted?",
-    "equation": "NM = (Recall × Share Rate × Trust Lift) ÷ Copyability",
+    "equation": "Narrative Moat = (Recall × Share Rate × Trust Lift) ÷ Copyability",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",

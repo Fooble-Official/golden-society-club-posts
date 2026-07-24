@@ -45,7 +45,7 @@
   "content": {
     "statement": "Early confusion compounds long-term problems.",
     "question": "What might your business's onboarding be teaching users wrong about what your business does or how it works?",
-    "equation": "NOD = Wrong Model × Correction Cost × Time-to-Correction",
+    "equation": "Negative Onboarding Debt = Wrong Model × Correction Cost × Time-to-Correction",
     "mental_model": "",
     "business_lens": "",
     "life_lens": "",
