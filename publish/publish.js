@@ -219,7 +219,7 @@ async function main() {
   const post = JSON.parse(fs.readFileSync(path.join(folder, 'post.json'), 'utf8'));
   const caption = fs.readFileSync(path.join(folder, 'caption.txt'), 'utf8');
 
-  console.log(`Day ${post.order} of 328 — publishing order ${post.order}: "${post.title}" (${post.slide_count} slides)`);
+  console.log(`Day ${post.order} of 365 — publishing order ${post.order}: "${post.title}" (${post.slide_count} slides)`);
 
   const imageUrls = post.slides.map(s => jsDelivrUrl(`${entry.folder}/${s.file}`));
   console.log('Slide URLs:', imageUrls);
