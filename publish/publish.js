@@ -108,6 +108,10 @@ async function waitUntilFinished(containerId) {
 // in Pacific time (DST-aware via the IANA tz database), so the target-hour
 // check stays correct year-round instead of drifting when Daylight/Standard
 // Time changes.
+function pacificDate(d) {
+  // Pacific calendar date (YYYY-MM-DD), DST-aware
+  return new Intl.DateTimeFormat("en-CA", { timeZone: "America/Los_Angeles" }).format(d);
+}
 function currentPacificHour() {
   const hourStr = new Intl.DateTimeFormat('en-US', {
     timeZone: 'America/Los_Angeles',
@@ -191,7 +195,7 @@ async function main() {
   }
 
   const index = JSON.parse(fs.readFileSync(path.join(POSTS_DIR, 'index.json'), 'utf8'));
-  const today = new Date().toISOString().slice(0, 10);
+  const today = pacificDate(new Date()); // Pacific date so the launch gate matches Pacific, not UTC
 
   // Start-date gate: even if the cron is enabled early, nothing publishes
   // before this date. Bump state.start_date (e.g. to slip the launch by a
@@ -210,7 +214,7 @@ async function main() {
   // Idempotency guard: if we already published this exact order today (e.g.
   // a manual re-trigger on top of the scheduled run), don't publish twice.
   if (state.last_published_order === state.next_order - 1 &&
-      state.last_published_at && state.last_published_at.slice(0, 10) === today) {
+      state.last_published_at && pacificDate(new Date(state.last_published_at)) === today) {
     console.log(`Order ${state.last_published_order} was already published today (${today}). Skipping to avoid a duplicate post.`);
     return;
   }
