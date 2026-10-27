@@ -1,0 +1,22 @@
+{
+  "order": 160,
+  "folder": "160_drift-prevention",
+  "principle_number": "160",
+  "title": "Drift Prevention",
+  "cta": "os_plus_follow",
+  "equation": "Drift = Deviation × Time",
+  "hook": "Nothing's broken, so I haven't looked at it in months. That's exactly how things break.",
+  "statement": "Without regular correction, every system declines. Drift grows the longer you go without checking.",
+  "explainer": "No complaints doesn't mean no problems. Small slips pile up quietly, and the longer you wait to audit, the bigger and messier the fix gets.",
+  "sop": [
+    "Rate your current Deviation from standard for one key system, 1 to 10.",
+    "Note the Time since your last real audit, in months.",
+    "If it's been more than a quarter, book the audit this week.",
+    "Pull the system back to standard and write down what slipped.",
+    "Set a recurring reminder so the next audit isn't left to memory."
+  ],
+  "equation_example": "Deviation 5, Time 3 months since your last audit. 5 × 3 = 15 drift points. Higher means the gap between your standard and reality keeps growing. Lower means regular audits are keeping drift near zero.",
+  "question": "Write the date of your last real system audit. Be honest.",
+  "closing_statement": "No news isn't the same as no drift.",
+  "caption": "Principle Nº 160: Drift Prevention\n\nNothing's broken, so I haven't looked at it in months. That's exactly how things break.\n\nWithout regular correction, every system declines. Drift grows the longer you go without checking.\n\nYour turn: Write the date of your last real system audit. Be honest.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

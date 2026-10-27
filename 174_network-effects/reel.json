@@ -1,0 +1,22 @@
+{
+  "order": 174,
+  "folder": "174_network-effects",
+  "principle_number": "174",
+  "title": "Network Effects",
+  "cta": "os_plus_follow",
+  "equation": "Value = f(Users^2)",
+  "hook": "The best products get better every time someone new joins. Most products don't.",
+  "statement": "With a network effect, every new user makes the product more valuable for everyone else.",
+  "explainer": "That's one of the strongest moats there is. Once people stay because other people are there, leaving means losing the network, not just switching tools.",
+  "sop": [
+    "Name what a new user adds for everyone else: content, connections, data.",
+    "Ask if the product is truly worse with 10 Users than with 1,000.",
+    "Build one feature that shows other users' activity to new ones.",
+    "Count your active Users and rate how much each new one adds, 1 to 10.",
+    "Protect early users' experience while you chase growth."
+  ],
+  "equation_example": "Value grows roughly with Users squared. 10 users: 10 × 10 = 100. 100 users: 100 × 100 = 10,000. Growing faster than a straight line means a real network effect. A straight line means you just have more users.",
+  "question": "Write down what one new user gives every other user in your product. If it's nothing, write that.",
+  "closing_statement": "Design for what users give each other, not you.",
+  "caption": "Principle Nº 174: Network Effects\n\nThe best products get better every time someone new joins. Most products don't.\n\nWith a network effect, every new user makes the product more valuable for everyone else.\n\nYour turn: Write down what one new user gives every other user in your product. If it's nothing, write that.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

@@ -1,8 +1,10 @@
 Principle Nº 168: Scaling Systems
 
-Systems must scale or break.
+Ten clients was fine. Twenty almost broke me. Same business, just more of it.
 
-Ask yourself: What process will break at 10x, and what do you design now to prevent it?
+Your systems either scale as you grow or they break. Build them before volume forces you to.
+
+Your turn: Name one process that would break if you had ten times the customers next month.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

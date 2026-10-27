@@ -1,8 +1,10 @@
 Principle Nº 160: Drift Prevention
 
-Without correction → decline.
+Nothing's broken, so I haven't looked at it in months. That's exactly how things break.
 
-Ask yourself: When's the last time you did a real system audit? Be honest.
+Without regular correction, every system declines. Drift grows the longer you go without checking.
+
+Your turn: Write the date of your last real system audit. Be honest.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

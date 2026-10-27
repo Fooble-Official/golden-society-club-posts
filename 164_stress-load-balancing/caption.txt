@@ -1,8 +1,10 @@
 Principle Nº 164: Stress Load Balancing
 
-Too much stress breaks system.
+Stress isn't the problem. Stress with no recovery to match it is.
 
-Ask yourself: Is your stress-to-recovery ratio sustainable?
+Too much stress without enough recovery breaks the whole system. Watch the ratio, not just the load.
+
+Your turn: Rate your stress and recovery right now, divide them, and write down the number.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

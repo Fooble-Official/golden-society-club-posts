@@ -1,0 +1,22 @@
+{
+  "order": 164,
+  "folder": "164_stress-load-balancing",
+  "principle_number": "164",
+  "title": "Stress Load Balancing",
+  "cta": "os_plus_follow",
+  "equation": "Strain Ratio = Stress ÷ Recovery (aim < 1.0)",
+  "hook": "Stress isn't the problem. Stress with no recovery to match it is.",
+  "statement": "Too much stress without enough recovery breaks the whole system. Watch the ratio, not just the load.",
+  "explainer": "You can handle a lot when you're recovering well. The same load with no sleep or downtime will flatten you. It's the balance between the two that matters.",
+  "sop": [
+    "Rate your total Stress from 1 to 10 across work, health, and life.",
+    "Rate your real Recovery from 1 to 10: sleep, rest, downtime.",
+    "Divide Stress by Recovery to get your Strain Ratio.",
+    "If it's above 1, cut one stressor or add one recovery habit.",
+    "Re-check weekly. Your load shifts fast."
+  ],
+  "equation_example": "Stress 8, Recovery 3. 8 ÷ 3 = 2.67. Above 1 means stress is winning and burnout's coming. Stress 4 with Recovery 8 gives 0.5. Below 1 means recovery keeps up and the load is sustainable.",
+  "question": "Rate your stress and recovery right now, divide them, and write down the number.",
+  "closing_statement": "It's the ratio that breaks you, not the total.",
+  "caption": "Principle Nº 164: Stress Load Balancing\n\nStress isn't the problem. Stress with no recovery to match it is.\n\nToo much stress without enough recovery breaks the whole system. Watch the ratio, not just the load.\n\nYour turn: Rate your stress and recovery right now, divide them, and write down the number.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}
