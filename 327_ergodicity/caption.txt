@@ -1,8 +1,10 @@
 Principle Nº 327: Ergodicity
 
-Time averages and ensemble averages are not the same, protect against ruin.
+An average return can look great while your actual bank balance shrinks.
 
-Ask yourself: Am I taking any bet whose worst outcome would actually ruin me?
+What happens on average isn't what happens to you over time. Avoid any bet that could wipe you out.
+
+Your turn: Write down any bet you're making right now where the worst case would ruin you.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

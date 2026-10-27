@@ -1,0 +1,22 @@
+{
+  "order": 316,
+  "folder": "316_goodhart-s-law",
+  "principle_number": "316",
+  "title": "When Metrics Become Targets",
+  "cta": "os_plus_follow",
+  "equation": "Measure Validity = 1 ÷ Pressure to Hit It",
+  "hook": "The second you tie a bonus to a number, people start gaming the number.",
+  "statement": "When a measure becomes a target, it stops being a good measure.",
+  "explainer": "Measure support on tickets closed per hour and tickets get closed without being solved. People chase whatever's counted. Pair every target with a second number that catches the gaming.",
+  "sop": [
+    "List the metrics your team is chasing.",
+    "For each, write how someone could game it.",
+    "Add a balancing metric next to it.",
+    "Watch for weird behavior around the number.",
+    "Fix or replace any metric that's been gamed."
+  ],
+  "equation_example": "Pressure to Hit It is 9 out of 10, tied to bonuses. Measure Validity = 1 ÷ 9, about 0.11 out of 1.0. More pressure pushes validity toward zero. Low pressure, around 1 or 2, keeps the number closer to reality.",
+  "question": "Pick one metric your team is rewarded on and write the easiest way to game it.",
+  "closing_statement": "The moment you reward a number, people optimize the number.",
+  "caption": "Principle Nº 316: When Metrics Become Targets\n\nThe second you tie a bonus to a number, people start gaming the number.\n\nWhen a measure becomes a target, it stops being a good measure.\n\nYour turn: Pick one metric your team is rewarded on and write the easiest way to game it.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

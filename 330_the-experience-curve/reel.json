@@ -1,0 +1,21 @@
+{
+  "order": 330,
+  "folder": "330_the-experience-curve",
+  "principle_number": "330",
+  "title": "The Experience Curve",
+  "cta": "os_plus_follow",
+  "equation": "New Cost = Old Cost × Learning Rate ^ (Doublings)",
+  "hook": "Your first hundred units will always cost more than they should. That's normal.",
+  "statement": "Every time your total output doubles, your cost per unit drops by a steady percentage.",
+  "explainer": "Costs fall with reps, not with time. So price for the volume you're heading toward, not the clunky early numbers you're stuck with today.",
+  "sop": [
+    "Find your cost per unit at two points where total output roughly doubled.",
+    "Divide the later cost by the earlier one to get your Learning Rate.",
+    "Estimate how many more Doublings are realistic.",
+    "Project your New Cost and set pricing against it."
+  ],
+  "equation_example": "Old Cost $100, Learning Rate 0.85, 3 more Doublings. $100 × 0.85 × 0.85 × 0.85 = $61.41 per unit. A lower Learning Rate means steeper savings. A rate close to 1 means experience barely helps.",
+  "question": "Write down what one unit cost you a year ago and what it costs now.",
+  "closing_statement": "Every doubling of reps makes the expensive stuff cheaper.",
+  "caption": "Principle Nº 330: The Experience Curve\n\nYour first hundred units will always cost more than they should. That's normal.\n\nEvery time your total output doubles, your cost per unit drops by a steady percentage.\n\nYour turn: Write down what one unit cost you a year ago and what it costs now.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

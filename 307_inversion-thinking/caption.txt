@@ -1,8 +1,10 @@
 Principle Nº 307: Inversion Thinking
 
-Solve problems by considering their opposite first, eliminate failure modes rather than chase success.
+Instead of asking how to win, ask how this could fail. That list is way more useful.
 
-Ask yourself: If this fails, what will the autopsy reveal, and have I addressed it now?
+Solve problems backwards. Figure out how things could fail and remove those causes first.
+
+Your turn: Write the three most likely reasons your current project fails, then one fix for each.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

@@ -1,0 +1,22 @@
+{
+  "order": 331,
+  "folder": "331_the-mirror-principle",
+  "principle_number": "331",
+  "title": "The Mirror Principle",
+  "cta": "os_plus_follow",
+  "equation": "Coordination Interfaces = Teams × (Teams - 1) ÷ 2",
+  "hook": "Your product feels disjointed because your team is.",
+  "statement": "Whatever you build ends up shaped like your org chart.",
+  "explainer": "Every handoff between teams turns into a seam in the product. A split-up team ships a split-up product. If you want a clean product, design the team first.",
+  "sop": [
+    "List your product's main parts and who owns each one.",
+    "Count the Teams involved in building it.",
+    "Calculate your Coordination Interfaces.",
+    "Spot seams that exist only because of a handoff.",
+    "Redraw team lines to match the product you want."
+  ],
+  "equation_example": "6 Teams building one product. 6 × (6 - 1) ÷ 2 = 15 handoff points. Add teams and that number climbs fast, and the product starts cracking along those lines. Fewer, well-defined teams means a cleaner product.",
+  "question": "Find one awkward spot in your product and name the two teams it sits between.",
+  "closing_statement": "What you build carries the shape of how you're organized.",
+  "caption": "Principle Nº 331: The Mirror Principle\n\nYour product feels disjointed because your team is.\n\nWhatever you build ends up shaped like your org chart.\n\nYour turn: Find one awkward spot in your product and name the two teams it sits between.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

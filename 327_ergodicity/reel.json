@@ -1,0 +1,22 @@
+{
+  "order": 327,
+  "folder": "327_ergodicity",
+  "principle_number": "327",
+  "title": "Ergodicity",
+  "cta": "os_plus_follow",
+  "equation": "Time-Average Growth = Geometric Mean (not arithmetic)",
+  "hook": "An average return can look great while your actual bank balance shrinks.",
+  "statement": "What happens on average isn't what happens to you over time. Avoid any bet that could wipe you out.",
+  "explainer": "A double-or-nothing bet can look good on paper. Keep taking it and you eventually hit zero. That's why survival comes before optimizing, and why spreading bets beats one big swing.",
+  "sop": [
+    "List any bet where the worst case would end the business.",
+    "Drop it, even if the math looks good.",
+    "Judge growth by the compounded result, not the simple average.",
+    "Size bets so one loss can't knock you out.",
+    "Spread your risk across several bets."
+  ],
+  "equation_example": "Returns of +50%, +50%, then -70%. The simple average says +10% a year. Compounded, it's (1.5 × 1.5 × 0.30) to the 1/3 power, minus 1, which is -12.3% a year. A big gap between those means one bad year is quietly sinking you.",
+  "question": "Write down any bet you're making right now where the worst case would ruin you.",
+  "closing_statement": "Survive first. Then let compounding do its thing.",
+  "caption": "Principle Nº 327: Ergodicity\n\nAn average return can look great while your actual bank balance shrinks.\n\nWhat happens on average isn't what happens to you over time. Avoid any bet that could wipe you out.\n\nYour turn: Write down any bet you're making right now where the worst case would ruin you.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

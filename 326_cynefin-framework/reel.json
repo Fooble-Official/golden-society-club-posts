@@ -1,0 +1,22 @@
+{
+  "order": 326,
+  "folder": "326_cynefin-framework",
+  "principle_number": "326",
+  "title": "Cynefin Framework",
+  "cta": "os_plus_follow",
+  "equation": "Decision Quality = (Domain Match + Method Fit + Iteration Speed) ÷ 3",
+  "hook": "You can't spreadsheet your way through a problem nobody's solved before.",
+  "statement": "Different kinds of problems need different ways of deciding. Figure out which kind you're facing first.",
+  "explainer": "Some problems have a known answer, so find the expert. Others only make sense after you try things. Treat a messy problem like a puzzle with one answer and you get confident plans that flop.",
+  "sop": [
+    "Ask whether this problem has a known answer or needs experimenting.",
+    "If it's known, follow best practice. If it's new, run small tests.",
+    "Score Domain Match, Method Fit, and Iteration Speed from 1 to 10.",
+    "Reassess as you learn more.",
+    "Stop using one playbook for everything."
+  ],
+  "equation_example": "Domain Match 5, Method Fit 6, Iteration Speed 7. (5 + 6 + 7) ÷ 3 = 6.0. Higher means you're using the right approach for the problem. Lower means you're over-planning something you should be testing.",
+  "question": "Pick your biggest current problem and write down whether it needs an expert or an experiment.",
+  "closing_statement": "The right method depends on the kind of problem.",
+  "caption": "Principle Nº 326: Cynefin Framework\n\nYou can't spreadsheet your way through a problem nobody's solved before.\n\nDifferent kinds of problems need different ways of deciding. Figure out which kind you're facing first.\n\nYour turn: Pick your biggest current problem and write down whether it needs an expert or an experiment.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

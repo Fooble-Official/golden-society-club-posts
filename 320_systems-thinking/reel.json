@@ -1,0 +1,22 @@
+{
+  "order": 320,
+  "folder": "320_systems-thinking",
+  "principle_number": "320",
+  "title": "Systems Thinking",
+  "cta": "os_plus_follow",
+  "equation": "Diagnosis Quality = (Loop Mapping + Delay Awareness + Leverage Identification) ÷ 3",
+  "hook": "You've fixed the same problem three times this year. That's not bad luck, that's your setup.",
+  "statement": "Recurring problems come from how the whole system is wired, not from one broken piece.",
+  "explainer": "Most of us patch whatever's loudest. But the real fix usually sits upstream, in a rule or an incentive. Small change there, big change everywhere.",
+  "sop": [
+    "Name the problem that keeps coming back.",
+    "Sketch what feeds it, what it feeds, and the loops between them.",
+    "Score Loop Mapping, Delay Awareness, and Leverage Identification from 1 to 10.",
+    "Fix the one spot where a small change moves the most.",
+    "Watch nearby areas for side effects."
+  ],
+  "equation_example": "Loop Mapping 5, Delay Awareness 4, Leverage Identification 7. (5 + 4 + 7) ÷ 3 = 5.3. Higher means your fix will actually stick. Lower means you're about to treat a symptom again.",
+  "question": "Write down one problem that keeps coming back, and the rule or setup that keeps causing it.",
+  "closing_statement": "Same problem twice means look at the structure, not the people.",
+  "caption": "Principle Nº 320: Systems Thinking\n\nYou've fixed the same problem three times this year. That's not bad luck, that's your setup.\n\nRecurring problems come from how the whole system is wired, not from one broken piece.\n\nYour turn: Write down one problem that keeps coming back, and the rule or setup that keeps causing it.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

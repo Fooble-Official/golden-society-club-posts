@@ -1,0 +1,22 @@
+{
+  "order": 329,
+  "folder": "329_the-queue-equation",
+  "principle_number": "329",
+  "title": "The Queue Equation",
+  "cta": "os_plus_follow",
+  "equation": "Work In Progress = Throughput × Lead Time",
+  "hook": "Your backlog isn't a hustle problem. It's math.",
+  "statement": "The pile of unfinished work equals how fast work comes in times how long each piece sits.",
+  "explainer": "If stuff keeps piling up, there are only two real fixes. Let less in, or move it through faster. Working harder inside the pile doesn't change the math.",
+  "sop": [
+    "Pick one backlog, like orders, tickets, or invoices.",
+    "Count how many items are sitting unfinished right now.",
+    "Measure Throughput, items done per day, and Lead Time, days per item.",
+    "Multiply them and compare to your actual pile.",
+    "Cap intake or shorten Lead Time, then recheck in two weeks."
+  ],
+  "equation_example": "You finish 5 orders a day, and each takes 8 days from placed to shipped. 5 × 8 = 40 orders sitting in the pipeline at any moment. Higher throughput or shorter lead time shrinks the pile. Slower work grows it.",
+  "question": "Count how many unfinished items are sitting in your busiest backlog right now.",
+  "closing_statement": "Control what comes in and how fast it leaves.",
+  "caption": "Principle Nº 329: The Queue Equation\n\nYour backlog isn't a hustle problem. It's math.\n\nThe pile of unfinished work equals how fast work comes in times how long each piece sits.\n\nYour turn: Count how many unfinished items are sitting in your busiest backlog right now.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

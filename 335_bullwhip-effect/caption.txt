@@ -1,8 +1,10 @@
 Principle Nº 335: Bullwhip Effect
 
-Small swings in customer demand amplify into huge swings the further upstream you go.
+Customers bought a little more this week, and suddenly your supplier thinks it's a boom.
 
-Ask yourself: Are your upstream orders swinging far harder than your actual end-customer demand is?
+Small changes in customer demand turn into huge swings the further back up the supply chain you go.
+
+Your turn: Compare last month's orders to suppliers against your actual customer sales. Note the gap.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

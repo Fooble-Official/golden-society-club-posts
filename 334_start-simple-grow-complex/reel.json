@@ -1,0 +1,21 @@
+{
+  "order": 334,
+  "folder": "334_start-simple-grow-complex",
+  "principle_number": "334",
+  "title": "Start Simple, Grow Complex",
+  "cta": "os_plus_follow",
+  "equation": "Survival Odds = Simplicity at Launch ÷ Complexity at Launch",
+  "hook": "The version you're planning to launch is probably three versions too big.",
+  "statement": "Every complex system that works started as a simple system that worked.",
+  "explainer": "You can't design something complicated from scratch and expect it to run. Complexity that works gets grown, not installed. So launch small, make it work, then add.",
+  "sop": [
+    "Write the smallest version that works end to end for one real customer.",
+    "Score Simplicity at Launch and Complexity at Launch from 1 to 10.",
+    "Divide them. Below 1, cut features until the core stands alone.",
+    "Ship that, then add only what real usage asks for."
+  ],
+  "equation_example": "Simplicity at Launch 8, Complexity at Launch 2. 8 ÷ 2 = 4. Well above 1, so it's simple enough to work and then grow. Below 1 means it's too tangled and likely to fall apart before it ever settles.",
+  "question": "Write down the smallest version of your next launch that would still work for one customer.",
+  "closing_statement": "Make it work small. Let it earn every extra layer.",
+  "caption": "Principle Nº 334: Start Simple, Grow Complex\n\nThe version you're planning to launch is probably three versions too big.\n\nEvery complex system that works started as a simple system that worked.\n\nYour turn: Write down the smallest version of your next launch that would still work for one customer.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

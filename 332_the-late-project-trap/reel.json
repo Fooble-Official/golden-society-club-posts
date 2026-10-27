@@ -1,0 +1,22 @@
+{
+  "order": 332,
+  "folder": "332_the-late-project-trap",
+  "principle_number": "332",
+  "title": "The Late-Project Trap",
+  "cta": "os_plus_follow",
+  "equation": "Comms Overhead = People × (People - 1) ÷ 2",
+  "hook": "We're behind, so let's hire more people. That's usually how you end up even further behind.",
+  "statement": "Adding people to a project that's already late usually makes it later.",
+  "explainer": "New people need training and coordinating, and that time comes from the folks who are already behind. Communication lines grow faster than headcount, so things slow down before they speed up.",
+  "sop": [
+    "Count the People already on the late project.",
+    "Calculate Comms Overhead now and with the new hires.",
+    "Compare that jump against real output after ramp-up.",
+    "Cut scope or reorder the work before adding headcount.",
+    "If you must add people, give them a separate, self-contained chunk."
+  ],
+  "equation_example": "10 People: 10 × 9 ÷ 2 = 45 communication lines. Add 2 more: 12 × 11 ÷ 2 = 66. That's 21 new lines for just 2 extra pairs of hands. The bigger the team, the heavier each new person gets.",
+  "question": "Next time you're behind, write down what scope you could cut before adding anyone.",
+  "closing_statement": "When you're behind, cut scope before adding people.",
+  "caption": "Principle Nº 332: The Late-Project Trap\n\nWe're behind, so let's hire more people. That's usually how you end up even further behind.\n\nAdding people to a project that's already late usually makes it later.\n\nYour turn: Next time you're behind, write down what scope you could cut before adding anyone.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

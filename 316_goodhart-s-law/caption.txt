@@ -1,8 +1,10 @@
-Principle Nº 316: Goodhart’s Law
+Principle Nº 316: When Metrics Become Targets
 
-When a measure becomes a target, it ceases to be a good measure.
+The second you tie a bonus to a number, people start gaming the number.
 
-Ask yourself: Which of my metrics has become a target, and what is the team doing now that misses the underlying goal?
+When a measure becomes a target, it stops being a good measure.
+
+Your turn: Pick one metric your team is rewarded on and write the easiest way to game it.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

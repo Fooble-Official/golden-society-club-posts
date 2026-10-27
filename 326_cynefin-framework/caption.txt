@@ -1,8 +1,10 @@
 Principle Nº 326: Cynefin Framework
 
-Different problem domains require different decision approaches.
+You can't spreadsheet your way through a problem nobody's solved before.
 
-Ask yourself: Are you treating a Complex problem as if it were Complicated, or vice versa?
+Different kinds of problems need different ways of deciding. Figure out which kind you're facing first.
+
+Your turn: Pick your biggest current problem and write down whether it needs an expert or an experiment.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 
