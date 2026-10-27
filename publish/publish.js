@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* Golden Society — daily Instagram publisher (Reels; carousel fallback).
- * If a post folder has reel.mp4, it is published as a Reel (with cover.png
+ * If a post folder has reel.mp4, it is published as a Reel (with cover.jpg
  * as the grid thumbnail). Otherwise the old slide carousel is used.
  * Reads state.json for the next order to publish, builds a carousel from
  * that post's slide images (served via jsDelivr from this same repo),
@@ -250,7 +250,7 @@ async function main() {
 
   const isReel = fs.existsSync(path.join(folder, 'reel.mp4'));
   const videoUrl = jsDelivrUrl(`${entry.folder}/reel.mp4`);
-  const coverUrl = fs.existsSync(path.join(folder, 'cover.png')) ? jsDelivrUrl(`${entry.folder}/cover.png`) : null;
+  const coverUrl = fs.existsSync(path.join(folder, 'cover.jpg')) ? jsDelivrUrl(`${entry.folder}/cover.jpg`) : null;
   const imageUrls = post.slides.map(s => jsDelivrUrl(`${entry.folder}/${s.file}`));
 
   if (isReel) {
