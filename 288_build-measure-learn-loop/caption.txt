@@ -1,8 +1,10 @@
 Principle Nº 288: Build-Measure-Learn Loop
 
-Iterate by building, measuring real behavior, and learning whether to pivot or persevere.
+The team that learns every week will beat the team that learns every month. Every time.
 
-Ask yourself: How fast is your Build-Measure-Learn cycle right now, and what is the next thing slowing it down?
+Build something, measure what people actually do, then decide whether to change course or keep going.
+
+Your turn: Count how many days your last build, measure, learn loop took, and name what slowed it down.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

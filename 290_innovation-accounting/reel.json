@@ -1,0 +1,22 @@
+{
+  "order": 290,
+  "folder": "290_innovation-accounting",
+  "principle_number": "290",
+  "title": "Innovation Accounting",
+  "cta": "os_plus_follow",
+  "equation": "Innovation Score = Cohort Behavior × Conversion × Retention",
+  "hook": "Downloads going up while nobody sticks around isn't growth. It's a leaky bucket with good marketing.",
+  "statement": "Track progress with numbers that show whether your business model is actually working.",
+  "explainer": "Total signups can rise while the business quietly dies. Grouping users by when they joined, called cohorts, shows whether each new group engages, pays, and sticks better than the last.",
+  "sop": [
+    "Drop vanity numbers like raw downloads and page views.",
+    "Group users into cohorts by the month they started.",
+    "Track each cohort's activation, conversion, and retention.",
+    "Set milestones that mean real progress.",
+    "Pivot when the cohort numbers stall."
+  ],
+  "equation_example": "Cohort Behavior 60%, Conversion 20%, Retention 45%. 0.60 × 0.20 × 0.45 = 0.054, about 5.4%. Higher means engaged users convert and stick around. Lower means your growth numbers are hiding a leaky core.",
+  "question": "Pick your last two monthly cohorts and compare how many people from each are still around.",
+  "closing_statement": "Rising engagement means little if it never converts.",
+  "caption": "Principle Nº 290: Innovation Accounting\n\nDownloads going up while nobody sticks around isn't growth. It's a leaky bucket with good marketing.\n\nTrack progress with numbers that show whether your business model is actually working.\n\nYour turn: Pick your last two monthly cohorts and compare how many people from each are still around.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

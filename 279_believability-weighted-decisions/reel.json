@@ -1,0 +1,22 @@
+{
+  "order": 279,
+  "folder": "279_believability-weighted-decisions",
+  "principle_number": "279",
+  "title": "Believability-Weighted Decisions",
+  "cta": "os_plus_follow",
+  "equation": "Decision Quality = Σ(Opinion × Believability Weight)",
+  "hook": "The loudest person in the meeting isn't always right. Sometimes they've just never done this before.",
+  "statement": "In group decisions, give more weight to opinions from people with a proven track record on that topic.",
+  "explainer": "Not every opinion is equal. Someone who's done it five times knows things a first-timer doesn't. Weighting by track record takes ego out of the argument and leads to better calls.",
+  "sop": [
+    "Decide what makes someone believable on this topic.",
+    "Collect everyone's opinion on the decision.",
+    "Multiply each Opinion by that person's Believability Weight, openly.",
+    "If the result splits, let one named person decide.",
+    "Check the outcome later and adjust the weights."
+  ],
+  "equation_example": "Opinions score 1 to 10, weights 0.1 to 1.0. Person A: 8 × 0.9 = 7.2. Person B: 9 × 0.3 = 2.7. Total 9.9, and A counts way more. Higher totals mean your most informed voices are steering. One loud unweighted voice means trouble.",
+  "question": "Pick one decision this week and name whose opinion deserves the most weight, based on what they've actually done.",
+  "closing_statement": "Weight opinions by track record, not volume.",
+  "caption": "Principle Nº 279: Believability-Weighted Decisions\n\nThe loudest person in the meeting isn't always right. Sometimes they've just never done this before.\n\nIn group decisions, give more weight to opinions from people with a proven track record on that topic.\n\nYour turn: Pick one decision this week and name whose opinion deserves the most weight, based on what they've actually done.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}
