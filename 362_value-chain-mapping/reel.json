@@ -1,0 +1,22 @@
+{
+  "order": 362,
+  "folder": "362_value-chain-mapping",
+  "principle_number": "362",
+  "title": "Value-Chain Mapping",
+  "cta": "os_plus_follow",
+  "equation": "Component Position = Visibility to User × Evolution Stage",
+  "hook": "Stop custom-building things you could buy off the shelf for a fraction of the cost.",
+  "statement": "Map each part of your business by how visible and how mature it is. Then you know where to focus.",
+  "explainer": "You can't plan strategy on ground you can't see. Mapping each piece shows what's new and worth building, and what's become a commodity you should just buy.",
+  "sop": [
+    "List every component your product depends on, top to bottom.",
+    "Rate each one's Visibility to User from 1 to 10.",
+    "Rate its Evolution Stage from 1 to 10, brand new to commodity.",
+    "Multiply and plot them on a simple map.",
+    "Build what's novel. Buy or outsource what's a commodity."
+  ],
+  "equation_example": "A payment feature: Visibility to User 9 × Evolution Stage 8 = 72. Very visible and nearly a commodity, so buy it, don't build it. A low score flags something new and behind the scenes that might be worth building yourself.",
+  "question": "Name one thing you're building custom that you could just buy.",
+  "closing_statement": "Draw the map so you stop wandering.",
+  "caption": "Principle Nº 362: Value-Chain Mapping\n\nStop custom-building things you could buy off the shelf for a fraction of the cost.\n\nMap each part of your business by how visible and how mature it is. Then you know where to focus.\n\nYour turn: Name one thing you're building custom that you could just buy.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

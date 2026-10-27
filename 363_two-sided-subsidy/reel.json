@@ -1,0 +1,22 @@
+{
+  "order": 363,
+  "folder": "363_two-sided-subsidy",
+  "principle_number": "363",
+  "title": "Two-Sided Subsidy",
+  "cta": "os_plus_follow",
+  "equation": "Subsidize Side = Price Sensitivity × Cross-Side Pull",
+  "hook": "Every marketplace hits the same early wall. Nobody shows up until the other side does.",
+  "statement": "On a two-sided platform, make it cheap for the price-sensitive side so the whole market can get going.",
+  "explainer": "Both sides have to show up, but they rarely need each other equally. Subsidize the side that scares off easily and the other side really wants. Charge the side that gains the most.",
+  "sop": [
+    "Define both sides of your platform and what each wants from the other.",
+    "Rate each side's Price Sensitivity from 1 to 10.",
+    "Rate each side's Cross-Side Pull from 1 to 10.",
+    "Subsidize the higher-scoring side and charge the other.",
+    "Watch that the subsidy doesn't become a permanent leak."
+  ],
+  "equation_example": "Riders: Price Sensitivity 8 × Cross-Side Pull 7 = 56. Drivers: 4 × 5 = 20. Riders score higher, so subsidize them, since they scare off easily and drivers need them badly. Charge the lower-scoring side.",
+  "question": "Write down which side of your market is harder to attract, and one way to make it cheaper for them.",
+  "closing_statement": "Getting both sides to show up beats charging too early.",
+  "caption": "Principle Nº 363: Two-Sided Subsidy\n\nEvery marketplace hits the same early wall. Nobody shows up until the other side does.\n\nOn a two-sided platform, make it cheap for the price-sensitive side so the whole market can get going.\n\nYour turn: Write down which side of your market is harder to attract, and one way to make it cheaper for them.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

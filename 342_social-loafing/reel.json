@@ -1,0 +1,22 @@
+{
+  "order": 342,
+  "folder": "342_social-loafing",
+  "principle_number": "342",
+  "title": "Social Loafing",
+  "cta": "os_plus_follow",
+  "equation": "Effort per Person = Group Output ÷ (People × Solo Output)",
+  "hook": "Put ten people on a task and somehow each one does less than when it was three.",
+  "statement": "The bigger the group, the less effort each person actually puts in.",
+  "explainer": "In a crowd, responsibility gets fuzzy and each person's work feels less visible. So everyone coasts a little. More hands, less effort each.",
+  "sop": [
+    "Pick one group task and note its Group Output.",
+    "Estimate one capable person's Solo Output on the same work.",
+    "Divide Group Output by People × Solo Output.",
+    "If it's well below 1, split the work into owned pieces.",
+    "Give each piece one name and keep the team small."
+  ],
+  "equation_example": "Group Output 800 ÷ (10 People × 100 Solo Output) = 800 ÷ 1,000 = 0.8. Each person is giving 80% of what they'd do alone. Below 1 means effort is getting lost in the crowd. At 1, everyone's pulling full weight.",
+  "question": "Pick one shared task and put a single person's name on it.",
+  "closing_statement": "People do their best work when their name's on it.",
+  "caption": "Principle Nº 342: Social Loafing\n\nPut ten people on a task and somehow each one does less than when it was three.\n\nThe bigger the group, the less effort each person actually puts in.\n\nYour turn: Pick one shared task and put a single person's name on it.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

@@ -1,0 +1,22 @@
+{
+  "order": 358,
+  "folder": "358_the-network-value-law",
+  "principle_number": "358",
+  "title": "The Network-Value Law",
+  "cta": "os_plus_follow",
+  "equation": "Network Value ∝ Users × (Users - 1) ÷ 2",
+  "hook": "A network with ten users is basically useless. With ten thousand, it's hard to leave.",
+  "statement": "A network's value grows roughly with the square of how many people are on it.",
+  "explainer": "Each new person can connect with everyone already there, so value climbs way faster than headcount. That's why networks are brutal to start and nearly unstoppable once they hit critical mass.",
+  "sop": [
+    "Define what a connection means in your network.",
+    "Count your Users and calculate potential connections.",
+    "Find the smallest, tightest group where it already feels valuable.",
+    "Grow inside that group until connections spread on their own.",
+    "Remove anything that makes it hard for users to connect."
+  ],
+  "equation_example": "1,000 Users: 1,000 × 999 ÷ 2 = 499,500 possible connections. Double to 2,000: 2,000 × 1,999 ÷ 2 = 1,999,000. That's about 4 times the value from 2 times the users. The bigger it gets, the more each new user adds.",
+  "question": "Name the smallest group of customers who get the most value from each other.",
+  "closing_statement": "Nurture the connections, not just the count.",
+  "caption": "Principle Nº 358: The Network-Value Law\n\nA network with ten users is basically useless. With ten thousand, it's hard to leave.\n\nA network's value grows roughly with the square of how many people are on it.\n\nYour turn: Name the smallest group of customers who get the most value from each other.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

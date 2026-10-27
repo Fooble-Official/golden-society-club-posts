@@ -1,8 +1,10 @@
 Principle Nº 337: The Build-vs-Buy Boundary
 
-Build it in-house only until buying it on the market costs you less.
+Doing it yourself feels cheaper until you count your own hours.
 
-Ask yourself: Which functions are you doing in-house that a specialist could deliver cheaper once you count your own coordination time?
+Keep something in-house only while it's cheaper than buying it from the market.
+
+Your turn: Pick one task you do in-house and write down its full monthly cost, including your time.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

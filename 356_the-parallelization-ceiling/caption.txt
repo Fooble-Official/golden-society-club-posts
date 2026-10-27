@@ -1,8 +1,10 @@
 Principle Nº 356: The Parallelization Ceiling
 
-Your total speedup is capped by the part of the work you can never parallelize.
+Doubling the team almost never doubles the speed.
 
-Ask yourself: What fraction of your core process genuinely cannot be split up and run at the same time?
+How fast you can go is capped by the part of the work that has to happen one step at a time.
+
+Your turn: Write down the one step in your process that everything else waits on.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

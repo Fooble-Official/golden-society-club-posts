@@ -1,0 +1,22 @@
+{
+  "order": 357,
+  "folder": "357_the-law-of-implicit-dependencies",
+  "principle_number": "357",
+  "title": "The Law of Implicit Dependencies",
+  "cta": "os_plus_follow",
+  "equation": "Breakage Risk = Users × Exposed Surface",
+  "hook": "You fixed a tiny bug and a customer got upset because they'd been relying on it.",
+  "statement": "Once enough people use your product, someone depends on every little thing it does, even the accidents.",
+  "explainer": "It doesn't matter what you documented or promised. With enough customers, someone builds around every quirk. Change anything they can see and you'll break something for somebody.",
+  "sop": [
+    "List everything users can see your product do, not just what's documented.",
+    "Separate what you mean to guarantee from what's accidental.",
+    "Calculate Breakage Risk from Users × Exposed Surface.",
+    "Hide internals so users can see less.",
+    "Announce and phase out changes before you make them."
+  ],
+  "equation_example": "10,000 Users × 50 visible behaviors = 500,000 spots where someone might depend on you. Higher means any change is more likely to break someone. Shrinking either number lowers the risk.",
+  "question": "Write down one quirk in your product or process that customers have started relying on.",
+  "closing_statement": "Be careful what you show people. They'll build on it.",
+  "caption": "Principle Nº 357: The Law of Implicit Dependencies\n\nYou fixed a tiny bug and a customer got upset because they'd been relying on it.\n\nOnce enough people use your product, someone depends on every little thing it does, even the accidents.\n\nYour turn: Write down one quirk in your product or process that customers have started relying on.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

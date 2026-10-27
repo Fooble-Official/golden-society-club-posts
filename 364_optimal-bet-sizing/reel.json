@@ -1,0 +1,22 @@
+{
+  "order": 364,
+  "folder": "364_optimal-bet-sizing",
+  "principle_number": "364",
+  "title": "Optimal Bet Sizing",
+  "cta": "os_plus_follow",
+  "equation": "Optimal Bet Fraction = Edge ÷ Odds",
+  "hook": "Going all in feels brave. It's also how good businesses go broke.",
+  "statement": "Bet a fraction of your capital equal to your edge divided by the odds.",
+  "explainer": "Bet too big and one bad run wipes you out. Bet too small and you leave growth on the table. This ties how much you risk to how real your advantage actually is.",
+  "sop": [
+    "Define the bet and estimate your real odds of winning, without optimism.",
+    "Write your Edge as a decimal.",
+    "Note the Odds, what you get paid if you win.",
+    "Divide Edge by Odds, then cap it if your estimate is shaky.",
+    "Use the same rule for every bet so no loss ends the game."
+  ],
+  "equation_example": "Edge 0.2 and Odds of 2. 0.2 ÷ 2 = 0.10, so bet 10% of your capital. Bigger edge or shorter odds means bet more. Smaller edge or longer odds means bet less. Zero or negative edge means don't bet.",
+  "question": "Write down your honest edge on the biggest bet you're making right now.",
+  "closing_statement": "Staying in the game beats any sure thing.",
+  "caption": "Principle Nº 364: Optimal Bet Sizing\n\nGoing all in feels brave. It's also how good businesses go broke.\n\nBet a fraction of your capital equal to your edge divided by the odds.\n\nYour turn: Write down your honest edge on the biggest bet you're making right now.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

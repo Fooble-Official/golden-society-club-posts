@@ -1,0 +1,22 @@
+{
+  "order": 353,
+  "folder": "353_real-options",
+  "principle_number": "353",
+  "title": "Real Options",
+  "cta": "os_plus_follow",
+  "equation": "Option Value = (Upside × Probability) - Cost to Hold Open",
+  "hook": "You don't have to decide everything today. Sometimes paying to wait is the smart move.",
+  "statement": "Keeping your options open isn't indecision. When the future's uncertain, it's an asset you can actually put a price on.",
+  "explainer": "Sometimes a small fee to keep a door open beats going all in now. You act if things go well and walk if they don't. The more uncertain things are, the more that's worth.",
+  "sop": [
+    "Name a decision you could delay and what it keeps open.",
+    "Estimate the Upside if things go your way.",
+    "Estimate the Probability that actually happens.",
+    "Find the Cost to Hold Open, like a deposit or retainer.",
+    "Keep the option only if Option Value is clearly positive."
+  ],
+  "equation_example": "Upside $100,000 × Probability 0.3 = $30,000. Minus a $10,000 Cost to Hold Open = $20,000. Positive means keeping the option is worth it. If holding it cost more than $30,000, commit or drop it now.",
+  "question": "Pick one big decision and write down what a small deposit to wait would cost you.",
+  "closing_statement": "Flexibility is worth paying for when you can't see what's coming.",
+  "caption": "Principle Nº 353: Real Options\n\nYou don't have to decide everything today. Sometimes paying to wait is the smart move.\n\nKeeping your options open isn't indecision. When the future's uncertain, it's an asset you can actually put a price on.\n\nYour turn: Pick one big decision and write down what a small deposit to wait would cost you.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

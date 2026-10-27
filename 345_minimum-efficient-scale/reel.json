@@ -1,0 +1,22 @@
+{
+  "order": 345,
+  "folder": "345_minimum-efficient-scale",
+  "principle_number": "345",
+  "title": "Minimum Efficient Scale",
+  "cta": "os_plus_follow",
+  "equation": "Unit Cost = (Fixed Cost ÷ Volume) + Variable Cost",
+  "hook": "Some competitors can undercut your price and still make more. Usually that's scale, not skill.",
+  "statement": "There's a minimum size you need to reach before your cost per unit stops dropping.",
+  "explainer": "Fixed costs get spread thinner as volume grows, so each unit gets cheaper until it levels off. Stay below that size and you're pricier than rivals, no matter how hard you work.",
+  "sop": [
+    "Split your costs into fixed and variable.",
+    "Calculate Unit Cost at a few different Volume levels.",
+    "Find the point where Unit Cost stops dropping much.",
+    "Compare your current Volume to that point.",
+    "Grow to it, cut Fixed Cost, or exit where you can't compete."
+  ],
+  "equation_example": "Fixed Cost $100,000, Variable Cost $5. At 10,000 units: ($100,000 ÷ 10,000) + $5 = $15 each. At 50,000 units: $2 + $5 = $7 each. More volume pulls Unit Cost toward the $5 floor. Low volume bloats every unit.",
+  "question": "Write down your Unit Cost at today's volume, and at double it.",
+  "closing_statement": "Know the size the game requires before you play.",
+  "caption": "Principle Nº 345: Minimum Efficient Scale\n\nSome competitors can undercut your price and still make more. Usually that's scale, not skill.\n\nThere's a minimum size you need to reach before your cost per unit stops dropping.\n\nYour turn: Write down your Unit Cost at today's volume, and at double it.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

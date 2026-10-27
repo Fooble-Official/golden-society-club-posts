@@ -1,0 +1,22 @@
+{
+  "order": 356,
+  "folder": "356_the-parallelization-ceiling",
+  "principle_number": "356",
+  "title": "The Parallelization Ceiling",
+  "cta": "os_plus_follow",
+  "equation": "Max Speedup = 1 ÷ (Serial Fraction + Parallel Fraction ÷ N)",
+  "hook": "Doubling the team almost never doubles the speed.",
+  "statement": "How fast you can go is capped by the part of the work that has to happen one step at a time.",
+  "explainer": "No matter how many people you throw at it, the steps that must happen in order set a hard ceiling. Past a point, more hands buy you almost nothing.",
+  "sop": [
+    "Split your process into steps that can run at once and steps that can't.",
+    "Estimate the Serial Fraction of total time.",
+    "Calculate Max Speedup before hiring or buying capacity.",
+    "Shrink the serial steps by cutting, automating, or redesigning them.",
+    "Add people only until the ceiling makes more pointless."
+  ],
+  "equation_example": "Serial Fraction 0.2, Parallel Fraction 0.8, 4 workers. 1 ÷ (0.2 + 0.8 ÷ 4) = 1 ÷ 0.4 = 2.5 times faster. Even infinite workers cap out at 1 ÷ 0.2 = 5 times. Shrink the serial part to raise the ceiling.",
+  "question": "Write down the one step in your process that everything else waits on.",
+  "closing_statement": "Fix the bottleneck instead of piling on more effort.",
+  "caption": "Principle Nº 356: The Parallelization Ceiling\n\nDoubling the team almost never doubles the speed.\n\nHow fast you can go is capped by the part of the work that has to happen one step at a time.\n\nYour turn: Write down the one step in your process that everything else waits on.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

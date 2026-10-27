@@ -1,8 +1,10 @@
 Principle Nº 357: The Law of Implicit Dependencies
 
-At enough scale, every observable behavior of your system becomes something someone depends on.
+You fixed a tiny bug and a customer got upset because they'd been relying on it.
 
-Ask yourself: Which undocumented quirks of your product or process have customers quietly started to depend on?
+Once enough people use your product, someone depends on every little thing it does, even the accidents.
+
+Your turn: Write down one quirk in your product or process that customers have started relying on.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 
