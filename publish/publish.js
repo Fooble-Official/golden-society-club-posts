@@ -1,5 +1,7 @@
 #!/usr/bin/env node
-/* Golden Society — daily Instagram carousel publisher.
+/* Golden Society — daily Instagram publisher (Reels; carousel fallback).
+ * If a post folder has reel.mp4, it is published as a Reel (with cover.png
+ * as the grid thumbnail). Otherwise the old slide carousel is used.
  * Reads state.json for the next order to publish, builds a carousel from
  * that post's slide images (served via jsDelivr from this same repo),
  * creates the carousel via the Instagram API, publishes it, then advances
@@ -39,6 +41,9 @@ const MAX_RETRIES = 3;
 const RETRY_BASE_MS = 2000;
 const CONTAINER_POLL_TIMEOUT_MS = 60000;
 const CONTAINER_POLL_INTERVAL_MS = 3000;
+// Video containers take much longer for Instagram to process than images.
+const REEL_POLL_TIMEOUT_MS = 8 * 60000;
+const REEL_POLL_INTERVAL_MS = 10000;
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -91,17 +96,37 @@ async function graphGet(pathSeg, params) {
 // Instagram processes each media container asynchronously. Publishing before
 // a container reaches FINISHED is a common source of flaky failures, so poll
 // its status_code first instead of assuming it's ready immediately.
-async function waitUntilFinished(containerId) {
-  const deadline = Date.now() + CONTAINER_POLL_TIMEOUT_MS;
+async function waitUntilFinished(containerId, timeoutMs = CONTAINER_POLL_TIMEOUT_MS, intervalMs = CONTAINER_POLL_INTERVAL_MS) {
+  const deadline = Date.now() + timeoutMs;
   while (Date.now() < deadline) {
     const status = await graphGet(containerId, { fields: 'status_code' });
     if (status.status_code === 'FINISHED') return;
     if (status.status_code === 'ERROR') {
       throw new Error(`Container ${containerId} failed processing (status ERROR).`);
     }
-    await sleep(CONTAINER_POLL_INTERVAL_MS);
+    await sleep(intervalMs);
   }
   throw new Error(`Container ${containerId} did not finish processing within timeout.`);
+}
+
+// jsDelivr fetches a file from GitHub the first time anyone asks for it. If
+// Instagram is that first request, a big file can time out on their side
+// ("Media download has failed", 2026-10-27). Pulling each URL ourselves
+// first means Instagram gets it straight from the CDN cache.
+async function warmCdn(urls) {
+  for (const url of urls) {
+    for (let attempt = 1; attempt <= 4; attempt++) {
+      try {
+        const res = await fetch(url);
+        await res.arrayBuffer();
+        if (res.ok) break;
+        console.log(`CDN warm-up got ${res.status} for ${url} (attempt ${attempt})`);
+      } catch (err) {
+        console.log(`CDN warm-up failed for ${url} (attempt ${attempt}): ${err.message}`);
+      }
+      await sleep(3000 * attempt);
+    }
+  }
 }
 
 // The cron fires hourly (UTC, fixed); this returns the actual current hour
@@ -223,10 +248,18 @@ async function main() {
   const post = JSON.parse(fs.readFileSync(path.join(folder, 'post.json'), 'utf8'));
   const caption = fs.readFileSync(path.join(folder, 'caption.txt'), 'utf8');
 
-  console.log(`Day ${post.order} of 365 — publishing order ${post.order}: "${post.title}" (${post.slide_count} slides)`);
-
+  const isReel = fs.existsSync(path.join(folder, 'reel.mp4'));
+  const videoUrl = jsDelivrUrl(`${entry.folder}/reel.mp4`);
+  const coverUrl = fs.existsSync(path.join(folder, 'cover.png')) ? jsDelivrUrl(`${entry.folder}/cover.png`) : null;
   const imageUrls = post.slides.map(s => jsDelivrUrl(`${entry.folder}/${s.file}`));
-  console.log('Slide URLs:', imageUrls);
+
+  if (isReel) {
+    console.log(`Day ${post.order} of 365 — publishing order ${post.order}: "${post.title}" as a Reel`);
+    console.log('Video URL:', videoUrl, coverUrl ? `\nCover URL: ${coverUrl}` : '');
+  } else {
+    console.log(`Day ${post.order} of 365 — publishing order ${post.order}: "${post.title}" (${post.slide_count} slides)`);
+    console.log('Slide URLs:', imageUrls);
+  }
 
   if (DRY_RUN) {
     console.log('DRY_RUN set — not calling the Graph API, not advancing state.json.');
@@ -253,31 +286,42 @@ async function main() {
     return;
   }
 
-  // Step 1: create a child media container per image (is_carousel_item),
-  // then wait for each to finish processing before moving on.
-  const childIds = [];
-  for (const url of imageUrls) {
-    const child = await graphPost(IG_USER_ID + '/media', {
-      image_url: url,
-      is_carousel_item: 'true',
-    });
-    await waitUntilFinished(child.id);
-    childIds.push(child.id);
-  }
+  let container;
+  if (isReel) {
+    await warmCdn(coverUrl ? [videoUrl, coverUrl] : [videoUrl]);
+    // One container for the Reel; shown on the main grid too (share_to_feed).
+    const params = { media_type: 'REELS', video_url: videoUrl, caption, share_to_feed: 'true' };
+    if (coverUrl) params.cover_url = coverUrl;
+    container = await graphPost(IG_USER_ID + '/media', params);
+    await waitUntilFinished(container.id, REEL_POLL_TIMEOUT_MS, REEL_POLL_INTERVAL_MS);
+  } else {
+    await warmCdn(imageUrls);
+    // Step 1: create a child media container per image (is_carousel_item),
+    // then wait for each to finish processing before moving on.
+    const childIds = [];
+    for (const url of imageUrls) {
+      const child = await graphPost(IG_USER_ID + '/media', {
+        image_url: url,
+        is_carousel_item: 'true',
+      });
+      await waitUntilFinished(child.id);
+      childIds.push(child.id);
+    }
 
-  // Step 2: create the carousel container, then wait for it too
-  const carousel = await graphPost(IG_USER_ID + '/media', {
-    media_type: 'CAROUSEL',
-    children: childIds.join(','),
-    caption,
-  });
-  await waitUntilFinished(carousel.id);
+    // Step 2: create the carousel container, then wait for it too
+    container = await graphPost(IG_USER_ID + '/media', {
+      media_type: 'CAROUSEL',
+      children: childIds.join(','),
+      caption,
+    });
+    await waitUntilFinished(container.id);
+  }
 
   // Step 3: publish it. This is the moment the post goes live — everything
   // after this line exists purely to durably record that fact as fast as
   // possible.
   const published = await graphPost(IG_USER_ID + '/media_publish', {
-    creation_id: carousel.id,
+    creation_id: container.id,
   });
 
   console.log('Published:', published);
