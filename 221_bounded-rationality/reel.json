@@ -1,0 +1,22 @@
+{
+  "order": 221,
+  "folder": "221_bounded-rationality",
+  "principle_number": "221",
+  "title": "Bounded Rationality",
+  "cta": "os_plus_follow",
+  "equation": "Quality = Scope ÷ Complexity",
+  "hook": "Trying to account for every variable is how a two-day decision turns into two months.",
+  "statement": "Narrow the scope of a problem so you can actually make a good decision.",
+  "explainer": "Considering everything feels responsible, but complexity grows faster than your brain can keep up. A clear, smaller scope beats a complete one that never gets decided.",
+  "sop": [
+    "Write down every variable you're trying to account for.",
+    "Score Scope and Complexity from 1 to 10, then for a narrower version.",
+    "Draw a hard line around what you'll consider. Ignore the rest on purpose.",
+    "Decide inside that line with what you know now.",
+    "Revisit if new info changes things, but don't wait for it."
+  ],
+  "equation_example": "Scope 8 ÷ Complexity 4 = 2.0. That's a decision you can actually make. Scope 3 ÷ Complexity 9 = 0.33, which is overwhelm. Higher means a clean, doable call. Lower means you're trying to solve too much at once.",
+  "question": "Write down one problem you're stuck on and the smaller version you'll solve first.",
+  "closing_statement": "A narrower problem is usually a solvable one.",
+  "caption": "Principle Nº 221: Bounded Rationality\n\nTrying to account for every variable is how a two-day decision turns into two months.\n\nNarrow the scope of a problem so you can actually make a good decision.\n\nYour turn: Write down one problem you're stuck on and the smaller version you'll solve first.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

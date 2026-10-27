@@ -1,0 +1,22 @@
+{
+  "order": 233,
+  "folder": "233_proactive-audit",
+  "principle_number": "233",
+  "title": "Proactive Audit",
+  "cta": "os_plus_follow",
+  "equation": "Health = 1 / (Drift × Time)",
+  "hook": "Your systems didn't break overnight. They drifted a little every week while you weren't looking.",
+  "statement": "Inspect and fine-tune your systems regularly, before small drift turns into a big fix.",
+  "explainer": "Each little slip feels too small to bother with. But drift stacks up over time, so a system you ignore for a year needs way more work than one you check monthly.",
+  "sop": [
+    "Put recurring reviews on the calendar, monthly for business, weekly for personal.",
+    "Compare what's actually happening to what the system was built to do.",
+    "Score Drift from 1 to 10 and note the Time since your last check.",
+    "Make one fix per review, not a full overhaul.",
+    "Log what you found so drift is something you see, not just feel."
+  ],
+  "equation_example": "Drift 6, Time 8 months. 6 × 8 = 48, so Health is 1 ÷ 48, about 0.02. Catch it at 1 month: 6 × 1 = 6, so Health is 1 ÷ 6, about 0.17. Higher means it still runs as designed. Lower means drift's piling up.",
+  "question": "Pick the one system you've been meaning to tune up and put a review on your calendar this week.",
+  "closing_statement": "Drift always costs more the longer you let it sit.",
+  "caption": "Principle Nº 233: Proactive Audit\n\nYour systems didn't break overnight. They drifted a little every week while you weren't looking.\n\nInspect and fine-tune your systems regularly, before small drift turns into a big fix.\n\nYour turn: Pick the one system you've been meaning to tune up and put a review on your calendar this week.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

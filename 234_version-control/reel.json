@@ -1,0 +1,22 @@
+{
+  "order": 234,
+  "folder": "234_version-control",
+  "principle_number": "234",
+  "title": "Version Control",
+  "cta": "os_plus_follow",
+  "equation": "History Value = Σ Size of Each Tracked Change",
+  "hook": "You changed your pricing three times this year and can't remember which version actually worked.",
+  "statement": "Keep a record of every major change so you can see what actually worked.",
+  "explainer": "If you don't track changes, you lose the ability to compare. This seems better turns into a guess. A simple changelog turns it into something you can actually learn from.",
+  "sop": [
+    "Date every big change to a plan, price, process, or strategy.",
+    "Write down what changed, why, and what you expected to happen.",
+    "Score the size of each change from 1 to 10.",
+    "Roll back to the old version if the new one underperforms.",
+    "Review the log every quarter to see what really worked."
+  ],
+  "equation_example": "Change 1 was a 3, Change 2 a 5, Change 3 a 2. History Value = 3 + 5 + 2 = 10. Higher means you've got a real record to learn from. Low or zero means you've been changing things without leaving a trail.",
+  "question": "Write down the last big change you made to your business and what you expected it to do.",
+  "closing_statement": "Untracked changes mean you can't learn from your own history.",
+  "caption": "Principle Nº 234: Version Control\n\nYou changed your pricing three times this year and can't remember which version actually worked.\n\nKeep a record of every major change so you can see what actually worked.\n\nYour turn: Write down the last big change you made to your business and what you expected it to do.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

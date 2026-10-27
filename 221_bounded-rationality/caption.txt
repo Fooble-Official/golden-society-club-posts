@@ -1,8 +1,10 @@
 Principle Nº 221: Bounded Rationality
 
-Limit scope to make decisions tractable.
+Trying to account for every variable is how a two-day decision turns into two months.
 
-Ask yourself: What are you trying to solve at too broad a scope?
+Narrow the scope of a problem so you can actually make a good decision.
+
+Your turn: Write down one problem you're stuck on and the smaller version you'll solve first.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 
