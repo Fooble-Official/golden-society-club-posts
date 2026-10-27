@@ -1,0 +1,22 @@
+{
+  "order": 117,
+  "folder": "117_stock-vs-flow",
+  "principle_number": "117",
+  "title": "Stock vs Flow",
+  "cta": "os_plus_follow",
+  "equation": "Stock(t) = Stock(t-1) + Inflow - Outflow",
+  "hook": "Your follower count isn't the number to watch. What's coming in and going out is.",
+  "statement": "Everything is either what you have, the stock, or what changes it, the flow.",
+  "explainer": "The total moves slowly, so it's easy to miss what's happening underneath. If you're losing almost as fast as you're gaining, the flows show it way before the total does.",
+  "sop": [
+    "Name your key stock: followers, cash, inventory, or clients.",
+    "Name the Inflow and Outflow that change it.",
+    "Track Inflow and Outflow weekly, not just the total.",
+    "Put your effort into improving the flows.",
+    "Recheck the stock monthly to confirm it's heading the right way."
+  ],
+  "equation_example": "You had 4,200 followers. You gained 350, the Inflow, and lost 90, the Outflow. 4,200 + 350 - 90 = 4,460. Rising means your flows are healthy. Flat or falling means outflow is quietly cancelling your gains.",
+  "question": "Write down your key stock and the one inflow and one outflow that move it most.",
+  "closing_statement": "Watch the flows. The stock takes care of itself.",
+  "caption": "Principle Nº 117: Stock vs Flow\n\nYour follower count isn't the number to watch. What's coming in and going out is.\n\nEverything is either what you have, the stock, or what changes it, the flow.\n\nYour turn: Write down your key stock and the one inflow and one outflow that move it most.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

@@ -1,0 +1,22 @@
+{
+  "order": 105,
+  "folder": "105_constraints-determine-output",
+  "principle_number": "105",
+  "title": "Constraints Determine Output",
+  "cta": "os_plus_follow",
+  "equation": "Max Output = Capacity of the Weakest Constraint",
+  "hook": "Great marketing doesn't matter if fulfillment can't keep up. The slowest part of the business sets the pace.",
+  "statement": "The weakest link sets the limit for the whole system.",
+  "explainer": "Improving the parts that are already good feels productive, but it doesn't raise output. Only widening the bottleneck does. Everything else is just waiting in line.",
+  "sop": [
+    "Map your process end to end.",
+    "Score each stage's capacity 1 to 10 and find the lowest.",
+    "Ignore every other stage until that one improves.",
+    "Add capacity, cut a step, or delegate right at that point.",
+    "Re-map afterward, because the bottleneck usually moves."
+  ],
+  "equation_example": "Marketing 9, Sales 8, Fulfillment 3, Support 7. Max Output is the lowest one, 3. Not the average. Higher means even your weakest part is strong. Lower means one stage is capping everything else.",
+  "question": "Name the one constraint you've been working around instead of fixing.",
+  "closing_statement": "Fix the weakest link, not the strongest one.",
+  "caption": "Principle Nº 105: Constraints Determine Output\n\nGreat marketing doesn't matter if fulfillment can't keep up. The slowest part of the business sets the pace.\n\nThe weakest link sets the limit for the whole system.\n\nYour turn: Name the one constraint you've been working around instead of fixing.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

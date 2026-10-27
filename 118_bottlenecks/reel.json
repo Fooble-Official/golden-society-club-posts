@@ -1,0 +1,22 @@
+{
+  "order": 118,
+  "folder": "118_bottlenecks",
+  "principle_number": "118",
+  "title": "Bottlenecks",
+  "cta": "os_plus_follow",
+  "equation": "Output = Min(Capacity of all parts)",
+  "hook": "Hiring another salesperson won't help if production is the thing that's already maxed out.",
+  "statement": "A system is only as strong as its tightest constraint.",
+  "explainer": "Pushing harder on stages that already have room does nothing. Output is capped by the slowest stage. Widen that one and everything moves faster.",
+  "sop": [
+    "Map your process and estimate each stage's capacity per day.",
+    "Find the minimum. That's your bottleneck.",
+    "Remove, automate, or delegate part of that stage's work.",
+    "Re-measure total output to confirm it went up.",
+    "Move on to the next slowest stage. There's always one."
+  ],
+  "equation_example": "Intake 50 orders a day, Production 20, Shipping 45. Output is the minimum, 20 orders a day. Not the average. Raising the lowest number raises output. Raising a strong stage does nothing until the bottleneck moves.",
+  "question": "Name the bottleneck you've put up with for months and one piece of it you could hand off.",
+  "closing_statement": "The whole system moves at the bottleneck's pace.",
+  "caption": "Principle Nº 118: Bottlenecks\n\nHiring another salesperson won't help if production is the thing that's already maxed out.\n\nA system is only as strong as its tightest constraint.\n\nYour turn: Name the bottleneck you've put up with for months and one piece of it you could hand off.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

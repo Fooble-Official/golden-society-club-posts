@@ -1,8 +1,10 @@
 Principle Nº 118: Bottlenecks
 
-System is only as strong as weakest constraint.
+Hiring another salesperson won't help if production is the thing that's already maxed out.
 
-Ask yourself: Which bottleneck have you tolerated for months because widening it feels hard?
+A system is only as strong as its tightest constraint.
+
+Your turn: Name the bottleneck you've put up with for months and one piece of it you could hand off.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 
