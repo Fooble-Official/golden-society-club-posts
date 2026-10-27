@@ -1,0 +1,22 @@
+{
+  "order": 127,
+  "folder": "127_modularity",
+  "principle_number": "127",
+  "title": "Modularity",
+  "cta": "os_plus_follow",
+  "equation": "Flexibility = Independent Modules",
+  "hook": "When changing one thing breaks three others, your business is too tangled together.",
+  "statement": "Systems work better when their parts can be separated.",
+  "explainer": "If everything's fused, every fix is risky and nothing can be handed off. Separate pieces can be improved, swapped, or delegated without bringing down the rest.",
+  "sop": [
+    "Map your system and mark where two functions depend on each other.",
+    "Score how tangled each dependency is 1 to 10.",
+    "Split the most tangled pair into two parts with a clear handoff.",
+    "Give each part its own owner, process, or tool.",
+    "Change one part and confirm the rest keeps running."
+  ],
+  "equation_example": "You have 3 Independent Modules, parts you can change without breaking the others. So Flexibility = 3. Higher means more of your business can be improved or handed off on its own. At 1, everything's fused and one change risks it all.",
+  "question": "Name one tangled part of your business you'd separate first.",
+  "closing_statement": "Separate parts move faster than fused ones.",
+  "caption": "Principle Nº 127: Modularity\n\nWhen changing one thing breaks three others, your business is too tangled together.\n\nSystems work better when their parts can be separated.\n\nYour turn: Name one tangled part of your business you'd separate first.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

@@ -1,8 +1,10 @@
 Principle Nº 144: Automation Systems
 
-Remove yourself from repetitive tasks.
+I spent four hours last week copying invoices into a spreadsheet. A tool could've done it in seconds.
 
-Ask yourself: What repetitive task are you doing manually that a tool could handle?
+Get yourself out of the repetitive tasks. If it needs no real decision, it shouldn't need you.
+
+Your turn: Write down one repetitive task you did by hand this week that a tool could handle.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

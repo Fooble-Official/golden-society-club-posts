@@ -1,0 +1,22 @@
+{
+  "order": 148,
+  "folder": "148_drift-correction",
+  "principle_number": "148",
+  "title": "Drift Correction",
+  "cta": "os_plus_follow",
+  "equation": "Correction = Gap Closed × Frequency",
+  "hook": "Nobody decides to get sloppy. Standards just slide a little every week until you finally notice.",
+  "statement": "Everything drifts away from the standard over time. You have to pull it back on purpose, regularly.",
+  "explainer": "Response times creep up, quality slips, discounts get handed out. Small corrections done often are way easier than one big cleanup after things fall apart.",
+  "sop": [
+    "Write down the original standard for one key process.",
+    "Rate how far you've drifted from it right now, 1 to 10.",
+    "Set your Frequency. Weekly for fast-moving areas, monthly for slower ones.",
+    "At every check, pull it back toward standard and rate the Gap Closed.",
+    "If drift keeps growing, raise your Frequency."
+  ],
+  "equation_example": "Each fix closes the gap by about 6 out of 10, and you correct 4 times a month. Gap Closed 6 × Frequency 4 = 24. Higher means you're catching drift as it happens. Lower means it's piling up faster than you fix it.",
+  "question": "Write down your weekly reset ritual. If you don't have one, write the day you'll start.",
+  "closing_statement": "A standard you never re-check is already slipping.",
+  "caption": "Principle Nº 148: Drift Correction\n\nNobody decides to get sloppy. Standards just slide a little every week until you finally notice.\n\nEverything drifts away from the standard over time. You have to pull it back on purpose, regularly.\n\nYour turn: Write down your weekly reset ritual. If you don't have one, write the day you'll start.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

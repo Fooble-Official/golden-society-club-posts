@@ -1,8 +1,10 @@
 Principle Nº 129: System Drift
 
-Systems degrade without maintenance.
+You used to reply to every lead within an hour. Now it's whenever. Nobody decided that, it just slipped.
 
-Ask yourself: Which standard has quietly drifted that you haven't noticed?
+Systems quietly degrade unless you maintain them.
+
+Your turn: Name one standard that's slipped lately and write down what the original bar was.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

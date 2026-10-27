@@ -1,0 +1,22 @@
+{
+  "order": 152,
+  "folder": "152_compounding-systems",
+  "principle_number": "152",
+  "title": "Compounding Systems",
+  "cta": "os_plus_follow",
+  "equation": "Result = Base × (1+Rate)^Time",
+  "hook": "Posting once doesn't do much. Posting every week for a year changes everything.",
+  "statement": "Small actions repeated consistently add up to huge results. The payoff comes from not breaking the chain.",
+  "explainer": "Compounding is boring week to week and wild in hindsight. Every time you break the streak, you reset the base and lose the growth you'd built.",
+  "sop": [
+    "Pick one action to build a streak on: content, savings, or practice.",
+    "Estimate your realistic Rate of improvement per period.",
+    "Set a minimum version you can do even on bad days.",
+    "Track your streak, your Time, somewhere you'll see it daily.",
+    "Review quarterly. Growth hides week to week."
+  ],
+  "equation_example": "Base 100, Rate 5% per period, Time 12 periods. 100 × 1.05 to the 12th power ≈ 180. That's 80% more from small steady gains. Higher means your streak is stacking up. Lower means breaks keep resetting it.",
+  "question": "Name one small action you keep breaking the streak on, and write its minimum daily version.",
+  "closing_statement": "A broken streak resets more than it looks like.",
+  "caption": "Principle Nº 152: Compounding Systems\n\nPosting once doesn't do much. Posting every week for a year changes everything.\n\nSmall actions repeated consistently add up to huge results. The payoff comes from not breaking the chain.\n\nYour turn: Name one small action you keep breaking the streak on, and write its minimum daily version.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

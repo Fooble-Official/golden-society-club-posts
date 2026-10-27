@@ -1,0 +1,22 @@
+{
+  "order": 151,
+  "folder": "151_financial-leak-detection",
+  "principle_number": "151",
+  "title": "Financial Leak Detection",
+  "cta": "os_plus_follow",
+  "equation": "Leak Rate = Hidden Costs ÷ Total Spending",
+  "hook": "That $29 tool you forgot you're paying for isn't the problem. The twelve others like it are.",
+  "statement": "Most businesses don't lose money in big mistakes. They lose it through small leaks nobody's watching.",
+  "explainer": "Unused subscriptions, ad spend that stopped working, tools nobody logs into. Each one feels small, but together they eat a real chunk of your margin.",
+  "sop": [
+    "Pull the last 3 months of bank and card statements.",
+    "Flag every recurring charge and every ad or tool spend.",
+    "Divide Hidden Costs by Total Spending to get your Leak Rate.",
+    "Cancel or renegotiate anything unused this week.",
+    "Repeat monthly. New leaks show up with every new tool."
+  ],
+  "equation_example": "Hidden Costs $400 a month, Total Spending $4,000. $400 ÷ $4,000 = 10%. So a dime of every dollar does nothing. Higher means more money is going nowhere. Lower means your spending is pulling its weight.",
+  "question": "Open your statements and write down every recurring charge you forgot you were paying for.",
+  "closing_statement": "Unnoticed spending is still spending.",
+  "caption": "Principle Nº 151: Financial Leak Detection\n\nThat $29 tool you forgot you're paying for isn't the problem. The twelve others like it are.\n\nMost businesses don't lose money in big mistakes. They lose it through small leaks nobody's watching.\n\nYour turn: Open your statements and write down every recurring charge you forgot you were paying for.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

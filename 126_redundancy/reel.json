@@ -1,0 +1,22 @@
+{
+  "order": 126,
+  "folder": "126_redundancy",
+  "principle_number": "126",
+  "title": "Redundancy",
+  "cta": "os_plus_follow",
+  "equation": "Resilience = Primary + Backup",
+  "hook": "If your one payment processor froze your account tomorrow, sales would just stop. That's a risk, not a plan.",
+  "statement": "Backup systems are what keep you alive when something breaks.",
+  "explainer": "Single points of failure feel fine until the day they fail. One working backup for your riskiest dependency can be the difference between a bad day and a dead business.",
+  "sop": [
+    "List the top 5 dependencies that would stop revenue if they broke.",
+    "For the riskiest one, name the Primary system and whether a Backup exists.",
+    "Build one working backup this week.",
+    "Test it for real. Actually switch over and see what happens.",
+    "Set a quarterly reminder to re-test every backup."
+  ],
+  "equation_example": "Primary is 1 working main system. Backup is 1 ready to go. 1 + 1 = 2. Higher means more things can fail before you stop. A Resilience of 1 means one failure shuts the whole thing down.",
+  "question": "Name the one thing in your business with no backup that would hurt most to lose.",
+  "closing_statement": "An untested backup is a guess, not a safety net.",
+  "caption": "Principle Nº 126: Redundancy\n\nIf your one payment processor froze your account tomorrow, sales would just stop. That's a risk, not a plan.\n\nBackup systems are what keep you alive when something breaks.\n\nYour turn: Name the one thing in your business with no backup that would hurt most to lose.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

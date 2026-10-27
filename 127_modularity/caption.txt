@@ -1,8 +1,10 @@
 Principle Nº 127: Modularity
 
-Systems should be separable.
+When changing one thing breaks three others, your business is too tangled together.
 
-Ask yourself: What in your system is tangled together that would work better separated?
+Systems work better when their parts can be separated.
+
+Your turn: Name one tangled part of your business you'd separate first.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

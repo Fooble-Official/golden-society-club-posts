@@ -1,8 +1,10 @@
 Principle Nº 143: System Simplification
 
-Complexity kills execution.
+The system I built was so complicated that even I stopped using it.
 
-Ask yourself: What can you cut in half this quarter without losing core value?
+Complexity kills execution. The simpler the system, the more likely it actually gets done.
+
+Your turn: Pick one process and write down what you could cut in half this quarter without losing the core value.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

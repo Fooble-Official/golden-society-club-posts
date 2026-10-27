@@ -1,0 +1,22 @@
+{
+  "order": 147,
+  "folder": "147_system-redundancy",
+  "principle_number": "147",
+  "title": "System Redundancy",
+  "cta": "os_plus_follow",
+  "equation": "Stability = Backup Systems ÷ Critical Systems",
+  "hook": "One frozen payment account can shut your whole business down overnight. It happens more than people admit.",
+  "statement": "Backups keep one failure from taking everything down. Every critical system needs a plan B.",
+  "explainer": "Your main client, your main platform, your payment processor. If any one of them disappears tomorrow and there's no backup, revenue just stops.",
+  "sop": [
+    "List every Critical System your business can't run without.",
+    "Count how many have a working Backup System.",
+    "Build a backup for your riskiest critical system this month.",
+    "Actually test that backup once. For real.",
+    "Re-audit every 6 months as things change."
+  ],
+  "equation_example": "2 Backup Systems for 5 Critical Systems. 2 ÷ 5 = 40%. That means 3 things could stop you cold. Higher means more of your essentials are covered. Lower means one failure could shut you down.",
+  "question": "Write down your biggest single point of failure and one backup you could set up this month.",
+  "closing_statement": "One working system is one failure away from zero.",
+  "caption": "Principle Nº 147: System Redundancy\n\nOne frozen payment account can shut your whole business down overnight. It happens more than people admit.\n\nBackups keep one failure from taking everything down. Every critical system needs a plan B.\n\nYour turn: Write down your biggest single point of failure and one backup you could set up this month.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}
