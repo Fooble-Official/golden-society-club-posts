@@ -1,0 +1,22 @@
+{
+  "order": 214,
+  "folder": "214_parallel-processing-batching",
+  "principle_number": "214",
+  "title": "Parallel Processing (Batching)",
+  "cta": "os_plus_follow",
+  "equation": "Efficiency ∝ 1/Switches",
+  "hook": "Checking email between every task is quietly eating your whole afternoon.",
+  "statement": "Group similar tasks together so you're not constantly switching gears.",
+  "explainer": "Every switch costs more than the seconds it takes to open a tab. Your focus needs minutes to fully come back, and that cost never shows up on a spreadsheet.",
+  "sop": [
+    "List your task types: email, content, calls, admin, creative.",
+    "Give each type its own block on your calendar.",
+    "Count how many Switches your current day forces.",
+    "Turn off notifications for everything but the current batch.",
+    "Protect the blocks for 2 weeks before judging."
+  ],
+  "equation_example": "15 Switches a day: 1 ÷ 15 = about 0.067. Cut to 3 Switches: 1 ÷ 3 = about 0.33. That's five times more efficient. Fewer switches means a higher score. More means more of your day lost to refocusing.",
+  "question": "Pick one scattered task type and write when you'll batch it this week.",
+  "closing_statement": "Every switch charges a hidden refocusing fee.",
+  "caption": "Principle Nº 214: Parallel Processing (Batching)\n\nChecking email between every task is quietly eating your whole afternoon.\n\nGroup similar tasks together so you're not constantly switching gears.\n\nYour turn: Pick one scattered task type and write when you'll batch it this week.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

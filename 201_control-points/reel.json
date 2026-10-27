@@ -1,0 +1,22 @@
+{
+  "order": 201,
+  "folder": "201_control-points",
+  "principle_number": "201",
+  "title": "Control Points",
+  "cta": "os_plus_follow",
+  "equation": "Alert = Metric Value < Threshold   (Yes / No)",
+  "hook": "By the time you notice cash is tight, it's usually been tight for weeks.",
+  "statement": "Put alarms on the numbers that matter so problems flag themselves early.",
+  "explainer": "Checking when you happen to remember means you find problems late. A set threshold turns 'I should look at that' into an automatic signal to act.",
+  "sop": [
+    "Pick 3 to 5 key metrics: cash reserve, response time, churn, health.",
+    "Set a specific Threshold for each that means act now.",
+    "Use a tool that checks Metric Value against it automatically.",
+    "Act the moment it trips. Don't wait to see if it fixes itself.",
+    "Review thresholds quarterly. One that never fires may be set wrong."
+  ],
+  "equation_example": "Your cash reserve Threshold is $10,000. The Metric Value right now is $7,500. Since 7,500 is below 10,000, the alert fires and you start fixing it. Above the threshold, no alert and no action needed yet.",
+  "question": "Write down one number in your business that needs an alarm, and the level that should trigger it.",
+  "closing_statement": "Set the alarm before you need it.",
+  "caption": "Principle Nº 201: Control Points\n\nBy the time you notice cash is tight, it's usually been tight for weeks.\n\nPut alarms on the numbers that matter so problems flag themselves early.\n\nYour turn: Write down one number in your business that needs an alarm, and the level that should trigger it.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

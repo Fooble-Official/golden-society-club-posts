@@ -1,8 +1,10 @@
 Principle Nº 210: Parallel Systems (Redundancy)
 
-Backups for critical elements.
+One supplier, one platform, one person who knows how it works. That's three ways to go down.
 
-Ask yourself: What critical thing has no backup right now?
+Have real backups for anything critical to your business.
+
+Your turn: Write down one critical thing in your business that has no backup right now.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

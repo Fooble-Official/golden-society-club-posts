@@ -1,0 +1,22 @@
+{
+  "order": 212,
+  "folder": "212_compounding-growth",
+  "principle_number": "212",
+  "title": "Compounding Growth",
+  "cta": "os_plus_follow",
+  "equation": "Future Value = PV × (1+r)^n",
+  "hook": "Compounding is boring for months, then suddenly it's the only thing that matters.",
+  "statement": "Build systems where the output feeds back in, so growth builds on itself.",
+  "explainer": "A one-off sale starts from zero next time. A referral loop, evergreen content, or recurring revenue reinvests itself. It looks flat early, which is why people quit too soon.",
+  "sop": [
+    "Sort your efforts into pay-once and pay-repeatedly.",
+    "Pick one compounding mechanism to build this quarter.",
+    "Commit to a fixed input and frequency for it.",
+    "Reinvest the output back into the same mechanism.",
+    "Review quarterly. It's invisible weekly and obvious yearly."
+  ],
+  "equation_example": "PV is $1,000, growing at r = 10% for n = 5 periods. 1,000 × 1.10 to the 5th power = about $1,611. Higher r or more periods means way bigger results. A low r or stopping early mostly gets your input back.",
+  "question": "Name one thing in your business you could set up to compound instead of starting over.",
+  "closing_statement": "Small, reinvested inputs beat big one-time pushes.",
+  "caption": "Principle Nº 212: Compounding Growth\n\nCompounding is boring for months, then suddenly it's the only thing that matters.\n\nBuild systems where the output feeds back in, so growth builds on itself.\n\nYour turn: Name one thing in your business you could set up to compound instead of starting over.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

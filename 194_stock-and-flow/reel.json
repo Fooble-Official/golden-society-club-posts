@@ -1,0 +1,22 @@
+{
+  "order": 194,
+  "folder": "194_stock-and-flow",
+  "principle_number": "194",
+  "title": "Stock and Flow",
+  "cta": "os_plus_follow",
+  "equation": "Stock(t) = Stock(t-1) + Inflow - Outflow",
+  "hook": "Your bank balance looks fine today. That tells you nothing about next month.",
+  "statement": "Everything you build up, like savings, customers, or trust, is a stock that flows fill and drain.",
+  "explainer": "Today's number is a snapshot. What matters is what's coming in versus what's leaking out. Churn can hide behind a healthy-looking customer count for months.",
+  "sop": [
+    "List your key stocks: savings, customers, health, trust, inventory.",
+    "Name the Inflow and Outflow for each one.",
+    "Track both flows in real numbers for 30 days.",
+    "Fix the weaker flow. Speed up inflow or plug the leak.",
+    "Check the stock monthly, alongside the flows."
+  ],
+  "equation_example": "Savings last month: $5,000. Inflow $800, Outflow $500. 5,000 + 800 - 500 = $5,300. Rising means inflow is winning. Falling means outflow is winning, even if the balance still looks healthy right now.",
+  "question": "Pick one thing you're building up and write down what fills it and what drains it.",
+  "closing_statement": "Watch the flows, not just today's number.",
+  "caption": "Principle Nº 194: Stock and Flow\n\nYour bank balance looks fine today. That tells you nothing about next month.\n\nEverything you build up, like savings, customers, or trust, is a stock that flows fill and drain.\n\nYour turn: Pick one thing you're building up and write down what fills it and what drains it.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

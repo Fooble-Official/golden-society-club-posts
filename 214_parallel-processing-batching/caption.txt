@@ -1,8 +1,10 @@
 Principle Nº 214: Parallel Processing (Batching)
 
-Group similar tasks.
+Checking email between every task is quietly eating your whole afternoon.
 
-Ask yourself: What are you doing scattered that you could batch into one block?
+Group similar tasks together so you're not constantly switching gears.
+
+Your turn: Pick one scattered task type and write when you'll batch it this week.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

@@ -1,8 +1,10 @@
 Principle Nº 212: Compounding Growth
 
-Build systems that scale themselves.
+Compounding is boring for months, then suddenly it's the only thing that matters.
 
-Ask yourself: What compounding mechanism are you neglecting?
+Build systems where the output feeds back in, so growth builds on itself.
+
+Your turn: Name one thing in your business you could set up to compound instead of starting over.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

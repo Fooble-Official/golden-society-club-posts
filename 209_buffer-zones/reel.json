@@ -1,0 +1,22 @@
+{
+  "order": 209,
+  "folder": "209_buffer-zones",
+  "principle_number": "209",
+  "title": "Buffer Zones",
+  "cta": "os_plus_follow",
+  "equation": "Buffer = Capacity - Avg Demand",
+  "hook": "Running at full capacity feels efficient right up until one client pays late.",
+  "statement": "Build slack into your plans so normal surprises don't turn into crises.",
+  "explainer": "Averages hide the spikes. A business sized exactly for an average month breaks on a bad one. A buffer turns a crisis back into an inconvenience.",
+  "sop": [
+    "Find where demand swings most: cash, staff hours, calendar, inbox.",
+    "Work out your Capacity and Avg Demand for that area.",
+    "Add a 10 to 20% buffer on top of average demand.",
+    "Decide ahead of time what counts as a reason to use it.",
+    "Review quarterly: too small, too big, or just right."
+  ],
+  "equation_example": "Capacity is 100 hours, Avg Demand is 80. 100 - 80 = 20 hours of buffer. Higher means room to absorb a spike. Near zero or negative means any normal bump becomes an emergency.",
+  "question": "Name the one place in your business running too tight to absorb a bad week.",
+  "closing_statement": "Room to absorb shocks beats running at full tilt.",
+  "caption": "Principle Nº 209: Buffer Zones\n\nRunning at full capacity feels efficient right up until one client pays late.\n\nBuild slack into your plans so normal surprises don't turn into crises.\n\nYour turn: Name the one place in your business running too tight to absorb a bad week.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

@@ -1,0 +1,22 @@
+{
+  "order": 199,
+  "folder": "199_adaptive-planning",
+  "principle_number": "199",
+  "title": "Adaptive Planning",
+  "cta": "os_plus_follow",
+  "equation": "Plan(t+Δt) = Plan(t) + f(Feedback)",
+  "hook": "The plan you wrote in January has no idea what happened in March.",
+  "statement": "Plan in a way that adjusts as you go. Keep the destination, update the route.",
+  "explainer": "Markets shift, customers surprise you, things break. A plan that never changes after missed targets isn't discipline. It's ignoring the data.",
+  "sop": [
+    "Set yearly goals that name the destination, not every step.",
+    "Break the work into monthly or quarterly cycles.",
+    "At the end of each cycle, compare actual results to the plan.",
+    "Update next cycle's Plan using that Feedback, not your old assumptions.",
+    "Only change the destination if the data says it was wrong."
+  ],
+  "equation_example": "This quarter's plan is 100. Results came in short, so the Feedback adjustment is -10. 100 - 10 = 90 for next quarter. A plan that keeps moving toward reality is working. One that never changes isn't listening.",
+  "question": "Write down one part of your current plan you're following just because it's written down.",
+  "closing_statement": "Hold the destination firmly and the route loosely.",
+  "caption": "Principle Nº 199: Adaptive Planning\n\nThe plan you wrote in January has no idea what happened in March.\n\nPlan in a way that adjusts as you go. Keep the destination, update the route.\n\nYour turn: Write down one part of your current plan you're following just because it's written down.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

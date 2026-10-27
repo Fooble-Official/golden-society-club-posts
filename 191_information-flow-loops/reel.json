@@ -1,0 +1,22 @@
+{
+  "order": 191,
+  "folder": "191_information-flow-loops",
+  "principle_number": "191",
+  "title": "Information Flow Loops",
+  "cta": "os_plus_follow",
+  "equation": "Next State = Current + f(Feedback)",
+  "hook": "Collecting data you never look at is just a fancy way of guessing.",
+  "statement": "Systems only get better when feedback actually changes what you do next.",
+  "explainer": "Plenty of founders track numbers and then run the same play anyway. The loop only works when a review leads to a real change you can point to.",
+  "sop": [
+    "List the routines you run regularly: marketing, ops, health, money.",
+    "Pick one output for each that you can actually measure.",
+    "Set a fixed weekly or monthly review time.",
+    "Change one input based on what the last review showed.",
+    "Write down what you changed and why, so the next review has a comparison."
+  ],
+  "equation_example": "Current score is 60, and your Feedback adjustment adds 15. 60 + 15 = 75. A rising Next State means the loop is working. Flat or falling means you're collecting feedback, not using it.",
+  "question": "Name one thing you run every week with zero feedback on whether it's working.",
+  "closing_statement": "No feedback means you just repeat the same mistakes.",
+  "caption": "Principle Nº 191: Information Flow Loops\n\nCollecting data you never look at is just a fancy way of guessing.\n\nSystems only get better when feedback actually changes what you do next.\n\nYour turn: Name one thing you run every week with zero feedback on whether it's working.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}

@@ -1,8 +1,10 @@
 Principle Nº 191: Information Flow Loops
 
-Effective systems rely on feedback.
+Collecting data you never look at is just a fancy way of guessing.
 
-Ask yourself: Which system are you running without any feedback mechanism?
+Systems only get better when feedback actually changes what you do next.
+
+Your turn: Name one thing you run every week with zero feedback on whether it's working.
 
 The Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.
 

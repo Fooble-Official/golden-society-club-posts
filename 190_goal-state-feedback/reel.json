@@ -1,0 +1,22 @@
+{
+  "order": 190,
+  "folder": "190_goal-state-feedback",
+  "principle_number": "190",
+  "title": "Goal-State Feedback",
+  "cta": "os_plus_follow",
+  "equation": "Error = Target - Current; Action ∝ Error",
+  "hook": "You can't fix a gap you've never actually measured.",
+  "statement": "Self-correct by comparing where you are right now to where you said you'd be.",
+  "explainer": "Without a number for the target and a number for today, you're just guessing. The size of the gap tells you how hard you need to push.",
+  "sop": [
+    "Set one specific number Target for the area you care about most.",
+    "Measure your Current honestly this week.",
+    "Subtract Target minus Current. Don't round in your favor.",
+    "Take one corrective action sized to that gap.",
+    "Re-measure on a fixed schedule, weekly or monthly."
+  ],
+  "equation_example": "Target is 10,000 steps, Current is 6,500. 10,000 - 6,500 = 3,500 steps short. A bigger gap means you need a bigger correction today. Close to zero means you're on track, so leave it alone.",
+  "question": "Write down one number you care about, its target, and where it actually sits today.",
+  "closing_statement": "Measure the gap before you try to close it.",
+  "caption": "Principle Nº 190: Goal-State Feedback\n\nYou can't fix a gap you've never actually measured.\n\nSelf-correct by comparing where you are right now to where you said you'd be.\n\nYour turn: Write down one number you care about, its target, and where it actually sits today.\n\nThe Golden Society Business OS is where you can manage your whole company in one place: Finance management, an SOP generator, CRM, a sell-your-business checklist, a contract builder, and the founder's journal with all 365 principles/questions to fill out. Get it at the link in our bio.\n\nThe club is coming soon: luxury events & retreats for founders. Join the waitlist for founding-member pricing and early access at the link in our bio.\n\nFollow @TheGoldenSocietyClub for a new principle every day.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+}
