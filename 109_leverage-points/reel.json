@@ -5,18 +5,23 @@
   "title": "Leverage Points",
   "cta": "os_plus_follow",
   "equation": "Impact = Change × Leverage Multiplier",
-  "hook": "One pricing change can do more than six months of grinding. It just feels too easy to count.",
-  "statement": "Small moves in the right spot create massive change.",
-  "explainer": "Some changes ripple into everything downstream. Price, offer, positioning. Others touch nothing. Working hard in a low-leverage spot feels productive but barely moves the business.",
+  "hook": "One pricing change can outwork six months of grinding.",
+  "statement": "Small moves in the right spot change everything.",
+  "explainer": "Price, offer, positioning ripple everywhere. Grinding in low-leverage spots barely moves anything.",
   "sop": [
-    "List your levers: pricing, offer, positioning, a key hire, a process.",
-    "Score each one's Change and Leverage Multiplier 1 to 10.",
-    "Pick the top one and ignore the rest for 2 weeks.",
-    "Make the change and watch several metrics, not just one.",
-    "Only move to the next lever once this one is done."
+    "List your levers: price, offer, positioning.",
+    "Score Change and Leverage Multiplier 1 to 10.",
+    "Pull the top one. Ignore the rest."
   ],
-  "equation_example": "Change is 4, a single pricing tweak. Leverage Multiplier is 8, since it hits revenue, margin, and positioning. 4 × 8 = 32. Higher means a small change gets outsized results. A multiplier of 1 or 2 means hard work in the wrong spot.",
-  "question": "Name the one lever you've been ignoring because it seems too simple.",
-  "closing_statement": "The right small lever moves the most.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 109: Leverage Points\n\nOne pricing change can do more than six months of grinding. It just feels too easy to count.\n\nSmall moves in the right spot create massive change.\n\nYour turn: Name the one lever you've been ignoring because it seems too simple.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Change 4 × Leverage Multiplier 8 = 32. One pricing tweak hitting revenue, margin, and positioning.",
+  "question": "Name the lever you ignore because it looks too simple.",
+  "closing_statement": "Find the lever. Then pull hard.",
+  "gfx": {
+    "hook": "coins",
+    "statement": "target",
+    "explainer": "flow_wave",
+    "question": "pen",
+    "closing": "rocket"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 109: Leverage Points\n\nOne pricing change can outwork six months of grinding.\n\nSmall moves in the right spot change everything.\n\nYour turn: Name the lever you ignore because it looks too simple.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

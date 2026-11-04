@@ -5,18 +5,23 @@
   "title": "Compounding Wins",
   "cta": "os_plus_follow",
   "equation": "Result = Base × (1 + Rate)^Time",
-  "hook": "Posting every day for a year beats one viral week. It just doesn't feel like it in month two.",
-  "statement": "Small consistent actions beat rare heroic ones.",
-  "explainer": "Consistent effort stacks on itself. Big bursts don't. And every time you break the streak, you lose more than that one day. You lose the compounding.",
+  "hook": "A year of showing up beats one viral week. Month two lies.",
+  "statement": "Small and steady beats rare and heroic.",
+  "explainer": "Consistency stacks. Bursts don't. Break the streak and you lose the compounding.",
   "sop": [
-    "Pick one action that builds on itself, like content, savings, or relationships.",
-    "Set your Base, Rate, and Time for it.",
-    "Commit to the smallest daily version you'll never skip.",
-    "Track the streak somewhere you can't ignore.",
-    "Review results quarterly, not daily."
+    "Pick one action that compounds.",
+    "Set its Base, Rate, and Time.",
+    "Do the smallest version daily. Never skip."
   ],
-  "equation_example": "Base of 100 email subscribers, Rate 5% a month, Time 12 months. 100 × 1.05 to the 12th power = about 180. Higher Rate or longer Time and it really takes off. Break the streak and the growth resets.",
-  "question": "Name one small thing you've been inconsistent with and the smallest daily version you'd keep.",
-  "closing_statement": "Small and steady outlasts rare and heroic.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 107: Compounding Wins\n\nPosting every day for a year beats one viral week. It just doesn't feel like it in month two.\n\nSmall consistent actions beat rare heroic ones.\n\nYour turn: Name one small thing you've been inconsistent with and the smallest daily version you'd keep.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Base 100 subscribers, Rate 5% a month, Time 12. 100 × 1.05^12 = about 180.",
+  "question": "Name the smallest daily version you'd never skip.",
+  "closing_statement": "Boring and daily beats heroic and rare.",
+  "gfx": {
+    "hook": "calendar",
+    "statement": "stairs",
+    "explainer": "seedling",
+    "question": "clock",
+    "closing": "trophy"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 107: Compounding Wins\n\nA year of showing up beats one viral week. Month two lies.\n\nSmall and steady beats rare and heroic.\n\nYour turn: Name the smallest daily version you'd never skip.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

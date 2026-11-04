@@ -5,18 +5,23 @@
   "title": "Systems Not Goals",
   "cta": "os_plus_follow",
   "equation": "Progress = System Quality × Consistency",
-  "hook": "Everyone has the same goal. The difference is who actually built something that gets them there.",
-  "statement": "Goals give you a direction. Systems are what actually get you there.",
-  "explainer": "Staring at a goal doesn't move it. A decent system you run every day will beat a perfect one you only run when you feel like it.",
+  "hook": "Everyone has the same goal. Winners built the machine that gets there.",
+  "statement": "Goals point. Systems deliver.",
+  "explainer": "A decent system run daily beats a perfect one run on vibes.",
   "sop": [
-    "Take one goal and write the daily system that would produce it.",
+    "Turn one goal into a daily system.",
     "Score System Quality and Consistency 1 to 10.",
-    "Track only whether you ran the system today.",
-    "Check the outcome monthly, not daily.",
-    "After 90 days with no movement, redesign the system instead of pushing harder."
+    "Track only whether you ran it."
   ],
-  "equation_example": "System Quality 6, Consistency 9. 6 × 9 = 54 out of 100. Higher means a solid system run steadily. A great system with low consistency means you built something good and then walked away from it.",
-  "question": "Write down one goal and the daily system that would get you there.",
-  "closing_statement": "Build the system before you chase the goal.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 108: Systems Not Goals\n\nEveryone has the same goal. The difference is who actually built something that gets them there.\n\nGoals give you a direction. Systems are what actually get you there.\n\nYour turn: Write down one goal and the daily system that would get you there.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "System Quality 6 × Consistency 9 = 54. Steady beats brilliant and abandoned.",
+  "question": "Write down one goal and its daily system.",
+  "closing_statement": "Build the machine. The goal follows.",
+  "gfx": {
+    "hook": "gears",
+    "statement": "target",
+    "explainer": "laptop_person",
+    "question": "pen",
+    "closing": "rocket"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 108: Systems Not Goals\n\nEveryone has the same goal. Winners built the machine that gets there.\n\nGoals point. Systems deliver.\n\nYour turn: Write down one goal and its daily system.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }
