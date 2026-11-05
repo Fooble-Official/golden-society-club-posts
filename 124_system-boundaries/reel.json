@@ -5,18 +5,23 @@
   "title": "System Boundaries",
   "cta": "os_plus_follow",
   "equation": "System Performance = (Outcomes Achieved + Scope Considered) ÷ 2",
-  "hook": "Sometimes you can't fix a problem because you drew the box around it way too small.",
-  "statement": "What you include in the problem decides what you can actually control.",
-  "explainer": "If churn is the problem but you only look at support, you'll miss the onboarding or the sales promises causing it. Zoom out and the fix often gets obvious.",
+  "hook": "Some problems stay stuck because you drew the box too small.",
+  "statement": "What you include in the problem decides what you control.",
+  "explainer": "Churn isn't just support. Look at onboarding and sales promises too.",
   "sop": [
-    "Write down the current scope of the problem you're solving.",
-    "Score Scope Considered, how much of the bigger picture you included, 1 to 10.",
-    "Name one upstream and one downstream factor you've left out.",
-    "Redraw the boundary to include at least one of them.",
-    "Solve it again at the new scope before calling it fixed."
+    "Write your current problem scope.",
+    "Score Outcomes Achieved and Scope Considered 1 to 10.",
+    "Add one upstream or downstream factor."
   ],
-  "equation_example": "Outcomes Achieved 4, Scope Considered 3. (4 + 3) ÷ 2 = 3.5. Low on both usually means the problem was framed too narrowly, not solved badly. Higher means you're working on the real system.",
-  "question": "Take one stuck problem and write one upstream and one downstream factor you've been ignoring.",
-  "closing_statement": "How you draw the boundary decides what you can fix.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 124: System Boundaries\n\nSometimes you can't fix a problem because you drew the box around it way too small.\n\nWhat you include in the problem decides what you can actually control.\n\nYour turn: Take one stuck problem and write one upstream and one downstream factor you've been ignoring.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "(Outcomes Achieved 4 + Scope Considered 3) ÷ 2 = 3.5. Framed too small, not solved badly.",
+  "question": "Name one upstream factor you've been ignoring.",
+  "closing_statement": "Draw a bigger box. Find the fix.",
+  "gfx": {
+    "hook": "magnifier",
+    "statement": "gears",
+    "explainer": "bucket_leak",
+    "question": "pen",
+    "closing": "lightbulb"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 124: System Boundaries\n\nSome problems stay stuck because you drew the box too small.\n\nWhat you include in the problem decides what you control.\n\nYour turn: Name one upstream factor you've been ignoring.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

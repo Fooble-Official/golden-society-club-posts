@@ -5,18 +5,23 @@
   "title": "Interdependence",
   "cta": "os_plus_follow",
   "equation": "Total Effect = Σ Interactions",
-  "hook": "Your output problem might actually be a sleep problem. Things are more connected than they look.",
-  "statement": "Everything affects everything, so very few problems are truly isolated.",
-  "explainer": "When areas are tightly linked, the thing you notice is rarely the cause. Fix the root connection and several problems get better at once.",
+  "hook": "Your output problem might be a sleep problem. Everything's connected.",
+  "statement": "Everything affects everything. Few problems are truly isolated.",
+  "explainer": "What you notice is rarely the cause. Fix the root, fix several things.",
   "sop": [
-    "Pick a problem you've been treating as separate.",
-    "List 2 or 3 connected areas and score each link 1 to 10.",
-    "Trace which connection might be the real root.",
-    "Fix the root first, not the symptom you noticed.",
-    "Watch the other areas. A real fix improves more than one thing."
+    "Pick a problem you've treated as separate.",
+    "Score each connected link 1 to 10.",
+    "Fix the root connection first."
   ],
-  "equation_example": "Sleep-to-Energy 8, Energy-to-Output 7, Stress-to-Health 6. 8 + 7 + 6 = 21. Higher means things are tightly linked, so one fix ripples everywhere. Lower means the areas are more separate and fixes stay contained.",
-  "question": "Pick one problem and write down three other things it's connected to.",
-  "closing_statement": "Nothing you fix stays isolated for long.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 125: Interdependence\n\nYour output problem might actually be a sleep problem. Things are more connected than they look.\n\nEverything affects everything, so very few problems are truly isolated.\n\nYour turn: Pick one problem and write down three other things it's connected to.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Sleep-Energy 8 + Energy-Output 7 + Stress-Health 6 = 21. Tight links, so one fix ripples everywhere.",
+  "question": "Write down three things your biggest problem connects to.",
+  "closing_statement": "Nothing you fix stays isolated.",
+  "gfx": {
+    "hook": "network",
+    "statement": "chain",
+    "explainer": "dominoes",
+    "question": "pen",
+    "closing": "loop"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 125: Interdependence\n\nYour output problem might be a sleep problem. Everything's connected.\n\nEverything affects everything. Few problems are truly isolated.\n\nYour turn: Write down three things your biggest problem connects to.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

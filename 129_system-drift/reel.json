@@ -5,18 +5,23 @@
   "title": "System Drift",
   "cta": "os_plus_follow",
   "equation": "Drift = Loss of Structure ÷ Time",
-  "hook": "You used to reply to every lead within an hour. Now it's whenever. Nobody decided that, it just slipped.",
-  "statement": "Systems quietly degrade unless you maintain them.",
-  "explainer": "Standards rarely collapse in one day. They slip a little each week until the slip is the new normal. Regular check-ins catch it while it's still easy to fix.",
+  "hook": "You used to reply to leads in an hour. Now it's whenever.",
+  "statement": "Systems quietly decay unless you maintain them.",
+  "explainer": "Standards don't collapse. They slip weekly until the slip is normal.",
   "sop": [
-    "Write down your original standard for one area, like response time.",
-    "Compare it to today and estimate the Loss of Structure as a %.",
-    "Count the months since you last audited it. That's your Time.",
-    "Reset to the original bar, or consciously choose a new one.",
-    "Put a recurring audit on the calendar."
+    "Write your original standard for one area.",
+    "Estimate Loss of Structure as a %.",
+    "Reset the bar and calendar an audit."
   ],
-  "equation_example": "Loss of Structure is 20%, and Time is 4 months since you last checked. 20 ÷ 4 = 5% drift per month. Higher or rising means standards are slipping faster than you maintain them. Lower means things are holding steady.",
-  "question": "Name one standard that's slipped lately and write down what the original bar was.",
-  "closing_statement": "Standards you don't maintain quietly wear away.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 129: System Drift\n\nYou used to reply to every lead within an hour. Now it's whenever. Nobody decided that, it just slipped.\n\nSystems quietly degrade unless you maintain them.\n\nYour turn: Name one standard that's slipped lately and write down what the original bar was.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Loss of Structure 20% ÷ Time 4 months = 5% drift a month. Nobody decided that.",
+  "question": "Name one standard that slipped. Write the original bar.",
+  "closing_statement": "Unmaintained standards wear away quietly.",
+  "gfx": {
+    "hook": "clock",
+    "statement": "gears",
+    "explainer": "falling_chart",
+    "question": "pen",
+    "closing": "hourglass"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 129: System Drift\n\nYou used to reply to leads in an hour. Now it's whenever.\n\nSystems quietly decay unless you maintain them.\n\nYour turn: Name one standard that slipped. Write the original bar.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

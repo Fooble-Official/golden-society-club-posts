@@ -5,18 +5,23 @@
   "title": "Feedback Loops",
   "cta": "os_plus_follow",
   "equation": "Next Action = Current ± Feedback",
-  "hook": "Running a business with no weekly number to check is basically driving with your eyes closed.",
+  "hook": "No weekly number means you're driving with your eyes closed.",
   "statement": "Systems run on feedback, not effort.",
-  "explainer": "Effort without feedback just means going hard in whatever direction you started. A simple weekly signal tells you when to push and when to pull back.",
+  "explainer": "Effort without a signal just goes hard in the wrong direction.",
   "sop": [
-    "Pick one area running with no feedback at all.",
-    "Add one signal: a weekly number, a client check-in, a quick self-check.",
-    "Score your Current state and the Feedback each week.",
-    "Adjust based on the feedback, not on how you feel.",
-    "Review on a fixed schedule, not just in a crisis."
+    "Find one area with zero feedback.",
+    "Add one weekly signal.",
+    "Adjust Current by the Feedback, not feelings."
   ],
-  "equation_example": "Current state is 6. A good result gives Feedback of +2, so 6 + 2 = 8 and you push further. A bad result gives -2, so 6 - 2 = 4 and you pull back. Ignore feedback and your plan drifts away from reality.",
-  "question": "Name one part of your business with no feedback loop and add one this week.",
-  "closing_statement": "No feedback, no way to correct course.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 120: Feedback Loops\n\nRunning a business with no weekly number to check is basically driving with your eyes closed.\n\nSystems run on feedback, not effort.\n\nYour turn: Name one part of your business with no feedback loop and add one this week.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Current 6. Feedback +2 gives 8, push. Feedback -2 gives 4, pull back.",
+  "question": "Name one blind spot. Add a feedback loop this week.",
+  "closing_statement": "No signal, no steering.",
+  "gfx": {
+    "hook": "eye",
+    "statement": "loop",
+    "explainer": "boulder_hill",
+    "question": "magnifier",
+    "closing": "compass"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 120: Feedback Loops\n\nNo weekly number means you're driving with your eyes closed.\n\nSystems run on feedback, not effort.\n\nYour turn: Name one blind spot. Add a feedback loop this week.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

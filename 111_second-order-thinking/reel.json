@@ -5,18 +5,23 @@
   "title": "Second-Order Thinking",
   "cta": "os_plus_follow",
   "equation": "True Impact = Σ(1st + 2nd + 3rd order)",
-  "hook": "The discount brought in a ton of sales. It also trained everyone to wait for the next discount.",
-  "statement": "Every action has downstream effects, so think past the first result.",
-  "explainer": "The first result is the one you see. The second and third are the ones that bite you later. A move that looks great today can quietly cost you next quarter.",
+  "hook": "That discount spiked sales and trained customers to wait for the next.",
+  "statement": "Think past the first result. Every move has downstream effects.",
+  "explainer": "You see the first effect. The third one is what bites you.",
   "sop": [
-    "Write down the immediate result you expect from a decision.",
-    "Write what that result likely causes next.",
-    "Write what that causes after that.",
-    "Score each one 1 to 10, positive or negative, and add them up.",
-    "If the total drops despite a strong start, rethink it."
+    "Write the first result you expect.",
+    "Write what that causes, then what follows.",
+    "Score each effect, then add them."
   ],
-  "equation_example": "First-order effect 8, second-order 4, third-order negative 3 because it backfires. 8 + 4 - 3 = 9. Higher means the whole chain is net positive. A strong first score dragged down later means good today, costly tomorrow.",
-  "question": "Take one decision you're about to make and write out what happens after what happens.",
+  "equation_example": "1st 8 + 2nd 4 + 3rd -3 = True Impact 9. Strong start, weaker finish.",
+  "question": "Take your next decision. Write what happens after that.",
   "closing_statement": "Always ask what happens after what happens.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 111: Second-Order Thinking\n\nThe discount brought in a ton of sales. It also trained everyone to wait for the next discount.\n\nEvery action has downstream effects, so think past the first result.\n\nYour turn: Take one decision you're about to make and write out what happens after what happens.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "gfx": {
+    "hook": "dominoes",
+    "statement": "chain",
+    "explainer": "lightning",
+    "question": "pen",
+    "closing": "compass"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 111: Second-Order Thinking\n\nThat discount spiked sales and trained customers to wait for the next.\n\nThink past the first result. Every move has downstream effects.\n\nYour turn: Take your next decision. Write what happens after that.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

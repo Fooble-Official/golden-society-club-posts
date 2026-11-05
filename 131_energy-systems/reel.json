@@ -5,18 +5,23 @@
   "title": "Energy Systems",
   "cta": "os_plus_follow",
   "equation": "Output Quality = Energy × Time Used",
-  "hook": "Spending your sharpest hours on email is why the real work feels so hard by 4pm.",
-  "statement": "You don't really manage time. You manage your energy.",
-  "explainer": "An hour at full energy can be worth three tired ones. Put your best work in your peak hours and push the admin into the slumps.",
+  "hook": "Spending your sharpest hours on email is why 4pm feels impossible.",
+  "statement": "You don't manage time. You manage energy.",
+  "explainer": "One peak hour beats three tired ones. Admin goes in the slumps.",
   "sop": [
-    "Track your energy hourly for 3 days: high, medium, or low.",
-    "Find your top 2 daily energy peaks.",
-    "Score your Energy and Time Used during those peaks 1 to 10.",
-    "Move your highest-value work into the peaks and admin into the dips.",
-    "Protect your peaks with sleep, food, and a good setup."
+    "Track your energy hourly for 3 days.",
+    "Score Energy and Time Used at peaks.",
+    "Put your best work in the peaks."
   ],
-  "equation_example": "Energy 8, Time Used 7, meaning you protected most of your peak hours for real work. 8 × 7 = 56 out of 100. Higher means good energy is matched with focused time. Lower means one of them is leaking somewhere.",
-  "question": "Write down when your energy peaks and what you usually do during that window.",
-  "closing_statement": "Time without energy behind it doesn't produce much.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 131: Energy Systems\n\nSpending your sharpest hours on email is why the real work feels so hard by 4pm.\n\nYou don't really manage time. You manage your energy.\n\nYour turn: Write down when your energy peaks and what you usually do during that window.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Energy 8 × Time Used 7 = 56. Protect more peak hours and that climbs.",
+  "question": "Write down when you peak and what you do then.",
+  "closing_statement": "Time without energy is just hours.",
+  "gfx": {
+    "hook": "clock",
+    "statement": "lightning",
+    "explainer": "bars_up",
+    "question": "calendar",
+    "closing": "hourglass"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 131: Energy Systems\n\nSpending your sharpest hours on email is why 4pm feels impossible.\n\nYou don't manage time. You manage energy.\n\nYour turn: Write down when you peak and what you do then.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

@@ -5,18 +5,23 @@
   "title": "Non-Linear Returns",
   "cta": "os_plus_follow",
   "equation": "Focus Ratio = % of Effort on Your Top 20% Activities",
-  "hook": "Most of last month's revenue probably came from a handful of things you barely spent time on.",
-  "statement": "Effort rarely produces proportional results. A small slice drives most of them.",
-  "explainer": "Some hours are worth ten times more than others. If most of your week goes to the low-return stuff, working harder just means more low-return hours.",
+  "hook": "Most of last month's revenue came from stuff you barely touched.",
+  "statement": "A small slice of effort drives most results.",
+  "explainer": "Some hours are worth ten others. Grinding low-return hours just adds more.",
   "sop": [
-    "List everything you did last month that drove a result.",
-    "Rank them by actual output, not effort.",
-    "Work out what % of your time went to your top 20%. That's your Focus Ratio.",
-    "Move time from the bottom half to the top 20% this week.",
-    "Re-rank monthly, because your top 20% will shift."
+    "List last month's result drivers.",
+    "Rank them by output, not effort.",
+    "Work out your Focus Ratio on the top 20%."
   ],
-  "equation_example": "You spend 15% of your time on your top 20% activities. So your Focus Ratio is 15%. Higher means your effort is going where it pays off. Lower means most of your week goes to stuff that barely moves the needle.",
-  "question": "Write down your top 20% for this month and block time for it first.",
-  "closing_statement": "Most results come from a small slice of effort.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 112: Non-Linear Returns\n\nMost of last month's revenue probably came from a handful of things you barely spent time on.\n\nEffort rarely produces proportional results. A small slice drives most of them.\n\nYour turn: Write down your top 20% for this month and block time for it first.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Only 15% of your time goes to your top 20%. Focus Ratio 15%. Way too low.",
+  "question": "Write down your top 20%. Block it first.",
+  "closing_statement": "Do less of what barely matters.",
+  "gfx": {
+    "hook": "coins",
+    "statement": "bars_up",
+    "explainer": "clock",
+    "question": "calendar",
+    "closing": "target"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 112: Non-Linear Returns\n\nMost of last month's revenue came from stuff you barely touched.\n\nA small slice of effort drives most results.\n\nYour turn: Write down your top 20%. Block it first.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

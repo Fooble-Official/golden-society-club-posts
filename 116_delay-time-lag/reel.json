@@ -5,18 +5,23 @@
   "title": "Delay (Time Lag)",
   "cta": "os_plus_follow",
   "equation": "Perceived Effect = Actual Effect ÷ Time Delay",
-  "hook": "Most people quit content right before it starts working, because month three looks exactly like month one.",
-  "statement": "Cause and effect are often separated by a lot of time.",
-  "explainer": "Content, referrals, relationships. The payoff shows up weeks or months later. Judge them by this week and you'll quit things that were actually working.",
+  "hook": "Month three looks like month one. That's exactly when most people quit.",
+  "statement": "Cause and effect can be months apart.",
+  "explainer": "Content, referrals, relationships pay off late. Judge them weekly and you'll quit winners.",
   "sop": [
-    "Pick one system where results take a while, like content or referrals.",
-    "Estimate the realistic Time Delay in weeks.",
-    "Track whether you did the work, not whether results moved.",
-    "Set your review date at the end of that delay.",
-    "Don't quit before the delay has actually passed."
+    "Pick one slow-payoff system.",
+    "Estimate its Time Delay in weeks.",
+    "Track the work, not the results."
   ],
-  "equation_example": "Actual Effect 8, Time Delay 12 weeks. 8 ÷ 12 = 0.67. Lower means a long delay is hiding a real effect, so it feels like nothing's working when it is. Higher means you feel results almost right away.",
-  "question": "Write down one thing you're close to quitting and how long it realistically needs.",
-  "closing_statement": "Judge systems by their trajectory, not this week's result.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 116: Delay (Time Lag)\n\nMost people quit content right before it starts working, because month three looks exactly like month one.\n\nCause and effect are often separated by a lot of time.\n\nYour turn: Write down one thing you're close to quitting and how long it realistically needs.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Actual Effect 8 ÷ Time Delay 12 weeks = 0.67. It's working. It just doesn't feel like it.",
+  "question": "Write down what you're about to quit too early.",
+  "closing_statement": "Judge the trajectory, not the week.",
+  "gfx": {
+    "hook": "calendar",
+    "statement": "hourglass",
+    "explainer": "seedling",
+    "question": "pen",
+    "closing": "rising_chart"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 116: Delay (Time Lag)\n\nMonth three looks like month one. That's exactly when most people quit.\n\nCause and effect can be months apart.\n\nYour turn: Write down what you're about to quit too early.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

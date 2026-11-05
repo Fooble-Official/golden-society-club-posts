@@ -2,11 +2,11 @@ Follow @TheGoldenSocietyClub for a new principle every day.
 
 Principle Nº 126: Redundancy
 
-If your one payment processor froze your account tomorrow, sales would just stop. That's a risk, not a plan.
+Your payment processor freezes you tomorrow. Sales stop. That's not a plan.
 
-Backup systems are what keep you alive when something breaks.
+Backups are what keep you alive when things break.
 
-Your turn: Name the one thing in your business with no backup that would hurt most to lose.
+Your turn: Name your scariest single point of failure.
 
 All 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.
 

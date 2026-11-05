@@ -5,18 +5,23 @@
   "title": "Identify the Real Problem",
   "cta": "os_plus_follow",
   "equation": "Clarity = Real Problem ÷ Symptom Confusion",
-  "hook": "Sometimes the sales problem is really an offer problem. No amount of sales training fixes that.",
+  "hook": "Your sales problem is probably an offer problem. Training won't fix that.",
   "statement": "Most failures come from solving the wrong problem.",
-  "explainer": "Symptoms are loud and obvious, so they get all the attention. But fix a symptom and it comes right back. Keep asking why until you hit the real cause.",
+  "explainer": "Symptoms are loud. Fix one and it comes back. Dig for the cause.",
   "sop": [
-    "Write the problem the way you see it right now.",
-    "Ask why it's happening, then ask why again, five times total.",
-    "Score Real Problem and Symptom Confusion 1 to 10.",
-    "Solve for the answer at level 4 or 5, not level 1.",
-    "If the symptom comes back in a month, you stopped digging too early."
+    "Write the problem as you see it.",
+    "Ask why five times.",
+    "Score Real Problem and Symptom Confusion 1 to 10."
   ],
-  "equation_example": "Real Problem clarity 3, Symptom Confusion 8. 3 ÷ 8 = 0.375, call it 0.4. Well below 1 means you're probably treating a symptom, so keep digging. Near or above 1 means you've found the root.",
-  "question": "Pick one problem you're fixing right now and ask why five times, in writing.",
-  "closing_statement": "Treat the symptom as a clue, not the cause.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 113: Identify the Real Problem\n\nSometimes the sales problem is really an offer problem. No amount of sales training fixes that.\n\nMost failures come from solving the wrong problem.\n\nYour turn: Pick one problem you're fixing right now and ask why five times, in writing.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Real Problem 3 ÷ Symptom Confusion 8 = 0.375. Well under 1. You're treating a symptom.",
+  "question": "Pick one problem. Ask why five times, in writing.",
+  "closing_statement": "The symptom is a clue, not the cause.",
+  "gfx": {
+    "hook": "magnifier",
+    "statement": "target",
+    "explainer": "loop",
+    "question": "pen",
+    "closing": "lightbulb"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 113: Identify the Real Problem\n\nYour sales problem is probably an offer problem. Training won't fix that.\n\nMost failures come from solving the wrong problem.\n\nYour turn: Pick one problem. Ask why five times, in writing.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

@@ -5,18 +5,23 @@
   "title": "System Load",
   "cta": "os_plus_follow",
   "equation": "Load Ratio = Demand ÷ Capacity (aim <0.7)",
-  "hook": "Running at 100% capacity feels productive right up until one surprise knocks everything over.",
-  "statement": "Every system has a breaking point, and overload is what pushes it into collapse.",
-  "explainer": "When you're maxed out, there's no room for a sick day, a big client ask, or a broken tool. Keeping some buffer is what lets you absorb the hits.",
+  "hook": "Running at 100% feels productive until one surprise knocks everything over.",
+  "statement": "Every system has a breaking point. Overload finds it.",
+  "explainer": "Maxed out leaves no room for surprises. Buffer is what absorbs hits.",
   "sop": [
-    "List every client, project, and commitment pulling on you.",
-    "Count your Demand and estimate your sustainable Capacity.",
-    "Work out your Load Ratio: Demand ÷ Capacity.",
-    "If it's above 0.7, cut or delegate one thing this week.",
-    "Keep at least 20% of your capacity open for surprises."
+    "List every commitment pulling on you.",
+    "Calculate Load Ratio: Demand ÷ Capacity.",
+    "Above 0.7, cut or delegate one thing."
   ],
-  "equation_example": "Demand is 8 active commitments. Capacity is 10. 8 ÷ 10 = 0.8. Above 0.7 means overload, where quality and consistency start slipping. Below 0.7 means you've got buffer to handle shocks.",
-  "question": "Work out your load ratio right now, and if it's over 0.7, pick one thing to cut.",
-  "closing_statement": "Leave room, or the next surprise breaks something.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 130: System Load\n\nRunning at 100% capacity feels productive right up until one surprise knocks everything over.\n\nEvery system has a breaking point, and overload is what pushes it into collapse.\n\nYour turn: Work out your load ratio right now, and if it's over 0.7, pick one thing to cut.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Demand 8 ÷ Capacity 10 = 0.8. Over 0.7, quality starts slipping. Cut something.",
+  "question": "Work out your load ratio today. Over 0.7, cut one.",
+  "closing_statement": "Leave room or the next surprise breaks you.",
+  "gfx": {
+    "hook": "dominoes",
+    "statement": "lightning",
+    "explainer": "shield",
+    "question": "scale",
+    "closing": "dice"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 130: System Load\n\nRunning at 100% feels productive until one surprise knocks everything over.\n\nEvery system has a breaking point. Overload finds it.\n\nYour turn: Work out your load ratio today. Over 0.7, cut one.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

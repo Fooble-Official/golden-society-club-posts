@@ -5,18 +5,23 @@
   "title": "Redundancy",
   "cta": "os_plus_follow",
   "equation": "Resilience = Primary + Backup",
-  "hook": "If your one payment processor froze your account tomorrow, sales would just stop. That's a risk, not a plan.",
-  "statement": "Backup systems are what keep you alive when something breaks.",
-  "explainer": "Single points of failure feel fine until the day they fail. One working backup for your riskiest dependency can be the difference between a bad day and a dead business.",
+  "hook": "Your payment processor freezes you tomorrow. Sales stop. That's not a plan.",
+  "statement": "Backups are what keep you alive when things break.",
+  "explainer": "Single points of failure feel fine until they don't. Build the backup.",
   "sop": [
-    "List the top 5 dependencies that would stop revenue if they broke.",
-    "For the riskiest one, name the Primary system and whether a Backup exists.",
-    "Build one working backup this week.",
-    "Test it for real. Actually switch over and see what happens.",
-    "Set a quarterly reminder to re-test every backup."
+    "List what stops revenue if it breaks.",
+    "Find the riskiest with no Backup.",
+    "Build one backup and actually test it."
   ],
-  "equation_example": "Primary is 1 working main system. Backup is 1 ready to go. 1 + 1 = 2. Higher means more things can fail before you stop. A Resilience of 1 means one failure shuts the whole thing down.",
-  "question": "Name the one thing in your business with no backup that would hurt most to lose.",
-  "closing_statement": "An untested backup is a guess, not a safety net.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 126: Redundancy\n\nIf your one payment processor froze your account tomorrow, sales would just stop. That's a risk, not a plan.\n\nBackup systems are what keep you alive when something breaks.\n\nYour turn: Name the one thing in your business with no backup that would hurt most to lose.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Primary 1 + Backup 1 = Resilience 2. At 1, one failure shuts you down.",
+  "question": "Name your scariest single point of failure.",
+  "closing_statement": "An untested backup is just a guess.",
+  "gfx": {
+    "hook": "lightning",
+    "statement": "shield",
+    "explainer": "chain",
+    "question": "magnifier",
+    "closing": "dice"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 126: Redundancy\n\nYour payment processor freezes you tomorrow. Sales stop. That's not a plan.\n\nBackups are what keep you alive when things break.\n\nYour turn: Name your scariest single point of failure.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

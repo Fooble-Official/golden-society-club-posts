@@ -5,18 +5,23 @@
   "title": "Simplicity Scales",
   "cta": "os_plus_follow",
   "equation": "Execution = Simplicity × Consistency",
-  "hook": "The fancy 12-step plan never gets done. The boring 3-step one does.",
+  "hook": "The fancy 12-step plan never ships. The boring 3-step one does.",
   "statement": "Complexity kills execution.",
-  "explainer": "Every extra step is another place to stall or skip. Simple plans are the ones you actually stick to, and sticking to it is what gets results.",
+  "explainer": "Every extra step is a place to stall. Simple gets done.",
   "sop": [
-    "List every step in one process or offer.",
+    "List every step in one process.",
     "Score Simplicity and Consistency 1 to 10.",
-    "Cut any step that doesn't directly serve the outcome.",
-    "Rebuild it with the fewest steps that still work.",
-    "Run it for 2 weeks before adding anything back."
+    "Cut anything that doesn't serve the outcome."
   ],
-  "equation_example": "Simplicity 9, Consistency 7. 9 × 7 = 63 out of 100. Higher means the plan is simple enough to stick to. A complicated plan drags this number down no matter how hard you work.",
-  "question": "Pick one thing you've overcomplicated and cut it in half this week.",
-  "closing_statement": "The simplest version is usually the one that ships.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 115: Simplicity Scales\n\nThe fancy 12-step plan never gets done. The boring 3-step one does.\n\nComplexity kills execution.\n\nYour turn: Pick one thing you've overcomplicated and cut it in half this week.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Simplicity 9 × Consistency 7 = 63. Simple enough to actually stick.",
+  "question": "Pick one overcomplicated thing and cut it in half.",
+  "closing_statement": "Simple ships. Clever stalls.",
+  "gfx": {
+    "hook": "stairs",
+    "statement": "gears",
+    "explainer": "boulder_hill",
+    "question": "pen",
+    "closing": "rocket"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 115: Simplicity Scales\n\nThe fancy 12-step plan never ships. The boring 3-step one does.\n\nComplexity kills execution.\n\nYour turn: Pick one overcomplicated thing and cut it in half.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

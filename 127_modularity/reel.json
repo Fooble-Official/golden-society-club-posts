@@ -5,18 +5,23 @@
   "title": "Modularity",
   "cta": "os_plus_follow",
   "equation": "Flexibility = Independent Modules",
-  "hook": "When changing one thing breaks three others, your business is too tangled together.",
-  "statement": "Systems work better when their parts can be separated.",
-  "explainer": "If everything's fused, every fix is risky and nothing can be handed off. Separate pieces can be improved, swapped, or delegated without bringing down the rest.",
+  "hook": "Change one thing, break three others. Your business is too tangled.",
+  "statement": "Systems work better when the parts can separate.",
+  "explainer": "Fused parts make every fix risky. Separate parts can be swapped or delegated.",
   "sop": [
-    "Map your system and mark where two functions depend on each other.",
-    "Score how tangled each dependency is 1 to 10.",
-    "Split the most tangled pair into two parts with a clear handoff.",
-    "Give each part its own owner, process, or tool.",
-    "Change one part and confirm the rest keeps running."
+    "Mark where functions depend on each other.",
+    "Split the most tangled pair cleanly.",
+    "Give each part its own owner."
   ],
-  "equation_example": "You have 3 Independent Modules, parts you can change without breaking the others. So Flexibility = 3. Higher means more of your business can be improved or handed off on its own. At 1, everything's fused and one change risks it all.",
-  "question": "Name one tangled part of your business you'd separate first.",
+  "equation_example": "3 Independent Modules, so Flexibility = 3. At 1, one change risks everything.",
+  "question": "Name the tangled part you'd separate first.",
   "closing_statement": "Separate parts move faster than fused ones.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 127: Modularity\n\nWhen changing one thing breaks three others, your business is too tangled together.\n\nSystems work better when their parts can be separated.\n\nYour turn: Name one tangled part of your business you'd separate first.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "gfx": {
+    "hook": "dominoes",
+    "statement": "gears",
+    "explainer": "team",
+    "question": "pen",
+    "closing": "rocket"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 127: Modularity\n\nChange one thing, break three others. Your business is too tangled.\n\nSystems work better when the parts can separate.\n\nYour turn: Name the tangled part you'd separate first.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

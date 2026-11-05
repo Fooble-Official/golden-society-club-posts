@@ -5,18 +5,23 @@
   "title": "Environmental Design",
   "cta": "os_plus_follow",
   "equation": "Behavior = Environment × Exposure Time",
-  "hook": "Your desk is either helping you work or quietly pulling you toward your phone. There's no neutral.",
-  "statement": "Your environment is stronger than your discipline.",
-  "explainer": "You're in your space for hours every day. If it's full of cues for the wrong stuff, you're fighting it all day. Set it up right and it pulls you along.",
+  "hook": "Your desk isn't neutral. It's pushing you toward work or your phone.",
+  "statement": "Your environment beats your discipline.",
+  "explainer": "You sit in that space for hours. Wrong cues mean fighting it all day.",
   "sop": [
-    "Walk through your workspace and note every visible cue.",
-    "Score your Environment 1 to 10 for the behavior you want.",
-    "Hide or remove every trigger for the behavior you don't want.",
-    "Add one visible cue for the behavior you do want.",
-    "Re-check monthly, because spaces slowly drift back."
+    "Note every visible cue in your space.",
+    "Score your Environment 1 to 10.",
+    "Hide bad triggers. Add one good cue."
   ],
-  "equation_example": "Environment 8, Exposure Time 6 hours a day. 8 × 6 = 48. Higher means your space is nudging you the right way hour after hour. Lower means you're using willpower to fight a room that's working against you.",
-  "question": "Pick the one space that's fighting you and change one thing in it today.",
-  "closing_statement": "Discipline fades. A well-built environment doesn't.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 135: Environmental Design\n\nYour desk is either helping you work or quietly pulling you toward your phone. There's no neutral.\n\nYour environment is stronger than your discipline.\n\nYour turn: Pick the one space that's fighting you and change one thing in it today.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Environment 8 × Exposure Time 6 hours = 48. Your room nudges you right, hour after hour.",
+  "question": "Pick the space fighting you. Change one thing today.",
+  "closing_statement": "Discipline fades. A good room doesn't.",
+  "gfx": {
+    "hook": "laptop_person",
+    "statement": "scale",
+    "explainer": "eye",
+    "question": "pen",
+    "closing": "star"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 135: Environmental Design\n\nYour desk isn't neutral. It's pushing you toward work or your phone.\n\nYour environment beats your discipline.\n\nYour turn: Pick the space fighting you. Change one thing today.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

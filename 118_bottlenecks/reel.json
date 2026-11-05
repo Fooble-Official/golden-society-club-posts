@@ -5,18 +5,23 @@
   "title": "Bottlenecks",
   "cta": "os_plus_follow",
   "equation": "Output = Min(Capacity of all parts)",
-  "hook": "Hiring another salesperson won't help if production is the thing that's already maxed out.",
-  "statement": "A system is only as strong as its tightest constraint.",
-  "explainer": "Pushing harder on stages that already have room does nothing. Output is capped by the slowest stage. Widen that one and everything moves faster.",
+  "hook": "Another salesperson won't help when production is already maxed out.",
+  "statement": "Your system is only as strong as its tightest constraint.",
+  "explainer": "Pushing stages with room does nothing. The slowest one caps everything.",
   "sop": [
-    "Map your process and estimate each stage's capacity per day.",
+    "Estimate each stage's daily capacity.",
     "Find the minimum. That's your bottleneck.",
-    "Remove, automate, or delegate part of that stage's work.",
-    "Re-measure total output to confirm it went up.",
-    "Move on to the next slowest stage. There's always one."
+    "Automate or delegate part of it."
   ],
-  "equation_example": "Intake 50 orders a day, Production 20, Shipping 45. Output is the minimum, 20 orders a day. Not the average. Raising the lowest number raises output. Raising a strong stage does nothing until the bottleneck moves.",
-  "question": "Name the bottleneck you've put up with for months and one piece of it you could hand off.",
-  "closing_statement": "The whole system moves at the bottleneck's pace.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 118: Bottlenecks\n\nHiring another salesperson won't help if production is the thing that's already maxed out.\n\nA system is only as strong as its tightest constraint.\n\nYour turn: Name the bottleneck you've put up with for months and one piece of it you could hand off.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Intake 50, Production 20, Shipping 45. Output is the minimum, 20 a day. Not the average.",
+  "question": "Name the bottleneck you've tolerated for months.",
+  "closing_statement": "Everything moves at the bottleneck's pace.",
+  "gfx": {
+    "hook": "team",
+    "statement": "chain",
+    "explainer": "funnel",
+    "question": "magnifier",
+    "closing": "clock"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 118: Bottlenecks\n\nAnother salesperson won't help when production is already maxed out.\n\nYour system is only as strong as its tightest constraint.\n\nYour turn: Name the bottleneck you've tolerated for months.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }
