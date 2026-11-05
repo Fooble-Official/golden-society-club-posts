@@ -5,18 +5,23 @@
   "title": "Priority Stack",
   "cta": "os_plus_follow",
   "equation": "Impact = Priority × Execution",
-  "hook": "When everything feels urgent, nothing important actually gets done.",
-  "statement": "Not everything is equally important. Rank your priorities and give the top ones your best effort.",
-  "explainer": "If you treat every task the same, the important stuff gets the same scraps as the trivial stuff. Ranking forces you to put real energy where it pays.",
+  "hook": "When everything's urgent, the important stuff gets scraps.",
+  "statement": "Rank your priorities. Give the top ones your best.",
+  "explainer": "Treat every task the same and your biggest bets get trivial energy.",
   "sop": [
-    "Write down your top 3 priorities this month, ranked.",
-    "Rate the Priority of everything on your list from 1 to 10.",
-    "Rate your Execution from 1 to 10 on each top 3 item.",
-    "Cut or delegate anything below your top 3 that eats real time.",
-    "Re-rank weekly. Your number one can change."
+    "Rank your top 3 for the month.",
+    "Score Priority and Execution 1 to 10.",
+    "Cut or delegate everything below three."
   ],
-  "equation_example": "Priority 9, Execution 3. 9 × 3 = 27 out of 100. Super important, barely getting done. Higher means your big priorities are getting real effort. Lower means you're doing the wrong things well or the right things badly.",
-  "question": "Write your top 3 priorities for this month from memory. If you can't, that's the problem.",
-  "closing_statement": "Treat everything as equal and nothing is important.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 155: Priority Stack\n\nWhen everything feels urgent, nothing important actually gets done.\n\nNot everything is equally important. Rank your priorities and give the top ones your best effort.\n\nYour turn: Write your top 3 priorities for this month from memory. If you can't, that's the problem.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Priority 9 × Execution 3 = 27. Hugely important, barely getting done.",
+  "question": "Write your top 3 priorities from memory. Right now.",
+  "closing_statement": "Everything equal means nothing matters.",
+  "gfx": {
+    "hook": "hourglass",
+    "statement": "bars_up",
+    "explainer": "target",
+    "question": "pen",
+    "closing": "scale"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 155: Priority Stack\n\nWhen everything's urgent, the important stuff gets scraps.\n\nRank your priorities. Give the top ones your best.\n\nYour turn: Write your top 3 priorities from memory. Right now.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

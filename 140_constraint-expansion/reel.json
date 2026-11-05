@@ -5,18 +5,23 @@
   "title": "Constraint Expansion",
   "cta": "os_plus_follow",
   "equation": "Growth = Bottleneck Capacity Added ÷ Prior Capacity",
-  "hook": "Working more hours didn't grow my business. Fixing the one step everything waited on did.",
-  "statement": "Real growth means finding your biggest bottleneck and deliberately making it bigger.",
-  "explainer": "Every business has one step that caps everything else. Improve anything around it and output stays flat. Widen that one step and the whole thing moves.",
+  "hook": "More hours didn't grow the business. Fixing the one stuck step did.",
+  "statement": "Growth means finding your bottleneck and making it bigger.",
+  "explainer": "Improve around the bottleneck and nothing moves. Widen it and everything does.",
   "sop": [
-    "Map your process and find the step everything else waits on.",
-    "Ask yourself: if I fixed this, would output actually go up?",
-    "Expand that one step. Hire, delegate, upgrade the tool, or change the process.",
-    "Compare Bottleneck Capacity Added to your Prior Capacity each quarter.",
-    "Once it's fixed, find the next bottleneck. There's always one."
+    "Find the step everything waits on.",
+    "Expand it. Hire, delegate, or upgrade.",
+    "Compare Bottleneck Capacity Added to Prior Capacity quarterly."
   ],
-  "equation_example": "Your bottleneck handled 100 units a week. This quarter you added 15. 15 ÷ 100 = 15% growth. Higher means you're actually moving your ceiling. Close to zero means you keep hitting the same wall.",
-  "question": "Name the one step in your business that everything else is waiting on.",
-  "closing_statement": "Fix anything but the real bottleneck and nothing changes.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 140: Constraint Expansion\n\nWorking more hours didn't grow my business. Fixing the one step everything waited on did.\n\nReal growth means finding your biggest bottleneck and deliberately making it bigger.\n\nYour turn: Name the one step in your business that everything else is waiting on.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Bottleneck Capacity Added 15 ÷ Prior Capacity 100 = 15% growth. Your ceiling actually moved.",
+  "question": "Name the one step everything else waits on.",
+  "closing_statement": "Fix the real bottleneck or nothing changes.",
+  "gfx": {
+    "hook": "clock",
+    "statement": "funnel",
+    "explainer": "flow_wave",
+    "question": "magnifier",
+    "closing": "trophy"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 140: Constraint Expansion\n\nMore hours didn't grow the business. Fixing the one stuck step did.\n\nGrowth means finding your bottleneck and making it bigger.\n\nYour turn: Name the one step everything else waits on.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

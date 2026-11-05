@@ -2,11 +2,11 @@ Follow @TheGoldenSocietyClub for a new principle every day.
 
 Principle Nº 147: System Redundancy
 
-One frozen payment account can shut your whole business down overnight. It happens more than people admit.
+One frozen payment account can shut you down overnight. It happens.
 
-Backups keep one failure from taking everything down. Every critical system needs a plan B.
+Every critical system needs a plan B.
 
-Your turn: Write down your biggest single point of failure and one backup you could set up this month.
+Your turn: Write down your biggest single point of failure.
 
 All 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.
 

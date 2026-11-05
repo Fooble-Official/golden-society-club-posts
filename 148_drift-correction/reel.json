@@ -5,18 +5,23 @@
   "title": "Drift Correction",
   "cta": "os_plus_follow",
   "equation": "Correction = Gap Closed × Frequency",
-  "hook": "Nobody decides to get sloppy. Standards just slide a little every week until you finally notice.",
-  "statement": "Everything drifts away from the standard over time. You have to pull it back on purpose, regularly.",
-  "explainer": "Response times creep up, quality slips, discounts get handed out. Small corrections done often are way easier than one big cleanup after things fall apart.",
+  "hook": "Nobody decides to get sloppy. Standards just slide a little weekly.",
+  "statement": "Everything drifts. Pull it back on purpose, often.",
+  "explainer": "Small fixes done often beat one giant cleanup after the collapse.",
   "sop": [
-    "Write down the original standard for one key process.",
-    "Rate how far you've drifted from it right now, 1 to 10.",
-    "Set your Frequency. Weekly for fast-moving areas, monthly for slower ones.",
-    "At every check, pull it back toward standard and rate the Gap Closed.",
-    "If drift keeps growing, raise your Frequency."
+    "Write the original standard down.",
+    "Set a check Frequency. Weekly or monthly.",
+    "Pull it back. Rate Gap Closed."
   ],
-  "equation_example": "Each fix closes the gap by about 6 out of 10, and you correct 4 times a month. Gap Closed 6 × Frequency 4 = 24. Higher means you're catching drift as it happens. Lower means it's piling up faster than you fix it.",
-  "question": "Write down your weekly reset ritual. If you don't have one, write the day you'll start.",
-  "closing_statement": "A standard you never re-check is already slipping.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 148: Drift Correction\n\nNobody decides to get sloppy. Standards just slide a little every week until you finally notice.\n\nEverything drifts away from the standard over time. You have to pull it back on purpose, regularly.\n\nYour turn: Write down your weekly reset ritual. If you don't have one, write the day you'll start.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Gap Closed 6 × Frequency 4 = 24. Low means drift is outrunning your fixes.",
+  "question": "Write down the day your weekly reset starts.",
+  "closing_statement": "Unchecked standards are already slipping.",
+  "gfx": {
+    "hook": "falling_chart",
+    "statement": "compass",
+    "explainer": "loop",
+    "question": "calendar",
+    "closing": "eye"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 148: Drift Correction\n\nNobody decides to get sloppy. Standards just slide a little weekly.\n\nEverything drifts. Pull it back on purpose, often.\n\nYour turn: Write down the day your weekly reset starts.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

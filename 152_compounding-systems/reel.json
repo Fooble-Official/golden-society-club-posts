@@ -5,18 +5,23 @@
   "title": "Compounding Systems",
   "cta": "os_plus_follow",
   "equation": "Result = Base × (1+Rate)^Time",
-  "hook": "Posting once doesn't do much. Posting every week for a year changes everything.",
-  "statement": "Small actions repeated consistently add up to huge results. The payoff comes from not breaking the chain.",
-  "explainer": "Compounding is boring week to week and wild in hindsight. Every time you break the streak, you reset the base and lose the growth you'd built.",
+  "hook": "One post does nothing. Fifty-two posts in a row changes everything.",
+  "statement": "Small actions, repeated without breaks, become huge results.",
+  "explainer": "Compounding is boring weekly and wild in hindsight. Breaks reset the base.",
   "sop": [
-    "Pick one action to build a streak on: content, savings, or practice.",
-    "Estimate your realistic Rate of improvement per period.",
-    "Set a minimum version you can do even on bad days.",
-    "Track your streak, your Time, somewhere you'll see it daily.",
-    "Review quarterly. Growth hides week to week."
+    "Pick one action to streak on.",
+    "Set a minimum for bad days.",
+    "Track the streak where you'll see it."
   ],
-  "equation_example": "Base 100, Rate 5% per period, Time 12 periods. 100 × 1.05 to the 12th power ≈ 180. That's 80% more from small steady gains. Higher means your streak is stacking up. Lower means breaks keep resetting it.",
-  "question": "Name one small action you keep breaking the streak on, and write its minimum daily version.",
-  "closing_statement": "A broken streak resets more than it looks like.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 152: Compounding Systems\n\nPosting once doesn't do much. Posting every week for a year changes everything.\n\nSmall actions repeated consistently add up to huge results. The payoff comes from not breaking the chain.\n\nYour turn: Name one small action you keep breaking the streak on, and write its minimum daily version.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Base 100, Rate 5%, Time 12: 100 × 1.05^12 ≈ 180. That's 80% more.",
+  "question": "Name the streak you keep breaking. Write its minimum version.",
+  "closing_statement": "A broken streak costs more than one day.",
+  "gfx": {
+    "hook": "calendar",
+    "statement": "seedling",
+    "explainer": "rising_chart",
+    "question": "pen",
+    "closing": "chain"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 152: Compounding Systems\n\nOne post does nothing. Fifty-two posts in a row changes everything.\n\nSmall actions, repeated without breaks, become huge results.\n\nYour turn: Name the streak you keep breaking. Write its minimum version.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

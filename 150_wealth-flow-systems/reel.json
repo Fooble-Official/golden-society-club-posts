@@ -5,18 +5,23 @@
   "title": "Wealth Flow Systems",
   "cta": "os_plus_follow",
   "equation": "Wealth = (Income - Expense) × Time",
-  "hook": "I made more money than ever last year and somehow had nothing to show for it.",
-  "statement": "Wealth comes from the gap between what comes in and what goes out, held over time. Not from income alone.",
-  "explainer": "A big income with big expenses builds nothing. What matters is the net flow you keep and how long you keep it going. That's what actually stacks up.",
+  "hook": "Best income year ever. Somehow nothing to show for it.",
+  "statement": "Wealth is what you keep, held over time.",
+  "explainer": "Big income with big expenses builds nothing. Net flow, sustained, builds everything.",
   "sop": [
-    "Track your real Income and Expense for one full month. No estimates.",
-    "Subtract Expense from Income, then multiply by Time to see the year.",
-    "Figure out how much of your income is recurring versus one-off.",
-    "Cut one recurring expense leak and send it to savings or investments.",
-    "Check your net flow monthly. The trend matters more than any one month."
+    "Track real Income and Expense one month.",
+    "Subtract, then multiply by Time.",
+    "Plug one leak. Invest the difference."
   ],
-  "equation_example": "Income $8,000 a month, Expense $5,000, so you keep $3,000. Over 12 months that's $3,000 × 12 = $36,000. Higher means your net flow is actually building wealth. Lower or negative means spending is eating everything.",
-  "question": "Write down your real monthly income minus expenses. Just the number.",
-  "closing_statement": "Income that stops flowing was never wealth.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 150: Wealth Flow Systems\n\nI made more money than ever last year and somehow had nothing to show for it.\n\nWealth comes from the gap between what comes in and what goes out, held over time. Not from income alone.\n\nYour turn: Write down your real monthly income minus expenses. Just the number.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Income $8,000 minus Expense $5,000 = $3,000. Times 12 months = $36,000 Wealth.",
+  "question": "Write your real monthly income minus expenses. Just the number.",
+  "closing_statement": "Income you don't keep isn't wealth.",
+  "gfx": {
+    "hook": "bucket_leak",
+    "statement": "coins",
+    "explainer": "flow_wave",
+    "question": "pen",
+    "closing": "castle_moat"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 150: Wealth Flow Systems\n\nBest income year ever. Somehow nothing to show for it.\n\nWealth is what you keep, held over time.\n\nYour turn: Write your real monthly income minus expenses. Just the number.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

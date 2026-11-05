@@ -5,18 +5,23 @@
   "title": "Time Allocation",
   "cta": "os_plus_follow",
   "equation": "Output = Σ(Time × Priority Weight)",
-  "hook": "I was busy all week and moved nothing that actually mattered. Busy isn't the same as productive.",
-  "statement": "How you spend your hours is how your business and life turn out. Your calendar shows your real priorities.",
-  "explainer": "You can say growth is the priority, but if your hours go to admin and inbox, that's your actual priority. Weighting time by importance shows the truth.",
+  "hook": "Busy all week. Moved nothing that mattered. Busy isn't productive.",
+  "statement": "Your calendar shows your real priorities. Not your words.",
+  "explainer": "Say growth matters, then live in your inbox. The inbox is the priority.",
   "sop": [
-    "Track every hour for one full week.",
-    "Give each activity a Priority Weight from 1 to 3.",
-    "Multiply Time by Priority Weight for each and add them up.",
-    "Find the big-time, low-weight activities. Those are your leaks.",
-    "Rebuild next week so more hours go to your weight 3 work."
+    "Track every hour for one week.",
+    "Give each a Priority Weight, 1 to 3.",
+    "Move hours to weight 3 work."
   ],
-  "equation_example": "Task A: 3 hours × weight 3 = 9. Task B: 5 hours × weight 1 = 5. Total 9 + 5 = 14. B took more time but scored less. Higher means your hours go to what matters. Lower means busy work is winning.",
-  "question": "Open your calendar and circle the hours that don't match what you say matters most.",
-  "closing_statement": "A full calendar isn't the same as a good one.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 154: Time Allocation\n\nI was busy all week and moved nothing that actually mattered. Busy isn't the same as productive.\n\nHow you spend your hours is how your business and life turn out. Your calendar shows your real priorities.\n\nYour turn: Open your calendar and circle the hours that don't match what you say matters most.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "A: 3 hours × Priority Weight 3 = 9. B: 5 × 1 = 5. Output 14.",
+  "question": "Circle the calendar hours that don't match your priorities.",
+  "closing_statement": "A full calendar isn't a good one.",
+  "gfx": {
+    "hook": "laptop_person",
+    "statement": "calendar",
+    "explainer": "scale",
+    "question": "magnifier",
+    "closing": "clock"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 154: Time Allocation\n\nBusy all week. Moved nothing that mattered. Busy isn't productive.\n\nYour calendar shows your real priorities. Not your words.\n\nYour turn: Circle the calendar hours that don't match your priorities.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

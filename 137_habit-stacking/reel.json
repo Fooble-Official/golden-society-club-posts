@@ -5,18 +5,23 @@
   "title": "Habit Stacking",
   "cta": "os_plus_follow",
   "equation": "Habit Success = Anchor × Attachment",
-  "hook": "New habits fail because they're floating around on their own. Tie them to something you already do.",
+  "hook": "New habits fail floating on their own. Tie them to something automatic.",
   "statement": "Attach new habits to ones you already have.",
-  "explainer": "Your existing routines already run on autopilot. Hooking a new habit right after one lets it borrow that momentum instead of relying on memory or motivation.",
+  "explainer": "Old routines run on autopilot. Hook a new one on and borrow that momentum.",
   "sop": [
-    "List 3 habits you do without needing motivation, like making coffee.",
-    "Score each one's Anchor strength 1 to 10.",
-    "Attach one specific new habit right after your strongest anchor.",
-    "Score the Attachment 1 to 10, how tightly it follows the anchor.",
-    "Repeat the pair daily for 2 weeks before stacking another."
+    "List 3 habits you never skip.",
+    "Score Anchor strength 1 to 10.",
+    "Attach one new habit and score Attachment."
   ],
-  "equation_example": "Anchor 9, a habit you never skip. Attachment 6, how tightly the new one follows. 9 × 6 = 54 out of 100. Higher means the new habit rides the old one's momentum. Lower means it's floating free and will get skipped.",
-  "question": "Pick one thing you do every morning and attach one new habit right after it, starting tomorrow.",
+  "equation_example": "Anchor 9 × Attachment 6 = 54. Strong anchor, loose attachment. Tighten it up.",
+  "question": "Pick one morning habit. Attach something new starting tomorrow.",
   "closing_statement": "New habits borrow strength from old ones.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 137: Habit Stacking\n\nNew habits fail because they're floating around on their own. Tie them to something you already do.\n\nAttach new habits to ones you already have.\n\nYour turn: Pick one thing you do every morning and attach one new habit right after it, starting tomorrow.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "gfx": {
+    "hook": "seedling",
+    "statement": "chain",
+    "explainer": "flow_wave",
+    "question": "calendar",
+    "closing": "rising_chart"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 137: Habit Stacking\n\nNew habits fail floating on their own. Tie them to something automatic.\n\nAttach new habits to ones you already have.\n\nYour turn: Pick one morning habit. Attach something new starting tomorrow.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

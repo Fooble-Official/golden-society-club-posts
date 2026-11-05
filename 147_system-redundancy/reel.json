@@ -5,18 +5,23 @@
   "title": "System Redundancy",
   "cta": "os_plus_follow",
   "equation": "Stability = Backup Systems ÷ Critical Systems",
-  "hook": "One frozen payment account can shut your whole business down overnight. It happens more than people admit.",
-  "statement": "Backups keep one failure from taking everything down. Every critical system needs a plan B.",
-  "explainer": "Your main client, your main platform, your payment processor. If any one of them disappears tomorrow and there's no backup, revenue just stops.",
+  "hook": "One frozen payment account can shut you down overnight. It happens.",
+  "statement": "Every critical system needs a plan B.",
+  "explainer": "Lose your main client, platform, or processor with no backup. Revenue stops.",
   "sop": [
-    "List every Critical System your business can't run without.",
-    "Count how many have a working Backup System.",
-    "Build a backup for your riskiest critical system this month.",
-    "Actually test that backup once. For real.",
-    "Re-audit every 6 months as things change."
+    "List every system you can't run without.",
+    "Count which ones have a real backup.",
+    "Build and test one this month."
   ],
-  "equation_example": "2 Backup Systems for 5 Critical Systems. 2 ÷ 5 = 40%. That means 3 things could stop you cold. Higher means more of your essentials are covered. Lower means one failure could shut you down.",
-  "question": "Write down your biggest single point of failure and one backup you could set up this month.",
-  "closing_statement": "One working system is one failure away from zero.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 147: System Redundancy\n\nOne frozen payment account can shut your whole business down overnight. It happens more than people admit.\n\nBackups keep one failure from taking everything down. Every critical system needs a plan B.\n\nYour turn: Write down your biggest single point of failure and one backup you could set up this month.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Backup Systems 2 ÷ Critical Systems 5 = 40%. Three things could stop you cold.",
+  "question": "Write down your biggest single point of failure.",
+  "closing_statement": "One system is one failure from zero.",
+  "gfx": {
+    "hook": "lock",
+    "statement": "shield",
+    "explainer": "falling_chart",
+    "question": "pen",
+    "closing": "dominoes"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 147: System Redundancy\n\nOne frozen payment account can shut you down overnight. It happens.\n\nEvery critical system needs a plan B.\n\nYour turn: Write down your biggest single point of failure.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

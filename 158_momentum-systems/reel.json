@@ -5,18 +5,23 @@
   "title": "Momentum Systems",
   "cta": "os_plus_follow",
   "equation": "Momentum = Previous Action × Consistency",
-  "hook": "Getting started is the hardest part. Restarting after a break is somehow even harder.",
-  "statement": "Starting takes the most energy. Once you're moving, momentum does a lot of the work for you.",
-  "explainer": "Every time you break the streak, you pay the full startup cost again. Keeping it going, even barely, is way cheaper than rebuilding from zero.",
+  "hook": "Starting is hard. Restarting after a break is somehow harder.",
+  "statement": "Starting costs the most. Momentum carries the rest.",
+  "explainer": "Break the streak and you pay full startup cost again.",
   "sop": [
-    "Pick one habit or project to build momentum on.",
-    "Rate your Previous Action from 1 to 10. Did you show up yesterday?",
-    "Rate your Consistency from 1 to 10. How unbroken is the streak?",
-    "Define a tiny streak-saving version for busy or low-energy days.",
-    "Plan around travel and deadlines before they hit."
+    "Pick one habit to keep moving.",
+    "Score Previous Action and Consistency 1 to 10.",
+    "Define a tiny version for bad days."
   ],
-  "equation_example": "Previous Action 9, Consistency 8. 9 × 8 = 72 out of 100. Higher means momentum is building and each day starts easier. Lower means the streak is fragile and every restart costs full effort.",
-  "question": "Write down where your momentum is most fragile, and the tiny version that keeps it alive.",
-  "closing_statement": "Momentum is easier to protect than to rebuild.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 158: Momentum Systems\n\nGetting started is the hardest part. Restarting after a break is somehow even harder.\n\nStarting takes the most energy. Once you're moving, momentum does a lot of the work for you.\n\nYour turn: Write down where your momentum is most fragile, and the tiny version that keeps it alive.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Previous Action 9 × Consistency 8 = 72. Each day starts easier than the last.",
+  "question": "Write the tiny version that keeps your streak alive.",
+  "closing_statement": "Protecting momentum beats rebuilding it.",
+  "gfx": {
+    "hook": "boulder_hill",
+    "statement": "flow_wave",
+    "explainer": "chain",
+    "question": "pen",
+    "closing": "shield"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 158: Momentum Systems\n\nStarting is hard. Restarting after a break is somehow harder.\n\nStarting costs the most. Momentum carries the rest.\n\nYour turn: Write the tiny version that keeps your streak alive.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

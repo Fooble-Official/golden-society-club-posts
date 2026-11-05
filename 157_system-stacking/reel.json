@@ -5,18 +5,23 @@
   "title": "System Stacking",
   "cta": "os_plus_follow",
   "equation": "Leverage = Goals Served ÷ Actions Taken",
-  "hook": "My morning walk is also my podcast research and my sales call prep. One hour, three jobs done.",
-  "statement": "One action should serve more than one goal. Stack your goals into the same effort.",
-  "explainer": "Time is your scarcest resource. When one action hits three goals, you get three results for the price of one. Doing everything separately is the expensive way.",
+  "hook": "My morning walk doubles as podcast research and sales prep.",
+  "statement": "Make one action serve several goals.",
+  "explainer": "Time is your scarcest asset. One action, three results, one price.",
   "sop": [
-    "List your top 5 recurring actions and the one goal each serves.",
-    "Ask what other goal each could serve with a small tweak.",
-    "Compare Goals Served ÷ Actions Taken before and after the redesign.",
-    "Redesign the action to hit the extra goals on purpose.",
-    "Re-check monthly as your goals shift."
+    "List your top 5 recurring actions.",
+    "Find a second goal each could hit.",
+    "Raise Goals Served ÷ Actions Taken."
   ],
-  "equation_example": "One action, 3 Goals Served. 3 ÷ 1 = 3.0. Higher means each action pulls more weight for the same time. A 1.0 means you're spending a separate action on every goal when you could combine them.",
-  "question": "Pick one thing you do every week and write two more goals it could serve.",
+  "equation_example": "Goals Served 3 ÷ Actions Taken 1 = 3.0. At 1.0, you pay full price per goal.",
+  "question": "Pick one weekly task. Write two more goals it serves.",
   "closing_statement": "One action, one goal is the expensive default.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 157: System Stacking\n\nMy morning walk is also my podcast research and my sales call prep. One hour, three jobs done.\n\nOne action should serve more than one goal. Stack your goals into the same effort.\n\nYour turn: Pick one thing you do every week and write two more goals it could serve.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "gfx": {
+    "hook": "compass",
+    "statement": "burst",
+    "explainer": "hourglass",
+    "question": "calendar",
+    "closing": "coins"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 157: System Stacking\n\nMy morning walk doubles as podcast research and sales prep.\n\nMake one action serve several goals.\n\nYour turn: Pick one weekly task. Write two more goals it serves.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

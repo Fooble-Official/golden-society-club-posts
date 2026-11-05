@@ -5,18 +5,23 @@
   "title": "Minimum Effective Dose",
   "cta": "os_plus_follow",
   "equation": "Efficiency = Result ÷ Effort",
-  "hook": "I was writing 3,000-word newsletters. The 600-word ones got more replies.",
-  "statement": "Find the least effort that still gets the result. Everything past that point is waste.",
-  "explainer": "More effort feels safer, but it often adds nothing. Overbuilding burns time and energy you could put somewhere that actually moves the needle.",
+  "hook": "I wrote 3,000-word newsletters. The 600-word ones got more replies.",
+  "statement": "Find the least effort that works. The rest is waste.",
+  "explainer": "More effort feels safer. Usually it just burns time on nothing.",
   "sop": [
-    "Pick one recurring effort you suspect is overbuilt.",
-    "Rate its current Result and Effort from 1 to 10.",
-    "Cut the effort roughly in half for 2 weeks, same goal.",
-    "Re-rate the Result. Did it actually drop?",
-    "If it held, keep the lighter version for good."
+    "Pick one effort you're overbuilding.",
+    "Cut it in half for 2 weeks.",
+    "If Result holds, keep it lighter."
   ],
-  "equation_example": "Result 8, Effort 4. 8 ÷ 4 = 2.0. You're getting twice the result per unit of effort. Higher means you've found the right dose. Below 1 means you're pouring in more than you get back.",
-  "question": "Name one thing you're overbuilding that would work just as well at half the effort.",
-  "closing_statement": "Effort past what works is just waste.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 156: Minimum Effective Dose\n\nI was writing 3,000-word newsletters. The 600-word ones got more replies.\n\nFind the least effort that still gets the result. Everything past that point is waste.\n\nYour turn: Name one thing you're overbuilding that would work just as well at half the effort.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Result 8 ÷ Effort 4 = 2.0. Double the return on every unit you put in.",
+  "question": "Name one thing you could do at half effort.",
+  "closing_statement": "Past what works is just waste.",
+  "gfx": {
+    "hook": "pen",
+    "statement": "target",
+    "explainer": "clock",
+    "question": "laptop_person",
+    "closing": "bucket_leak"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 156: Minimum Effective Dose\n\nI wrote 3,000-word newsletters. The 600-word ones got more replies.\n\nFind the least effort that works. The rest is waste.\n\nYour turn: Name one thing you could do at half effort.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

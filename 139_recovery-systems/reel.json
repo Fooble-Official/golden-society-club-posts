@@ -5,18 +5,23 @@
   "title": "Recovery Systems",
   "cta": "os_plus_follow",
   "equation": "Strain Ratio = Stress ÷ Recovery   (aim < 1.0)",
-  "hook": "I kept pushing harder and getting less done. Turns out I wasn't lazy, I was cooked.",
-  "statement": "Growth needs recovery built in. Rest isn't a reward you earn later, it's part of the work.",
-  "explainer": "Stress stacks up quietly. If recovery doesn't keep pace, you start making sloppy calls, snapping at people, and dreading the work. That's burnout showing up early.",
+  "hook": "Pushing harder, getting less done. Not lazy. Cooked.",
+  "statement": "Rest isn't the reward. It's part of the work.",
+  "explainer": "When recovery lags stress, sloppy calls and dread show up. That's early burnout.",
   "sop": [
-    "Rate your Stress and your Recovery from 1 to 10 right now.",
-    "Put recovery time on your calendar like a client call.",
-    "Pick one recovery habit, like sleep or a day off, and guard it for 2 weeks.",
-    "Watch for early signs each week: irritability, mistakes, dread.",
-    "If Stress ÷ Recovery stays above 1 for a few days, change something."
+    "Rate Stress and Recovery 1 to 10.",
+    "Calendar recovery like a client call.",
+    "Guard one recovery habit for 2 weeks."
   ],
-  "equation_example": "Stress 8, Recovery 3. 8 ÷ 3 = 2.67. Anything above 1 means stress is outrunning recovery and burnout is coming. Flip it, Stress 4 and Recovery 8, and you get 0.5. That's a load you can carry.",
-  "question": "Write down one recovery habit you keep treating as optional, and when you'll do it this week.",
-  "closing_statement": "Recovery isn't the reward for growth. It's part of the fuel.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 139: Recovery Systems\n\nI kept pushing harder and getting less done. Turns out I wasn't lazy, I was cooked.\n\nGrowth needs recovery built in. Rest isn't a reward you earn later, it's part of the work.\n\nYour turn: Write down one recovery habit you keep treating as optional, and when you'll do it this week.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Stress 8 ÷ Recovery 3 = 2.67. Above 1, burnout is coming. Aim under 1.",
+  "question": "Write down one recovery habit and when you'll do it.",
+  "closing_statement": "Recovery isn't the reward. It's the fuel.",
+  "gfx": {
+    "hook": "falling_chart",
+    "statement": "scale",
+    "explainer": "lightning",
+    "question": "pen",
+    "closing": "rocket"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 139: Recovery Systems\n\nPushing harder, getting less done. Not lazy. Cooked.\n\nRest isn't the reward. It's part of the work.\n\nYour turn: Write down one recovery habit and when you'll do it.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

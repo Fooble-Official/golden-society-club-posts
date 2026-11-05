@@ -5,18 +5,23 @@
   "title": "Identity Systems",
   "cta": "os_plus_follow",
   "equation": "Action Consistency = Identity × Belief",
-  "hook": "If you still see yourself as someone who's bad at sales, you'll keep finding ways to avoid selling.",
+  "hook": "Think you're bad at sales and you'll keep dodging selling. Every time.",
   "statement": "You act like the person you believe you are.",
-  "explainer": "Your actions follow your self-image. If who you say you are and what you actually believe don't line up, your habits default to the old version every time.",
+  "explainer": "Actions follow self-image. Claim it without believing it and habits snap back.",
   "sop": [
-    "Write one sentence on the identity you want, like 'I ship every day.'",
-    "Score your Identity clarity and Belief strength 1 to 10.",
-    "List 3 recent actions that went against that identity.",
-    "Fix one this week by acting like that person.",
-    "Repeat the aligned action daily until it's automatic."
+    "Write your target identity in one line.",
+    "Score Identity and Belief 1 to 10.",
+    "Act like that person once today."
   ],
-  "equation_example": "Identity 8, Belief 7. 8 × 7 = 56 out of 100. Higher means your actions will match who you say you are. Lower means there's a gap between what you claim and what you believe, so your actions drift elsewhere.",
-  "question": "Write one sentence about who you want to be in business and one action that proves it.",
-  "closing_statement": "Identity isn't declared once. It's proven by repetition.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 136: Identity Systems\n\nIf you still see yourself as someone who's bad at sales, you'll keep finding ways to avoid selling.\n\nYou act like the person you believe you are.\n\nYour turn: Write one sentence about who you want to be in business and one action that proves it.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Identity 8 × Belief 7 = 56. A gap between claim and belief, so actions drift.",
+  "question": "Write one action that proves who you're becoming.",
+  "closing_statement": "Identity is proven by repetition.",
+  "gfx": {
+    "hook": "presenter",
+    "statement": "star",
+    "explainer": "boulder_hill",
+    "question": "pen",
+    "closing": "loop"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 136: Identity Systems\n\nThink you're bad at sales and you'll keep dodging selling. Every time.\n\nYou act like the person you believe you are.\n\nYour turn: Write one action that proves who you're becoming.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }
