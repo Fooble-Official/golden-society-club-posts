@@ -5,18 +5,23 @@
   "title": "Quality Compounding",
   "cta": "os_plus_follow",
   "equation": "Opportunity = Quality × Visibility",
-  "hook": "Every great client I've landed came from work I was genuinely proud of. None came from good enough.",
-  "statement": "Better work attracts better opportunities. But only when the right people can actually see it.",
-  "explainer": "Excellent work nobody sees doesn't bring opportunity. Visible work that's just okay doesn't either. You need both, and quality is the part you control first.",
+  "hook": "My best clients came from proud work. Never from good enough.",
+  "statement": "Better work draws better opportunities, if people see it.",
+  "explainer": "Great work nobody sees goes nowhere. Quality first, then get it seen.",
   "sop": [
-    "List the last 5 things you shipped or delivered.",
-    "Rate the Quality of each, 1 to 10, against your own best.",
-    "For anything under 8, name the corner you cut.",
-    "Rate your Visibility from 1 to 10. Who actually sees your best work?",
-    "Raise the floor on one recurring deliverable and show it off."
+    "Rate your last 5 deliverables' Quality.",
+    "Anything under 8, name the shortcut.",
+    "Score Visibility. Then show your best work."
   ],
-  "equation_example": "Quality 9, Visibility 4. 9 × 4 = 36. Great work, but hardly anyone sees it. Higher means excellent work is reaching people who can act on it. Lower means it isn't excellent yet, or it's hidden.",
-  "question": "Name one thing you've been letting slide as good enough that should be excellent.",
-  "closing_statement": "Opportunity finds the standard, not the hustle.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 176: Quality Compounding\n\nEvery great client I've landed came from work I was genuinely proud of. None came from good enough.\n\nBetter work attracts better opportunities. But only when the right people can actually see it.\n\nYour turn: Name one thing you've been letting slide as good enough that should be excellent.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Quality 9 × Visibility 4 = 36. Great work, and almost nobody sees it.",
+  "question": "Name one good enough thing that should be excellent.",
+  "closing_statement": "Opportunity follows the standard, not the grind.",
+  "gfx": {
+    "hook": "star",
+    "statement": "magnet",
+    "explainer": "eye",
+    "question": "pen",
+    "closing": "crown"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 176: Quality Compounding\n\nMy best clients came from proud work. Never from good enough.\n\nBetter work draws better opportunities, if people see it.\n\nYour turn: Name one good enough thing that should be excellent.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

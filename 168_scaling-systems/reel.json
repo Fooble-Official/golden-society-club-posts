@@ -5,18 +5,23 @@
   "title": "Scaling Systems",
   "cta": "os_plus_follow",
   "equation": "Scalability = Output ÷ Effort",
-  "hook": "Ten clients was fine. Twenty almost broke me. Same business, just more of it.",
-  "statement": "Your systems either scale as you grow or they break. Build them before volume forces you to.",
-  "explainer": "If every new customer needs more of your personal time, growth just means more hours. Scalable systems let you serve more without working proportionally more.",
+  "hook": "Ten clients was fine. Twenty nearly broke me. Same business.",
+  "statement": "Build systems that scale before volume forces it.",
+  "explainer": "If every customer needs more of you, growth just means more hours.",
   "sop": [
-    "List your core processes: fulfillment, onboarding, support, hiring, invoicing.",
-    "For each, ask if your Effort rises one for one with Output.",
-    "Flag every process where your personal time is the limit.",
-    "Rebuild the flagged ones as templates, tools, or delegated workflows.",
-    "Test on paper at 2x volume and note where it strains."
+    "List your core processes.",
+    "Flag where Effort rises with Output.",
+    "Rebuild those as templates, tools, or delegation."
   ],
-  "equation_example": "Output 100 customers, Effort 40 of your hours. 100 ÷ 40 = 2.5 customers per hour. Higher means each hour supports more as you grow. Lower means growth just eats more of your time.",
-  "question": "Name one process that would break if you had ten times the customers next month.",
-  "closing_statement": "Build so growth outpaces your own effort.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 168: Scaling Systems\n\nTen clients was fine. Twenty almost broke me. Same business, just more of it.\n\nYour systems either scale as you grow or they break. Build them before volume forces you to.\n\nYour turn: Name one process that would break if you had ten times the customers next month.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Output 100 customers ÷ Effort 40 hours = 2.5 per hour. Push that number up.",
+  "question": "Name what breaks at ten times the customers.",
+  "closing_statement": "Growth should outpace your effort.",
+  "gfx": {
+    "hook": "people",
+    "statement": "gears",
+    "explainer": "clock",
+    "question": "lightning",
+    "closing": "rocket"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 168: Scaling Systems\n\nTen clients was fine. Twenty nearly broke me. Same business.\n\nBuild systems that scale before volume forces it.\n\nYour turn: Name what breaks at ten times the customers.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

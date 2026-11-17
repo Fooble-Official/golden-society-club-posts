@@ -5,18 +5,23 @@
   "title": "Time Leverage",
   "cta": "os_plus_follow",
   "equation": "Leverage = Output ÷ Time",
-  "hook": "When I stop working, my income stops. That's the real problem I'm trying to solve.",
-  "statement": "Your time has to multiply. Build things that keep producing after you've done the work once.",
-  "explainer": "Trading hours one for one caps your income at your calendar. Recorded videos, templates, and documented processes keep working while you're doing something else.",
+  "hook": "When I stop working, my income stops. That's the real problem.",
+  "statement": "Build work that keeps paying after you're done.",
+  "explainer": "Trading hours one for one caps you at your calendar. Templates don't sleep.",
   "sop": [
-    "Track a week of hours and tag each as one-for-one or leveraged.",
-    "Cut or delegate the lowest value one-for-one tasks first.",
-    "Turn one recurring task into a video, template, or written process.",
-    "Divide Output by Time on your biggest deliverable and fix the worst ratio.",
-    "Reuse old work instead of starting from scratch."
+    "Tag every hour: manual or leveraged.",
+    "Delegate the lowest value manual tasks.",
+    "Turn one repeat task into a template."
   ],
-  "equation_example": "Output $8,000, Time 20 hours. $8,000 ÷ 20 = 400, so $400 per hour. Higher means your time produces more without adding hours. Lower means output only grows if your hours do.",
-  "question": "Name one task you do by hand every time that could become a template or recording.",
-  "closing_statement": "Make your hours produce after you've stopped working.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 182: Time Leverage\n\nWhen I stop working, my income stops. That's the real problem I'm trying to solve.\n\nYour time has to multiply. Build things that keep producing after you've done the work once.\n\nYour turn: Name one task you do by hand every time that could become a template or recording.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Output $8,000 ÷ Time 20 hours = $400 an hour. Raise it without adding hours.",
+  "question": "Name one task you could record once and reuse.",
+  "closing_statement": "Your hours should outwork you.",
+  "gfx": {
+    "hook": "clock",
+    "statement": "coins",
+    "explainer": "calendar",
+    "question": "laptop_person",
+    "closing": "gears"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 182: Time Leverage\n\nWhen I stop working, my income stops. That's the real problem.\n\nBuild work that keeps paying after you're done.\n\nYour turn: Name one task you could record once and reuse.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

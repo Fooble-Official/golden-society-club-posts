@@ -5,18 +5,23 @@
   "title": "Structural Freedom",
   "cta": "os_plus_follow",
   "equation": "Freedom = Automation × Alignment × Ownership",
-  "hook": "I kept thinking freedom would come once I worked hard enough. It came when I changed the structure.",
-  "statement": "Freedom is designed, not earned. Build a structure that runs without you instead of grinding for it.",
-  "explainer": "Hustle doesn't buy freedom, it buys more hustle. Automated tasks, a setup that fits your goals, and assets you own are what actually free up your time.",
+  "hook": "Freedom never came from working harder. It came from changing the structure.",
+  "statement": "Freedom is designed, not earned. Build the structure.",
+  "explainer": "Grinding buys more grinding. Automation, alignment, and ownership buy back time.",
   "sop": [
-    "List everything that needs you personally to function.",
-    "Rate Automation, Alignment, and Ownership from 1 to 10 each.",
-    "Pick the lowest score and design one fix: a system, a hire, a contract change.",
-    "Hold that boundary next time a shortcut tempts you.",
-    "Re-score every quarter. Structure decays without upkeep."
+    "List everything that needs you personally.",
+    "Score Automation, Alignment, Ownership 1 to 10.",
+    "Fix the lowest. System, hire, or contract."
   ],
-  "equation_example": "Automation 6 × Alignment 8 × Ownership 7 = 336. Higher means your setup creates freedom without your constant input. Lower means everything still depends on you showing up.",
-  "question": "Write down one structural change that would give you the freedom you're chasing through effort.",
-  "closing_statement": "Design the structure instead of just working harder.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 179: Structural Freedom\n\nI kept thinking freedom would come once I worked hard enough. It came when I changed the structure.\n\nFreedom is designed, not earned. Build a structure that runs without you instead of grinding for it.\n\nYour turn: Write down one structural change that would give you the freedom you're chasing through effort.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Automation 6 × Alignment 8 × Ownership 7 = 336. Less of it depends on you.",
+  "question": "Write one structural change that beats more effort.",
+  "closing_statement": "Redesign the structure. Stop outworking it.",
+  "gfx": {
+    "hook": "boulder_hill",
+    "statement": "gears",
+    "explainer": "clock",
+    "question": "pen",
+    "closing": "rocket"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 179: Structural Freedom\n\nFreedom never came from working harder. It came from changing the structure.\n\nFreedom is designed, not earned. Build the structure.\n\nYour turn: Write one structural change that beats more effort.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

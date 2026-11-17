@@ -5,18 +5,23 @@
   "title": "Ecosystem Building",
   "cta": "os_plus_follow",
   "equation": "Moat = Ecosystem Depth",
-  "hook": "Anyone can copy a product. Copying your whole world is a lot harder.",
-  "statement": "Build a world around your product, not just the product. Connected pieces make you harder to leave.",
-  "explainer": "A single offer is easy to clone. Product plus content plus community plus support means a competitor has to rebuild everything. That's a real moat.",
+  "hook": "Anyone can copy a product. Copying your whole world is harder.",
+  "statement": "Build a world around your product, not just a product.",
+  "explainer": "One offer is easy to clone. An interlocking ecosystem is a moat.",
   "sop": [
-    "List every product, service, and touchpoint you offer.",
-    "Map which ones support each other and which stand alone.",
-    "Pick one new piece that would make your core offer harder to leave.",
-    "Count your Ecosystem Depth: how many pieces actually interlock.",
-    "Connect two existing offers this quarter."
+    "List every product and touchpoint.",
+    "Map which ones support each other.",
+    "Connect two offers this quarter."
   ],
-  "equation_example": "Product, content, community, marketplace, support. That's 5 connected pieces, so Ecosystem Depth 5 gives a Moat score of 5. Higher means competitors have to rebuild your whole system. Lower means you're one easily copied offer.",
-  "question": "Write down one piece you could add that would make your product harder to leave.",
-  "closing_statement": "Make competitors rebuild a world, not one product.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 177: Ecosystem Building\n\nAnyone can copy a product. Copying your whole world is a lot harder.\n\nBuild a world around your product, not just the product. Connected pieces make you harder to leave.\n\nYour turn: Write down one piece you could add that would make your product harder to leave.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Product, content, community, marketplace, support. 5 pieces, Ecosystem Depth 5, Moat 5.",
+  "question": "Write one piece that makes leaving you harder.",
+  "closing_statement": "Make competitors rebuild a world.",
+  "gfx": {
+    "hook": "network",
+    "statement": "gears",
+    "explainer": "castle_moat",
+    "question": "pen",
+    "closing": "mountain_flag"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 177: Ecosystem Building\n\nAnyone can copy a product. Copying your whole world is harder.\n\nBuild a world around your product, not just a product.\n\nYour turn: Write one piece that makes leaving you harder.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

@@ -6,17 +6,22 @@
   "cta": "os_plus_follow",
   "equation": "Net Worth = Assets - Liabilities",
   "hook": "A paycheck gets spent. Ownership keeps growing while you sleep.",
-  "statement": "Ownership compounds, labor doesn't. Owning assets builds wealth that cash income alone never will.",
-  "explainer": "Cash gets spent and it's gone. Equity in your business, property, or investments keeps growing. If none of your income turns into ownership, you're running in place.",
+  "statement": "Ownership compounds. Labor doesn't. Own assets.",
+  "explainer": "Cash disappears. If none of it becomes equity, you're running in place.",
   "sop": [
-    "List your income sources and mark each as cash or equity.",
-    "Figure out what share of this month's income went into owning things.",
-    "Add up your Assets and Liabilities for a real net worth number.",
-    "Redirect one recurring cash expense into an equity move next month.",
-    "Review quarterly to see if your equity is actually growing."
+    "Mark each income source cash or equity.",
+    "Add up Assets and Liabilities.",
+    "Move one cash expense into equity."
   ],
-  "equation_example": "Assets $150,000, Liabilities $40,000. $150,000 minus $40,000 = $110,000 net worth. Rising means you're building wealth that compounds. Flat or falling means income is getting spent as fast as it comes in.",
-  "question": "Write down your net worth today. Real numbers, not a guess.",
-  "closing_statement": "Own things that grow, not just money that gets spent.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 172: Equity vs Cash\n\nA paycheck gets spent. Ownership keeps growing while you sleep.\n\nOwnership compounds, labor doesn't. Owning assets builds wealth that cash income alone never will.\n\nYour turn: Write down your net worth today. Real numbers, not a guess.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Assets $150,000 minus Liabilities $40,000 = $110,000 Net Worth. Watch it rise.",
+  "question": "Write your net worth today. Real numbers.",
+  "closing_statement": "Own what grows, not just what spends.",
+  "gfx": {
+    "hook": "coins",
+    "statement": "seedling",
+    "explainer": "bucket_leak",
+    "question": "magnifier",
+    "closing": "crown"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 172: Equity vs Cash\n\nA paycheck gets spent. Ownership keeps growing while you sleep.\n\nOwnership compounds. Labor doesn't. Own assets.\n\nYour turn: Write your net worth today. Real numbers.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

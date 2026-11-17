@@ -5,18 +5,23 @@
   "title": "Brand as Asset",
   "cta": "os_plus_follow",
   "equation": "Equity = Recognition × Trust × Consistency",
-  "hook": "People happily pay more for brands they trust. Your brand isn't the logo, it's that trust.",
-  "statement": "A strong brand builds trust over time, and trust is what keeps the sales coming.",
-  "explainer": "When people recognize and trust you, you don't have to compete on price. That's brand equity, and every inconsistent move or shortcut chips away at it.",
+  "hook": "Your brand isn't the logo. It's the trust people pay extra for.",
+  "statement": "Trust is the brand. Trust keeps the sales coming.",
+  "explainer": "Trusted brands skip the price war. Every shortcut chips away at that.",
   "sop": [
-    "Write the one thing you want to be instantly known for.",
-    "Check your last 10 posts, emails, or calls for consistency with it.",
-    "Rate Recognition, Trust, and Consistency from 1 to 10 using real customer feedback.",
-    "Fix the lowest score first.",
-    "Stay consistent even when a shortcut would pay more this month."
+    "Name the one thing you're known for.",
+    "Score Recognition, Trust, Consistency 1 to 10.",
+    "Fix the lowest score first."
   ],
-  "equation_example": "Recognition 7 × Trust 8 × Consistency 6 = 336. Higher means your brand sells for you and supports premium pricing. Lower means you're competing on price alone.",
-  "question": "Name one place you've been cutting brand corners for a quick win.",
+  "equation_example": "Recognition 7 × Trust 8 × Consistency 6 = 336. Your brand starts selling for you.",
+  "question": "Name where you've cut brand corners lately.",
   "closing_statement": "Trust builds slow and breaks fast. Guard it.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 173: Brand as Asset\n\nPeople happily pay more for brands they trust. Your brand isn't the logo, it's that trust.\n\nA strong brand builds trust over time, and trust is what keeps the sales coming.\n\nYour turn: Name one place you've been cutting brand corners for a quick win.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "gfx": {
+    "hook": "star",
+    "statement": "handshake_deal",
+    "explainer": "shield",
+    "question": "pen",
+    "closing": "castle_moat"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 173: Brand as Asset\n\nYour brand isn't the logo. It's the trust people pay extra for.\n\nTrust is the brand. Trust keeps the sales coming.\n\nYour turn: Name where you've cut brand corners lately.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

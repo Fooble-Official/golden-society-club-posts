@@ -5,18 +5,23 @@
   "title": "System Constraints Awareness",
   "cta": "os_plus_follow",
   "equation": "Output = Min(Limits)",
-  "hook": "We doubled our leads and revenue didn't move. Onboarding was the real limit the whole time.",
-  "statement": "Know your limits. Your total output can only be as big as your slowest step.",
-  "explainer": "Pouring money into the parts that already work does nothing if one step can't keep up. Find the slowest step, and that's where every improvement should go.",
+  "hook": "Leads doubled. Revenue didn't budge. Onboarding was the ceiling all along.",
+  "statement": "Your output is capped by your slowest step.",
+  "explainer": "Money poured into what already works does nothing. Fund the slowest step.",
   "sop": [
-    "Map your business from lead to delivered result.",
-    "Write each step's capacity, how many units it handles per day.",
-    "Find the lowest number. That's your real limit.",
-    "Put this month's whole improvement budget into that one step.",
-    "Once it improves, re-map. The limit has probably moved."
+    "Map lead to delivered result.",
+    "Write each step's daily capacity.",
+    "Pour this month's budget into the lowest."
   ],
-  "equation_example": "Sales makes 50 leads a day, Onboarding handles 20, Fulfillment ships 35. Output is the smallest of those Limits, so 20 a day. Higher means your weakest step is getting stronger. Lower means one step is dragging everything down.",
-  "question": "Write each step's daily capacity and circle the smallest number.",
-  "closing_statement": "Your weakest link sets your true ceiling.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 167: System Constraints Awareness\n\nWe doubled our leads and revenue didn't move. Onboarding was the real limit the whole time.\n\nKnow your limits. Your total output can only be as big as your slowest step.\n\nYour turn: Write each step's daily capacity and circle the smallest number.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Limits: Sales 50, Onboarding 20, Fulfillment 35 a day. Output is the minimum, 20.",
+  "question": "Write each step's daily capacity. Circle the smallest.",
+  "closing_statement": "Your weakest step is your real ceiling.",
+  "gfx": {
+    "hook": "funnel",
+    "statement": "chain",
+    "explainer": "coins",
+    "question": "magnifier",
+    "closing": "bars_up"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 167: System Constraints Awareness\n\nLeads doubled. Revenue didn't budge. Onboarding was the ceiling all along.\n\nYour output is capped by your slowest step.\n\nYour turn: Write each step's daily capacity. Circle the smallest.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

@@ -5,18 +5,23 @@
   "title": "Systemic Trust",
   "cta": "os_plus_follow",
   "equation": "Trust = Consistency × Time × Integrity",
-  "hook": "That pushy upsell might win you this month. The lost trust costs you the next five years.",
-  "statement": "Long-term trust beats squeezing customers for short-term money. Every time.",
-  "explainer": "Trust turns into referrals and repeat business. Break it once and every future sale has to be earned again from scratch.",
+  "hook": "That pushy upsell wins this month. The lost trust costs five years.",
+  "statement": "Long-term trust beats short-term squeezing. Every time.",
+  "explainer": "Trust becomes referrals and repeat sales. Break it once, re-earn everything.",
   "sop": [
-    "Write down every promise your business makes, spoken or implied.",
-    "Look back 90 days for any time you cut a corner on one.",
-    "Rate your Consistency and Integrity honestly, 1 to 10 each.",
-    "Write your standards down so trust doesn't depend on mood.",
-    "Turn down one short-term grab this month, even if it's easier."
+    "List every promise your business makes.",
+    "Score Consistency and Integrity 1 to 10.",
+    "Turn down one short-term grab."
   ],
-  "equation_example": "Consistency 8, Time 3 years with the customer, Integrity 9. 8 × 3 × 9 = 216. Higher means trust is compounding into referrals and repeat sales. Lower means every sale starts from zero.",
-  "question": "Write down one place you're tempted to squeeze a customer for a short-term win.",
-  "closing_statement": "Every shortcut taken today is remembered tomorrow.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 175: Systemic Trust\n\nThat pushy upsell might win you this month. The lost trust costs you the next five years.\n\nLong-term trust beats squeezing customers for short-term money. Every time.\n\nYour turn: Write down one place you're tempted to squeeze a customer for a short-term win.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Consistency 8 × Time 3 years × Integrity 9 = 216. That's trust compounding into referrals.",
+  "question": "Write where you're tempted to squeeze a customer.",
+  "closing_statement": "Customers remember every shortcut.",
+  "gfx": {
+    "hook": "coins",
+    "statement": "handshake_deal",
+    "explainer": "heart",
+    "question": "pen",
+    "closing": "people"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 175: Systemic Trust\n\nThat pushy upsell wins this month. The lost trust costs five years.\n\nLong-term trust beats short-term squeezing. Every time.\n\nYour turn: Write where you're tempted to squeeze a customer.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

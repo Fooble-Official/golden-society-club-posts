@@ -5,18 +5,23 @@
   "title": "Behavioral Anchors",
   "cta": "os_plus_follow",
   "equation": "Consistency = Trigger × Repetition",
-  "hook": "Willpower never got me to journal. Doing it right after my first coffee did.",
-  "statement": "Tie new habits to things you already do every day. The trigger does the remembering for you.",
-  "explainer": "Motivation comes and goes. An existing routine shows up every day no matter what. Hook the new habit onto it and it starts running on autopilot.",
+  "hook": "Willpower never got me journaling. My first coffee did.",
+  "statement": "Tie new habits to things you already do.",
+  "explainer": "Motivation flakes. Routines show up daily. Hook the habit on and it runs itself.",
   "sop": [
-    "List 3 habits you keep failing to stick to.",
-    "For each, pick a daily action that already happens like clockwork.",
-    "Do the new habit right after that Trigger, same time and place.",
-    "Rate each Trigger from 1 to 10 and count your Repetition for 14 days.",
-    "Once it's automatic, stack the next habit on top."
+    "Pick a habit that keeps slipping.",
+    "Attach it to an existing daily Trigger.",
+    "Rate the Trigger and count Repetition."
   ],
-  "equation_example": "Trigger reliability 8, Repetition 6 times this week. 8 × 6 = 48. Higher means the habit is turning automatic. Lower means the anchor is weak or you're skipping too often.",
-  "question": "Pick one thing you do every morning without thinking and attach a new habit to it.",
-  "closing_statement": "Automatic beats motivated, every single time.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 166: Behavioral Anchors\n\nWillpower never got me to journal. Doing it right after my first coffee did.\n\nTie new habits to things you already do every day. The trigger does the remembering for you.\n\nYour turn: Pick one thing you do every morning without thinking and attach a new habit to it.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Trigger 8 × Repetition 6 this week = 48. The habit is turning automatic.",
+  "question": "Pick one morning autopilot move. Attach a new habit.",
+  "closing_statement": "Automatic beats motivated. Every single time.",
+  "gfx": {
+    "hook": "pen",
+    "statement": "chain",
+    "explainer": "loop",
+    "question": "calendar",
+    "closing": "trophy"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 166: Behavioral Anchors\n\nWillpower never got me journaling. My first coffee did.\n\nTie new habits to things you already do.\n\nYour turn: Pick one morning autopilot move. Attach a new habit.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

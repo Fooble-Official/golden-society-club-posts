@@ -5,18 +5,23 @@
   "title": "Network Effects",
   "cta": "os_plus_follow",
   "equation": "Value = f(Users^2)",
-  "hook": "The best products get better every time someone new joins. Most products don't.",
-  "statement": "With a network effect, every new user makes the product more valuable for everyone else.",
-  "explainer": "That's one of the strongest moats there is. Once people stay because other people are there, leaving means losing the network, not just switching tools.",
+  "hook": "The best products get better every time someone joins. Most don't.",
+  "statement": "Every new user makes it more valuable for everyone.",
+  "explainer": "People stay because others are there. Leaving costs the network. That's a moat.",
   "sop": [
-    "Name what a new user adds for everyone else: content, connections, data.",
-    "Ask if the product is truly worse with 10 Users than with 1,000.",
-    "Build one feature that shows other users' activity to new ones.",
-    "Count your active Users and rate how much each new one adds, 1 to 10.",
-    "Protect early users' experience while you chase growth."
+    "Name what each new user adds.",
+    "Show new users what others are doing.",
+    "Protect early users while you grow."
   ],
-  "equation_example": "Value grows roughly with Users squared. 10 users: 10 × 10 = 100. 100 users: 100 × 100 = 10,000. Growing faster than a straight line means a real network effect. A straight line means you just have more users.",
-  "question": "Write down what one new user gives every other user in your product. If it's nothing, write that.",
-  "closing_statement": "Design for what users give each other, not you.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 174: Network Effects\n\nThe best products get better every time someone new joins. Most products don't.\n\nWith a network effect, every new user makes the product more valuable for everyone else.\n\nYour turn: Write down what one new user gives every other user in your product. If it's nothing, write that.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "10 Users squared = 100. 100 Users squared = 10,000. Faster than a straight line.",
+  "question": "Write what one new user gives every other user.",
+  "closing_statement": "Design for what users give each other.",
+  "gfx": {
+    "hook": "network",
+    "statement": "people",
+    "explainer": "castle_moat",
+    "question": "pen",
+    "closing": "handshake_deal"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 174: Network Effects\n\nThe best products get better every time someone joins. Most don't.\n\nEvery new user makes it more valuable for everyone.\n\nYour turn: Write what one new user gives every other user.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

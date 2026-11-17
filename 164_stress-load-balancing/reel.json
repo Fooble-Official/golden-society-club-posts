@@ -5,18 +5,23 @@
   "title": "Stress Load Balancing",
   "cta": "os_plus_follow",
   "equation": "Strain Ratio = Stress ÷ Recovery (aim < 1.0)",
-  "hook": "Stress isn't the problem. Stress with no recovery to match it is.",
-  "statement": "Too much stress without enough recovery breaks the whole system. Watch the ratio, not just the load.",
-  "explainer": "You can handle a lot when you're recovering well. The same load with no sleep or downtime will flatten you. It's the balance between the two that matters.",
+  "hook": "Stress isn't the problem. Stress with zero recovery is.",
+  "statement": "Watch the ratio of stress to recovery, not the load.",
+  "explainer": "Recover well and you can carry a lot. Skip recovery and you flatten.",
   "sop": [
-    "Rate your total Stress from 1 to 10 across work, health, and life.",
-    "Rate your real Recovery from 1 to 10: sleep, rest, downtime.",
-    "Divide Stress by Recovery to get your Strain Ratio.",
-    "If it's above 1, cut one stressor or add one recovery habit.",
-    "Re-check weekly. Your load shifts fast."
+    "Score Stress 1 to 10, everything included.",
+    "Score real Recovery 1 to 10.",
+    "Above 1, cut stress or add rest."
   ],
-  "equation_example": "Stress 8, Recovery 3. 8 ÷ 3 = 2.67. Above 1 means stress is winning and burnout's coming. Stress 4 with Recovery 8 gives 0.5. Below 1 means recovery keeps up and the load is sustainable.",
-  "question": "Rate your stress and recovery right now, divide them, and write down the number.",
-  "closing_statement": "It's the ratio that breaks you, not the total.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 164: Stress Load Balancing\n\nStress isn't the problem. Stress with no recovery to match it is.\n\nToo much stress without enough recovery breaks the whole system. Watch the ratio, not just the load.\n\nYour turn: Rate your stress and recovery right now, divide them, and write down the number.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Stress 8 ÷ Recovery 3 = 2.67. Burnout's coming. Stress 4 ÷ Recovery 8 = 0.5. Sustainable.",
+  "question": "Divide your stress by your recovery. Write the number.",
+  "closing_statement": "The ratio breaks you, not the load.",
+  "gfx": {
+    "hook": "lightning",
+    "statement": "scale",
+    "explainer": "boulder_hill",
+    "question": "pen",
+    "closing": "falling_chart"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 164: Stress Load Balancing\n\nStress isn't the problem. Stress with zero recovery is.\n\nWatch the ratio of stress to recovery, not the load.\n\nYour turn: Divide your stress by your recovery. Write the number.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

@@ -5,18 +5,23 @@
   "title": "Future Self Alignment",
   "cta": "os_plus_follow",
   "equation": "Alignment = Actions Serving Future Self ÷ Total Actions Today",
-  "hook": "Most of my day was spent keeping present me comfortable. Future me was getting nothing.",
-  "statement": "Design your days for the person you want to become, not just for how you feel today.",
-  "explainer": "Five years from now gets built out of what you do today. If most of your actions serve comfort, that's the future you're building.",
+  "hook": "Most of my day kept present me comfortable. Future me got nothing.",
+  "statement": "Design today for who you're becoming, not how you feel.",
+  "explainer": "Your five-year future gets built today. Mostly comfort builds mostly nothing.",
   "sop": [
-    "Write a short, specific description of who you want to be in 5 years.",
-    "List today's key actions. Mark each as future self or just comfort.",
-    "Divide Actions Serving Future Self by Total Actions Today.",
-    "Swap one comfort action this week for one that builds the future.",
-    "Update the description each quarter as you change."
+    "Describe your five-years-from-now self.",
+    "Mark today's actions: future or comfort.",
+    "Swap one comfort action this week."
   ],
-  "equation_example": "4 Actions Serving Future Self out of 10 Total Actions Today. 4 ÷ 10 = 40%. Higher means today is building who you want to be. Lower means today mostly serves short-term comfort.",
-  "question": "Write down one thing you did today that your five-years-from-now self would thank you for.",
-  "closing_statement": "Today either builds your future self or delays them.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 162: Future Self Alignment\n\nMost of my day was spent keeping present me comfortable. Future me was getting nothing.\n\nDesign your days for the person you want to become, not just for how you feel today.\n\nYour turn: Write down one thing you did today that your five-years-from-now self would thank you for.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Actions Serving Future Self 4 ÷ Total Actions Today 10 = 40%. Comfort won today.",
+  "question": "Write down today's one move future you will thank.",
+  "closing_statement": "Today builds your future self or delays them.",
+  "gfx": {
+    "hook": "fork_road",
+    "statement": "climber",
+    "explainer": "stairs",
+    "question": "pen",
+    "closing": "mountain_flag"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 162: Future Self Alignment\n\nMost of my day kept present me comfortable. Future me got nothing.\n\nDesign today for who you're becoming, not how you feel.\n\nYour turn: Write down today's one move future you will thank.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

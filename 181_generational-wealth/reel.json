@@ -5,18 +5,23 @@
   "title": "Generational Wealth",
   "cta": "os_plus_follow",
   "equation": "Longevity = Growth - Loss",
-  "hook": "Making money is one skill. Keeping it for decades is a completely different one.",
-  "statement": "Wealth has to survive time, not just get created. Growth only counts after you subtract the losses.",
-  "explainer": "Debt, bad calls, no plan for what happens next. Losses quietly eat your growth. If you lose almost as fast as you grow, nothing gets passed on.",
+  "hook": "Making money is one skill. Keeping it for decades is another.",
+  "statement": "Wealth only counts if it survives time.",
+  "explainer": "Debt, bad calls, no estate plan. Losses quietly eat your growth.",
   "sop": [
-    "List your assets: property, investments, business equity, retirement.",
-    "List what could erode them: debt, no estate plan, no diversification.",
-    "Estimate your yearly Growth % and Loss % honestly.",
-    "Reinvest one income stream into an owned, appreciating asset.",
-    "Set up a basic protection plan this quarter: will, beneficiaries, diversification."
+    "List every asset you own.",
+    "List what's quietly eroding them.",
+    "Estimate yearly Growth % and Loss %."
   ],
-  "equation_example": "Growth 8% a year minus Loss 3% a year = 5% net. Higher means wealth compounds across years and generations. Falling or negative means it's eroding faster than you build it, no matter your income.",
-  "question": "Write down the biggest thing quietly eroding your wealth right now.",
-  "closing_statement": "Build wealth that survives you, not just supports you.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 181: Generational Wealth\n\nMaking money is one skill. Keeping it for decades is a completely different one.\n\nWealth has to survive time, not just get created. Growth only counts after you subtract the losses.\n\nYour turn: Write down the biggest thing quietly eroding your wealth right now.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Growth 8% minus Loss 3% = 5% net. That's what actually compounds for the next generation.",
+  "question": "Write down what's quietly eroding your wealth.",
+  "closing_statement": "Build wealth that outlives you.",
+  "gfx": {
+    "hook": "coins",
+    "statement": "hourglass",
+    "explainer": "falling_chart",
+    "question": "pen",
+    "closing": "crown"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 181: Generational Wealth\n\nMaking money is one skill. Keeping it for decades is another.\n\nWealth only counts if it survives time.\n\nYour turn: Write down what's quietly eroding your wealth.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }

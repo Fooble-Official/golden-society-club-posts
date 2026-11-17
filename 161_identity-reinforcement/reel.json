@@ -5,18 +5,23 @@
   "title": "Identity Reinforcement",
   "cta": "os_plus_follow",
   "equation": "Identity Strength = Actions × Consistency",
-  "hook": "I didn't feel like a real founder until I started acting like one every single day.",
-  "statement": "What you do shapes who you think you are, and who you think you are shapes what you do.",
-  "explainer": "Every action is proof of who you're becoming. Repeat it enough and it stops feeling like effort. Say one thing and do another, and the identity falls apart.",
+  "hook": "I didn't feel like a founder until I acted like one daily.",
+  "statement": "Actions shape identity. Identity shapes actions.",
+  "explainer": "Every action is proof. Say one thing, do another, and it cracks.",
   "sop": [
-    "Write the identity you're building in one clear sentence.",
-    "Rate your Actions from 1 to 10. How aligned was today?",
-    "Rate your Consistency from 1 to 10. How many days in a row?",
-    "Pick one small daily action that proves that identity.",
-    "Track the streak somewhere you can see it."
+    "Write the identity in one sentence.",
+    "Score Actions and Consistency 1 to 10.",
+    "Do one daily action that proves it."
   ],
-  "equation_example": "Actions 8, Consistency 9. 8 × 9 = 72 out of 100. Higher means belief and behavior are locking together. Lower means you're saying one thing and doing another, which wears the identity down.",
-  "question": "Write one small action this week that proves the person you're becoming.",
-  "closing_statement": "Identity is a loop you're either feeding or starving.",
-  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 161: Identity Reinforcement\n\nI didn't feel like a real founder until I started acting like one every single day.\n\nWhat you do shapes who you think you are, and who you think you are shapes what you do.\n\nYour turn: Write one small action this week that proves the person you're becoming.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
+  "equation_example": "Actions 8 × Consistency 9 = 72. Belief and behavior are locking together.",
+  "question": "Write one action this week that proves who you're becoming.",
+  "closing_statement": "Feed the identity or starve it.",
+  "gfx": {
+    "hook": "laptop_person",
+    "statement": "loop",
+    "explainer": "scale",
+    "question": "pen",
+    "closing": "seedling"
+  },
+  "caption": "Follow @TheGoldenSocietyClub for a new principle every day.\n\nPrinciple Nº 161: Identity Reinforcement\n\nI didn't feel like a founder until I acted like one daily.\n\nActions shape identity. Identity shapes actions.\n\nYour turn: Write one action this week that proves who you're becoming.\n\nAll 365 principles live in the Principles Digital Journal, with prompts to answer and scores you can work out yourself. Get it at the link in our bio.\n\n#TheGoldenSociety #SoloFounder #Entrepreneur #FounderMindset #BusinessStrategy #BusinessPrinciples"
 }
