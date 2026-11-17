@@ -259,7 +259,8 @@ async function main() {
 
   // Idempotency guard: if we already published this exact order today (e.g.
   // a manual re-trigger on top of the scheduled run), don't publish twice.
-  if (state.last_published_order === state.next_order - 1 &&
+  // (Skipped in CHECK_TRIAL mode, which never publishes.)
+  if (process.env.CHECK_TRIAL !== '1' && state.last_published_order === state.next_order - 1 &&
       state.last_published_at && pacificDate(new Date(state.last_published_at)) === today) {
     console.log(`Order ${state.last_published_order} was already published today (${today}). Skipping to avoid a duplicate post.`);
     return;
