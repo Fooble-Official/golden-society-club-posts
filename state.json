@@ -4,5 +4,7 @@
   "last_published_at": "2026-11-17T20:08:08.789Z",
   "last_published_media_id": "18138917956676845",
   "start_date": "2026-07-25",
-  "paused": false
+  "paused": false,
+  "trial_reels": true,
+  "trial_strategy": "SS_PERFORMANCE"
 }

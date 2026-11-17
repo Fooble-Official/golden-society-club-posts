@@ -324,7 +324,16 @@ async function main() {
   if (isReel) {
     await warmCdn(coverUrl ? [videoUrl, coverUrl] : [videoUrl]);
     // One container for the Reel; shown on the main grid too (share_to_feed).
-    container = await graphPost(IG_USER_ID + '/media', reelParams(state, videoUrl, coverUrl, caption));
+    try {
+      container = await graphPost(IG_USER_ID + '/media', reelParams(state, videoUrl, coverUrl, caption));
+    } catch (err) {
+      // Instagram only allows trial reels once the account has enough followers
+      // (error subcode 2207081, "Trial Reel Not Enough Followers"). Until then,
+      // post a normal reel so no day is skipped; trials start on their own later.
+      if (!state.trial_reels || !String(err.message).includes('2207081')) throw err;
+      console.log('Account not eligible for trial reels yet (not enough followers). Posting as a normal reel instead.');
+      container = await graphPost(IG_USER_ID + '/media', reelParams({ ...state, trial_reels: false }, videoUrl, coverUrl, caption));
+    }
     await waitUntilFinished(container.id, REEL_POLL_TIMEOUT_MS, REEL_POLL_INTERVAL_MS);
   } else {
     await warmCdn(imageUrls);
