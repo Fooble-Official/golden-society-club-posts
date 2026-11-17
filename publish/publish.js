@@ -22,12 +22,19 @@
  *   DRY_RUN=1  - build the carousel payload and log it, but don't call the
  *                publish endpoints and don't advance state.json
  *   CHECK_CREDENTIALS=1 - read-only check that the token works, no publish
+ *   CHECK_TRIAL=1 - create (but never publish) a trial-reel container for the
+ *                next post and report whether Instagram accepts it
+ *
+ * Trial reels: set state.trial_reels = true to post each reel as a Trial Reel
+ * (shown to non-followers first). state.trial_strategy is "SS_PERFORMANCE"
+ * (Instagram shares it to followers automatically if it performs well) or
+ * "MANUAL" (you share it to followers yourself in the app).
  */
 const fs = require('fs');
 const path = require('path');
 const { execFileSync } = require('child_process');
 
-const GRAPH_VERSION = 'v23.0';
+const GRAPH_VERSION = 'v27.0';
 const GRAPH_BASE = `https://graph.instagram.com/${GRAPH_VERSION}`;
 const REPO = 'Fooble-Official/golden-society-club-posts';
 const BRANCH = 'main';
@@ -127,6 +134,20 @@ async function warmCdn(urls) {
       await sleep(3000 * attempt);
     }
   }
+}
+
+// Reel container settings. Trial reels go to non-followers first; they can't
+// also be pushed to the main feed at creation time, so share_to_feed is only
+// set for regular reels.
+function reelParams(state, videoUrl, coverUrl, caption) {
+  const params = { media_type: 'REELS', video_url: videoUrl, caption };
+  if (state.trial_reels) {
+    params.trial_params = JSON.stringify({ graduation_strategy: state.trial_strategy || 'SS_PERFORMANCE' });
+  } else {
+    params.share_to_feed = 'true';
+  }
+  if (coverUrl) params.cover_url = coverUrl;
+  return params;
 }
 
 // The cron fires hourly (UTC, fixed); this returns the actual current hour
@@ -263,6 +284,18 @@ async function main() {
 
   if (DRY_RUN) {
     console.log('DRY_RUN set — not calling the Graph API, not advancing state.json.');
+    if (isReel) console.log('Reel params:', reelParams(state, videoUrl, coverUrl, '(caption)'));
+    return;
+  }
+
+  // Test mode: prove Instagram accepts a trial reel for this account, without
+  // publishing anything (an unpublished container simply expires in 24h).
+  if (process.env.CHECK_TRIAL === '1') {
+    if (!isReel) throw new Error('CHECK_TRIAL needs a post with reel.mp4');
+    await warmCdn(coverUrl ? [videoUrl, coverUrl] : [videoUrl]);
+    const trial = await graphPost(IG_USER_ID + '/media', reelParams({ ...state, trial_reels: true }, videoUrl, coverUrl, caption));
+    await waitUntilFinished(trial.id, REEL_POLL_TIMEOUT_MS, REEL_POLL_INTERVAL_MS);
+    console.log(`Trial reel check OK: container ${trial.id} reached FINISHED. Nothing was published; state.json untouched.`);
     return;
   }
 
@@ -290,9 +323,7 @@ async function main() {
   if (isReel) {
     await warmCdn(coverUrl ? [videoUrl, coverUrl] : [videoUrl]);
     // One container for the Reel; shown on the main grid too (share_to_feed).
-    const params = { media_type: 'REELS', video_url: videoUrl, caption, share_to_feed: 'true' };
-    if (coverUrl) params.cover_url = coverUrl;
-    container = await graphPost(IG_USER_ID + '/media', params);
+    container = await graphPost(IG_USER_ID + '/media', reelParams(state, videoUrl, coverUrl, caption));
     await waitUntilFinished(container.id, REEL_POLL_TIMEOUT_MS, REEL_POLL_INTERVAL_MS);
   } else {
     await warmCdn(imageUrls);

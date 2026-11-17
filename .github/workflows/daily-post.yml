@@ -11,6 +11,10 @@ on:
         description: "Credential check only (read-only API call, no publish)"
         required: false
         default: "false"
+      check_trial:
+        description: "Trial reel check (creates a trial container, never publishes)"
+        required: false
+        default: "false"
   schedule:
     # Runs every hour; publish.js only actually proceeds on the run that
     # lands at 12:00pm Pacific (HOUR_GATE_PACIFIC below), computed with
@@ -49,6 +53,7 @@ jobs:
           IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
           CHECK_CREDENTIALS: ${{ github.event.inputs.check_only == 'true' && '1' || '' }}
+          CHECK_TRIAL: ${{ github.event.inputs.check_trial == 'true' && '1' || '' }}
           HOUR_GATE_PACIFIC: ${{ github.event_name == 'schedule' && '12' || '' }}
         run: node publish/publish.js
 
